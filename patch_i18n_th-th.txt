@@ -4,6 +4,9 @@ TEXT: ขออภัย คุณไม่ผ่าน<a href="https://niantic.
 RESOURCE ID: ambassador_trainer_nameplate
 TEXT: แวะมาเล่น
 
+RESOURCE ID: ancient_temple
+TEXT: Ancient Temple
+
 RESOURCE ID: attack_string_key
 TEXT: ATTACK
 
@@ -63,6 +66,9 @@ TEXT: เสื้อยืด GO Fest 2025
 
 RESOURCE ID: avatar_shirt_volcanion
 TEXT: เสื้อยืดโวลเคเนียน
+
+RESOURCE ID: avatar_shop_filter
+TEXT: ตัวกรอง
 
 RESOURCE ID: avatar_socks
 TEXT: ถุงเท้า & ถุงน่อง
@@ -463,8 +469,17 @@ TEXT: Pokémon GO Fest 2025
 RESOURCE ID: behemoth_bash_adventure_effect_battle_log
 TEXT: พลังป้องกันของคุณได้รับการบูสต์จากเอฟเฟกต์ผจญภัย "โล่ทะลวงยักษ์"
 
+RESOURCE ID: behemoth_bash_adventure_effects_mapview_dialog
+TEXT: Zamazenta's body becomes a firm shiled and protects your Pokémon. Reduces damage taken in Raids and Max Battles.
+
 RESOURCE ID: behemoth_blade_adventure_effect_battle_log
 TEXT: พลังโจมตีของคุณได้รับการบูสต์จากเอฟเฟกต์ผจญภัย "ดาบพิฆาตยักษ์"
+
+RESOURCE ID: behemoth_blade_adventure_effects_mapview_dialog
+TEXT: Zacian wields a large powerful Sword. It strengthens your Pokémon's attacks in Raids and Max Battles.
+
+RESOURCE ID: bonus_cd_move_machop
+TEXT: วิวัฒนาการโกริกีเป็นไคริกีที่รู้ท่าโจมตีชาร์จ "เอาคืน"
 
 RESOURCE ID: bonus_cd_move_pawmi
 TEXT: วิวัฒนาการพาม็อตเป็นเพอร์ม็อตที่รู้ท่าโจมตีชาร์จ "ผ่าอิฐ"
@@ -488,6 +503,147 @@ TEXT: โอกาสในการเผชิญหน้ากับโป�
 
 RESOURCE ID: bonus_premier_ball_catch_rate
 TEXT: Premier Balls have an increased catch rate
+
+RESOURCE ID: bonus_research_today_view
+TEXT: Bonus Timed Research is now available
+
+RESOURCE ID: bonus_rrp_limit_20_raids_max_battle
+TEXT: แบตเทิลแมกซ์และตีบอสระยะไกลได้เพิ่มสูงสุดถึงวันละ 20 ครั้ง
+
+RESOURCE ID: bonus_tr_gbl_euic_2026_a_desc
+TEXT: 2026 Pokémon LAIC Champion: งานวิจัยแบบจำกัดเวลาโบนัส
+
+RESOURCE ID: bonus_tr_gbl_euic_2026_a_title_00
+TEXT: 2026 Pokémon LAIC Champion: งานวิจัยแบบจำกัดเวลาโบนัส (1/2)
+
+RESOURCE ID: bonus_tr_gbl_euic_2026_a_title_01
+TEXT: 2026 Pokémon LAIC Champion: งานวิจัยแบบจำกัดเวลาโบนัส (2/2)
+
+RESOURCE ID: bonus_tr_gbl_euic_2027_a_desc
+TEXT: 2027 Pokémon LAIC Champion: งานวิจัยแบบจำกัดเวลาโบนัส
+
+RESOURCE ID: bonus_tr_gbl_euic_2027_a_title_00
+TEXT: 2027 Pokémon LAIC Champion: งานวิจัยแบบจำกัดเวลาโบนัส (1/2)
+
+RESOURCE ID: bonus_tr_gbl_euic_2027_a_title_01
+TEXT: 2027 Pokémon LAIC Champion: งานวิจัยแบบจำกัดเวลาโบนัส (2/2)
+
+RESOURCE ID: bonus_tr_gbl_euic_2028_a_desc
+TEXT: 2028 Pokémon LAIC Champion: งานวิจัยแบบจำกัดเวลาโบนัส
+
+RESOURCE ID: bonus_tr_gbl_euic_2028_a_title_00
+TEXT: 2028 Pokémon LAIC Champion: งานวิจัยแบบจำกัดเวลาโบนัส (1/2)
+
+RESOURCE ID: bonus_tr_gbl_euic_2028_a_title_01
+TEXT: 2028 Pokémon LAIC Champion: งานวิจัยแบบจำกัดเวลาโบนัส (2/2)
+
+RESOURCE ID: bonus_tr_gbl_euic_2029_a_desc
+TEXT: 2029 Pokémon LAIC Champion: งานวิจัยแบบจำกัดเวลาโบนัส
+
+RESOURCE ID: bonus_tr_gbl_euic_2029_a_title_00
+TEXT: 2029 Pokémon LAIC Champion: งานวิจัยแบบจำกัดเวลาโบนัส (1/2)
+
+RESOURCE ID: bonus_tr_gbl_euic_2029_a_title_01
+TEXT: 2029 Pokémon LAIC Champion: งานวิจัยแบบจำกัดเวลาโบนัส (2/2)
+
+RESOURCE ID: bonus_tr_gbl_euic_2030_a_desc
+TEXT: 2030 Pokémon LAIC Champion: งานวิจัยแบบจำกัดเวลาโบนัส
+
+RESOURCE ID: bonus_tr_gbl_euic_2030_a_title_00
+TEXT: 2030 Pokémon LAIC Champion: งานวิจัยแบบจำกัดเวลาโบนัส (1/2)
+
+RESOURCE ID: bonus_tr_gbl_euic_2030_a_title_01
+TEXT: 2030 Pokémon LAIC Champion: งานวิจัยแบบจำกัดเวลาโบนัส (2/2)
+
+RESOURCE ID: bonus_tr_gbl_laic_2026_a_desc
+TEXT: 2025 Pokémon NAIC Champion: งานวิจัยแบบจำกัดเวลาโบนัส
+
+RESOURCE ID: bonus_tr_gbl_laic_2026_a_title_00
+TEXT: 2025 Pokémon NAIC Champion: งานวิจัยแบบจำกัดเวลาโบนัส (1/2)
+
+RESOURCE ID: bonus_tr_gbl_laic_2026_a_title_01
+TEXT: 2025 Pokémon NAIC Champion: งานวิจัยแบบจำกัดเวลาโบนัส (2/2)
+
+RESOURCE ID: bonus_tr_gbl_laic_2027_a_desc
+TEXT: 2026 Pokémon NAIC Champion: งานวิจัยแบบจำกัดเวลาโบนัส
+
+RESOURCE ID: bonus_tr_gbl_laic_2027_a_title_00
+TEXT: 2026 Pokémon NAIC Champion: งานวิจัยแบบจำกัดเวลาโบนัส (1/2)
+
+RESOURCE ID: bonus_tr_gbl_laic_2027_a_title_01
+TEXT: 2026 Pokémon NAIC Champion: งานวิจัยแบบจำกัดเวลาโบนัส (2/2)
+
+RESOURCE ID: bonus_tr_gbl_laic_2028_a_desc
+TEXT: 2027 Pokémon NAIC Champion: งานวิจัยแบบจำกัดเวลาโบนัส
+
+RESOURCE ID: bonus_tr_gbl_laic_2028_a_title_00
+TEXT: 2027 Pokémon NAIC Champion: งานวิจัยแบบจำกัดเวลาโบนัส (1/2)
+
+RESOURCE ID: bonus_tr_gbl_laic_2028_a_title_01
+TEXT: 2027 Pokémon NAIC Champion: งานวิจัยแบบจำกัดเวลาโบนัส (2/2)
+
+RESOURCE ID: bonus_tr_gbl_laic_2029_a_desc
+TEXT: 2028 Pokémon NAIC Champion: งานวิจัยแบบจำกัดเวลาโบนัส
+
+RESOURCE ID: bonus_tr_gbl_laic_2029_a_title_00
+TEXT: 2028 Pokémon NAIC Champion: งานวิจัยแบบจำกัดเวลาโบนัส (1/2)
+
+RESOURCE ID: bonus_tr_gbl_laic_2029_a_title_01
+TEXT: 2028 Pokémon NAIC Champion: งานวิจัยแบบจำกัดเวลาโบนัส (2/2)
+
+RESOURCE ID: bonus_tr_gbl_laic_2030_a_desc
+TEXT: 2029 Pokémon NAIC Champion: งานวิจัยแบบจำกัดเวลาโบนัส
+
+RESOURCE ID: bonus_tr_gbl_laic_2030_a_title_00
+TEXT: 2029 Pokémon NAIC Champion: งานวิจัยแบบจำกัดเวลาโบนัส (1/2)
+
+RESOURCE ID: bonus_tr_gbl_laic_2030_a_title_01
+TEXT: 2029 Pokémon NAIC Champion: งานวิจัยแบบจำกัดเวลาโบนัส (2/2)
+
+RESOURCE ID: bonus_tr_gbl_naic_2026_a_desc
+TEXT: 2026 Pokémon EUIC Champion: งานวิจัยแบบจำกัดเวลาโบนัส
+
+RESOURCE ID: bonus_tr_gbl_naic_2026_a_title_00
+TEXT: 2026 Pokémon EUIC Champion: งานวิจัยแบบจำกัดเวลาโบนัส (1/2)
+
+RESOURCE ID: bonus_tr_gbl_naic_2026_a_title_01
+TEXT: 2026 Pokémon EUIC Champion: งานวิจัยแบบจำกัดเวลาโบนัส (2/2)
+
+RESOURCE ID: bonus_tr_gbl_naic_2027_a_desc
+TEXT: 2027 Pokémon EUIC Champion: งานวิจัยแบบจำกัดเวลาโบนัส
+
+RESOURCE ID: bonus_tr_gbl_naic_2027_a_title_00
+TEXT: 2027 Pokémon EUIC Champion: งานวิจัยแบบจำกัดเวลาโบนัส (1/2)
+
+RESOURCE ID: bonus_tr_gbl_naic_2027_a_title_01
+TEXT: 2027 Pokémon EUIC Champion: งานวิจัยแบบจำกัดเวลาโบนัส (2/2)
+
+RESOURCE ID: bonus_tr_gbl_naic_2028_a_desc
+TEXT: 2028 Pokémon EUIC Champion: งานวิจัยแบบจำกัดเวลาโบนัส
+
+RESOURCE ID: bonus_tr_gbl_naic_2028_a_title_00
+TEXT: 2028 Pokémon EUIC Champion: งานวิจัยแบบจำกัดเวลาโบนัส (1/2)
+
+RESOURCE ID: bonus_tr_gbl_naic_2028_a_title_01
+TEXT: 2028 Pokémon EUIC Champion: งานวิจัยแบบจำกัดเวลาโบนัส (2/2)
+
+RESOURCE ID: bonus_tr_gbl_naic_2029_a_desc
+TEXT: 2029 Pokémon EUIC Champion: งานวิจัยแบบจำกัดเวลาโบนัส
+
+RESOURCE ID: bonus_tr_gbl_naic_2029_a_title_00
+TEXT: 2029 Pokémon EUIC Champion: งานวิจัยแบบจำกัดเวลาโบนัส (1/2)
+
+RESOURCE ID: bonus_tr_gbl_naic_2029_a_title_01
+TEXT: 2029 Pokémon EUIC Champion: งานวิจัยแบบจำกัดเวลาโบนัส (2/2)
+
+RESOURCE ID: bonus_tr_gbl_naic_2030_a_desc
+TEXT: 2030 Pokémon EUIC Champion: งานวิจัยแบบจำกัดเวลาโบนัส
+
+RESOURCE ID: bonus_tr_gbl_naic_2030_a_title_00
+TEXT: 2030 Pokémon EUIC Champion: งานวิจัยแบบจำกัดเวลาโบนัส (1/2)
+
+RESOURCE ID: bonus_tr_gbl_naic_2030_a_title_01
+TEXT: 2030 Pokémon EUIC Champion: งานวิจัยแบบจำกัดเวลาโบนัส (2/2)
 
 RESOURCE ID: bread_battle_bread_countdown_special
 TEXT: {0}...
@@ -544,6 +700,12 @@ TEXT: แบตเทิลแมกซ์ระยะไกล
 RESOURCE ID: bread_station_tutorial_title_7
 TEXT: โบนัสเข้าร่วมในพื้นที่
 
+RESOURCE ID: calming_teahouse
+TEXT: Calming Teahouse
+
+RESOURCE ID: carnival_grounds
+TEXT: Carnival Grounds
+
 RESOURCE ID: catch_stardust_1.5x
 TEXT: 1.5× สตาร์ดัสต์จากการจับ
 
@@ -582,6 +744,9 @@ TEXT: งานวิจัยแบบจำกัดเวลาเวทม�
 
 RESOURCE ID: childrens_day_2025_tr_name_2
 TEXT: งานวิจัยแบบจำกัดเวลาเวทมนตร์วันเด็ก (2/2)
+
+RESOURCE ID: community_day_machop_event_name_cdc
+TEXT: คอมมิวนิตี้เดย์ (รีเทิร์น): วันริกี
 
 RESOURCE ID: community_day_pawmi_event_name
 TEXT: คอมมิวนิตี้เดย์: พาโม
@@ -667,9 +832,15 @@ TEXT: วันที่ 11 พฤษภาคม 2025 เวลา 14:00-17:00 
 RESOURCE ID: event_datetime_range_key_cd_vanillite25
 TEXT: วันที่ 27 เมษายน 2025 เวลา 14:00-17:00 น.
 
+RESOURCE ID: event_datetime_range_key_cdc_machop25
+TEXT: วันที่ 24 พฤษภาคม 2025 เวลา 14:00-17:00 น.
+
 RESOURCE ID: event_datetime_range_key_crown_clash_tgr
 TEXT: 14 พฤษภาคม 00:00 น. ถึง
 18 พฤษภาคม 23:59 น.
+
+RESOURCE ID: event_datetime_range_key_gmaxmachamp25
+TEXT: วันที่ 25 พฤษภาคม 2025 เวลา 14:00-17:00 น.
 
 RESOURCE ID: event_datetime_range_key_growingup0525
 TEXT: 2 พฤษภาคม 10:00 น. ถึง
@@ -681,6 +852,9 @@ TEXT: วันที่ 3 พฤษภาคม 2025 เวลา 14:00-17:00 �
 RESOURCE ID: event_datetime_range_key_shadowregigigasraidday
 TEXT: วันที่ 17 พฤษภาคม 2025 เวลา 14:00-17:00 น.
 
+RESOURCE ID: event_name_gofest_2025
+TEXT: Pokémon GO Fest 2025
+
 RESOURCE ID: event_name_gofest_2025_all_day
 TEXT: Pokémon GO Fest 2025 - ทั้งวัน
 
@@ -689,6 +863,9 @@ TEXT: Pokémon GO Fest 2025 - กำลังจัดอีเวนต์
 
 RESOURCE ID: event_name_gofest_2025_hatch
 TEXT: Pokémon GO Fest 2025 - ฟักไข่ไม่หยุด
+
+RESOURCE ID: event_name_gofest_2025_leadup
+TEXT: Ancients Recovered
 
 RESOURCE ID: event_name_gofest_2025_raid
 TEXT: Pokémon GO Fest 2025 - ผู้หลงใหลการตีบอส
@@ -716,6 +893,9 @@ TEXT: Earn additional rewards and unlock a Gold Bottle Cap at Rank 80!
 
 RESOURCE ID: event_pass_premium_reward_banner_bottom_text_50
 TEXT: ได้รับเมื่อถึงระดับ 50
+
+RESOURCE ID: fae_swamp
+TEXT: Fae Swamp
 
 RESOURCE ID: filter_key_hyper_training
 TEXT: hypertraining
@@ -747,6 +927,9 @@ TEXT: ผู้กล้าศึกแห่งตำนาน
 RESOURCE ID: friend_is_at_a_max_battle
 TEXT: กำลังเข้าร่วมแบตเทิล{0}
 
+RESOURCE ID: galvanic_dojo
+TEXT: Galvanic Dojo
+
 RESOURCE ID: general1.ticket._shadowregigigasraidday_title
 TEXT: ตั๋ววันตีบอสชาโดว์เรจิกิกัส
 
@@ -756,8 +939,14 @@ TEXT: ตั๋วพาโมคอมมิวนิตี้เดย์
 RESOURCE ID: general1.ticket_cd_vanillite25_title
 TEXT: ตั๋ววานิเพ็ตติคอมมิวนิตี้เดย์
 
+RESOURCE ID: general1.ticket_cdc_machop25_title
+TEXT: ตั๋ว "วันริกีคอมมิวนิตี้เดย์ (รีเทิร์น)"
+
 RESOURCE ID: general2.ticket.5_megakangaskhanraidday_title
 TEXT: ตั๋ว "วันตีบอสเมก้าการูรา"
+
+RESOURCE ID: general2.ticket.9_gmaxmachamp25_title
+TEXT: ตั๋ว "วันแบตเทิลแมกซ์ไคริกีกิกะแมกซ์"
 
 RESOURCE ID: general2.ticket.9_growingup0525_title
 TEXT: ตั๋วงานวิจัยแบบจำกัดเวลาพรีเมียม: เติบโตแข็งแรง
@@ -766,13 +955,19 @@ RESOURCE ID: general2.ticket._crown_clash_tgr
 TEXT: ตั๋วงานวิจัยแบบจำกัดเวลาพรีเมียมศึกราชวงศ์: ยึดครอง
 
 RESOURCE ID: general_settings_allow_stamp_from_gifts
-TEXT:  
+TEXT: 
 
 RESOURCE ID: global_challenge_complete
 TEXT: คำท้าภูมิภาคเสร็จสิ้น
 
 RESOURCE ID: global_challenge_complete_temp_out
 TEXT: คำท้าสำหรับทั่วโลกเสร็จสิ้น
+
+RESOURCE ID: gmax_machamp_lead_up_timed_research
+TEXT: งานวิจัยแบบจำกัดเวลาเตรียมตัวสู่ "วันแบตเทิลแมกซ์ไคริกีกิกะแมกซ์"
+
+RESOURCE ID: gmax_machamp_max_battles
+TEXT: ไคริกีกิกะแมกซ์ปรากฏตัวในแบตเทิลแมกซ์
 
 RESOURCE ID: go_fest_2025_irl_ancient_temple_00_00
 TEXT: Isn’t this mystical site something, %PLAYERNAME%? These ruins abound with mysteries AND Pokémon.
@@ -850,25 +1045,25 @@ RESOURCE ID: go_fest_2025_irl_sr_city_00_04_branch
 TEXT: Which of the two piques your interest?
 
 RESOURCE ID: go_fest_2025_irl_sr_city_01_00_shield
-TEXT: Right, let's go on the defensive! Let me recall my notes on Zamazenta..
+TEXT: A steadfast approach! You’re right—now’s the time to build our defenses! Let me see what notes I have on Zamazenta...
 
 RESOURCE ID: go_fest_2025_irl_sr_city_01_00_sword
 TEXT: A bold approach. You’re right—now’s the time to strike! Let me see what notes I have on Zacian...
 
 RESOURCE ID: go_fest_2025_irl_sr_city_01_01_shield
-TEXT: In times past, Zamazenta worked together with a king of the people to save the Galar region.
+TEXT: Ah, here we go. In times past, Zamazenta worked together with a king of the people to save the Galar region.
 
 RESOURCE ID: go_fest_2025_irl_sr_city_01_01_sword
 TEXT: Here we are. Known as a legendary hero, this Pokémon absorbs metal particles, transforming them into a weapon it uses to battle.
 
 RESOURCE ID: go_fest_2025_irl_sr_city_01_02_shield
-TEXT: A noble feat! From what, I wonder? Perhaps a question for another day.
+TEXT: Such a noble feat! But save the Galar region from what, I wonder? Maybe a question for another day.
 
 RESOURCE ID: go_fest_2025_irl_sr_city_01_02_sword
 TEXT: Very impressive. I wonder if Zacian could teach my Meltan how to do that.
 
 RESOURCE ID: go_fest_2025_irl_sr_city_01_03_shield
-TEXT: Let's work on finding Zamazenta first. Take a look around and let me know what you find!
+TEXT: For now, let’s work on finding Zamazenta. Scout the area and let me know what you learn!
 
 RESOURCE ID: go_fest_2025_irl_sr_city_01_03_sword
 TEXT: But I’m jumping ahead of myself! Let’s find Zacian first. If we split up to search, we can go twice as fast. See you in a bit!
@@ -880,79 +1075,79 @@ RESOURCE ID: go_fest_2025_irl_sr_city_02_00_sword
 TEXT: There you are, %PLAYERNAME%! No Zacian sightings for me, though I did find some new information.
 
 RESOURCE ID: go_fest_2025_irl_sr_city_02_01_shield
-TEXT: This Pokémon slept for aeons while in the form of a statue. It was asleep for so long people forgot that it ever existed.
+TEXT: According to legends, this Pokémon slept for aeons in statue form. It slept for so long, people forgot it ever existed!
 
 RESOURCE ID: go_fest_2025_irl_sr_city_02_01_sword
 TEXT: Supposedly, Zacian slumbered for many years. Some say it’s Zamazenta’s elder sister, but others say the two are rivals. What do you think?
 
 RESOURCE ID: go_fest_2025_irl_sr_city_02_02_shield
-TEXT: Well, I can relate. I like a restorative afternoon nap myself. And if you ask Meltan, it would probably tell you I sleep like a statue.
+TEXT: I can sure relate—I like a good, long nap myself! And if you asked, Meltan would probably tell you I sleep like a statue, too.
 
 RESOURCE ID: go_fest_2025_irl_sr_city_02_02_sword
 TEXT: Well, who’s to say they can’t be both? Haha!
 
 RESOURCE ID: go_fest_2025_irl_sr_city_02_03_shield
-TEXT: Anyway, Zamazenta won't be forgotten for much longer. I've got a good feeling!
+TEXT: Anyway, I’ve got a good feeling that Zamazenta won't be forgotten for much longer!
 
 RESOURCE ID: go_fest_2025_irl_sr_city_02_03_sword
 TEXT: Either way, nobody finds anything without looking. Chaaaaarge!
 
 RESOURCE ID: go_fest_2025_irl_sr_city_03_00_shield
-TEXT: Splendid, you've found Zamazenta! It is certainly a sight to behold.
+TEXT: Splendid, you’ve found Zamazenta! It sure is a sight to behold.
 
 RESOURCE ID: go_fest_2025_irl_sr_city_03_00_sword
 TEXT: Magnificent! You’ve found Zacian! Goodness, it truly “steels” the show.
 
 RESOURCE ID: go_fest_2025_irl_sr_city_03_01_shield
-TEXT: Can you believe it has another impressive form as well? With its shield Zamazenta transforms into its Crowned Shield Form.
+TEXT: Would you believe it has another impressive form as well? When armed with its shield, Zamazenta transforms into its Crowned Shield form.
 
 RESOURCE ID: go_fest_2025_irl_sr_city_03_01_sword
 TEXT: Can you believe it has another impressive form as well? When armed with the weapon it used in ancient times, Zacian transforms into its Crowned Sword form.
 
 RESOURCE ID: go_fest_2025_irl_sr_city_03_02_shield
-TEXT: In this form it can shrug off impressive blows, including the attacks of Dynamax Pokémon.
+TEXT: I’ve heard that in that form it can shrug off mighty blows, including Dynamax Pokémon attacks!
 
 RESOURCE ID: go_fest_2025_irl_sr_city_03_02_sword
 TEXT: I’ve heard that in that form, it can fell even Gigantamax Pokémon with a single strike. I don’t know if I believe that!
 
 RESOURCE ID: go_fest_2025_irl_sr_city_03_03_shield
-TEXT: I'm sure such incredible defensive power will give you a solid advantage in a Max Battle soon!
+TEXT: I’m sure such incredible defensive power will give you a solid advantage in your next Max Battle!
 
 RESOURCE ID: go_fest_2025_irl_sr_city_03_03_sword
 TEXT: But either way, I’m sure such incredible power will give you the edge in your next Max Battle!
 
 RESOURCE ID: go_fest_2025_irl_sr_city_04_00_shield
-TEXT: %PLAYERNAME%! I've been thinking about Zamazenta and its Crowned Shield Form.
+TEXT: %PLAYERNAME%! I’ve been learning more about Zamazenta and its Crowned Shield form.
 
 RESOURCE ID: go_fest_2025_irl_sr_city_04_00_sword
 TEXT: %PLAYERNAME%! I’ve been learning more about Zacian and its Crowned Sword form.
 
 RESOURCE ID: go_fest_2025_irl_sr_city_04_01_shield
-TEXT: Its ability to deflect any attack led to it being known as the Fighting Master's Shield.
+TEXT: According to my research, its ability to deflect any attack led to it being known as the Fighting Master’s Shield.
 
 RESOURCE ID: go_fest_2025_irl_sr_city_04_01_sword
 TEXT: According to my research, it became known as the Fairy King’s Sword, inspiring awe in friend and foe alike.
 
 RESOURCE ID: go_fest_2025_irl_sr_city_04_02_shield
-TEXT: I'd be keen to observe it in a Max Battle, if you're up for it.
+TEXT: Sounds formidable! I’m keen to observe it in a Max Battle, if you’re up for it.
 
 RESOURCE ID: go_fest_2025_irl_sr_city_04_02_sword
 TEXT: I’m not sure I understand the first part, but the second seems true enough! I’m keen to observe it in a Max Battle, if you’re up for it.
 
 RESOURCE ID: go_fest_2025_irl_sr_city_04_03_shield
-TEXT: That's the spirit! Ready when you are!
+TEXT: That’s the spirit! Ready when you are!
 
 RESOURCE ID: go_fest_2025_irl_sr_city_04_03_sword
 TEXT: That’s the spirit! Ready when you are!
 
 RESOURCE ID: go_fest_2025_irl_sr_city_05_00_shield
-TEXT: Phenomenal work! What an honor to observe such a riveting Max Battle with your Crowned Shield Zamazenta.
+TEXT: Phenomenal work! What an honor to observe your Crowned Shield Zamazenta in such a riveting Max Battle.
 
 RESOURCE ID: go_fest_2025_irl_sr_city_05_00_sword
 TEXT: Just phenomenal! What an honor to witness your Crowned Sword Zacian in such a riveting Max Battle.
 
 RESOURCE ID: go_fest_2025_irl_sr_city_05_01_shield
-TEXT: I've never seen such an incredible display of defensive skill. You two can certainly hold your own against Dynamax Pokémon.
+TEXT: I’ve never seen such an incredible display of defensive skill. You two can certainly hold your own against Dynamax Pokémon.
 
 RESOURCE ID: go_fest_2025_irl_sr_city_05_01_sword
 TEXT: I feel empowered! I feel...RARGH!!! …Ahem. Maybe I’ll leave the battle cries to the Pokémon.
@@ -1299,6 +1494,12 @@ TEXT: I'm getting fired up just thinking about it! Follow my training plan, and 
 RESOURCE ID: hyper_training_candela_use_dialogue_4_fail
 TEXT: You can begin once you're Good Buddies with your Pokémon. I can't wait to get started!
 
+RESOURCE ID: hyper_training_completed_key
+TEXT: Hyper Training Complete!
+
+RESOURCE ID: hyper_training_expired_key
+TEXT: Hyper Training Has Ended
+
 RESOURCE ID: hyper_training_last_trained_on
 TEXT: Last trained on {0}
 
@@ -1380,6 +1581,9 @@ TEXT: In life AND in Hyper Training, the path you take depends on your goals! Le
 RESOURCE ID: hyper_training_willow_use_dialogue_4_fail
 TEXT: Adventure more with {0} until you're Good Buddies, and then training can begin!
 
+RESOURCE ID: hypnotic_tundra
+TEXT: Hypnotic Tundra
+
 RESOURCE ID: increased_xl_candy_chance_evolve_bonus
 TEXT: การันตีลูกอม XL 1 เม็ด จากการวิวัฒนาการโปเกมอน
 
@@ -1409,6 +1613,11 @@ TEXT: ตั๋วสำหรับเข้าร่วมงานวิจ�
 คุณจะสามารถเข้าร่วมได้โดยอัตโนมัติ
 ตามเวลาท้องถิ่นทั่วโลก
 
+RESOURCE ID: item_event_ticket_gray_desc_gmaxmachamp25
+TEXT: ตั๋วสำหรับรับโบนัสพิเศษในวันที่
+25 พฤษภาคม 2025 เวลา 14:00-17:00 น.
+ตามเวลาท้องถิ่นทั่วโลก
+
 RESOURCE ID: item_event_ticket_gray_desc_megakangaskhanraidday
 TEXT: ตั๋วสำหรับรับโบนัสพิเศษในวันที่
 3 พฤษภาคม 2025 เวลา 14:00-17:00 น.
@@ -1417,6 +1626,12 @@ TEXT: ตั๋วสำหรับรับโบนัสพิเศษใ�
 RESOURCE ID: item_event_ticket_gray_desc_shadowregigigasraidday
 TEXT: ตั๋วสำหรับรับโบนัสพิเศษในวันที่
 17 พฤษภาคม 2025 เวลา 14:00-17:00 น.
+ตามเวลาท้องถิ่นทั่วโลก
+
+RESOURCE ID: item_event_ticket_gray_details_gmaxmachamp25
+TEXT: ตั๋วสำหรับรับโบนัสพิเศษ
+ในวันที่ 25 พฤษภาคม
+คุณจะสามารถเข้าร่วมได้โดยอัตโนมัติ
 ตามเวลาท้องถิ่นทั่วโลก
 
 RESOURCE ID: item_event_ticket_gray_details_megakangaskhanraidday
@@ -1443,6 +1658,12 @@ TEXT: ตั๋วสำหรับเข้าร่วมงานวิจ�
 ในวันที่ 27 เมษายน 2025 14:00 น.
 ตามเวลาท้องถิ่นทั่วโลก
 
+RESOURCE ID: item_event_ticket_pink_desc_cdc_machop25
+TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยพิเศษ
+วันริกีคอมมิวนิตี้เดย์ (รีเทิร์น)
+ในวันที่ 24 พฤษภาคม 2025 14:00 น.
+ตามเวลาท้องถิ่นทั่วโลก
+
 RESOURCE ID: item_event_ticket_pink_details_cd_pawmi25
 TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยพิเศษ
 คอมมิวนิตี้เดย์ "พาโมกับคุณ"
@@ -1453,6 +1674,13 @@ TEXT: ตั๋วสำหรับเข้าร่วมงานวิจ�
 RESOURCE ID: item_event_ticket_pink_details_cd_vanillite25
 TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยพิเศษ "คอมมิวนิตี้ซันเดย์: วานิเพ็ตติ"
 ในวันที่ 27 เมษายน
+คุณจะสามารถเข้าร่วมได้โดยอัตโนมัติ
+ตามเวลาท้องถิ่นทั่วโลก
+
+RESOURCE ID: item_event_ticket_pink_details_cdc_machop25
+TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยพิเศษ
+วันริกีคอมมิวนิตี้เดย์ (รีเทิร์น)
+ในวันที่ 24 พฤษภาคม
 คุณจะสามารถเข้าร่วมได้โดยอัตโนมัติ
 ตามเวลาท้องถิ่นทั่วโลก
 
@@ -1543,20 +1771,41 @@ TEXT: งานวิจัยแบบจำกัดเวลาบทเร�
 RESOURCE ID: lure_duration_2_hr
 TEXT: 2-hour Lure Module duration
 
+RESOURCE ID: lure_module_party_pokemon
+TEXT: Special costumed Pokémon are attracted to lures
+
+RESOURCE ID: lure_module_unown
+TEXT: Unown are attracted to lures
+
+RESOURCE ID: machamp_gmax_tr_2025_title
+TEXT: งานวิจัยแบบจำกัดเวลาพรีเมียม: ไคริกีกิกะแมกซ์
+
+RESOURCE ID: max_battle_day_gigantamax_machamp_event_name
+TEXT: วันแบตเทิลแมกซ์ไคริกีกิกะแมกซ์
+
+RESOURCE ID: max_battle_day_gigantamax_machamp_ticketed
+TEXT: โบนัสตั๋ว "วันแบตเทิลแมกซ์ไคริกีกิกะแมกซ์"
+
 RESOURCE ID: max_battle_day_gigantamax_snorlax_special_event_name
 TEXT: อีเวนต์แบตเทิลแมกซ์พิเศษคาบิกอนกิกะแมกซ์
 
 RESOURCE ID: max_battle_day_gigantamax_snorlax_special_ticketed
 TEXT: โบนัสตั๋ว "อีเวนต์แบตเทิลแมกซ์พิเศษคาบิกอนกิกะแมกซ์"
 
+RESOURCE ID: mechanical_marvels
+TEXT: Mechanical Marvels
+
 RESOURCE ID: mega_kangaskhan_tr_may_2025_title
 TEXT: งานวิจัยแบบจำกัดเวลาวันตีบอสเมก้าการูรา
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2025-05-07T21:12:31.874054+00:00 for th-TH
-at SHA fbdd9d7ca5f
-Pipeline 3192191, job 40604780
-Patch from: 0.359.0-SHA-646af5e1-RC3, 0.361.0-SHA-01d43987-RC4
+TEXT: Built at 2025-05-09T00:44:36.729090+00:00 for th-TH
+at SHA c982eb7456b
+Pipeline 3194578, job 40683651
+Patch from: 0.359.0-SHA-0d956980-RC5, 0.361.0-SHA-7a383ef7-RC2
+
+RESOURCE ID: moonless_volcano
+TEXT: Moonless Volcano
 
 RESOURCE ID: move_name_0469
 TEXT: ดาบพิฆาตยักษ์
@@ -1613,6 +1862,12 @@ TEXT: เข้าร่วมแบตเทิลตีบอสที่ก�
 RESOURCE ID: next
 TEXT: Next
 
+RESOURCE ID: no_farther_stats_improvement
+TEXT: You will not be able to improve {0}’s stats any further.
+
+RESOURCE ID: noble_fields
+TEXT: Noble Fields
+
 RESOURCE ID: notification_candy_found_plural
 TEXT: พบลูกอม{1} {0}เม็ด!
 
@@ -1636,7 +1891,7 @@ RESOURCE ID: pokemon_hypertrained_transfer_to_professor_confirmation
 TEXT: Do you really want to transfer this Pokémon that has undergone Hyper Training?
 
 RESOURCE ID: pokemon_info_caught_breadbattle_remote
-TEXT: Remotely caught at a Max Battle
+TEXT: REMOTELY CAUGHT AT A MAX BATTLE
 
 RESOURCE ID: pokemon_info_evolve_need_bread_move
 TEXT: ต้องมี "{0}" เลเวล {1}
@@ -1659,11 +1914,20 @@ TEXT: โปเกคอยน์
 RESOURCE ID: pokemon_info_powerspot_warning
 TEXT: {0} will no longer be able to battle at Power Spots.
 
+RESOURCE ID: pokemon_info_powerup_is_shadow
+TEXT: Shadow Pokémon cannot receive Hyper Training.
+
+RESOURCE ID: pokemon_info_powerup_ivs_max
+TEXT: This Pokémon cannot be trained any further.
+
 RESOURCE ID: pokemon_species_form_0888_2576
 TEXT: ซาเชียน (ราชาแห่งดาบ)
 
 RESOURCE ID: pokemon_species_form_0889_2578
 TEXT: ซามาเซนตา (ราชาแห่งโล่)
+
+RESOURCE ID: purchase_on_web_store_string_key
+TEXT: Buy on Web
 
 RESOURCE ID: quest_change_form_zacian
 TEXT: เปลี่ยนร่างซาเชียน
@@ -1673,6 +1937,12 @@ TEXT: เปลี่ยนร่างซามาเซนตา
 
 RESOURCE ID: quest_defeat_dark_or_steel_type_raid
 TEXT: เอาชนะบอสโปเกมอนประเภทความมืดหรือโลหะ {0} ตัว
+
+RESOURCE ID: quest_defeat_dark_type_raid_and_max_battle
+TEXT: เอาชนะโปเกมอนประเภทความมืด {0} ตัว ในตีบอสหรือแบตเทิลแมกซ์
+
+RESOURCE ID: quest_defeat_water_type_raid_and_max_battle
+TEXT: เอาชนะโปเกมอนประเภทน้ำ {0} ตัว ในตีบอสหรือแบตเทิลแมกซ์
 
 RESOURCE ID: quest_gofest2025_live_spin_city_jerseycity
 TEXT: หมุนเสาโปเกสต็อปหรือยิม {0} แห่ง
@@ -1740,8 +2010,14 @@ TEXT: ถ่ายภาพจาราโคของคุณในถิ่�
 RESOURCE ID: quest_gofest2025_live_spin_snapshot_treasure
 TEXT: ถ่ายภาพเคโคโอของคุณในถิ่นที่อยู่ "สมบัติก้นทะเล"
 
+RESOURCE ID: quest_machop_catch_b
+TEXT: จับวันริกี {0} ตัว
+
 RESOURCE ID: quest_pawmi_catch_b
 TEXT: จับพาโม {0} ตัว
+
+RESOURCE ID: quest_power_up_beldum_plural
+TEXT: พาวเวอร์อัปดันบัล {0} ครั้ง
 
 RESOURCE ID: quest_snapshots_your_fire_plural
 TEXT: ถ่ายภาพโปเกมอนประเภทไฟของคุณ {0} ภาพ
@@ -1754,6 +2030,18 @@ TEXT: หมุนเสาโปเกสต็อปในลาตินอ�
 
 RESOURCE ID: quest_spin_latam_singular
 TEXT: หมุนเสาโปเกสต็อปในลาตินอเมริกา
+
+RESOURCE ID: quest_title_machop
+TEXT: คอมมิวนิตี้เดย์ (รีเทิร์น): วันริกี
+
+RESOURCE ID: quest_title_machop_0
+TEXT: คอมมิวนิตี้เดย์ (รีเทิร์น): วันริกี (1/3)
+
+RESOURCE ID: quest_title_machop_1
+TEXT: คอมมิวนิตี้เดย์ (รีเทิร์น): วันริกี (2/3)
+
+RESOURCE ID: quest_title_machop_2
+TEXT: คอมมิวนิตี้เดย์ (รีเทิร์น): วันริกี (3/3)
 
 RESOURCE ID: quest_title_pawmi
 TEXT: พาโมกับคุณ
@@ -1788,11 +2076,17 @@ TEXT: Battle in the GO Battle League with your trainee in your battle party
 RESOURCE ID: quest_trainee_battle_gbl_win_plural
 TEXT: Win {0} Trainer Battles in the GO Battle League with your trainee in your battle party
 
+RESOURCE ID: quest_trainee_battle_great_win_plural
+TEXT: Win {0} Trainer Battles in the Great League with your trainee as your buddy
+
 RESOURCE ID: quest_trainee_battle_gym_plural
 TEXT: Battle in a Gym {0} times with your trainee in your battle party
 
 RESOURCE ID: quest_trainee_battle_gym_singular
 TEXT: Battle in a Gym with your trainee in your battle party
+
+RESOURCE ID: quest_trainee_battle_master_win_plural
+TEXT: Win {0} Trainer Battles in the Master League with your trainee as your buddy
 
 RESOURCE ID: quest_trainee_battle_plural
 TEXT: Battle with your trainee in your battle party {0} times
@@ -1814,6 +2108,9 @@ TEXT: Battle a Team GO Rocket member with your trainee in your battle party
 
 RESOURCE ID: quest_trainee_battle_trainer_or_team_leader_singular
 TEXT: Battle another Trainer or team leader with your trainee in your battle party
+
+RESOURCE ID: quest_trainee_battle_ultra_win_plural
+TEXT: Win {0} Trainer Battles in the Ultra League with your trainee as your buddy
 
 RESOURCE ID: quest_trainee_buddy_play_days_plural
 TEXT: Play with your trainee as your buddy on {0} different days
@@ -2042,10 +2339,34 @@ RESOURCE ID: settings_share_raid_and_max_battle_attendance
 TEXT: Share Raid and Max Battle Attendance with Friends
 
 RESOURCE ID: settings_share_raid_and_max_battle_attendance_tip
-TEXT: By sharing, friends will be able to join a raid or Max Battle you're in directly from their Friend List.
+TEXT: By sharing, friends will be able to join a raid or Max Battle you’re in directly from their Friend List.
 
 RESOURCE ID: shadow_raid_stat_variance_bonus
 TEXT: พลังโจมตี พลังป้องกัน และ HP ของโปเกมอนที่จับจากตีบอสชาโดว์หนึ่งดาวและสามดาวจะหลากหลายยิ่งขึ้น
+
+RESOURCE ID: short_bonus_daily_raid_pass_plus_one
+TEXT: +1 Daily Raid Pass
+
+RESOURCE ID: short_bonus_go_tour_2023_add_on_raid_02
+TEXT: +5000 Raid XP
+
+RESOURCE ID: short_bonus_raid_1_xl_candy
+TEXT: +1 Raid XL Candy
+
+RESOURCE ID: short_bonus_raid_3_candy
+TEXT: 3 Raid Candy
+
+RESOURCE ID: short_hatch_candy_double
+TEXT: 2x Hatch Candy
+
+RESOURCE ID: short_hatch_stardust_double
+TEXT: 2x Hatch Stardust
+
+RESOURCE ID: short_hatch_xp_double
+TEXT: 2x Hatch XP
+
+RESOURCE ID: short_incubator_distance_half
+TEXT: 1/2 Hatch Distance
 
 RESOURCE ID: single_stat_increase_ftue_body
 TEXT: Enables a year-long Hyper Training course where you can fully raise one of a Pokémon’s stats.
@@ -2055,6 +2376,9 @@ TEXT: You got a Silver Bottle Cap!
 
 RESOURCE ID: snorlax_gmax_special_tr_2025_title
 TEXT: งานวิจัยแบบจำกัดเวลาอีเวนต์แบตเทิลแมกซ์พิเศษคาบิกอนกิกะแมกซ์
+
+RESOURCE ID: spawn_machop
+TEXT: วันริกีปรากฏตัวออกมามากขึ้น!
 
 RESOURCE ID: spawn_pawmi
 TEXT: พาโมปรากฏตัวออกมามากขึ้น!
@@ -2311,6 +2635,12 @@ TEXT: กดค้างเพื่อปั๊มแสตมป์
 RESOURCE ID: stamp_rally_finished_on
 TEXT: สิ้นสุดเมื่อ: {0}
 
+RESOURCE ID: stamp_tutorial_page_2_description
+TEXT: หากคุณเริ่มเล่นแสตมป์แรลลีแล้ว ไอคอนแสตมป์จะปรากฏในเมนูด้านขวาของหน้าจอ แตะที่ไอคอนนี้เพื่อตรวจสอบความคืบหน้า
+
+RESOURCE ID: stamp_tutorial_page_2_header
+TEXT: ตรวจสอบความคืบหน้าแสตมป์แรลลี
+
 RESOURCE ID: start_training
 TEXT: Start Training
 
@@ -2322,6 +2652,31 @@ TEXT: {0}’s stats increased!
 
 RESOURCE ID: stats_increased_string_key_singular
 TEXT: {0}’s stat increased!
+
+RESOURCE ID: story_mightandmastery_4_0
+TEXT: หืม เธอกับดาคุมะมีอะไรบางอย่างแปลกไป
+%PLAYERNAME% ฉันสัมผัสได้ถึงพลัง
+และความมั่นใจที่ไม่เคยมีมาก่อน
+แผ่ออกมาจากพวกเธอทั้งคู่
+
+RESOURCE ID: story_mightandmastery_4_1
+TEXT: และเท่าที่ดู ดาคุมะพร้อมวิวัฒนาการแล้ว!
+ต้องเป็นผลลัพธ์จากการฝึกซ้อม
+ของพวกเธออย่างแน่นอน
+
+RESOURCE ID: story_mightandmastery_4_2
+TEXT: ฉันรู้ว่าฉันพูดประโยคนี้ไปแล้วหลายครั้ง
+แต่ฉันอยากบอกว่าฉันภูมิใจในตัวเธอ
+รวมถึงดาคุมะด้วยนะ!
+
+RESOURCE ID: story_mightandmastery_4_3
+TEXT: อย่าลืมว่าเส้นทางสู่ความชำนาญไม่เคย
+ราบเรียบ เราต้องเรียนรู้ ฝึกฝน
+และพัฒนาตัวเองอยู่เสมอ
+
+RESOURCE ID: story_mightandmastery_4_4
+TEXT: และฉันเชื่อว่าเธอกับดาคุมะจะสนุก
+ไปกับเส้นทางนั้น %PLAYERNAME%!
 
 RESOURCE ID: suita_city_rally_desc
 TEXT: แสตมป์แรลลี GO ที่พาคุณตระเวนไปยังสถานที่แนะนำในเมืองซุอิตะ
@@ -2337,6 +2692,30 @@ TEXT: เมื่อเคลียร์แสตมป์แรลลีน�
 
 RESOURCE ID: suita_city_rally_title
 TEXT: แสตมป์แรลลีเมืองซุอิตะ
+
+RESOURCE ID: sunken_treasure
+TEXT: Sunken Treasure
+
+RESOURCE ID: t5_2025_explore_title
+TEXT: Connect and Explore Timed Research
+
+RESOURCE ID: t5_2025_explore_title_00
+TEXT: Connect and Explore Timed Research (1/3)
+
+RESOURCE ID: t5_2025_explore_title_01
+TEXT: Connect and Explore Timed Research (2/3)
+
+RESOURCE ID: t5_2025_explore_title_02
+TEXT: Connect and Explore Timed Research (3/3)
+
+RESOURCE ID: t5_2025_play_title
+TEXT: Connect and Play Timed Research
+
+RESOURCE ID: t5_2025_play_title_00
+TEXT: Connect and Play Timed Research (1/2)
+
+RESOURCE ID: t5_2025_play_title_01
+TEXT: Connect and Play Timed Research (2/2)
 
 RESOURCE ID: tabrs_instruction_regional
 TEXT: เทรนเนอร์ในคอมมิวนิตี้ภูมิภาคจะต้องทำงานร่วมกันเพื่อทำคำท้านี้ให้เสร็จสมบูรณ์
@@ -2358,11 +2737,24 @@ TM ท่าชาร์จ และลูกอมประหลาด
 - การเผชิญหน้ากับวานิเพ็ตติที่มีพื้นหลังพิเศษ
 และอื่น ๆ
 
+RESOURCE ID: text_rewards_key_cdc_machop25
+TEXT: รางวัลที่จะได้รับ:
+- ไอเท็มภายในเกม เช่น บัตรแบตเทิลพรีเมียม
+TM ท่าชาร์จ และลูกอมประหลาด
+- การเผชิญหน้ากับวันริกีที่มีพื้นหลังพิเศษ
+และอื่น ๆ
+
 RESOURCE ID: text_rewards_key_crown_clash_tgr
 TEXT: รางวัลที่จะได้รับ:
 - การเผชิญหน้ากับนิโดควีนสวมมงกุฎ นิโดคิงสวมมงกุฎ และอื่น ๆ
 - บัตรแบตเทิลพรีเมียม 2 ใบ
 - ซูเปอร์ร็อกเกตเรดาร์  1 ชิ้น
+
+RESOURCE ID: text_rewards_key_gmaxmachamp25
+TEXT: สิ่งที่จะได้รับ:
+- รวบรวมเพิ่มเติมได้ถึง 4,000 อนุภาคแมกซ์จากพาวเวอร์สป็อตและการสำรวจ
+- 2× XP เมื่อแบตเทิลแมกซ์เสร็จสิ้น
+- งานวิจัยแบบจำกัดเวลาที่มีรางวัลเป็นไดมัชรูมและ 25,000 XP
 
 RESOURCE ID: text_rewards_key_growingup0525
 TEXT: รางวัลที่จะได้รับ:
@@ -2384,6 +2776,9 @@ TEXT: โบนัสที่จะได้รับ:
 แผ่นภาพที่ยิม
 - เพิ่มโอกาสได้รับลูกอมประหลาด XL จากตีบอส
 - เพิ่ม XP 50% และ 2× สตาร์ดัสต์เมื่อตีบอสเสร็จสิ้น
+
+RESOURCE ID: ticket_machop_cdc
+TEXT: สามารถซื้อตั๋วสำหรับงานวิจัยพิเศษ "วันริกีคอมมิวนิตี้เดย์ (รีเทิร์น)" ได้ที่ร้านค้า
 
 RESOURCE ID: ticket_pawmi_cd
 TEXT: สามารถซื้อตั๋วสำหรับงานวิจัยพิเศษ "พาโมคอมมิวนิตี้เดย์" ได้ที่ร้านค้า
@@ -2430,6 +2825,12 @@ TEXT: Pokémon in Hyper Training
 RESOURCE ID: today_view_throwing_competition
 TEXT: การแข่งขันนักขว้างภูมิภาค
 
+RESOURCE ID: tr_gofest2025_leadup_birds
+TEXT: Ancients Recovered Timed Research: Fleeting Legends
+
+RESOURCE ID: tr_gofest2025_leadup_giants
+TEXT: Ancients Recovered Timed Research: Legendary Giants
+
 RESOURCE ID: tr_goruck_backpack
 TEXT: GORUCK Backpack Bonus Timed Research
 
@@ -2465,6 +2866,9 @@ TEXT: After Hyper Training, this Pokémon will exceed the CP limit for some Batt
 
 RESOURCE ID: training_confirmation
 TEXT: Are you sure you want to train {0}?
+
+RESOURCE ID: training_goal_has_been_met
+TEXT: {0}’s training goal has been met. Do you want to end Hyper training?
 
 RESOURCE ID: training_string_key
 TEXT: TRAINING
@@ -2507,6 +2911,30 @@ TEXT: ต้องการใช้{0}หรือไม่?
 
 RESOURCE ID: use_training_token_to_hyper_train
 TEXT: Use a Bottle Cap to train your Pokémon!
+
+RESOURCE ID: visit_web_store_banner_string_key
+TEXT: Visit the <color=#F2A64B>Pokémon GO Web Store</color> for exclusive offers and bonus rewards!
+
+RESOURCE ID: visit_web_store_banner_url_key
+TEXT: https://store.pokemongo.com/?utm_source=PGO&utm_medium=in-game-shop&utm_campaign=pgo_webstore_linkout&utm_content=banner_view_webstore
+
+RESOURCE ID: visit_web_store_item_url_key
+TEXT: https://store.pokemongo.com/?itemId={0}
+
+RESOURCE ID: visit_web_store_pokecoin_floater_url_key
+TEXT: https://store.pokemongo.com/?utm_source=PGO&utm_medium=in-game-shop&utm_campaign=pgo_webstore_linkout&utm_content=webstore_icon#POKECOIN
+
+RESOURCE ID: visit_web_store_pokecoin_string_key
+TEXT: Get 2x rewards and up to 10% PokéCoin bonus on <color=#F2A64B>Pokémon GO Web Store</color>!
+
+RESOURCE ID: visit_web_store_pokecoin_url_key
+TEXT: https://store.pokemongo.com/?utm_source=PGO&utm_medium=in-game-shop&utm_campaign=pgo_webstore_linkout&utm_content=banner_pokecoins#POKECOINS
+
+RESOURCE ID: web_store_name_text_key
+TEXT: Web Store
+
+RESOURCE ID: your_training_token_broke_to_coins
+TEXT: Your {0} has broken down to Poké Coins!
 
 RESOURCE ID: zacian_move_content
 TEXT: ซาเชียนกวัดแกว่งดาบขนาดใหญ่ทรงพลังเป็นเวลา {0} นาที ทำให้พลังโจมตีของโปเกมอนในตีบอสและแบตเทิลแมกซ์เพิ่มขึ้น
