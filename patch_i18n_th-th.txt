@@ -259,6 +259,9 @@ TEXT: 1/4 ระยะทางฟักไข่
 RESOURCE ID: bonus_rrp_limit_30_raids_max_battle
 TEXT: แบตเทิลแมกซ์และตีบอสระยะไกลได้เพิ่มสูงสุดถึงวันละ 30 ครั้ง
 
+RESOURCE ID: bonus_space_time_distortion_upcoming
+TEXT: โปรดจับตามองปรากฏการณ์ผิดปกติในอีกไม่กี่วันข้างหน้านี้
+
 RESOURCE ID: combat_title_season_19
 TEXT: โกแบตเทิลลีก: วันแสนรื่นรมย์
 
@@ -270,6 +273,9 @@ TEXT: คอมมิวนิตี้เดย์: จาราโค
 
 RESOURCE ID: community_day_quaxly_event_name
 TEXT: คอมมิวนิตี้เดย์: แคว็กซ์
+
+RESOURCE ID: details_link_key
+TEXT: ตรวจสอบรายละเอียดได้ที่<a href="https://pokemongo.com/news">เว็บไซต์</a>นี้
 
 RESOURCE ID: em_arraia_2025_collection_challenge
 TEXT: คำท้านักสะสม Arraiá do Pokémon GO
@@ -348,7 +354,7 @@ RESOURCE ID: event_npc06_defeat__male_speaker
 TEXT: ถ้าแข่งสกีละก็ไม่มีทางแพ้แท้ ๆ
 
 RESOURCE ID: event_pass_gofest2025_track_upgrade_header_description
-TEXT: รับรางวัลเพิ่มเติมและปลดล็อก<b>ฝาทอง</b>ที่ระดับ 100!
+TEXT: รับรางวัลเพิ่มเติมและปลดล็อกฝาทองที่ระดับ 100!
 
 RESOURCE ID: event_pass_gofest2025_upgrade_description
 TEXT: ซื้อบัตรผ่าน GO Deluxe: โบราณหวนคืน
@@ -1305,6 +1311,9 @@ TEXT: 2× XP ฟักไข่
 RESOURCE ID: hatch_xp_triple
 TEXT: 3× XP ฟักไข่
 
+RESOURCE ID: hisui_celebration_space_time_distortion_event_name
+TEXT: เทศกาลเฉลิมฉลองฮิซุย: ปริภูมิและเวลาที่บิดเบือน
+
 RESOURCE ID: hyper_training_attack_1
 TEXT: ฝึกโจมตี 1
 
@@ -1874,9 +1883,9 @@ RESOURCE ID: lure_module_unown
 TEXT: อันโนนถูกดึงดูดด้วยอุปกรณ์ปล่อยลัวร์
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2025-06-27T18:07:09.449196+00:00 for th-TH
-at SHA a9e199bbeb9
-Pipeline 3259665, job 42547526
+TEXT: Built at 2025-06-30T23:04:24.187227+00:00 for th-TH
+at SHA 9c88535749c
+Pipeline 3262136, job 42630300
 Patch from: 0.369.0-SHA-a10e9a7f-RC1, 0.367.2-SHA-da650b30-RC1, 0.367.1-SHA-423aa95e-RC1
 
 RESOURCE ID: moonless_volcano
@@ -2108,7 +2117,7 @@ TEXT: เส้นทางรางวัล คือ โปรแกรมร
 
 1. ซื้อสินค้าที่กำหนด*
 2. สะสมแต้มรางวัลเพื่อปลดล็อกรางวัล
-3. ไปที่<a href="https://pokemongo.com/news/eggs-pedition-access-june-2025#rewardroad">เว็บไซต์</a>ของเราเพื่อตรวจสอบวิธี
+3. ไปที่<a href="https://pokemongo.com/news/eggs-pedition-access-july-2025#rewardroad">เว็บไซต์</a>ของเราเพื่อตรวจสอบวิธี
 รับรางวัล**
 
 *นับเพียงการซื้อที่ทำด้วยสกุลเงิน
@@ -2128,7 +2137,7 @@ TEXT: เส้นทางรางวัล คือ โปรแกรมร
 ในภายหลัง
 
 RESOURCE ID: rewarded_spend_helpshift_footer
-TEXT: ตรวจสอบรายละเอียดได้ที่<a href="https://pokemongo.com/news/eggs-pedition-access-june-2025#rewardroad">เว็บไซต์</a>นี้
+TEXT: ตรวจสอบรายละเอียดได้ที่<a href="https://pokemongo.com/news/eggs-pedition-access-july-2025#rewardroad">เว็บไซต์</a>นี้
 
 RESOURCE ID: season19_delightful_days
 TEXT: วันแสนรื่นรมย์
@@ -2554,7 +2563,7 @@ RESOURCE ID: t5_2025_play_title_01
 TEXT: งานวิจัยแบบจำกัดเวลาเชื่อมต่อและเล่น (2/2)
 
 RESOURCE ID: text_rewards_key_9thparty0725
-TEXT: <b>รางวัลที่จะได้รับ:</b>
+TEXT: รางวัลที่จะได้รับ:
 - การเผชิญหน้ากับคอลเลคเรย์ถือเหรียญครบรอบ 9 ปี
 - เครื่องฟักไข่ชั้นเยี่ยม 1 ชิ้น
 - บัตรแบตเทิลพรีเมียม 1 ใบ
@@ -2564,13 +2573,13 @@ TEXT: <b>รางวัลที่จะได้รับ:</b>
 - 9,999 สตาร์ดัสต์
 
 RESOURCE ID: text_rewards_key_ancientsrecovered_fleetinglegends
-TEXT: <b>รางวัลที่จะได้รับ:
-- การเผชิญหน้าที่คุณเลือกระหว่างฟรีเซอร์ (ร่างกาลาร์), ธันเดอร์ (ร่างกาลาร์) และไฟเยอร์ (ร่างกาลาร์)</b>
+TEXT: รางวัลที่จะได้รับ:
+- การเผชิญหน้าที่คุณเลือกระหว่างฟรีเซอร์ (ร่างกาลาร์), ธันเดอร์ (ร่างกาลาร์) และไฟเยอร์ (ร่างกาลาร์)
 - การเผชิญหน้ากับโคโคการะ
 - และอื่น ๆ
 
 RESOURCE ID: text_rewards_key_augmonthly2025
-TEXT: <b>สิ่งที่จะได้รับ:</b>
+TEXT: สิ่งที่จะได้รับ:
 -เครื่องฟักไข่สำหรับใช้งานครั้งเดียว
 เมื่อหมุนแผ่นภาพที่เสาโปเกสต็อปเป็นครั้งแรก
 ในแต่ละวัน
@@ -2581,28 +2590,28 @@ TEXT: <b>สิ่งที่จะได้รับ:</b>
 - และอื่น ๆ
 
 RESOURCE ID: text_rewards_key_cd_jangmo_o25
-TEXT: <b>รางวัลที่จะได้รับ:</b>
+TEXT: รางวัลที่จะได้รับ:
 - ไอเท็มภายในเกม เช่น บัตรแบตเทิลพรีเมียม
 TM ท่าชาร์จ และลูกอมประหลาด
 - การเผชิญหน้ากับจาราโคที่มีพื้นหลังพิเศษ
 และอื่น ๆ
 
 RESOURCE ID: text_rewards_key_cd_quaxly25
-TEXT: <b>รางวัลที่จะได้รับ:</b>
+TEXT: รางวัลที่จะได้รับ:
 - ไอเท็มภายในเกม เช่น บัตรแบตเทิลพรีเมียม
 TM ท่าชาร์จ และลูกอมประหลาด
 - การเผชิญหน้ากับแคว็กซ์ที่มีพื้นหลังพิเศษ
 และอื่น ๆ
 
 RESOURCE ID: text_rewards_key_cdc_eevee25
-TEXT: <b>รางวัลที่จะได้รับ:</b>
+TEXT: รางวัลที่จะได้รับ:
 - ไอเท็มภายในเกม เช่น บัตรแบตเทิลพรีเมียม
 TM ท่าชาร์จ และลูกอมประหลาด
 - การเผชิญหน้ากับอีวุยที่มีพื้นหลังพิเศษ
 และอื่น ๆ
 
 RESOURCE ID: text_rewards_key_go_fest_amer_june25
-TEXT: <b>รางวัลที่จะได้รับ:</b>
+TEXT: รางวัลที่จะได้รับ:
 - การเผชิญหน้ากับเทสซีดและไทเรสึ
 - บัตรแบตเทิลพรีเมียม 5 ใบ
 
@@ -2611,7 +2620,7 @@ TEXT: <b>รางวัลที่จะได้รับ:</b>
 เทสซีดและไทเรสึที่พบในระหว่างอีเวนต์นี้ รวมถึงที่พบในรางวัลเผชิญหน้าจากงานวิจัยนี้ จะมีโอกาสเป็นโปเกมอนสีแตกต่างสูงขึ้น
 
 RESOURCE ID: text_rewards_key_go_fest_emea_june25
-TEXT: <b>รางวัลที่จะได้รับ:</b>
+TEXT: รางวัลที่จะได้รับ:
 - การเผชิญหน้ากับโกธิมูและโบคุเร
 เครื่องหอม 5 ชิ้น
 - 1000 สตาร์ดัสต์
@@ -2619,7 +2628,7 @@ TEXT: <b>รางวัลที่จะได้รับ:</b>
 โกธิมูและโบคุเรที่พบในระหว่างอีเวนต์นี้ รวมถึงที่พบในรางวัลเผชิญหน้าจากงานวิจัยนี้ จะมีโอกาสเป็นโปเกมอนสีแตกต่างสูงขึ้น
 
 RESOURCE ID: text_rewards_key_julymonthly2025
-TEXT: <b>สิ่งที่จะได้รับ:</b>
+TEXT: สิ่งที่จะได้รับ:
 -เครื่องฟักไข่สำหรับใช้งานครั้งเดียว
 เมื่อหมุนแผ่นภาพที่เสาโปเกสต็อปเป็นครั้งแรก
 ในแต่ละวัน
@@ -2630,7 +2639,7 @@ TEXT: <b>สิ่งที่จะได้รับ:</b>
 - และอื่น ๆ
 
 RESOURCE ID: text_rewards_key_junemonthly2025
-TEXT: <b>สิ่งที่จะได้รับ:</b>
+TEXT: สิ่งที่จะได้รับ:
 -เครื่องฟักไข่สำหรับใช้งานครั้งเดียว
 เมื่อหมุนแผ่นภาพที่เสาโปเกสต็อปเป็นครั้งแรก
 ในแต่ละวัน
@@ -2641,19 +2650,19 @@ TEXT: <b>สิ่งที่จะได้รับ:</b>
 - และอื่น ๆ
 
 RESOURCE ID: text_rewards_key_pawprint_20250620
-TEXT: <b>รางวัลที่จะได้รับ:</b>
+TEXT: รางวัลที่จะได้รับ:
 - การเผชิญหน้ากับบูล, โปชิเอนา, ทริมเมียน และอิวังโค
 - บูล, โปชิเอนา และทริมเมียนที่พบในรางวัลเผชิญหน้าจากงานวิจัยนี้และภารกิจงานวิจัยอื่น ๆ จะมีโอกาสเป็นโปเกมอนสีแตกต่างสูงขึ้น
 
 RESOURCE ID: text_rewards_key_serenert0525
-TEXT: <b>รางวัลที่จะได้รับ:</b>
+TEXT: รางวัลที่จะได้รับ:
 - การเผชิญหน้ากับมุนนะและเนมาชู
 - เครื่องฟักไข่ชั้นเยี่ยม 2 ชิ้น
 - สะเก็ดดาว 1 ชิ้น
 - 500 สตาร์ดัสต์
 
 RESOURCE ID: text_rewards_key_sjsr0725
-TEXT: <b>รางวัลที่จะได้รับ:</b>
+TEXT: รางวัลที่จะได้รับ:
 - การเผชิญหน้ากับจิราชิสีแตกต่าง
 - ลูกอมจิราชิ 20 เม็ด
 - ลูกอมไคออกา 10 เม็ด
@@ -2734,6 +2743,15 @@ TEXT: งานวิจัยแบบจำกัดเวลาโบนั�
 
 RESOURCE ID: training_goal_has_been_met
 TEXT: {0}บรรลุเป้าหมายการฝึกฝนแล้ว! ต้องการสิ้นสุดการฝึกขั้นสุดยอดหรือไม่?
+
+RESOURCE ID: uu1_hisui_collection_challenge_1
+TEXT: คำท้านักสะสมเทศกาลเฉลิมฉลองฮิซุย: วิวัฒนาการเหินหาว
+
+RESOURCE ID: uu1_hisui_collection_challenge_2
+TEXT: คำท้านักสะสมเทศกาลเฉลิมฉลองฮิซุย: เพลิงแหลมเปรี๊ยะ
+
+RESOURCE ID: uu1_hisui_collection_challenge_3
+TEXT: คำท้าการจับเทศกาลเฉลิมฉลองฮิซุย: ปริภูมิและเวลาที่บิดเบือน
 
 RESOURCE ID: visit_web_store_pokecoin_floater_url_key
 TEXT: https://store.pokemongo.com/?utm_source=PGO&utm_medium=in-game-shop&utm_campaign=pgo_webstore_linkout&utm_content=webstore_icon#POKECOINS
