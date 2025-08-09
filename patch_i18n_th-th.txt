@@ -1,8 +1,8 @@
 RESOURCE ID: august_daily_quests_title
-TEXT: GO Pass: August Daily Tasks
+TEXT: ภารกิจรายวันบัตรผ่าน GO: สิงหาคม
 
 RESOURCE ID: august_weekly_quests_title
-TEXT: GO Pass: August Weekly Tasks
+TEXT: ภารกิจรายสัปดาห์บัตรผ่าน GO: สิงหาคม
 
 RESOURCE ID: avatar_backpack_tatsugiricurly
 TEXT: กระเป๋าเป้ชาริทัตสึ (ร่างโค้ง)
@@ -16,17 +16,227 @@ TEXT: กระเป๋าเป้ชาริทัตสึ (ร่างย
 RESOURCE ID: avatar_pose_icecream
 TEXT: ท่าโพสไอศกรีม
 
+RESOURCE ID: badge_safari_2025_amsterdam_add_on_hatch
+TEXT: Amsterdam 2025
+
+RESOURCE ID: badge_safari_2025_amsterdam_add_on_hatch_test
+TEXT: Amsterdam 2025
+
+RESOURCE ID: badge_safari_2025_amsterdam_add_on_hatch_test_title
+TEXT: Pokémon GO City Safari—Egg-thusiast
+
+RESOURCE ID: badge_safari_2025_amsterdam_add_on_hatch_title
+TEXT: Pokémon GO City Safari—Egg-thusiast
+
+RESOURCE ID: badge_safari_2025_amsterdam_add_on_raid
+TEXT: Amsterdam 2025
+
+RESOURCE ID: badge_safari_2025_amsterdam_add_on_raid_test
+TEXT: Amsterdam 2025
+
+RESOURCE ID: badge_safari_2025_amsterdam_add_on_raid_test_title
+TEXT: Pokémon GO City Safari—Raid Lover
+
+RESOURCE ID: badge_safari_2025_amsterdam_add_on_raid_title
+TEXT: Pokémon GO City Safari—Raid Lover
+
+RESOURCE ID: badge_safari_2025_amsterdam_day_00
+TEXT: Amsterdam 2025
+
+RESOURCE ID: badge_safari_2025_amsterdam_day_00_title
+TEXT: Pokémon GO City Safari
+
+RESOURCE ID: badge_safari_2025_amsterdam_day_01
+TEXT: Amsterdam, September 27, 2025
+
+RESOURCE ID: badge_safari_2025_amsterdam_day_01_title
+TEXT: Pokémon GO City Safari
+
+RESOURCE ID: badge_safari_2025_amsterdam_day_02
+TEXT: Amsterdam, September 28, 2025
+
+RESOURCE ID: badge_safari_2025_amsterdam_day_02_title
+TEXT: Pokémon GO City Safari
+
+RESOURCE ID: badge_safari_2025_bangkok_add_on_hatch
+TEXT: Bangkok 2025
+
+RESOURCE ID: badge_safari_2025_bangkok_add_on_hatch_test
+TEXT: Bangkok 2025
+
+RESOURCE ID: badge_safari_2025_bangkok_add_on_hatch_test_title
+TEXT: Pokémon GO City Safari—Egg-thusiast
+
+RESOURCE ID: badge_safari_2025_bangkok_add_on_hatch_title
+TEXT: Pokémon GO City Safari—Egg-thusiast
+
+RESOURCE ID: badge_safari_2025_bangkok_add_on_raid
+TEXT: Bangkok 2025
+
+RESOURCE ID: badge_safari_2025_bangkok_add_on_raid_test
+TEXT: Bangkok 2025
+
+RESOURCE ID: badge_safari_2025_bangkok_add_on_raid_test_title
+TEXT: Pokémon GO City Safari—Raid Lover
+
+RESOURCE ID: badge_safari_2025_bangkok_add_on_raid_title
+TEXT: Pokémon GO City Safari—Raid Lover
+
+RESOURCE ID: badge_safari_2025_bangkok_day_00
+TEXT: Bangkok 2025
+
+RESOURCE ID: badge_safari_2025_bangkok_day_00_title
+TEXT: Pokémon GO City Safari
+
+RESOURCE ID: badge_safari_2025_bangkok_day_01
+TEXT: Bangkok, September 27, 2025
+
+RESOURCE ID: badge_safari_2025_bangkok_day_01_title
+TEXT: Pokémon GO City Safari
+
+RESOURCE ID: badge_safari_2025_bangkok_day_02
+TEXT: Bangkok, September 28, 2025
+
+RESOURCE ID: badge_safari_2025_bangkok_day_02_title
+TEXT: Pokémon GO City Safari
+
+RESOURCE ID: badge_safari_2025_cancun_add_on_hatch
+TEXT: Cancún 2025
+
+RESOURCE ID: badge_safari_2025_cancun_add_on_hatch_test
+TEXT: Cancún 2025
+
+RESOURCE ID: badge_safari_2025_cancun_add_on_hatch_test_title
+TEXT: Pokémon GO City Safari—Egg-thusiast
+
+RESOURCE ID: badge_safari_2025_cancun_add_on_hatch_title
+TEXT: Pokémon GO City Safari—Egg-thusiast
+
+RESOURCE ID: badge_safari_2025_cancun_add_on_raid
+TEXT: Cancún 2025
+
+RESOURCE ID: badge_safari_2025_cancun_add_on_raid_test
+TEXT: Cancún 2025
+
+RESOURCE ID: badge_safari_2025_cancun_add_on_raid_test_title
+TEXT: Pokémon GO City Safari—Raid Lover
+
+RESOURCE ID: badge_safari_2025_cancun_add_on_raid_title
+TEXT: Pokémon GO City Safari—Raid Lover
+
+RESOURCE ID: badge_safari_2025_cancun_day_00
+TEXT: Cancún 2025
+
+RESOURCE ID: badge_safari_2025_cancun_day_00_title
+TEXT: Pokémon GO City Safari
+
+RESOURCE ID: badge_safari_2025_cancun_day_01
+TEXT: Cancún, September 27, 2025
+
+RESOURCE ID: badge_safari_2025_cancun_day_01_title
+TEXT: Pokémon GO City Safari
+
+RESOURCE ID: badge_safari_2025_cancun_day_02
+TEXT: Cancún, September 28, 2025
+
+RESOURCE ID: badge_safari_2025_cancun_day_02_title
+TEXT: Pokémon GO City Safari
+
+RESOURCE ID: badge_safari_2025_valencia_add_on_hatch
+TEXT: Valencia 2025
+
+RESOURCE ID: badge_safari_2025_valencia_add_on_hatch_test
+TEXT: Valencia 2025
+
+RESOURCE ID: badge_safari_2025_valencia_add_on_hatch_test_title
+TEXT: Pokémon GO City Safari—Egg-thusiast
+
+RESOURCE ID: badge_safari_2025_valencia_add_on_hatch_title
+TEXT: Pokémon GO City Safari—Egg-thusiast
+
+RESOURCE ID: badge_safari_2025_valencia_add_on_raid
+TEXT: Valencia 2025
+
+RESOURCE ID: badge_safari_2025_valencia_add_on_raid_test
+TEXT: Valencia 2025
+
+RESOURCE ID: badge_safari_2025_valencia_add_on_raid_test_title
+TEXT: Pokémon GO City Safari—Raid Lover
+
+RESOURCE ID: badge_safari_2025_valencia_add_on_raid_title
+TEXT: Pokémon GO City Safari—Raid Lover
+
+RESOURCE ID: badge_safari_2025_valencia_day_00
+TEXT: Valencia 2025
+
+RESOURCE ID: badge_safari_2025_valencia_day_00_title
+TEXT: Pokémon GO City Safari
+
+RESOURCE ID: badge_safari_2025_valencia_day_01
+TEXT: Valencia, September 27, 2025
+
+RESOURCE ID: badge_safari_2025_valencia_day_01_title
+TEXT: Pokémon GO City Safari
+
+RESOURCE ID: badge_safari_2025_valencia_day_02
+TEXT: Valencia, September 28, 2025
+
+RESOURCE ID: badge_safari_2025_valencia_day_02_title
+TEXT: Pokémon GO City Safari
+
+RESOURCE ID: badge_safari_2025_vancouver_add_on_hatch
+TEXT: Vancouver 2025
+
+RESOURCE ID: badge_safari_2025_vancouver_add_on_hatch_test
+TEXT: Vancouver 2025
+
+RESOURCE ID: badge_safari_2025_vancouver_add_on_hatch_test_title
+TEXT: Pokémon GO City Safari—Egg-thusiast
+
+RESOURCE ID: badge_safari_2025_vancouver_add_on_hatch_title
+TEXT: Pokémon GO City Safari—Egg-thusiast
+
+RESOURCE ID: badge_safari_2025_vancouver_add_on_raid
+TEXT: Vancouver 2025
+
+RESOURCE ID: badge_safari_2025_vancouver_add_on_raid_test
+TEXT: Vancouver 2025
+
+RESOURCE ID: badge_safari_2025_vancouver_add_on_raid_test_title
+TEXT: Pokémon GO City Safari—Raid Lover
+
+RESOURCE ID: badge_safari_2025_vancouver_add_on_raid_title
+TEXT: Pokémon GO City Safari—Raid Lover
+
+RESOURCE ID: badge_safari_2025_vancouver_day_00
+TEXT: Vancouver 2025
+
+RESOURCE ID: badge_safari_2025_vancouver_day_00_title
+TEXT: Pokémon GO City Safari
+
+RESOURCE ID: badge_safari_2025_vancouver_day_01
+TEXT: Vancouver, September 27, 2025
+
+RESOURCE ID: badge_safari_2025_vancouver_day_01_title
+TEXT: Pokémon GO City Safari
+
+RESOURCE ID: badge_safari_2025_vancouver_day_02
+TEXT: Vancouver, September 28, 2025
+
+RESOURCE ID: badge_safari_2025_vancouver_day_02_title
+TEXT: Pokémon GO City Safari
+
 RESOURCE ID: batch_transfer_unique_location_card_pokemon
 TEXT: โปเกมอนที่มีพื้นหลังหายาก {0} ตัว
 
 RESOURCE ID: bonus_blade_bash_boost_01
-TEXT: Increased power for the Behemoth Blade and Behemoth Bash Adventure Effects
+TEXT: เพิ่มประสิทธิภาพของเอฟเฟกต์ผจญภัยของ "ดาบพิฆาตยักษ์" และ "โล่ทะลวงยักษ์"
 
 RESOURCE ID: bonus_blade_bash_boost_02
-TEXT: Large increase to the power of the Behemoth Blade and Behemoth Bash Adventure Effects
+TEXT: เพิ่มประสิทธิภาพของเอฟเฟกต์ผจญภัยของ "ดาบพิฆาตยักษ์" และ "โล่ทะลวงยักษ์" อย่างมาก
 
 RESOURCE ID: bonus_blade_bash_boost_03
-TEXT: Massive increase to the power of the Behemoth Blade and Behemoth Bash Adventure Effects
+TEXT: เพิ่มประสิทธิภาพของเอฟเฟกต์ผจญภัยของ "ดาบพิฆาตยักษ์" และ "โล่ทะลวงยักษ์" อย่างมหาศาล
 
 RESOURCE ID: bonus_cd_move_rookidee
 TEXT: วิวัฒนาการอาโอการาสึเป็นอาร์เมอร์การ์ที่รู้ท่าโจมตีชาร์จ "แอร์คัตเตอร์"
@@ -38,67 +248,70 @@ RESOURCE ID: bonus_desc_machamp_payback
 TEXT: วิวัฒนาการโกริกีเป็นไคริกีที่รู้ท่าโจมตีชาร์จ "เอาคืน"
 
 RESOURCE ID: bonus_dmax_shiny_chance_increase
-TEXT: Increased chance of encountering Shiny Pokémon in encounters with Dynamax Pokémon
+TEXT: เพิ่มโอกาสเผชิญหน้ากับโปเกมอนสีแตกต่างจากการเผชิญหน้ากับโปเกมอนไดแมกซ์
 
 RESOURCE ID: bonus_ee_appearance
-TEXT: Eternamax Eternatus now appearing in special Max Battles
+TEXT: มุเก็นไดนา (มุเก็นไดแมกซ์) กำลังปรากฏตัวในแบตเทิลแมกซ์พิเศษ
 
 RESOURCE ID: bonus_feature_behemoth_blade_and_behemoth_bash_boost_max
-TEXT: Increased power for Behemoth Blade and Behemoth Bash during Max Battles
+TEXT: เพิ่มความแรงของ "ดาบพิฆาตยักษ์" และ "โล่ทะลวงยักษ์" ระหว่างแบตเทิลแมกซ์
 
 RESOURCE ID: bonus_feature_behemoth_blade_and_behemoth_bash_boost_max_01
-TEXT: Increased power for Behemoth Blade and Behemoth Bash during Max Battles
+TEXT: เพิ่มความแรงของ "ดาบพิฆาตยักษ์" และ "โล่ทะลวงยักษ์" ระหว่างแบตเทิลแมกซ์
 
 RESOURCE ID: bonus_feature_behemoth_blade_and_behemoth_bash_boost_max_02
-TEXT: Large power increase for Behemoth Blade and Behemoth Bash during Max Battles
+TEXT: เพิ่มความแรงของ "ดาบพิฆาตยักษ์" และ "โล่ทะลวงยักษ์" อย่างมากระหว่างแบตเทิลแมกซ์
 
 RESOURCE ID: bonus_feature_behemoth_blade_and_behemoth_bash_boost_max_03
-TEXT: Massive power increase for Behemoth Blade and Behemoth Bash during Max Battles
+TEXT: เพิ่มความแรงของ "ดาบพิฆาตยักษ์" และ "โล่ทะลวงยักษ์" อย่างมหาศาลระหว่างแบตเทิลแมกซ์
 
 RESOURCE ID: bonus_feature_gmax_blastoise
-TEXT: Featured this hour: Gigantamax Blastoise
+TEXT: โปเกมอนเด่นชั่วโมงนี้: คาเม็กซ์กิกะแมกซ์
 
 RESOURCE ID: bonus_feature_gmax_butterfree
-TEXT: Featured this hour: Gigantamax Butterfree
+TEXT: โปเกมอนเด่นชั่วโมงนี้: บัตเตอร์ฟรีกิกะแมกซ์
 
 RESOURCE ID: bonus_feature_gmax_charizard
-TEXT: Featured this hour: Gigantamax Charizard
+TEXT: โปเกมอนเด่นชั่วโมงนี้: ลิซาร์ดอนกิกะแมกซ์
 
 RESOURCE ID: bonus_feature_gmax_cinderace
-TEXT: Featured this hour: Gigantamax Cinderace
+TEXT: โปเกมอนเด่นชั่วโมงนี้: เอสเบิร์นกิกะแมกซ์
 
 RESOURCE ID: bonus_feature_gmax_gengar
-TEXT: Featured this hour: Gigantamax Gengar
+TEXT: โปเกมอนเด่นชั่วโมงนี้: เก็งกากิกะแมกซ์
 
 RESOURCE ID: bonus_feature_gmax_inteleon
-TEXT: Featured this hour: Gigantamax Inteleon
+TEXT: โปเกมอนเด่นชั่วโมงนี้: อินเทเลียนกิกะแมกซ์
 
 RESOURCE ID: bonus_feature_gmax_kingler
-TEXT: Featured this hour: Gigantamax Kingler
+TEXT: โปเกมอนเด่นชั่วโมงนี้: คิงเกลอร์กิกะแมกซ์
 
 RESOURCE ID: bonus_feature_gmax_lapras
-TEXT: Featured this hour: Gigantamax Lapras
+TEXT: โปเกมอนเด่นชั่วโมงนี้: ลาพลาซกิกะแมกซ์
 
 RESOURCE ID: bonus_feature_gmax_machamp
-TEXT: Featured this hour: Gigantamax Machamp
+TEXT: โปเกมอนเด่นชั่วโมงนี้: ไคริกีกิกะแมกซ์
 
 RESOURCE ID: bonus_feature_gmax_rillaboom
-TEXT: Featured this hour: Gigantamax Rillaboom
+TEXT: โปเกมอนเด่นชั่วโมงนี้: กอริลลันดากิกะแมกซ์
 
 RESOURCE ID: bonus_feature_gmax_snorlax
-TEXT: Featured this hour: Gigantamax Snorlax
+TEXT: โปเกมอนเด่นชั่วโมงนี้: คาบิกอนกิกะแมกซ์
 
 RESOURCE ID: bonus_feature_gmax_toxtricity_amped
-TEXT: Featured this hour: Gigantamax Toxtricity (Amped Form)
+TEXT: โปเกมอนเด่นชั่วโมงนี้: สตรินเดอร์กิกะแมกซ์ (ร่างเสียงสูง)
 
 RESOURCE ID: bonus_feature_gmax_toxtricity_low_key
-TEXT: Featured this hour: Gigantamax Toxtricity (Low Key Form)
+TEXT: โปเกมอนเด่นชั่วโมงนี้: สตรินเดอร์กิกะแมกซ์ (ร่างเสียงต่ำ)
 
 RESOURCE ID: bonus_feature_gmax_venusaur
-TEXT: Featured this hour: Gigantamax Venusaur
+TEXT: โปเกมอนเด่นชั่วโมงนี้: ฟุชิกิบานะกิกะแมกซ์
 
 RESOURCE ID: bonus_golem_rollout
 TEXT: วิวัฒนาการโกโลนร่างอโลลาเป็นโกโลเนียร่างอโลลาที่รู้ท่าโจมตีเร็ว “กลิ้ง”
+
+RESOURCE ID: bonus_increased_shiny_short
+TEXT: Increased Shiny Pokémon Chance
 
 RESOURCE ID: bonus_location_background_t1_raid
 TEXT: โปเกมอนที่ถูกจับจากตีบอสหนึ่งดาวจะมีพื้นหลังสถานที่สุดพิเศษ
@@ -110,7 +323,7 @@ RESOURCE ID: bonus_mp_gain_power_spot
 TEXT: เพิ่มอนุภาคแมกซ์ที่ได้รับจากพาวเวอร์สป็อต
 
 RESOURCE ID: bonus_power_spot_bonus_spawn
-TEXT: Increased chance of encountering Pokémon at Power Spots
+TEXT: เพิ่มโอกาสเผชิญหน้ากับโปเกมอนที่พาวเวอร์สป็อต
 
 RESOURCE ID: bonus_rare_candy_xl_catch_origin
 TEXT: การันตีลูกอมประหลาด XL 1 เม็ดจากการจับดีอัลกา (ฟอร์มดั้งเดิม) หรือพัลเกีย (ฟอร์มดั้งเดิม)
@@ -122,7 +335,7 @@ RESOURCE ID: bonus_rrp_limit_uncap_raid_max_battle
 TEXT: ไม่จำกัดจำนวนครั้งต่อวันสำหรับตีบอสระยะไกลและแบตเทิลแมกซ์ระยะไกล
 
 RESOURCE ID: bonus_skarmory_steel_wing_brave_bird
-TEXT: Skarmory caught will know the Fast Attack Steel Wing and the Charged Attack Brave Bird
+TEXT: แอร์มุโดที่ถูกจับจะรู้ท่าโจมตีเร็ว "ปีกเหล็ก" และท่าโจมตีชาร์จ "เบรฟเบิร์ด"
 
 RESOURCE ID: bonus_souvenir_ticket_cactus_fruit
 TEXT: โอกาสได้รับตั๋วที่ฉีกขาดหรือผลกระบองเพชรเป็นของฝากจากคู่หูเพิ่มขึ้น
@@ -131,7 +344,7 @@ RESOURCE ID: bonus_spin_poke_ball_increase
 TEXT: รับมอนสเตอร์บอลจากการหมุนเสาโปเกสต็อปและยิมเพิ่มขึ้น
 
 RESOURCE ID: bonus_stationing_additional_candy
-TEXT: Increased Candy rewards from Pokémon placed at Power Spots
+TEXT: เพิ่มลูกอมที่ได้รับจากโปเกมอนที่วางไว้ที่พาวเวอร์สป็อต
 
 RESOURCE ID: bonus_summer_pikachu_t1_raid
 TEXT: พิคาชูสวมชุดฤดูร้อนจะปรากฏตัวในตีบอสหนึ่งดาว
@@ -257,7 +470,7 @@ RESOURCE ID: entering_lightweight_default_form
 TEXT: กิลการ์ดเปลี่ยนเป็นฟอร์มโล่แล้ว!
 
 RESOURCE ID: error_no_duplicate_pokemon
-TEXT: You can only have one {0}
+TEXT: มี{0}ได้เพียงตัวเดียวเท่านั้น
 
 RESOURCE ID: event_datetime_range_key_adventurewk0729
 TEXT: 29 กรกฎาคม เวลา 10:00 น.
@@ -274,6 +487,10 @@ TEXT: ตั๋วสำหรับเข้าร่วมงานวิจ�
 
 RESOURCE ID: event_datetime_range_key_fossil_researchtr2025
 TEXT: 2 สิงหาคม เวลา 14:00-17:00 น.
+
+RESOURCE ID: event_datetime_range_key_gbw_wcs_aug25
+TEXT: 15 สิงหาคม เวลา 10:00 น.
+ถึง 17 สิงหาคม เวลา 20:00 น.
 
 RESOURCE ID: event_datetime_range_key_gmaxbutterfree25
 TEXT: 3 สิงหาคม เวลา 14:00-17:00 น.
@@ -361,6 +578,9 @@ TEXT: ตั๋ว "วันตีบอสเดรเดีย (ร่าง�
 RESOURCE ID: general1.ticket._adventurewk0729_title
 TEXT: ตั๋วงานวิจัยแบบจำกัดเวลาพรีเมียม: สัปดาห์แห่งการผจญภัย
 
+RESOURCE ID: general1.ticket._gbw_wcs_aug25_title
+TEXT: ตั๋วงานวิจัยแบบจำกัดเวลาพรีเมียม: 2025 WCS
+
 RESOURCE ID: general1.ticket._munchlax0825_title
 TEXT: ตั๋วงานวิจัยแบบจำกัดเวลาพรีเมียม: วันฟักไข่กอนเบะ
 
@@ -388,35 +608,108 @@ TEXT: บัตเตอร์ฟรีกิกะแมกซ์ปราก�
 RESOURCE ID: gmax_lapras_lead_up_timed_research
 TEXT: งานวิจัยแบบจำกัดเวลาเตรียมตัวสู่ "วันแบตเทิลแมกซ์ลาพลาซกิกะแมกซ์"
 
+RESOURCE ID: go_fest_max_finale_2025_tr_00_00
+TEXT: %PLAYERNAME% ได้พบเธอในช่วงเวลา
+ที่วุ่นวายแบบนี้แล้วรู้สึกโล่งใจจริง ๆ
+พายุครั้งนี้ต่างจากทุกครั้งที่ฉันเคยเห็นมาเลย
+
+RESOURCE ID: go_fest_max_finale_2025_tr_00_01
+TEXT: เรายังได้รับรายงานแปลก ๆ อีกด้วย
+ดูเหมือนจะมีโปเกมอนไดแมกซ์ปรากฏตัว
+ที่พาวเวอร์สป็อตมากขึ้น
+
+RESOURCE ID: go_fest_max_finale_2025_tr_00_02
+TEXT: ฉันไม่พบเบาะแสอะไรจากงานวิจัยเลย
+แต่จำได้ว่ามีศาสตราจารย์คนหนึ่งเคยพูดถึง
+เรื่องการปรากฏตัวของโปเกมอนขนาดมหึมา
+ใต้นภาทะมึน
+
+RESOURCE ID: go_fest_max_finale_2025_tr_00_03
+TEXT: สถานการณ์ตอนนี้ก็คล้ายคลึงกับที่เขาว่าไว้ หรือว่า...?
+
+RESOURCE ID: go_fest_max_finale_2025_tr_00_04
+TEXT: ลองไปตรวจสอบพาวเวอร์สป็อตที่อยู่ใกล้ ๆ
+กันเถอะ ระวังตัวด้วยนะ %PLAYERNAME%
+
+RESOURCE ID: go_fest_max_finale_2025_tr_01_00
+TEXT: อย่างที่ฉันคิดไว้เลย มุเก็นไดนา
+ในร่างมุเก็นไดแมกซ์ปรากฏตัวแล้ว!
+
+RESOURCE ID: go_fest_max_finale_2025_tr_01_01
+TEXT: งานวิจัยที่ฉันพบระบุไว้ว่า มันมีพลัง
+อันไร้ขีดจำกัดปล่อยออกมาจาก
+แกนกลางที่ขยายยักษ์จนสามารถ
+บิดเวลารอบ ๆ ได้
+
+RESOURCE ID: go_fest_max_finale_2025_tr_01_02
+TEXT: มุเก็นไดนาอาจมีความเกี่ยวข้องกับ
+การปรากฏตัวของซาเชียนและซามาเซนตา
+เราอาจต้องร่วมมือกับพวกมันในแบตเทิล
+อันยิ่งใหญ่อีกครั้ง!
+
+RESOURCE ID: go_fest_max_finale_2025_tr_01_03
+TEXT: การแบตเทิลกับมุเก็นไดนาในร่าง
+มุเก็นไดแมกซ์นั้นท้าทายยิ่งกว่า
+โปเกมอนกิกะแมกซ์ทุกตัวที่เราเคย
+เผชิญหน้ามา
+
+RESOURCE ID: go_fest_max_finale_2025_tr_01_04
+TEXT: ร่วมมือกันวางกลยุทธ์กับโปเกมอนและ
+เทรนเนอร์คนอื่น ๆ อย่างรอบคอบล่ะ
+ฝากด้วยนะ %PLAYERNAME%!
+
+RESOURCE ID: go_fest_max_finale_2025_tr_02_00
+TEXT: เป็นการแสดงทักษะและความตั้งใจ
+ที่ยอดเยี่ยมมาก!
+
+RESOURCE ID: go_fest_max_finale_2025_tr_02_01
+TEXT: นี่เป็นหนึ่งในแบตเทิลที่ยิ่งใหญ่ที่สุด
+เท่าที่ฉันเคยเห็นมา โปเกมอนของเธอ
+ต้องภูมิใจในตัวเธอมากแน่ ๆ
+
+RESOURCE ID: go_fest_max_finale_2025_tr_02_02
+TEXT: น่าเสียดายที่มุเก็นไดนาหนีไปได้
+แต่ถึงยังไงการเอาชนะมันในแบตเทิลได้
+ก็เป็นเรื่องที่สุดยอดมาก
+
+RESOURCE ID: go_fest_max_finale_2025_tr_02_03
+TEXT: มุเก็นไดนาน่าจะยังอยู่ในบริเวณนี้
+ฝึกกลยุทธ์เตรียมพร้อมสำหรับการแบตเทิล
+กับมันในครั้งต่อไปไว้ล่ะ
+
+RESOURCE ID: go_fest_max_finale_2025_tr_02_04
+TEXT: ส่วนฉันจะบันทึกรายงานสิ่งที่เราได้เรียนรู้
+จากแบตเทิลครั้งนี้ต่อ ขอให้โชคดีล่ะ %PLAYERNAME%!
+
 RESOURCE ID: gofest2025_maxfinale_base_track_title
-TEXT: GO Pass: Max Finale
+TEXT: บัตรผ่าน GO: ฟินาเลแมกซ์
 
 RESOURCE ID: gofest2025_maxfinale_event_duration
-TEXT: August 18 – August 24
+TEXT: 18 สิงหาคม - 24 สิงหาคม
 
 RESOURCE ID: gofest2025_maxfinale_event_pass_details_link
-TEXT: For more details, visit the <a href="https://pokemongo.com/gofestmaxfinale">website</a>.
+TEXT: ตรวจสอบรายละเอียดได้ที่<a href="https://pokemongo.com/gofestmaxfinale">เว็บไซต์</a>นี้
 
 RESOURCE ID: gofest2025_maxfinale_event_pass_title
-TEXT: GO Fest: Max Finale
+TEXT: GO Fest: ฟินาเลแมกซ์
 
 RESOURCE ID: gofest2025_maxfinale_pass_track_upgrade_header_description
-TEXT: Earn additional rewards and instantly unlock an <b>increased chance to encounter Shiny Pokémon in Dynamax Battles</b>!
+TEXT: รับรางวัลเพิ่มเติมและ<b>เพิ่มโอกาสในการเผชิญหน้ากับโปเกมอนสีแตกต่างจากแบตเทิลไดแมกซ์</b>!
 
 RESOURCE ID: gofest2025_maxfinale_premium_track_title
-TEXT: GO Pass Deluxe: Max Finale
+TEXT: บัตรผ่าน GO Deluxe: ฟินาเลแมกซ์
 
 RESOURCE ID: gofest2025_maxfinale_upgrade_description
-TEXT: Purchase GO Pass Deluxe: Max Finale to unlock the following rewards!
+TEXT: ซื้อบัตรผ่าน GO Deluxe: ฟินาเลแมกซ์เพื่อปลดล็อกรางวัลต่อไปนี้!
 
-• A significant amount of Eternatus Candy and Eternatus Candy XL
-• Several encounters with Dynamax Pokémon
-• The Eternatus Helmet avatar item
-• And much more!
+- ลูกอมและลูกอม XL มุเก็นไดนาจำนวนมาก
+- การเผชิญหน้ากับโปเกมอนไดแมกซ์หลายครั้ง
+- ไอเท็มอวาตาร์หมวกกันน็อกมุเก็นไดนา
+- และอื่น ๆ
 
-Trainers can earn 50 bonus GO Points daily from August 18 to August 22, in addition to the points earned by Pass Tasks. There’s no limit on how many points can be earned during the global event on August 23 and 24!
+นอกเหนือจากแต้มที่ได้รับจากการทำภารกิจบัตรผ่านแล้ว เทรนเนอร์ยังสามารถรับแต้ม GO โบนัส 50 แต้มต่อวันได้ระหว่างวันที่ 18-22 สิงหาคม โปรดทราบว่าจะไม่มีการจำกัดจำนวนแต้มที่สามารถรับได้ในระหว่างอีเวนต์ทั่วโลกในวันที่ 23 และ 24 สิงหาคม!
 
-All encounters in GO Pass: Max Finale will be with Dynamax Pokémon!
+โปเกมอนที่เผชิญหน้าในบัตรผ่าน GO : ฟินาเลแมกซ์จะเป็นโปเกมอนไดแมกซ์ทั้งหมด
 
 RESOURCE ID: gofest_2025_finale_deluxe_event_pass_track_unlock_description
 TEXT: Earn additional rewards at each rank.
@@ -455,6 +748,10 @@ RESOURCE ID: item_event_ticket_evergreen_desc_adventurewk0729
 TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยแบบจำกัดเวลาพรีเมียม: สัปดาห์แห่งการผจญภัย
 ถึงวันที่ 3 สิงหาคม 2025 เวลา 20:00 น. ตามเวลาท้องถิ่นทั่วโลก
 
+RESOURCE ID: item_event_ticket_evergreen_desc_gbw_wcs_aug25
+TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยแบบจำกัดเวลาพรีเมียม: 2025 WCS
+ตั้งแต่วันที่ 15 สิงหาคม เวลา 10:00 น. ถึงวันที่ 17 สิงหาคม 2025 เวลา 20:00 น. ตามเวลาท้องถิ่นไม่ว่าคุณจะอยู่ที่ใด
+
 RESOURCE ID: item_event_ticket_evergreen_desc_munchlax0825
 TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยแบบจำกัดเวลาพรีเมียม: วันฟักไข่กอนเบะ
 ถึงวันที่ 9 สิงหาคม 2025 เวลา 17:00 น. ตามเวลาท้องถิ่นทั่วโลก
@@ -466,6 +763,12 @@ TEXT: ตั๋วสำหรับเข้าร่วมงานวิจ�
 RESOURCE ID: item_event_ticket_evergreen_details_adventurewk0729
 TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยแบบจำกัดเวลาพรีเมียม: สัปดาห์แห่งการผจญภัย
 ในวันที่ 29 กรกฎาคม
+คุณจะสามารถเข้าร่วมได้โดยอัตโนมัติ
+ตามเวลาท้องถิ่นทั่วโลก
+
+RESOURCE ID: item_event_ticket_evergreen_details_gbw_wcs_aug25
+TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยแบบจำกัดเวลาพรีเมียม: 2025 WCS
+ในวันที่ 15 สิงหาคม
 คุณจะสามารถเข้าร่วมได้โดยอัตโนมัติ
 ตามเวลาท้องถิ่นทั่วโลก
 
@@ -563,6 +866,39 @@ TEXT: ฉลองเทศกาลน้ำ 2025! กำลังแจกง�
 RESOURCE ID: kr_festival_tr_location_background
 TEXT: โปเกมอนที่ถูกจับจากภารกิจงานวิจัยแบบจำกัดเวลาอาจมีพื้นหลังสถานที่พิเศษ
 
+RESOURCE ID: kr_lotteworld_collab_2025_tag
+TEXT: Sweet Spooky World
+
+RESOURCE ID: kr_lotteworld_collab_2025_themed_park_bonus
+TEXT: Sweet Spooky World - Lotte World Bonus
+
+RESOURCE ID: kr_lotteworld_collab_2025_title
+TEXT: Sweet Spooky World
+
+RESOURCE ID: kr_lotteworld_collab_2025_tr_name
+TEXT: Sweet Spooky World Timed Research
+
+RESOURCE ID: kr_lotteworld_collab_2025_tr_name_1
+TEXT: Sweet Spooky World Timed Research (1/4)
+
+RESOURCE ID: kr_lotteworld_collab_2025_tr_name_2
+TEXT: Sweet Spooky World Timed Research (2/4)
+
+RESOURCE ID: kr_lotteworld_collab_2025_tr_name_3
+TEXT: Sweet Spooky World Timed Research (3/4)
+
+RESOURCE ID: kr_lotteworld_collab_2025_tr_name_4
+TEXT: Sweet Spooky World Timed Research (4/4)
+
+RESOURCE ID: kr_lotteworld_collab_event_raid
+TEXT: Gengar wearing a Spooky Festival costume appears in event raids
+
+RESOURCE ID: kr_lotteworld_collab_photobomb_announcing
+TEXT: Catch Misdreavus via GO Snapshot to complete the Collection Challenge
+
+RESOURCE ID: kr_lotteworld_collab_sep2025_cc
+TEXT: Sweet Spooky World Collection Challenge
+
 RESOURCE ID: kr_summer_festival_2025_daily_tr_name
 TEXT: งานวิจัยแบบจำกัดเวลาเทศกาลน้ำ
 
@@ -633,22 +969,28 @@ RESOURCE ID: max_boost.3_description
 TEXT: เห็ดที่เมื่อใช้ในแบตเทิลแมกซ์ จะทำให้โปเกมอนสร้างแดเมจ 2 เท่าเป็นเวลา 30 นาที เซ็ต 3 ชิ้นสุดคุ้ม
 
 RESOURCE ID: maxfinale_2025_ep_bonus_title
-TEXT: GO Pass: Max Finale Pass Bonuses
+TEXT: โบนัสบัตรผ่านของบัตรผ่าน GO: ฟินาเลแมกซ์
 
 RESOURCE ID: maxfinale_2025_ep_bonus_title_00
-TEXT: Tier 1 GO Pass: Max Finale Bonuses
+TEXT: โบนัสบัตรผ่าน GO: ฟินาเลแมกซ์ Tier 1
 
 RESOURCE ID: maxfinale_2025_ep_bonus_title_01
-TEXT: Tier 2 GO Pass: Max Finale Bonuses
+TEXT: โบนัสบัตรผ่าน GO: ฟินาเลแมกซ์ Tier 2
 
 RESOURCE ID: maxfinale_2025_ep_bonus_title_02
-TEXT: Tier 3 GO Pass: Max Finale Bonuses
+TEXT: โบนัสบัตรผ่าน GO: ฟินาเลแมกซ์ Tier 3
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2025-08-04T23:33:01.550075+00:00 for th-TH
-at SHA 2aa7db60b5c
-Pipeline 3306506, job 44142216
-Patch from: 0.371.0-SHA-a128ea7f-RC2, 0.373.0-SHA-fca12fca-RC3, 0.375.0-SHA-1124c099-RC1
+TEXT: Built at 2025-08-08T21:47:37.117424+00:00 for th-TH
+at SHA 50de79f0c83
+Pipeline 3313940, job 44395047
+Patch from: 0.375.0-SHA-efbdf7b6-RC2, 0.373.2-SHA-2d618a35-RC1, 0.373.1-SHA-5367caef-RC1
+
+RESOURCE ID: minicollect_help_desc_type_bread
+TEXT: Collect Dynamax Pokémon.
+
+RESOURCE ID: minicollect_help_desc_type_dough
+TEXT: Collect Gigantamax Pokémon.
 
 RESOURCE ID: move_name_0482
 TEXT: ปืนใหญ่ไดแมกซ์
@@ -688,6 +1030,9 @@ TEXT: ปลดล็อกอัลตร้า: วันตีบอสดั
 
 RESOURCE ID: photobomb_five_rookidee
 TEXT: โคโคการะแย่งซีนถ่ายรูปในโกสแนปช็อต 5 ครั้ง
+
+RESOURCE ID: photobomb_three_misdreavus
+TEXT: 3 surprise encounters with Misdreavus in GO Snapshot per day
 
 RESOURCE ID: pokemon_desc_0890_2581
 TEXT: มีพลังอันไร้ขีดจำกัด
@@ -852,43 +1197,77 @@ RESOURCE ID: prefecture_yamanashi
 TEXT: ยามานาชิ
 
 RESOURCE ID: quest_catch_galar_starters
-TEXT: Catch {0} Grookey, Scorbunny, or Sobble
+TEXT: จับซารุโนริ, ฮิบานี หรือเมซซอน {0} ตัว
 
 RESOURCE ID: quest_catch_pokemon_galar
-TEXT: Catch {0} Pokémon originally discovered in the Galar Region
+TEXT: จับโปเกมอนที่ถูกค้นพบครั้งแรก
+ในภูมิภาคกาลาร์ {0} ตัว
 
 RESOURCE ID: quest_catch_zacian
-TEXT: Catch a Zacian
+TEXT: จับซาเชียน
 
 RESOURCE ID: quest_catch_zamazenta
-TEXT: Catch a Zamazenta
+TEXT: จับซามาเซนตา
+
+RESOURCE ID: quest_directive_emax_win
+TEXT: เอาชนะมุเก็นไดนา (มุเก็นไดแมกซ์) ในแบตเทิลแมกซ์
 
 RESOURCE ID: quest_directive_gmax_win
-TEXT: Win a Gigantamax Battle
+TEXT: ชนะแบตเทิลกิกะแมกซ์ 1 ครั้ง
 
 RESOURCE ID: quest_directive_t1_dmax_win
-TEXT: Win a one-star Dynamax Battle
+TEXT: ชนะแบตเทิลไดแมกซ์หนึ่งดาว 1 ครั้ง
 
 RESOURCE ID: quest_directive_t2_t3_dmax_win
-TEXT: Win a two- or three-star Dynamax Battle
+TEXT: ชนะแบตเทิลไดแมกซ์สองดาวหรือสามดาว 1 ครั้ง
 
 RESOURCE ID: quest_directive_t4_t5_dmax_win
-TEXT: Win a four- or five-star Dynamax Battle
+TEXT: ชนะแบตเทิลไดแมกซ์สี่ดาวหรือห้าดาว 1 ครั้ง
+
+RESOURCE ID: quest_event_eevee_snapshot_amsterdam
+TEXT: Take a snapshot of your Eevee in Amsterdam
+
+RESOURCE ID: quest_event_eevee_snapshot_bangkok
+TEXT: Take a snapshot of your Eevee in Bangkok
+
+RESOURCE ID: quest_event_eevee_snapshot_cancun
+TEXT: Take a snapshot of your Eevee in Cancún
+
+RESOURCE ID: quest_event_eevee_snapshot_valencia
+TEXT: Take a snapshot of your Eevee in Valencia
+
+RESOURCE ID: quest_event_eevee_snapshot_vancouver
+TEXT: Take a snapshot of your Eevee in Vancouver
+
+RESOURCE ID: quest_event_spin_amsterdam
+TEXT: Spin a PokéStop or Gym in Amsterdam
+
+RESOURCE ID: quest_event_spin_bangkok
+TEXT: Spin a PokéStop or Gym in Bangkok
+
+RESOURCE ID: quest_event_spin_cancun
+TEXT: Spin a PokéStop or Gym in Cancún
+
+RESOURCE ID: quest_event_spin_valencia
+TEXT: Spin a PokéStop or Gym in Valencia
+
+RESOURCE ID: quest_event_spin_vancouver
+TEXT: Spin a PokéStop or Gym in Vancouver
 
 RESOURCE ID: quest_power_up_darumaka_plural
 TEXT: พาวเวอร์อัปดารุมักกะ {0} ครั้ง
 
 RESOURCE ID: quest_power_up_fairy_fighting
-TEXT: Power up Fairy- or Fighting-type Pokémon {0} times
+TEXT: พาวเวอร์อัปโปเกมอนประเภทแฟรี่หรือต่อสู้ {0} ครั้ง
 
 RESOURCE ID: quest_power_up_passimian_plural
 TEXT: พาวเวอร์อัปนาเกสึเคซารุ {0} ครั้ง
 
 RESOURCE ID: quest_raid_t1_win
-TEXT: Win a one-star raid
+TEXT: ชนะตีบอสหนึ่งดาว
 
 RESOURCE ID: quest_raid_t3_win
-TEXT: Win a three-star raid
+TEXT: ชนะตีบอสสามดาว
 
 RESOURCE ID: quest_rookidee_catch_b
 TEXT: จับโคโคการะ {0} ตัว
@@ -906,16 +1285,16 @@ RESOURCE ID: quest_title_rookidee_2
 TEXT: ลูกนกน้อย คล้อยฝันไกล (3/3)
 
 RESOURCE ID: quest_wcs_anaheim_scav_hunt_00
-TEXT: Spin the Pokémon GO Zone PokéStop
+TEXT: หมุนเสาโปเกสต็อปที่ Pokémon GO Zone
 
 RESOURCE ID: quest_wcs_anaheim_scav_hunt_01
-TEXT: Spin the Pokémon Play Lab PokéStop
+TEXT: หมุนเสาโปเกสต็อปที่ Pokémon Play Lab
 
 RESOURCE ID: quest_wcs_anaheim_scav_hunt_02
-TEXT: Spin the Welcome to Worlds 2025! PokéStop
+TEXT: หมุนเสาโปเกสต็อปที่ Welcome to Worlds 2025!
 
 RESOURCE ID: quest_wcs_anaheim_scav_hunt_03
-TEXT: Spin the Pokémon WCS Arena PokéStop
+TEXT: หมุนเสาโปเกสต็อปที่ Pokémon WCS Arena
 
 RESOURCE ID: quests_completed_story_quests_collapsed_header
 TEXT: เสร็จสิ้น ({0})
@@ -942,7 +1321,7 @@ RESOURCE ID: region_kyushu_okinawa
 TEXT: คิวชู・โอกินาวะ
 
 RESOURCE ID: remote_max_battler_box
-TEXT: Remote Max Battler Box
+TEXT: กล่องนักแบตเทิลแมกซ์ระยะไกล
 
 RESOURCE ID: research_day_fossil_tr_name_amaura
 TEXT: งานวิจัยแบบจำกัดเวลาพรีเมียม: อมารุส
@@ -984,6 +1363,69 @@ TEXT: เส้นทางรางวัล คือ โปรแกรมร
 
 RESOURCE ID: rewarded_spend_helpshift_footer
 TEXT: ตรวจสอบรายละเอียดได้ที่<a href="{0}">เว็บไซต์</a>นี้
+
+RESOURCE ID: s19_tgr_takeover_collection_challenge
+TEXT: คำท้านักสะสม
+
+RESOURCE ID: safari_city_2025_amsterdam_title
+TEXT: City Safari: Amsterdam 2025
+
+RESOURCE ID: safari_city_2025_amsterdam_title_00
+TEXT: City Safari: Amsterdam 2025 (1/3)
+
+RESOURCE ID: safari_city_2025_amsterdam_title_01
+TEXT: City Safari: Amsterdam 2025 (2/3)
+
+RESOURCE ID: safari_city_2025_amsterdam_title_02
+TEXT: City Safari: Amsterdam 2025 (3/3)
+
+RESOURCE ID: safari_city_2025_bangkok_title
+TEXT: City Safari: Bangkok 2025
+
+RESOURCE ID: safari_city_2025_bangkok_title_00
+TEXT: City Safari: Bangkok 2025 (1/3)
+
+RESOURCE ID: safari_city_2025_bangkok_title_01
+TEXT: City Safari: Bangkok 2025 (2/3)
+
+RESOURCE ID: safari_city_2025_bangkok_title_02
+TEXT: City Safari: Bangkok 2025 (3/3)
+
+RESOURCE ID: safari_city_2025_cancun_title
+TEXT: City Safari: Cancún 2025
+
+RESOURCE ID: safari_city_2025_cancun_title_00
+TEXT: City Safari: Cancún 2025 (1/3)
+
+RESOURCE ID: safari_city_2025_cancun_title_01
+TEXT: City Safari: Cancún 2025 (2/3)
+
+RESOURCE ID: safari_city_2025_cancun_title_02
+TEXT: City Safari: Cancún 2025 (3/3)
+
+RESOURCE ID: safari_city_2025_valencia_title
+TEXT: City Safari: Valencia 2025
+
+RESOURCE ID: safari_city_2025_valencia_title_00
+TEXT: City Safari: Valencia 2025 (1/3)
+
+RESOURCE ID: safari_city_2025_valencia_title_01
+TEXT: City Safari: Valencia 2025 (2/3)
+
+RESOURCE ID: safari_city_2025_valencia_title_02
+TEXT: City Safari: Valencia 2025 (3/3)
+
+RESOURCE ID: safari_city_2025_vancouver_title
+TEXT: City Safari: Vancouver 2025
+
+RESOURCE ID: safari_city_2025_vancouver_title_00
+TEXT: City Safari: Vancouver 2025 (1/3)
+
+RESOURCE ID: safari_city_2025_vancouver_title_01
+TEXT: City Safari: Vancouver 2025 (2/3)
+
+RESOURCE ID: safari_city_2025_vancouver_title_02
+TEXT: City Safari: Vancouver 2025 (3/3)
 
 RESOURCE ID: season_19_tgr_sr_1
 TEXT: วันแสนรื่นรมย์: ยึดครอง (1/5)
@@ -1158,6 +1600,12 @@ TEXT: งานวิจัยแบบจำกัดเวลานี้จ�
 งานวิจัยแบบจำกัดเวลานี้จะใช้งานได้
 ในวันที่ 2 สิงหาคม 2025 เวลา 14:00-17:00 น. ตามเวลาท้องถิ่น
 
+RESOURCE ID: text_rewards_key_gbw_wcs_aug25
+TEXT: <b>รางวัลที่จะได้รับ:</b>
+- การเผชิญหน้ากับเบโรรินกา, ลาพลาซ, มาริลลิ, ยามิรามิ, มารุโนม, เนนดอลล์, เมเลซี, อคูจิคิง และเอ็กซ์เลก
+- บัตรแบตเทิลพรีเมียม 1 ใบ
+- 25,000 สตาร์ดัสต์
+
 RESOURCE ID: text_rewards_key_gmaxbutterfree25
 TEXT: <b>สิ่งที่จะได้รับ:</b>
 - รวบรวมเพิ่มเติมได้ถึง 4,000 อนุภาคแมกซ์จากพาวเวอร์สป็อตและการสำรวจ
@@ -1276,7 +1724,7 @@ RESOURCE ID: title_tr_go_fest_max_finale_2025_00
 TEXT: งานวิจัยแบบจำกัดเวลา GO Fest: ฟินาเลแมกซ์ (1/2)
 
 RESOURCE ID: title_tr_go_fest_max_finale_2025_01
-TEXT: GO Fest: Max Finale Timed Research (2/2)
+TEXT: งานวิจัยแบบจำกัดเวลา GO Fest: ฟินาเลแมกซ์ (2/2)
 
 RESOURCE ID: title_tr_max_mystery
 TEXT: งานวิจัยแบบจำกัดเวลาโบนัสปริศนาแห่งแมกซ์
@@ -1358,6 +1806,9 @@ TEXT: เลือกเส้นทางนี้เพื่อฝึกฝ�
 
 RESOURCE ID: wcs_anaheim2025_collection_challenge
 TEXT: คำท้านักสะสมสวนส้ม
+
+RESOURCE ID: wcs_aug25_tr_title
+TEXT: งานวิจัยแบบจำกัดเวลาพรีเมียม: 2025 WCS
 
 RESOURCE ID: yokohama
 TEXT: 
