@@ -4,6 +4,9 @@ TEXT: ภารกิจรายวันบัตรผ่าน GO: สิง
 RESOURCE ID: august_weekly_quests_title
 TEXT: ภารกิจรายสัปดาห์บัตรผ่าน GO: สิงหาคม
 
+RESOURCE ID: avatar_bag_pinapberry
+TEXT: กระเป๋าผลไพน์
+
 RESOURCE ID: avatar_hat_eternatus
 TEXT: หมวกกันน็อกมุเก็นไดนา
 
@@ -36,6 +39,9 @@ TEXT: เสื้อยืด WCS 2025 (สีเหลือง)
 
 RESOURCE ID: avatar_shoes_eternatus
 TEXT: รองเท้ามุเก็นไดนา
+
+RESOURCE ID: badge_detail_reward_header
+TEXT: Rewards
 
 RESOURCE ID: badge_safari_2025_amsterdam_add_on_hatch
 TEXT: Amsterdam 2025
@@ -266,7 +272,7 @@ RESOURCE ID: bonus_desc_machamp_payback
 TEXT: วิวัฒนาการโกริกีเป็นไคริกีที่รู้ท่าโจมตีชาร์จ "เอาคืน"
 
 RESOURCE ID: bonus_dmax_shiny_chance_increase
-TEXT: เพิ่มโอกาสเผชิญหน้ากับโปเกมอนสีแตกต่างจากการเผชิญหน้ากับโปเกมอนไดแมกซ์
+TEXT: โอกาสเพิ่มขึ้นที่จะได้เผชิญหน้ากับโปเกมอนไดแมกซ์สีแตกต่างในแบตเทิลไดแมกซ์หนึ่งดาวถึงสี่ดาว
 
 RESOURCE ID: bonus_ee_appearance
 TEXT: มุเก็นไดนา (มุเก็นไดแมกซ์) กำลังปรากฏตัวในแบตเทิลแมกซ์พิเศษ
@@ -326,7 +332,7 @@ RESOURCE ID: bonus_feature_gmax_venusaur
 TEXT: โปเกมอนเด่นชั่วโมงนี้: ฟุชิกิบานะกิกะแมกซ์
 
 RESOURCE ID: bonus_increased_shiny_short
-TEXT: Increased Shiny Pokémon Chance
+TEXT: เผชิญหน้ากับโปเกมอนสีแตกต่างง่ายขึ้น
 
 RESOURCE ID: bonus_power_spot_bonus_spawn
 TEXT: เพิ่มโอกาสเผชิญหน้ากับโปเกมอนที่พาวเวอร์สป็อต
@@ -368,7 +374,16 @@ RESOURCE ID: bread_move_upgrade_unlocked
 TEXT: ปลดล็อก+
 
 RESOURCE ID: bread_remote_use_rrp_confirmation_no_limits
-TEXT: Max Particles are only used when you win. A Remote Raid Pass will be used when the battle starts.
+TEXT: อนุภาคแมกซ์จะถูกใช้งานเมื่อคุณชนะ ส่วนบัตรตีบอสระยะไกลจะถูกใช้งานเมื่อแบตเทิลเริ่มขึ้น
+
+RESOURCE ID: city_manhole_253
+TEXT: Iitate
+
+RESOURCE ID: city_manhole_255
+TEXT: Futaba
+
+RESOURCE ID: city_manhole_91
+TEXT: Namie
 
 RESOURCE ID: community_day_rookidee_event_name
 TEXT: คอมมิวนิตี้เดย์: โคโคการะ
@@ -441,14 +456,25 @@ RESOURCE ID: event_datetime_range_key_gbw_wcs_aug25
 TEXT: 15 สิงหาคม เวลา 10:00 น.
 ถึง 17 สิงหาคม เวลา 20:00 น.
 
+RESOURCE ID: event_datetime_range_key_megagyaradosraidday
+TEXT: 31 สิงหาคม เวลา 14:00-17:00 น.
+
 RESOURCE ID: event_datetime_range_key_munchlax0825
 TEXT: 9 สิงหาคม เวลา 11:00-17:00 น.
 
 RESOURCE ID: event_datetime_range_key_originraidday
 TEXT: 10 สิงหาคม เวลา 11:00-17:00 น.
 
+RESOURCE ID: event_datetime_range_key_sunkissedctr0825
+TEXT: 25 สิงหาคม เวลา 10:00 น.
+ถึง 31 สิงหาคม เวลา 20:00 น.
+
+RESOURCE ID: event_datetime_range_key_sunkissedetr0825
+TEXT: 25 สิงหาคม เวลา 10:00 น.
+ถึง 31 สิงหาคม เวลา 20:00 น.
+
 RESOURCE ID: event_pass_premium_reward_banner_bottom_text_60
-TEXT: Awarded at Rank 60
+TEXT: ได้รับเมื่อถึงระดับ 60
 
 RESOURCE ID: event_pass_title_max_finale_2025
 TEXT: บัตรผ่าน GO: ฟินาเลแมกซ์
@@ -471,11 +497,26 @@ TEXT: มุเก็นไดนา
 RESOURCE ID: fossil_research_day_event_name
 TEXT: วันวิจัยฟอสซิล
 
+RESOURCE ID: friends_list_pending_invites_section_header
+TEXT: คำเชิญที่รอดำเนินการ
+
+RESOURCE ID: friends_list_section_header
+TEXT: รายชื่อเพื่อน
+
+RESOURCE ID: friends_mutual_friends_count_plural
+TEXT: เพื่อนร่วมกัน {0} คน
+
+RESOURCE ID: friends_mutual_friends_count_singular
+TEXT: เพื่อนร่วมกัน 1 คน
+
 RESOURCE ID: general1.ticket.2_cozyco25_title
 TEXT: ตั๋วงานวิจัยแบบจำกัดเวลาพรีเมียม: สหายแสนสบาย
 
 RESOURCE ID: general1.ticket.2_fossil_researchtr2025_title
 TEXT: ตั๋วงานวิจัยแบบจำกัดเวลาพรีเมียม: วันวิจัยฟอสซิล
+
+RESOURCE ID: general1.ticket.5_megagyaradosraidday_title
+TEXT: ตั๋ว "วันตีบอสเมก้าเกียราดอส"
 
 RESOURCE ID: general1.ticket._adventurewk0729_title
 TEXT: ตั๋วงานวิจัยแบบจำกัดเวลาพรีเมียม: สัปดาห์แห่งการผจญภัย
@@ -489,8 +530,20 @@ TEXT: ตั๋วงานวิจัยแบบจำกัดเวลา�
 RESOURCE ID: general1.ticket._originraidday_title
 TEXT: ตั๋ววันตีบอสดั้งเดิม
 
+RESOURCE ID: general1.ticket._sunkissedctr0825_title
+TEXT: ตั๋วงานวิจัยแบบจำกัดเวลาพรีเมียม: แต่งตัวรับลมร้อน
+
+RESOURCE ID: general1.ticket._sunkissedetr0825_title
+TEXT: ตั๋วงานวิจัยแบบจำกัดเวลาพรีเมียม: ชายฝั่งอาบแสง
+
 RESOURCE ID: general1.ticket_cd_rookidee25_title
 TEXT: ตั๋วโคโคการะคอมมิวนิตี้เดย์
+
+RESOURCE ID: general_minutes_remaining
+TEXT: {0}m
+
+RESOURCE ID: general_seconds_remaining
+TEXT: {0}s
 
 RESOURCE ID: go_fest_max_finale_2025_tr_00_00
 TEXT: %PLAYERNAME% ได้พบเธอในช่วงเวลา
@@ -586,6 +639,7 @@ TEXT: บัตรผ่าน GO Deluxe: ฟินาเลแมกซ์
 RESOURCE ID: gofest2025_maxfinale_upgrade_description
 TEXT: ซื้อบัตรผ่าน GO Deluxe: ฟินาเลแมกซ์เพื่อปลดล็อกรางวัลต่อไปนี้!
 
+- โอกาสเพิ่มขึ้นที่จะได้เผชิญหน้ากับโปเกมอนไดแมกซ์สีแตกต่างในแบตเทิลไดแมกซ์หนึ่งดาวถึงสี่ดาว
 - ลูกอมและลูกอม XL มุเก็นไดนาจำนวนมาก
 - การเผชิญหน้ากับโปเกมอนไดแมกซ์หลายครั้ง
 - ไอเท็มอวาตาร์หมวกกันน็อกมุเก็นไดนา
@@ -596,16 +650,16 @@ TEXT: ซื้อบัตรผ่าน GO Deluxe: ฟินาเลแม�
 โปเกมอนที่เผชิญหน้าในบัตรผ่าน GO : ฟินาเลแมกซ์จะเป็นโปเกมอนไดแมกซ์ทั้งหมด
 
 RESOURCE ID: gofest_2025_finale_deluxe_event_pass_track_unlock_description
-TEXT: Earn additional rewards at each rank.
+TEXT: รับรางวัลเพิ่มเติมในแต่ละระดับ
 
 RESOURCE ID: gofest_2025_finale_deluxe_event_pass_track_unlock_plus_points_description
-TEXT: Earn additional rewards at each rank and instantly gain 10 ranks.
+TEXT: รับรางวัลเพิ่มเติมในแต่ละระดับ และระดับเพิ่มขึ้น 10 ระดับทันที
 
 RESOURCE ID: gofest_2025_finale_deluxe_event_pass_track_unlock_plus_points_title
-TEXT: GO Pass Deluxe: Max Finale + 10 Ranks
+TEXT: บัตรผ่าน GO Deluxe: ฟินาเลแมกซ์ + 10 ระดับ
 
 RESOURCE ID: gofest_2025_finale_deluxe_event_pass_track_unlock_title
-TEXT: GO Pass Deluxe: Max Finale
+TEXT: บัตรผ่าน GO Deluxe: ฟินาเลแมกซ์
 
 RESOURCE ID: item_event_ticket_evergreen_desc_adventurewk0729
 TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยแบบจำกัดเวลาพรีเมียม: สัปดาห์แห่งการผจญภัย
@@ -618,6 +672,14 @@ TEXT: ตั๋วสำหรับเข้าร่วมงานวิจ�
 RESOURCE ID: item_event_ticket_evergreen_desc_munchlax0825
 TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยแบบจำกัดเวลาพรีเมียม: วันฟักไข่กอนเบะ
 ถึงวันที่ 9 สิงหาคม 2025 เวลา 17:00 น. ตามเวลาท้องถิ่นทั่วโลก
+
+RESOURCE ID: item_event_ticket_evergreen_desc_sunkissedctr0825
+TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยแบบจำกัดเวลาพรีเมียม: แต่งตัวรับลมร้อน
+ถึงวันที่ 31 สิงหาคม 2025 เวลา 20:00 น. ตามเวลาท้องถิ่นทั่วโลก
+
+RESOURCE ID: item_event_ticket_evergreen_desc_sunkissedetr0825
+TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยแบบจำกัดเวลาพรีเมียม: ชายฝั่งอาบแสง
+ถึงวันที่ 31 สิงหาคม 2025 เวลา 20:00 น. ตามเวลาท้องถิ่นทั่วโลก
 
 RESOURCE ID: item_event_ticket_evergreen_details_adventurewk0729
 TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยแบบจำกัดเวลาพรีเมียม: สัปดาห์แห่งการผจญภัย
@@ -637,9 +699,32 @@ TEXT: ตั๋วสำหรับเข้าร่วมงานวิจ�
 คุณจะสามารถเข้าร่วมได้โดยอัตโนมัติ
 ตามเวลาท้องถิ่นทั่วโลก
 
+RESOURCE ID: item_event_ticket_evergreen_details_sunkissedctr0825
+TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยแบบจำกัดเวลาพรีเมียม: แต่งตัวรับลมร้อน
+ในวันที่ 25 สิงหาคม
+คุณจะสามารถเข้าร่วมได้โดยอัตโนมัติ
+ตามเวลาท้องถิ่นทั่วโลก
+
+RESOURCE ID: item_event_ticket_evergreen_details_sunkissedetr0825
+TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยแบบจำกัดเวลาพรีเมียม: ชายฝั่งอาบแสง
+ในวันที่ 25 สิงหาคม
+คุณจะสามารถเข้าร่วมได้โดยอัตโนมัติ
+ตามเวลาท้องถิ่นทั่วโลก
+
+RESOURCE ID: item_event_ticket_gray_desc_megagyaradosraidday
+TEXT: ตั๋วสำหรับรับโบนัสพิเศษในวันที่
+31 สิงหาคม 2025 เวลา 14:00-17:00 น.
+ตามเวลาท้องถิ่นทั่วโลก
+
 RESOURCE ID: item_event_ticket_gray_desc_originraidday
 TEXT: ตั๋วสำหรับรับโบนัสพิเศษในวันที่
 10 สิงหาคม 2025 เวลา 11:00-17:00 น.
+ตามเวลาท้องถิ่นทั่วโลก
+
+RESOURCE ID: item_event_ticket_gray_details_megagyaradosraidday
+TEXT: ตั๋วสำหรับรับโบนัสพิเศษ
+ในวันที่ 31 สิงหาคม
+คุณจะสามารถเข้าร่วมได้โดยอัตโนมัติ
 ตามเวลาท้องถิ่นทั่วโลก
 
 RESOURCE ID: item_event_ticket_gray_details_originraidday
@@ -715,6 +800,54 @@ TEXT: Catch Misdreavus via GO Snapshot to complete the Collection Challenge
 RESOURCE ID: kr_lotteworld_collab_sep2025_cc
 TEXT: Sweet Spooky World Collection Challenge
 
+RESOURCE ID: make_good_origin_dialga_desc
+TEXT: เผชิญหน้า: ดีอัลกา (ฟอร์มดั้งเดิม)
+
+RESOURCE ID: make_good_origin_dialga_title_001
+TEXT: เผชิญหน้า: ดีอัลกา (ฟอร์มดั้งเดิม) 1
+
+RESOURCE ID: make_good_origin_dialga_title_002
+TEXT: เผชิญหน้า: ดีอัลกา (ฟอร์มดั้งเดิม) 2
+
+RESOURCE ID: make_good_origin_dialga_title_003
+TEXT: เผชิญหน้า: ดีอัลกา (ฟอร์มดั้งเดิม) 3
+
+RESOURCE ID: make_good_origin_dialga_title_004
+TEXT: เผชิญหน้า: ดีอัลกา (ฟอร์มดั้งเดิม) 4
+
+RESOURCE ID: make_good_origin_dialga_title_005
+TEXT: เผชิญหน้า: ดีอัลกา (ฟอร์มดั้งเดิม) 5
+
+RESOURCE ID: make_good_origin_dialga_title_006
+TEXT: เผชิญหน้า: ดีอัลกา (ฟอร์มดั้งเดิม) 6
+
+RESOURCE ID: make_good_origin_dialga_title_007
+TEXT: เผชิญหน้า: ดีอัลกา (ฟอร์มดั้งเดิม) 7
+
+RESOURCE ID: make_good_origin_palkia_desc
+TEXT: เผชิญหน้า: พัลเกีย (ฟอร์มดั้งเดิม)
+
+RESOURCE ID: make_good_origin_palkia_title_001
+TEXT: เผชิญหน้า: พัลเกีย (ฟอร์มดั้งเดิม) 1
+
+RESOURCE ID: make_good_origin_palkia_title_002
+TEXT: เผชิญหน้า: พัลเกีย (ฟอร์มดั้งเดิม) 2
+
+RESOURCE ID: make_good_origin_palkia_title_003
+TEXT: เผชิญหน้า: พัลเกีย (ฟอร์มดั้งเดิม) 3
+
+RESOURCE ID: make_good_origin_palkia_title_004
+TEXT: เผชิญหน้า: พัลเกีย (ฟอร์มดั้งเดิม) 4
+
+RESOURCE ID: make_good_origin_palkia_title_005
+TEXT: เผชิญหน้า: พัลเกีย (ฟอร์มดั้งเดิม) 5
+
+RESOURCE ID: make_good_origin_palkia_title_006
+TEXT: เผชิญหน้า: พัลเกีย (ฟอร์มดั้งเดิม) 6
+
+RESOURCE ID: make_good_origin_palkia_title_007
+TEXT: เผชิญหน้า: พัลเกีย (ฟอร์มดั้งเดิม) 7
+
 RESOURCE ID: maxfinale_2025_ep_bonus_title
 TEXT: โบนัสบัตรผ่านของบัตรผ่าน GO: ฟินาเลแมกซ์
 
@@ -728,22 +861,25 @@ RESOURCE ID: maxfinale_2025_ep_bonus_title_02
 TEXT: โบนัสบัตรผ่าน GO: ฟินาเลแมกซ์ Tier 3
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2025-08-12T00:24:01.171495+00:00 for th-TH
-at SHA eed65239724
-Pipeline 3316123, job 44479314
-Patch from: 0.375.0-SHA-1124c099-RC1, 0.373.2-SHA-2d618a35-RC1
+TEXT: Built at 2025-08-21T01:34:15.421207+00:00 for th-TH
+at SHA f6a1106b4b8
+Pipeline 3332817, job 45040092
+Patch from: 0.373.2-SHA-2d618a35-RC1, 0.375.0-SHA-e10d5ed3-RC4, 0.377.0-SHA-66580fe4-RC1
 
 RESOURCE ID: minicollect_help_desc_type_bread
-TEXT: Collect Dynamax Pokémon.
+TEXT: รวบรวมโปเกมอนไดแมกซ์
 
 RESOURCE ID: minicollect_help_desc_type_dough
-TEXT: Collect Gigantamax Pokémon.
+TEXT: รวบรวมโปเกมอนกิกะแมกซ์
 
 RESOURCE ID: move_name_0482
 TEXT: ปืนใหญ่ไดแมกซ์
 
 RESOURCE ID: move_name_0483
 TEXT: ปืนใหญ่ไดแมกซ์
+
+RESOURCE ID: move_name_0488
+TEXT: Chilling Water
 
 RESOURCE ID: munchlax_hatch_day_event_name
 TEXT: วันฟักไข่กอนเบะ
@@ -762,6 +898,9 @@ TEXT: ไม่สามารถเผชิญหน้า{0}ได้หล�
 
 RESOURCE ID: origin_raid_day_event_name
 TEXT: ปลดล็อกอัลตร้า: วันตีบอสดั้งเดิม
+
+RESOURCE ID: party_play_see_details_label
+TEXT: SEE DETAILS
 
 RESOURCE ID: photobomb_five_rookidee
 TEXT: โคโคการะแย่งซีนถ่ายรูปในโกสแนปช็อต 5 ครั้ง
@@ -789,6 +928,114 @@ RESOURCE ID: pokemon_desc_0890_2581
 TEXT: มีพลังอันไร้ขีดจำกัด
 ปล่อยออกมาจากแกนกลางที่ขยายยักษ์
 จนสามารถบิดเวลารอบ ๆ ได้
+
+RESOURCE ID: quest_battle_bug_charge_plural
+TEXT: Use a Bug-type Charged Attack in {0} battles
+
+RESOURCE ID: quest_battle_bug_charge_singular
+TEXT: Use a Bug-type Charged Attack in a battle
+
+RESOURCE ID: quest_battle_dark_charge_plural
+TEXT: Use a Dark-type Charged Attack in {0} battles
+
+RESOURCE ID: quest_battle_dark_charge_singular
+TEXT: Use a Dark-type Charged Attack in a battle
+
+RESOURCE ID: quest_battle_dragon_charge_plural
+TEXT: Use a Dragon-type Charged Attack in {0} battles
+
+RESOURCE ID: quest_battle_dragon_charge_singular
+TEXT: Use a Dragon-type Charged Attack in a battle
+
+RESOURCE ID: quest_battle_electric_charge_plural
+TEXT: Use an Electric-type Charged Attack in {0} battles
+
+RESOURCE ID: quest_battle_electric_charge_singular
+TEXT: Use an Electric-type Charged Attack in a battle
+
+RESOURCE ID: quest_battle_fairy_charge_plural
+TEXT: Use a Fairy-type Charged Attack in {0} battles
+
+RESOURCE ID: quest_battle_fairy_charge_singular
+TEXT: Use a Fairy-type Charged Attack in a battle
+
+RESOURCE ID: quest_battle_fighting_charge_plural
+TEXT: Use a Fighting-type Charged Attack in {0} battles
+
+RESOURCE ID: quest_battle_fighting_charge_singular
+TEXT: Use a Fighting-type Charged Attack in a battle
+
+RESOURCE ID: quest_battle_fire_charge_plural
+TEXT: Use a Fire-type Charged Attack in {0} battles
+
+RESOURCE ID: quest_battle_fire_charge_singular
+TEXT: Use a Fire-type Charged Attack in a battle
+
+RESOURCE ID: quest_battle_flying_charge_plural
+TEXT: Use a Flying-type Charged Attack in {0} battles
+
+RESOURCE ID: quest_battle_flying_charge_singular
+TEXT: Use a Flying-type Charged Attack in a battle
+
+RESOURCE ID: quest_battle_ghost_charge_plural
+TEXT: Use a Ghost-type Charged Attack in {0} battles
+
+RESOURCE ID: quest_battle_ghost_charge_singular
+TEXT: Use a Ghost-type Charged Attack in a battle
+
+RESOURCE ID: quest_battle_grass_charge_plural
+TEXT: Use a Grass-type Charged Attack in {0} battles
+
+RESOURCE ID: quest_battle_grass_charge_singular
+TEXT: Use a Grass-type Charged Attack in a battle
+
+RESOURCE ID: quest_battle_ground_charge_plural
+TEXT: Use a Ground-type Charged Attack in {0} battles
+
+RESOURCE ID: quest_battle_ground_charge_singular
+TEXT: Use a Ground-type Charged Attack in a battle
+
+RESOURCE ID: quest_battle_ice_charge_plural
+TEXT: Use an Ice-type Charged Attack in {0} battles
+
+RESOURCE ID: quest_battle_ice_charge_singular
+TEXT: Use an Ice-type Charged Attack in a battle
+
+RESOURCE ID: quest_battle_normal_charge_plural
+TEXT: Use a Normal-type Charged Attack in {0} battles
+
+RESOURCE ID: quest_battle_normal_charge_singular
+TEXT: Use a Normal-type Charged Attack in a battle
+
+RESOURCE ID: quest_battle_poison_charge_plural
+TEXT: Use a Poison-type Charged Attack in {0} battles
+
+RESOURCE ID: quest_battle_poison_charge_singular
+TEXT: Use a Poison-type Charged Attack in a battle
+
+RESOURCE ID: quest_battle_psychic_charge_plural
+TEXT: Use a Psychic-type Charged Attack in {0} battles
+
+RESOURCE ID: quest_battle_psychic_charge_singular
+TEXT: Use a Psychic-type Charged Attack in a battle
+
+RESOURCE ID: quest_battle_rock_charge_plural
+TEXT: Use a Rock-type Charged Attack in {0} battles
+
+RESOURCE ID: quest_battle_rock_charge_singular
+TEXT: Use a Rock-type Charged Attack in a battle
+
+RESOURCE ID: quest_battle_steel_charge_plural
+TEXT: Use a Steel-type Charged Attack in {0} battles
+
+RESOURCE ID: quest_battle_steel_charge_singular
+TEXT: Use a Steel-type Charged Attack in a battle
+
+RESOURCE ID: quest_battle_water_charge_plural
+TEXT: Use a Water-type Charged Attack in {0} battles
+
+RESOURCE ID: quest_battle_water_charge_singular
+TEXT: Use a Water-type Charged Attack in a battle
 
 RESOURCE ID: quest_catch_galar_starters
 TEXT: จับซารุโนริ, ฮิบานี หรือเมซซอน {0} ตัว
@@ -884,35 +1131,38 @@ TEXT: หมุนเสาโปเกสต็อปที่ Welcome to World
 RESOURCE ID: quest_wcs_anaheim_scav_hunt_03
 TEXT: หมุนเสาโปเกสต็อปที่ Pokémon WCS Arena
 
+RESOURCE ID: quest_win_raid_lvl1_plural
+TEXT: ชนะตีบอสหนึ่งดาว {0} ครั้ง
+
 RESOURCE ID: raid_hour_raids_five_shadow
 TEXT: เพิ่มจำนวนตีบอสชาโดว์ห้าดาว
 
 RESOURCE ID: rally_paris_2025_desc
-TEXT: Earn encounters with Charmander by completing the Rally!
+TEXT: Earn encounters with Charmander by completing the rally!
 
 RESOURCE ID: rally_paris_2025_desc_detail
-TEXT: Collect stamps by visiting GO Stamp Rally PokéStops, across a scenic route in the heart of Paris!
+TEXT: Collect stamps by visiting GO Stamp Rally PokéStops on a scenic path in the heart of Paris!
 
 RESOURCE ID: rally_paris_2025_location
 TEXT: Paris, France
 
 RESOURCE ID: rally_paris_2025_rewards_desc
-TEXT: Complete the GO Stamp Rally to earn encounters with Charmander while also collecting enough resources to Mega Evolve into Mega Charizard X or Mega Charizard Y.
+TEXT: Complete this stamp rally to earn encounters with Charmander while also collecting enough Mega Energy to Mega Evolve your Charizard into Mega Charizard X or Mega Charizard Y.
 
 RESOURCE ID: rally_paris_2025_stamp_description_1
-TEXT: This park is the closest to Les Halles, and a great place to relax, or participate in raids. Many trainers regroup there on Community Days due to its accessibility.
+TEXT: This park is the closest to Les Halles, and it’s a great place to relax or take on raids. Many Trainers meet there on Community Days due to its accessibility.
 
 RESOURCE ID: rally_paris_2025_stamp_description_2
-TEXT: Between the Louvre and the Saint-Germain-l'Auxerrois church, this spot offers a great view of Paris, while being close to the Seine river.
+TEXT: Between the Louvre and the Saint-Germain-l’Auxerrois church, this spot offers a great view of Paris by the Seine river.
 
 RESOURCE ID: rally_paris_2025_stamp_description_3
-TEXT: Place Colette is right in front of the "Salle Richelieu", hosting "La Comédie Française", France's most famous theater troupe.
+TEXT: Place Colette is right in front of the Salle Richelieu, which hosts La Comédie-Française, France’s most famous theatre troupe.
 
 RESOURCE ID: rally_paris_2025_stamp_description_4
-TEXT: This chalet is hiding under the Louvre and the Tuileries Garden, inside a mall built within Paris's old walls. You can see the inverted Pyramid of the Louvre, as well as multiple statues too!
+TEXT: This chalet hides under the Louvre and the Jardin des Tuileries, inside a mall built within Paris’s old walls. You can see the inverted pyramid of the Louvre, as well as multiple statues!
 
 RESOURCE ID: rally_paris_2025_stamp_description_5
-TEXT: At the start of Europe's most famous avenue, "Les Champs Élysées", you can visit one of Paris's first parks, laid out by famous achitect and designer, André Le Notre in 1667.
+TEXT: At the start of one of Europe’s most famous avenues, Les Champs-Élysées, you can visit one of Paris’s first parks, laid out by the famous architect and designer André Le Nôtre in 1667.
 
 RESOURCE ID: rally_paris_2025_stamp_description_6
 TEXT: The Westfield mall in Les Halles hosts the Lumiose City tourism hub.
@@ -995,6 +1245,18 @@ TEXT: City Safari: Vancouver 2025 (2/3)
 RESOURCE ID: safari_city_2025_vancouver_title_02
 TEXT: City Safari: Vancouver 2025 (3/3)
 
+RESOURCE ID: screen_social_title
+TEXT: โซเชียล
+
+RESOURCE ID: season19_finale_cosmetic_tr_name
+TEXT: งานวิจัยแบบจำกัดเวลาพรีเมียม: แต่งตัวรับลมร้อน
+
+RESOURCE ID: season19_finale_encounter_tr_name
+TEXT: งานวิจัยแบบจำกัดเวลาพรีเมียม: ชายฝั่งอาบแสง
+
+RESOURCE ID: season19_finale_free_tr_name
+TEXT: งานวิจัยแบบจำกัดเวลาชายฝั่งอาบแสง
+
 RESOURCE ID: season_19_tgr_sr_1
 TEXT: วันแสนรื่นรมย์: ยึดครอง (1/5)
 
@@ -1017,19 +1279,22 @@ RESOURCE ID: spawn_rookidee
 TEXT: โคโคการะปรากฏตัวออกมามากขึ้น!
 
 RESOURCE ID: special_trade_bonus_expiration
-TEXT: The bonus for additional Special Trades expired.
+TEXT: โบนัสแลกเปลี่ยนแบบพิเศษเพิ่มเติมหมดอายุ
 
 RESOURCE ID: special_trade_confirm_bonus
-TEXT: You have {0} Special Trade remaining.
+TEXT: แลกเปลี่ยนแบบพิเศษได้อีก {0} ครั้ง
 
 RESOURCE ID: special_trade_confirm_bonus_plural
-TEXT: You have {0} Special Trades remaining.
+TEXT: แลกเปลี่ยนแบบพิเศษได้อีก {0} ครั้ง
 
 RESOURCE ID: special_trade_per_day_plural
-TEXT: Up to {0} Special Trades per day.
+TEXT: แลกเปลี่ยนแบบพิเศษได้ {0} ครั้งต่อวัน
 
 RESOURCE ID: special_trade_remaining_select
-TEXT: Special Trades remaining: {0}
+TEXT: แลกเปลี่ยนแบบพิเศษคงเหลือ: {0} ครั้ง
+
+RESOURCE ID: sunkissed_shores_event_name
+TEXT: ชายฝั่งอาบแสง
 
 RESOURCE ID: surge_and_pokemon_escape
 TEXT: พลังงานอันรุนแรงผลักคุณออกไป และ{0}ได้หายไปแล้ว!
@@ -1093,6 +1358,13 @@ TEXT: <b>รางวัลที่จะได้รับ:</b>
 - บัตรแบตเทิลพรีเมียม 1 ใบ
 - 25,000 สตาร์ดัสต์
 
+RESOURCE ID: text_rewards_key_megagyaradosraidday
+TEXT: <b>โบนัสที่จะได้รับ:</b>
+- บัตรตีบอสเพิ่ม 8 ใบจากการหมุน
+แผ่นภาพที่ยิม
+- เพิ่มโอกาสได้รับลูกอมประหลาด XL จากตีบอส
+- เพิ่ม XP 50% และ 2× สตาร์ดัสต์เมื่อตีบอสเสร็จสิ้น
+
 RESOURCE ID: text_rewards_key_munchlax0825
 TEXT: <b>รางวัลที่จะได้รับ:</b>
 - เครื่องฟักไข่ชั้นเยี่ยม 2 ชิ้น
@@ -1106,6 +1378,20 @@ TEXT: <b>โบนัสที่จะได้รับ:</b>
 - เพิ่มโอกาสได้รับลูกอมประหลาด XL จากตีบอส
 - 3× XP ตีบอสและ 2× สตาร์ดัสต์เมื่อตีบอสเสร็จสิ้น
 - การันตีลูกอมประหลาด XL 1 เม็ดจากการจับดีอัลกา (ฟอร์มดั้งเดิม) หรือพัลเกีย (ฟอร์มดั้งเดิม)
+
+RESOURCE ID: text_rewards_key_sunkissedctr0825
+TEXT: <b>รางวัลที่จะได้รับ:</b>
+- การเผชิญหน้ากับเชลเดอร์และการะการะ (ร่างอโลลา)
+- ไอเท็มอวาตาร์กระเป๋าผลไพน์
+- ซูเปอร์บอล 15 ลูก
+- ผลไพน์ 25 ผล
+- 4,000 XP และ 3,000 สตาร์ดัสต์
+
+RESOURCE ID: text_rewards_key_sunkissedetr0825
+TEXT: <b>รางวัลที่จะได้รับ:</b>
+- การเผชิญหน้ากับนามาเคโรสวมหมวกกันแดดและเฮรัชเชอร์
+- บัตรแบตเทิลพรีเมียม 2 ใบ
+- 3,000 สตาร์ดัสต์
 
 RESOURCE ID: ticket_rookidee_cd
 TEXT: สามารถซื้อตั๋วสำหรับงานวิจัยพิเศษ "โคโคการะคอมมิวนิตี้เดย์" ได้ที่ร้านค้า
@@ -1126,13 +1412,13 @@ RESOURCE ID: title_go_fest_max_finale_2025
 TEXT: GO Fest: ฟินาเลแมกซ์
 
 RESOURCE ID: title_gofest2025_finale_event_pass_daily_bonus_quest
-TEXT: GO Pass: Max Finale Daily Tasks
+TEXT: ภารกิจรายวันบัตรผ่าน GO: ฟินาเลแมกซ์
 
 RESOURCE ID: title_gofest2025_finale_event_pass_daily_bonus_quest_premium
-TEXT: GO Pass Deluxe: Max Finale Daily Tasks
+TEXT: ภารกิจรายวันบัตรผ่าน GO Deluxe: ฟินาเลแมกซ์
 
 RESOURCE ID: title_gofest2025_finale_event_pass_hourly_bonus_quest
-TEXT: GO Pass: Max Finale Hourly Tasks
+TEXT: ภารกิจรายชั่วโมงบัตรผ่าน GO: ฟินาเลแมกซ์
 
 RESOURCE ID: title_tr_dark_skies
 TEXT: งานวิจัยแบบจำกัดเวลานภาทะมึน
@@ -1176,11 +1462,17 @@ TEXT: 2025 Pokémon World Championships: เกมล่าสมบัติ
 RESOURCE ID: title_wcs_2025_scavenger_hunt_00
 TEXT: 2025 Pokémon World Championships: เกมล่าสมบัติ (1/1)
 
-RESOURCE ID: trade_exclusion_reason_friend_reached_daily_limit_temp
-TEXT: Your friend can’t make any more Special Trades today.
+RESOURCE ID: trade_exclusion_reason_friend_reached_daily_limit
+TEXT: วันนี้เพื่อนของคุณถึงขีดจำกัดสูงสุดแล้ว จึงไม่สามารถแลกเปลี่ยนแบบพิเศษได้
 
-RESOURCE ID: trade_exclusion_reason_player_reached_daily_limit_temp
-TEXT: You can’t make any more Special Trades today.
+RESOURCE ID: trade_exclusion_reason_friend_reached_daily_limit_old
+TEXT: วันนี้เพื่อนของคุณได้ทำการแลกเปลี่ยนแบบพิเศษไปแล้ว
+
+RESOURCE ID: trade_exclusion_reason_player_reached_daily_limit
+TEXT: แลกเปลี่ยนแบบพิเศษถึงขีดจำกัดสูงสุดแล้ว
+
+RESOURCE ID: trade_exclusion_reason_player_reached_daily_limit_out
+TEXT: วันนี้คุณได้ทำการแลกเปลี่ยนแบบพิเศษไปแล้ว
 
 RESOURCE ID: use_dynamax_cannon_effect
 TEXT: ความแรงของท่าแมกซ์ของโปเกมอนแมกซ์และมุเก็นไดนาเพิ่มขึ้น
@@ -1220,4 +1512,195 @@ TEXT: คำท้านักสะสมสวนส้ม
 
 RESOURCE ID: wcs_aug25_tr_title
 TEXT: งานวิจัยแบบจำกัดเวลาพรีเมียม: 2025 WCS
+
+RESOURCE ID: weekly_challenges_challenge_almost_complete_in_app_notification
+TEXT: Your weekly challenge is {0} complete and ends soon!
+
+RESOURCE ID: weekly_challenges_choose_group_label
+TEXT: เลือกกลุ่ม
+
+RESOURCE ID: weekly_challenges_claim_reward_button
+TEXT: รับรางวัล!
+
+RESOURCE ID: weekly_challenges_create_group_button_label
+TEXT: สร้างกลุ่ม
+
+RESOURCE ID: weekly_challenges_create_new_group_label
+TEXT: เชิญเพื่อน!
+
+RESOURCE ID: weekly_challenges_description
+TEXT: เทรนเนอร์ 4 คนร่วมมือกันทำคำท้าให้เสร็จสิ้น!
+
+RESOURCE ID: weekly_challenges_encounter_reward_toast
+TEXT: You must claim your Weekly Challenge encounter reward first.
+
+RESOURCE ID: weekly_challenges_entry_all_groups_label
+TEXT: CHOOSE YOUR GROUP
+
+RESOURCE ID: weekly_challenges_error_creating_party
+TEXT: เกิดข้อผิดพลาด โปรดลองใหม่อีกครั้ง
+
+RESOURCE ID: weekly_challenges_error_joining_party
+TEXT: เกิดข้อผิดพลาด โปรดลองใหม่อีกครั้ง
+
+RESOURCE ID: weekly_challenges_friend_level_too_low_for_invite
+TEXT: Trainer needs to be level {0} to join a Weekly Challenge.
+
+RESOURCE ID: weekly_challenges_friend_list_empty
+TEXT: ไม่มีเพื่อนที่เข้าร่วมได้
+
+RESOURCE ID: weekly_challenges_friend_request_modal_desc
+TEXT: เมื่ออีกฝ่ายตอบรับคำขอเป็นเพื่อน จะกลายเป็น "เพื่อนสนิท"
+
+RESOURCE ID: weekly_challenges_group_invitation_label
+TEXT: {0} ได้เชิญคุณ!
+
+RESOURCE ID: weekly_challenges_group_invitation_label_plus_one
+TEXT: {0} and 1 other invited you!
+
+RESOURCE ID: weekly_challenges_group_invitation_label_plus_others
+TEXT: {0} and {1} others invited you!
+
+RESOURCE ID: weekly_challenges_in_app_notification_invite
+TEXT: <b>{0}</b> ได้เชิญให้คุณเข้าร่วมกลุ่มคำท้ารายสัปดาห์!
+
+RESOURCE ID: weekly_challenges_invite_friends
+TEXT: เชิญเพื่อน
+
+RESOURCE ID: weekly_challenges_invite_friends_title
+TEXT: เชิญเพื่อน (สูงสุด {0} คน)
+
+RESOURCE ID: weekly_challenges_invite_push_notification_toggle_title
+TEXT: คำเชิญ
+
+RESOURCE ID: weekly_challenges_invite_sent_confirmation
+TEXT: ส่งคำเชิญคำท้ารายสัปดาห์แล้ว
+
+RESOURCE ID: weekly_challenges_join_error_invite_expired_title
+TEXT: คำเชิญหมดอายุแล้ว
+
+RESOURCE ID: weekly_challenges_join_error_modal_body
+TEXT: โปรดเข้าร่วมกลุ่มคำท้ารายสัปดาห์อื่น
+
+RESOURCE ID: weekly_challenges_join_error_party_full_title
+TEXT: กลุ่มของ {0} เต็มแล้ว
+
+RESOURCE ID: weekly_challenges_join_group_button_label
+TEXT: เข้าร่วมกลุ่ม
+
+RESOURCE ID: weekly_challenges_join_matchmaking_confirmation_body
+TEXT: You will be paired with up to 3 other Trainers. You can choose to leave and join another group at any time.
+
+RESOURCE ID: weekly_challenges_join_matchmaking_confirmation_title
+TEXT: Are you sure you want to join a group with other Trainers?
+
+RESOURCE ID: weekly_challenges_join_party_confirmation_message
+TEXT: เมื่อเข้าร่วมกลุ่มนี้จะไม่สามารถตอบรับคำเชิญอื่นได้ คุณสามารถออกจากกลุ่มและไปเข้าร่วมกลุ่มอื่นได้ทุกเมื่อ
+
+RESOURCE ID: weekly_challenges_join_party_confirmation_title
+TEXT: เข้าร่วมกลุ่มของ {0} หรือไม่?
+
+RESOURCE ID: weekly_challenges_join_random_group_label
+TEXT: หาผู้เข้าร่วม!
+
+RESOURCE ID: weekly_challenges_leave_group_label
+TEXT: ออกจากกลุ่ม
+
+RESOURCE ID: weekly_challenges_leave_party_message
+TEXT: จะไม่สามารถรับรางวัลหลังคำท้าเสร็จสิ้นได้ และคะแนนก็จะถูกรีเซ็ตด้วยเช่นกัน
+
+RESOURCE ID: weekly_challenges_leave_party_title
+TEXT: ออกจากกลุ่มคำท้ารายสัปดาห์นี้หรือไม่?
+
+RESOURCE ID: weekly_challenges_leave_party_toast
+TEXT: You have left the Weekly Challenge group
+
+RESOURCE ID: weekly_challenges_lets_go_button
+TEXT: เริ่มคำท้า!
+
+RESOURCE ID: weekly_challenges_matchmaking_finding_player
+TEXT: finding...
+
+RESOURCE ID: weekly_challenges_matchmaking_success_in_app_notification
+TEXT: You have been matched with a Weekly Challenge group!
+
+RESOURCE ID: weekly_challenges_milestone_modal_label
+TEXT: คำท้ารายสัปดาห์เสร็จสิ้น {0}%!
+
+RESOURCE ID: weekly_challenges_new_friends_expiry_header
+TEXT: Become Friends for the next Weekly Challenge!
+
+RESOURCE ID: weekly_challenges_new_friends_header
+TEXT: เพิ่มเป็นเพื่อนแล้วเป็น "เพื่อนสนิท" กันเถอะ!
+
+RESOURCE ID: weekly_challenges_new_social_tab_tutorial_body
+TEXT: Group up with others to complete activities and earn rewards.
+
+RESOURCE ID: weekly_challenges_new_social_tab_tutorial_title
+TEXT: New Social tab has been added!
+
+RESOURCE ID: weekly_challenges_not_available
+TEXT: Check back in next week for a new challenge!
+
+RESOURCE ID: weekly_challenges_pending_invites_plural
+TEXT: คำเชิญที่รอดำเนินการ {0} รายการ
+
+RESOURCE ID: weekly_challenges_pending_invites_singular
+TEXT: คำเชิญที่รอดำเนินการ 1 รายการ
+
+RESOURCE ID: weekly_challenges_previous_player_progress_multiple
+TEXT: FROM {0} OTHER TRAINERS: {1}
+
+RESOURCE ID: weekly_challenges_previous_player_progress_singular
+TEXT: FROM 1 OTHER TRAINER: {0}
+
+RESOURCE ID: weekly_challenges_progress_in_app_notification_toggle_title
+TEXT: Weekly Challenge Progress
+
+RESOURCE ID: weekly_challenges_progress_push_notification_toggle_title
+TEXT: Challenge Progress
+
+RESOURCE ID: weekly_challenges_reward_preview_description
+TEXT: Complete this week's challenge to claim these rewards!
+
+RESOURCE ID: weekly_challenges_rewards_prefix
+TEXT: รางวัล: 
+
+RESOURCE ID: weekly_challenges_ribbon_banner
+TEXT: Weekly Challenge
+
+RESOURCE ID: weekly_challenges_see_details_label
+TEXT: ดูรายละเอียด
+
+RESOURCE ID: weekly_challenges_settings_category_title
+TEXT: Weekly Challenges
+
+RESOURCE ID: weekly_challenges_title
+TEXT: คำท้ารายสัปดาห์
+
+RESOURCE ID: weekly_challenges_today_score_title
+TEXT: คะแนนของวันนี้
+
+RESOURCE ID: weekly_challenges_tutorial_1_body
+TEXT: คำท้าใหม่จะปรากฏขึ้นทุกสัปดาห์ เข้าร่วมกลุ่มกับเทรนเนอร์อีกสูงสุด 3 คน แล้วทำคำท้าให้เสร็จสิ้นภายในเวลาเพื่อรับรางวัล!
+
+RESOURCE ID: weekly_challenges_tutorial_1_title
+TEXT: คำท้ารายสัปดาห์
+
+RESOURCE ID: weekly_challenges_tutorial_2_body
+TEXT: เลือกวิธีเข้าร่วมจากวิธีดังต่อไปนี้
+1. จับกลุ่มกับเทรนเนอร์อื่นอีก 3 คน
+2. สร้างกลุ่มกับเพื่อน
+
+RESOURCE ID: weekly_challenges_tutorial_2_title
+TEXT: เข้าร่วมกลุ่ม
+
+RESOURCE ID: weekly_challenges_tutorial_3_body
+TEXT: เมื่อทำคำท้ารายสัปดาห์เสร็จสิ้น ระดับมิตรภาพกับเพื่อนจะเพิ่มขึ้น
+
+RESOURCE ID: weekly_challenges_tutorial_3_title
+TEXT: ระดับมิตรภาพคืบหน้า
+
+RESOURCE ID: weekly_challenges_view_invites_label
+TEXT: ดูคำเชิญ
 
