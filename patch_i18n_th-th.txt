@@ -1,38 +1,60 @@
 RESOURCE ID: aron_drop_mega_energy
-TEXT: เมื่อจับโคโคโดรา อาจได้รับพลังงานเมก้าของบอสโกโดรา
+TEXT: เมื่อจับโคโคโดรา อาจไดรับพลังงานเมกาของบอสโกโดรา
 
 RESOURCE ID: august_daily_quests_title
-TEXT: ภารกิจรายวันบัตรผ่าน GO: สิงหาคม
+TEXT: ภารกิจรายวันบัตรผาน GO: สิงหาคม
 
 RESOURCE ID: august_weekly_quests_title
-TEXT: ภารกิจรายสัปดาห์บัตรผ่าน GO: สิงหาคม
+TEXT: ภารกิจรายสัปดาหบัตรผาน GO: สิงหาคม
 
 RESOURCE ID: avatar_bag_pinapberry
-TEXT: กระเป๋าผลไพน์
+TEXT: กระเปาผลไพน
 
 RESOURCE ID: avatar_hat_eternatus
 TEXT: หมวกกันน็อกมุเก็นไดนา
 
 RESOURCE ID: avatar_hat_flowercrown
-TEXT: มงกุฎดอกไม้
+TEXT: มงกุฎดอกไม
 
 RESOURCE ID: avatar_hat_wcs2025champion
-TEXT: หมวกแชมเปี้ยน WCS 2025
+TEXT: หมวกแชมเป้ยน WCS 2025
 
 RESOURCE ID: avatar_hat_wcs2025visor
 TEXT: หมวกกันแดด WCS 2025
+
+RESOURCE ID: avatar_n_backpack_clemont
+TEXT: กระเปาเปสไตลซีตรอง
+
+RESOURCE ID: avatar_n_glasses_clemont
+TEXT: แวนตาสไตลซีตรอง
+
+RESOURCE ID: avatar_n_shirt_clemont
+TEXT: ชุดสไตลซีตรอง
+
+RESOURCE ID: avatar_n_shirt_concierge
+TEXT: โปเกมอน คอนเซียรจ
+เสื้อเชิ้ตอโลฮาของฮารุ
+
+RESOURCE ID: avatar_n_shoes_clemont
+TEXT: รองเทาสไตลซีตรอง
 
 RESOURCE ID: avatar_pants_eternatus
 TEXT: กางเกงมุเก็นไดนา
 
 RESOURCE ID: avatar_pants_wcs2025champion
-TEXT: กางเกงแชมเปี้ยน WCS 2025
+TEXT: กางเกงแชมเป้ยน WCS 2025
+
+RESOURCE ID: avatar_pose_concierge
+TEXT: ทาโพสยืดเหยียด
+
+RESOURCE ID: avatar_pose_s20gbl
+TEXT: ทาโพสซีตรอง
 
 RESOURCE ID: avatar_shirt_eternatus
 TEXT: เสื้อมุเก็นไดนา
 
 RESOURCE ID: avatar_shirt_wcs2025champion
-TEXT: เสื้อแชมเปี้ยน WCS 2025
+TEXT: เสื้อแชมเป้ยน WCS 2025
 
 RESOURCE ID: avatar_shirt_wcs2025jersey
 TEXT: เสื้อกีฬา WCS 2025
@@ -44,46 +66,46 @@ RESOURCE ID: avatar_shirt_wcs2025yellow
 TEXT: เสื้อยืด WCS 2025 (สีเหลือง)
 
 RESOURCE ID: avatar_shoes_eternatus
-TEXT: รองเท้ามุเก็นไดนา
+TEXT: รองเทามุเก็นไดนา
 
 RESOURCE ID: badge_detail_reward_header
 TEXT: Rewards
 
 RESOURCE ID: badge_event_0144
-TEXT: งานวิจัยพาร์ทเนอร์ - เรื่องเล่าแห่งการแปรเปลี่ยน: FamilyMart
+TEXT: งานวิจัยพารทเนอร - เรื่องเลาแหงการแปรเปลี่ยน: FamilyMart
 
 RESOURCE ID: badge_event_0144_title
-TEXT: งานวิจัยพาร์ทเนอร์: FamilyMart
+TEXT: งานวิจัยพารทเนอร: FamilyMart
 
 RESOURCE ID: badge_event_0144_title_00
-TEXT: งานวิจัยพาร์ทเนอร์: FamilyMart (1/4)
+TEXT: งานวิจัยพารทเนอร: FamilyMart (1/4)
 
 RESOURCE ID: badge_event_0144_title_01
-TEXT: งานวิจัยพาร์ทเนอร์: FamilyMart (2/4)
+TEXT: งานวิจัยพารทเนอร: FamilyMart (2/4)
 
 RESOURCE ID: badge_event_0144_title_02
-TEXT: งานวิจัยพาร์ทเนอร์: FamilyMart (3/4)
+TEXT: งานวิจัยพารทเนอร: FamilyMart (3/4)
 
 RESOURCE ID: badge_event_0144_title_03
-TEXT: งานวิจัยพาร์ทเนอร์: FamilyMart (4/4)
+TEXT: งานวิจัยพารทเนอร: FamilyMart (4/4)
 
 RESOURCE ID: badge_event_0146
-TEXT: งานวิจัยพาร์ทเนอร์ - เรื่องเล่าแห่งการแปรเปลี่ยน: 7-Eleven Korea
+TEXT: งานวิจัยพารทเนอร - เรื่องเลาแหงการแปรเปลี่ยน: 7-Eleven Korea
 
 RESOURCE ID: badge_event_0146_title
-TEXT: งานวิจัยพาร์ทเนอร์: 7-Eleven Korea
+TEXT: งานวิจัยพารทเนอร: 7-Eleven Korea
 
 RESOURCE ID: badge_event_0146_title_00
-TEXT: งานวิจัยพาร์ทเนอร์: 7-Eleven Korea (1/4)
+TEXT: งานวิจัยพารทเนอร: 7-Eleven Korea (1/4)
 
 RESOURCE ID: badge_event_0146_title_01
-TEXT: งานวิจัยพาร์ทเนอร์: 7-Eleven Korea (2/4)
+TEXT: งานวิจัยพารทเนอร: 7-Eleven Korea (2/4)
 
 RESOURCE ID: badge_event_0146_title_02
-TEXT: งานวิจัยพาร์ทเนอร์: 7-Eleven Korea (3/4)
+TEXT: งานวิจัยพารทเนอร: 7-Eleven Korea (3/4)
 
 RESOURCE ID: badge_event_0146_title_03
-TEXT: งานวิจัยพาร์ทเนอร์: 7-Eleven Korea (4/4)
+TEXT: งานวิจัยพารทเนอร: 7-Eleven Korea (4/4)
 
 RESOURCE ID: badge_safari_2025_amsterdam_add_on_hatch
 TEXT: Amsterdam 2025
@@ -296,88 +318,91 @@ RESOURCE ID: badge_safari_2025_vancouver_day_02_title
 TEXT: Pokémon GO City Safari
 
 RESOURCE ID: bonus_blade_bash_boost_01
-TEXT: เพิ่มประสิทธิภาพของเอฟเฟกต์ผจญภัยของ "ดาบพิฆาตยักษ์" และ "โล่ทะลวงยักษ์"
+TEXT: เพิ่มประสิทธิภาพของเอฟเฟกตผจญภัยของ "ดาบพิฆาตยักษ" และ "โลทะลวงยักษ"
 
 RESOURCE ID: bonus_blade_bash_boost_02
-TEXT: เพิ่มประสิทธิภาพของเอฟเฟกต์ผจญภัยของ "ดาบพิฆาตยักษ์" และ "โล่ทะลวงยักษ์" อย่างมาก
+TEXT: เพิ่มประสิทธิภาพของเอฟเฟกตผจญภัยของ "ดาบพิฆาตยักษ" และ "โลทะลวงยักษ" อยางมาก
 
 RESOURCE ID: bonus_blade_bash_boost_03
-TEXT: เพิ่มประสิทธิภาพของเอฟเฟกต์ผจญภัยของ "ดาบพิฆาตยักษ์" และ "โล่ทะลวงยักษ์" อย่างมหาศาล
+TEXT: เพิ่มประสิทธิภาพของเอฟเฟกตผจญภัยของ "ดาบพิฆาตยักษ" และ "โลทะลวงยักษ" อยางมหาศาล
+
+RESOURCE ID: bonus_cd_move_flabebe
+TEXT: วิวัฒนาการฟลาเอตเตเปนฟลาเจสที่รูทาโจมตีชารจ "น้ำเย็น"
 
 RESOURCE ID: bonus_dmax_shiny_chance_increase
-TEXT: โอกาสเพิ่มขึ้นที่จะได้เผชิญหน้ากับโปเกมอนไดแมกซ์สีแตกต่างในแบตเทิลไดแมกซ์หนึ่งดาวถึงสี่ดาว
+TEXT: โอกาสเพิ่มขึ้นที่จะไดเผชิญหนากับโปเกมอนไดแมกซสีแตกตางในแบตเทิลไดแมกซหนึ่งดาวถึงสี่ดาว
 
 RESOURCE ID: bonus_ee_appearance
-TEXT: มุเก็นไดนา (มุเก็นไดแมกซ์) กำลังปรากฏตัวในแบตเทิลแมกซ์พิเศษ
+TEXT: มุเก็นไดนา (มุเก็นไดแมกซ) กำลังปรากฏตัวในแบตเทิลแมกซพิเศษ
 
 RESOURCE ID: bonus_feature_behemoth_blade_and_behemoth_bash_boost_max
-TEXT: เพิ่มความแรงของ "ดาบพิฆาตยักษ์" และ "โล่ทะลวงยักษ์" ระหว่างแบตเทิลแมกซ์
+TEXT: เพิ่มความแรงของ "ดาบพิฆาตยักษ" และ "โลทะลวงยักษ" ระหวางแบตเทิลแมกซ
 
 RESOURCE ID: bonus_feature_behemoth_blade_and_behemoth_bash_boost_max_01
-TEXT: เพิ่มความแรงของ "ดาบพิฆาตยักษ์" และ "โล่ทะลวงยักษ์" ระหว่างแบตเทิลแมกซ์
+TEXT: เพิ่มความแรงของ "ดาบพิฆาตยักษ" และ "โลทะลวงยักษ" ระหวางแบตเทิลแมกซ
 
 RESOURCE ID: bonus_feature_behemoth_blade_and_behemoth_bash_boost_max_02
-TEXT: เพิ่มความแรงของ "ดาบพิฆาตยักษ์" และ "โล่ทะลวงยักษ์" อย่างมากระหว่างแบตเทิลแมกซ์
+TEXT: เพิ่มความแรงของ "ดาบพิฆาตยักษ" และ "โลทะลวงยักษ" อยางมากระหวางแบตเทิลแมกซ
 
 RESOURCE ID: bonus_feature_behemoth_blade_and_behemoth_bash_boost_max_03
-TEXT: เพิ่มความแรงของ "ดาบพิฆาตยักษ์" และ "โล่ทะลวงยักษ์" อย่างมหาศาลระหว่างแบตเทิลแมกซ์
+TEXT: เพิ่มความแรงของ "ดาบพิฆาตยักษ" และ "โลทะลวงยักษ" อยางมหาศาลระหวางแบตเทิลแมกซ
 
 RESOURCE ID: bonus_feature_gmax_blastoise
-TEXT: โปเกมอนเด่นชั่วโมงนี้: คาเม็กซ์กิกะแมกซ์
+TEXT: โปเกมอนเดนชั่วโมงนี้: คาเม็กซกิกะแมกซ
 
 RESOURCE ID: bonus_feature_gmax_butterfree
-TEXT: โปเกมอนเด่นชั่วโมงนี้: บัตเตอร์ฟรีกิกะแมกซ์
+TEXT: โปเกมอนเดนชั่วโมงนี้: บัตเตอรฟรีกิกะแมกซ
 
 RESOURCE ID: bonus_feature_gmax_charizard
-TEXT: โปเกมอนเด่นชั่วโมงนี้: ลิซาร์ดอนกิกะแมกซ์
+TEXT: โปเกมอนเดนชั่วโมงนี้: ลิซารดอนกิกะแมกซ
 
 RESOURCE ID: bonus_feature_gmax_cinderace
-TEXT: โปเกมอนเด่นชั่วโมงนี้: เอสเบิร์นกิกะแมกซ์
+TEXT: โปเกมอนเดนชั่วโมงนี้: เอสเบิรนกิกะแมกซ
 
 RESOURCE ID: bonus_feature_gmax_gengar
-TEXT: โปเกมอนเด่นชั่วโมงนี้: เก็งกากิกะแมกซ์
+TEXT: โปเกมอนเดนชั่วโมงนี้: เก็งกากิกะแมกซ
 
 RESOURCE ID: bonus_feature_gmax_inteleon
-TEXT: โปเกมอนเด่นชั่วโมงนี้: อินเทเลียนกิกะแมกซ์
+TEXT: โปเกมอนเดนชั่วโมงนี้: อินเทเลียนกิกะแมกซ
 
 RESOURCE ID: bonus_feature_gmax_kingler
-TEXT: โปเกมอนเด่นชั่วโมงนี้: คิงเกลอร์กิกะแมกซ์
+TEXT: โปเกมอนเดนชั่วโมงนี้: คิงเกลอรกิกะแมกซ
 
 RESOURCE ID: bonus_feature_gmax_lapras
-TEXT: โปเกมอนเด่นชั่วโมงนี้: ลาพลาซกิกะแมกซ์
+TEXT: โปเกมอนเดนชั่วโมงนี้: ลาพลาซกิกะแมกซ
 
 RESOURCE ID: bonus_feature_gmax_machamp
-TEXT: โปเกมอนเด่นชั่วโมงนี้: ไคริกีกิกะแมกซ์
+TEXT: โปเกมอนเดนชั่วโมงนี้: ไคริกีกิกะแมกซ
 
 RESOURCE ID: bonus_feature_gmax_rillaboom
-TEXT: โปเกมอนเด่นชั่วโมงนี้: กอริลลันดากิกะแมกซ์
+TEXT: โปเกมอนเดนชั่วโมงนี้: กอริลลันดากิกะแมกซ
 
 RESOURCE ID: bonus_feature_gmax_snorlax
-TEXT: โปเกมอนเด่นชั่วโมงนี้: คาบิกอนกิกะแมกซ์
+TEXT: โปเกมอนเดนชั่วโมงนี้: คาบิกอนกิกะแมกซ
 
 RESOURCE ID: bonus_feature_gmax_toxtricity_amped
-TEXT: โปเกมอนเด่นชั่วโมงนี้: สตรินเดอร์กิกะแมกซ์ (ร่างเสียงสูง)
+TEXT: โปเกมอนเดนชั่วโมงนี้: สตรินเดอรกิกะแมกซ (รางเสียงสูง)
 
 RESOURCE ID: bonus_feature_gmax_toxtricity_low_key
-TEXT: โปเกมอนเด่นชั่วโมงนี้: สตรินเดอร์กิกะแมกซ์ (ร่างเสียงต่ำ)
+TEXT: โปเกมอนเดนชั่วโมงนี้: สตรินเดอรกิกะแมกซ (รางเสียงต่ำ)
 
 RESOURCE ID: bonus_feature_gmax_venusaur
-TEXT: โปเกมอนเด่นชั่วโมงนี้: ฟุชิกิบานะกิกะแมกซ์
+TEXT: โปเกมอนเดนชั่วโมงนี้: ฟุชิกิบานะกิกะแมกซ
 
 RESOURCE ID: bonus_increased_shiny_short
-TEXT: เผชิญหน้ากับโปเกมอนสีแตกต่างง่ายขึ้น
+TEXT: เผชิญหนากับโปเกมอนสีแตกตางงายขึ้น
 
 RESOURCE ID: bonus_power_spot_bonus_spawn
-TEXT: เพิ่มโอกาสเผชิญหน้ากับโปเกมอนที่พาวเวอร์สป็อต
+TEXT: เพิ่มโอกาสเผชิญหนากับโปเกมอนที่พาวเวอรสปอต
 
 RESOURCE ID: bonus_skarmory_steel_wing_brave_bird
-TEXT: แอร์มุโดที่ถูกจับจะรู้ท่าโจมตีเร็ว "ปีกเหล็ก" และท่าโจมตีชาร์จ "เบรฟเบิร์ด"
+TEXT: แอรมุโดที่ถูกจับจะรูทาโจมตีเร็ว "ปกเหล็ก" และทาโจมตีชารจ "เบรฟเบิรด"
 
 RESOURCE ID: bonus_stationing_additional_candy
-TEXT: เพิ่มลูกอมที่ได้รับจากโปเกมอนที่วางไว้ที่พาวเวอร์สป็อต
+TEXT: เพิ่มลูกอมที่ไดรับจากโปเกมอนที่วางไวที่พาวเวอรสปอต
 
 RESOURCE ID: bread_remote_use_rrp_confirmation_no_limits
-TEXT: อนุภาคแมกซ์จะถูกใช้งานเมื่อคุณชนะ ส่วนบัตรตีบอสระยะไกลจะถูกใช้งานเมื่อแบตเทิลเริ่มขึ้น
+TEXT: อนุภาคแมกซจะถูกใชงานเมื่อคุณชนะ สวนบัตรตีบอสระยะไกลจะถูกใชงานเมื่อแบตเทิลเริ่มขึ้น
 
 RESOURCE ID: city_manhole_253
 TEXT: Iitate
@@ -389,16 +414,40 @@ RESOURCE ID: city_manhole_91
 TEXT: Namie
 
 RESOURCE ID: combat_title_season_20
-TEXT: โกแบตเทิลลีก: เรื่องเล่าแห่งการแปรเปลี่ยน
+TEXT: โกแบตเทิลลีก: เรื่องเลาแหงการแปรเปลี่ยน
 
 RESOURCE ID: community_day_flabebe_event_name
-TEXT: คอมมิวนิตี้เดย์: ฟลาเบเบ
+TEXT: คอมมิวนิตี้เดย: ฟลาเบเบ
 
 RESOURCE ID: concierge_collab_event_name
-TEXT: อีเวนต์ฉลอง "โปเกมอน คอนเซียร์จ"
+TEXT: อีเวนตฉลอง "โปเกมอน คอนเซียรจ"
+
+RESOURCE ID: concierge_free_tr_name
+TEXT: โปเกมอน คอนเซียรจ: งานวิจัยแบบจำกัดเวลาริมสระ
+
+RESOURCE ID: concierge_paid_tr_name
+TEXT: งานวิจัยแบบจำกัดเวลาพรีเมียม: ริมหาด
+
+RESOURCE ID: concierge_promo_tr_name
+TEXT: งานวิจัยแบบจำกัดเวลาโบนัสโปเกมอน คอนเซียรจ
+
+RESOURCE ID: egg_detail_hatch_expiring_soon
+TEXT: หมดอายุเร็ว ๆ นี้
+
+RESOURCE ID: egg_detail_hatch_walk_timed
+TEXT: เดินเพื่อฟกไข!
+
+เครื่องฟกไขที่ไดรับจากบัตรผาน GO สามารถใชงานไดไมจำกัดภายในระยะเวลาที่กำหนด
 
 RESOURCE ID: error_no_duplicate_pokemon
-TEXT: มี{0}ได้เพียงตัวเดียวเท่านั้น
+TEXT: มี{0}ไดเพียงตัวเดียวเทานั้น
+
+RESOURCE ID: event_datetime_range_key_cd_flabebe25
+TEXT: 14 กันยายน เวลา 14:00-17:00 น.
+
+RESOURCE ID: event_datetime_range_key_conciergecb0925
+TEXT: 9 กันยายน เวลา 10:00 น. ถึง
+14 กันยายน เวลา 20:00 น.
 
 RESOURCE ID: event_datetime_range_key_gbw_wcs_aug25
 TEXT: 15 สิงหาคม เวลา 10:00 น.
@@ -430,13 +479,19 @@ TEXT: 25 สิงหาคม เวลา 10:00 น.
 ถึง 31 สิงหาคม เวลา 20:00 น.
 
 RESOURCE ID: event_pass_premium_reward_banner_bottom_text_60
-TEXT: ได้รับเมื่อถึงระดับ 60
+TEXT: ไดรับเมื่อถึงระดับ 60
+
+RESOURCE ID: event_pass_premium_reward_banner_bottom_text_timed_incubator
+TEXT: ไดรับเมื่อถึงระดับ 20
+
+RESOURCE ID: event_pass_premium_reward_banner_middle_text_timed_incubator
+TEXT: เครื่องฟกไขจำกัดเวลา
 
 RESOURCE ID: event_season20_name
-TEXT: ฤดูกาลปัจจุบัน: เรื่องเล่าแห่งการแปรเปลี่ยน
+TEXT: ฤดูกาลปจจุบัน: เรื่องเลาแหงการแปรเปลี่ยน
 
 RESOURCE ID: form_eternatus_eternamax
-TEXT: มุเก็นไดแมกซ์
+TEXT: มุเก็นไดแมกซ
 
 RESOURCE ID: form_eternatus_normal
 TEXT: มุเก็นไดนา
@@ -448,13 +503,13 @@ RESOURCE ID: friends_list_section_header
 TEXT: รายชื่อเพื่อน
 
 RESOURCE ID: friends_mutual_friends_count_plural
-TEXT: เพื่อนร่วมกัน {0} คน
+TEXT: เพื่อนรวมกัน {0} คน
 
 RESOURCE ID: friends_mutual_friends_count_singular
-TEXT: เพื่อนร่วมกัน 1 คน
+TEXT: เพื่อนรวมกัน 1 คน
 
 RESOURCE ID: general1.ticket.5_megagyaradosraidday_title
-TEXT: ตั๋ว "วันตีบอสเมก้าเกียราดอส"
+TEXT: ตั๋ว "วันตีบอสเมกาเกียราดอส"
 
 RESOURCE ID: general1.ticket._gbw_wcs_aug25_title
 TEXT: ตั๋วงานวิจัยแบบจำกัดเวลาพรีเมียม: 2025 WCS
@@ -463,233 +518,301 @@ RESOURCE ID: general1.ticket._kanto_celebrationsep25_title
 TEXT: ตำนานภูมิภาคคันโต
 
 RESOURCE ID: general1.ticket._sunkissedctr0825_title
-TEXT: ตั๋วงานวิจัยแบบจำกัดเวลาพรีเมียม: แต่งตัวรับลมร้อน
+TEXT: ตั๋วงานวิจัยแบบจำกัดเวลาพรีเมียม: แตงตัวรับลมรอน
 
 RESOURCE ID: general1.ticket._sunkissedetr0825_title
-TEXT: ตั๋วงานวิจัยแบบจำกัดเวลาพรีเมียม: ชายฝั่งอาบแสง
+TEXT: ตั๋วงานวิจัยแบบจำกัดเวลาพรีเมียม: ชายฝ่งอาบแสง
+
+RESOURCE ID: general1.ticket_cd_flabebe25_title
+TEXT: ตั๋วฟลาเบเบคอมมิวนิตี้เดย
+
+RESOURCE ID: general2.ticket.6_conciergecb0925_title
+TEXT: ตั๋วงานวิจัยแบบจำกัดเวลาพรีเมียม: ริมหาด
 
 RESOURCE ID: general2.ticket.6_megasharpedoraidday_title
-TEXT: ตั๋ว "วันตีบอสเมก้าซาเมฮาเดอร์"
+TEXT: ตั๋ว "วันตีบอสเมกาซาเมฮาเดอร"
 
 RESOURCE ID: general2.ticket._gowa25_title
-TEXT: ตั๋ว Pokémon GO ไวลด์แอเรีย 2025: ทั่วโลก
+TEXT: ตั๋ว Pokémon GO ไวลดแอเรีย 2025: ทั่วโลก
 
 RESOURCE ID: general_minutes_remaining
-TEXT: {0}m
+TEXT: {0}M
 
 RESOURCE ID: general_seconds_remaining
-TEXT: {0}s
+TEXT: {0}S
 
 RESOURCE ID: go_fest_max_finale_2025_tr_00_00
-TEXT: %PLAYERNAME% ได้พบเธอในช่วงเวลา
-ที่วุ่นวายแบบนี้แล้วรู้สึกโล่งใจจริง ๆ
-พายุครั้งนี้ต่างจากทุกครั้งที่ฉันเคยเห็นมาเลย
+TEXT: %PLAYERNAME% ไดพบเธอในชวงเวลา
+ที่วุนวายแบบนี้แลวรูสึกโลงใจจริง ๆ
+พายุครั้งนี้ตางจากทุกครั้งที่ฉันเคยเห็นมาเลย
 
 RESOURCE ID: go_fest_max_finale_2025_tr_00_01
-TEXT: เรายังได้รับรายงานแปลก ๆ อีกด้วย
-ดูเหมือนจะมีโปเกมอนไดแมกซ์ปรากฏตัว
-ที่พาวเวอร์สป็อตมากขึ้น
+TEXT: เรายังไดรับรายงานแปลก ๆ อีกดวย
+ดูเหมือนจะมีโปเกมอนไดแมกซปรากฏตัว
+ที่พาวเวอรสปอตมากขึ้น
 
 RESOURCE ID: go_fest_max_finale_2025_tr_00_02
-TEXT: ฉันไม่พบเบาะแสอะไรจากงานวิจัยเลย
-แต่จำได้ว่ามีศาสตราจารย์คนหนึ่งเคยพูดถึง
+TEXT: ฉันไมพบเบาะแสอะไรจากงานวิจัยเลย
+แตจำไดวามีศาสตราจารยคนหนึ่งเคยพูดถึง
 เรื่องการปรากฏตัวของโปเกมอนขนาดมหึมา
-ใต้นภาทะมึน
+ใตนภาทะมึน
 
 RESOURCE ID: go_fest_max_finale_2025_tr_00_03
-TEXT: สถานการณ์ตอนนี้ก็คล้ายคลึงกับที่เขาว่าไว้ หรือว่า...?
+TEXT: สถานการณตอนนี้ก็คลายคลึงกับที่เขาวาไว หรือวา...?
 
 RESOURCE ID: go_fest_max_finale_2025_tr_00_04
-TEXT: ลองไปตรวจสอบพาวเวอร์สป็อตที่อยู่ใกล้ ๆ
-กันเถอะ ระวังตัวด้วยนะ %PLAYERNAME%
+TEXT: ลองไปตรวจสอบพาวเวอรสปอตที่อยูใกล ๆ
+กันเถอะ ระวังตัวดวยนะ %PLAYERNAME%
 
 RESOURCE ID: go_fest_max_finale_2025_tr_01_00
-TEXT: อย่างที่ฉันคิดไว้เลย มุเก็นไดนา
-ในร่างมุเก็นไดแมกซ์ปรากฏตัวแล้ว!
+TEXT: อยางที่ฉันคิดไวเลย มุเก็นไดนา
+ในรางมุเก็นไดแมกซปรากฏตัวแลว!
 
 RESOURCE ID: go_fest_max_finale_2025_tr_01_01
-TEXT: งานวิจัยที่ฉันพบระบุไว้ว่า มันมีพลัง
-อันไร้ขีดจำกัดปล่อยออกมาจาก
-แกนกลางที่ขยายยักษ์จนสามารถ
-บิดเวลารอบ ๆ ได้
+TEXT: งานวิจัยที่ฉันพบระบุไววา มันมีพลัง
+อันไรขีดจำกัดปลอยออกมาจาก
+แกนกลางที่ขยายยักษจนสามารถ
+บิดเวลารอบ ๆ ได
 
 RESOURCE ID: go_fest_max_finale_2025_tr_01_02
-TEXT: มุเก็นไดนาอาจมีความเกี่ยวข้องกับ
+TEXT: มุเก็นไดนาอาจมีความเกี่ยวของกับ
 การปรากฏตัวของซาเชียนและซามาเซนตา
-เราอาจต้องร่วมมือกับพวกมันในแบตเทิล
-อันยิ่งใหญ่อีกครั้ง!
+เราอาจตองรวมมือกับพวกมันในแบตเทิล
+อันยิ่งใหญอีกครั้ง!
 
 RESOURCE ID: go_fest_max_finale_2025_tr_01_03
-TEXT: การแบตเทิลกับมุเก็นไดนาในร่าง
-มุเก็นไดแมกซ์นั้นท้าทายยิ่งกว่า
-โปเกมอนกิกะแมกซ์ทุกตัวที่เราเคย
-เผชิญหน้ามา
+TEXT: การแบตเทิลกับมุเก็นไดนาในราง
+มุเก็นไดแมกซนั้นทาทายยิ่งกวา
+โปเกมอนกิกะแมกซทุกตัวที่เราเคย
+เผชิญหนามา
 
 RESOURCE ID: go_fest_max_finale_2025_tr_01_04
-TEXT: ร่วมมือกันวางกลยุทธ์กับโปเกมอนและ
-เทรนเนอร์คนอื่น ๆ อย่างรอบคอบล่ะ
-ฝากด้วยนะ %PLAYERNAME%!
+TEXT: รวมมือกันวางกลยุทธกับโปเกมอนและ
+เทรนเนอรคนอื่น ๆ อยางรอบคอบละ
+ฝากดวยนะ %PLAYERNAME%!
 
 RESOURCE ID: go_fest_max_finale_2025_tr_02_00
-TEXT: เป็นการแสดงทักษะและความตั้งใจ
+TEXT: เปนการแสดงทักษะและความตั้งใจ
 ที่ยอดเยี่ยมมาก!
 
 RESOURCE ID: go_fest_max_finale_2025_tr_02_01
-TEXT: นี่เป็นหนึ่งในแบตเทิลที่ยิ่งใหญ่ที่สุด
-เท่าที่ฉันเคยเห็นมา โปเกมอนของเธอ
-ต้องภูมิใจในตัวเธอมากแน่ ๆ
+TEXT: นี่เปนหนึ่งในแบตเทิลที่ยิ่งใหญที่สุด
+เทาที่ฉันเคยเห็นมา โปเกมอนของเธอ
+ตองภูมิใจในตัวเธอมากแน ๆ
 
 RESOURCE ID: go_fest_max_finale_2025_tr_02_02
-TEXT: น่าเสียดายที่มุเก็นไดนาหนีไปได้
-แต่ถึงยังไงการเอาชนะมันในแบตเทิลได้
-ก็เป็นเรื่องที่สุดยอดมาก
+TEXT: นาเสียดายที่มุเก็นไดนาหนีไปได
+แตถึงยังไงการเอาชนะมันในแบตเทิลได
+ก็เปนเรื่องที่สุดยอดมาก
 
 RESOURCE ID: go_fest_max_finale_2025_tr_02_03
-TEXT: มุเก็นไดนาน่าจะยังอยู่ในบริเวณนี้
-ฝึกกลยุทธ์เตรียมพร้อมสำหรับการแบตเทิล
-กับมันในครั้งต่อไปไว้ล่ะ
+TEXT: มุเก็นไดนานาจะยังอยูในบริเวณนี้
+ฝกกลยุทธเตรียมพรอมสำหรับการแบตเทิล
+กับมันในครั้งตอไปไวละ
 
 RESOURCE ID: go_fest_max_finale_2025_tr_02_04
-TEXT: ส่วนฉันจะบันทึกรายงานสิ่งที่เราได้เรียนรู้
-จากแบตเทิลครั้งนี้ต่อ ขอให้โชคดีล่ะ %PLAYERNAME%!
+TEXT: สวนฉันจะบันทึกรายงานสิ่งที่เราไดเรียนรู
+จากแบตเทิลครั้งนี้ตอ ขอใหโชคดีละ %PLAYERNAME%!
 
 RESOURCE ID: gofest2025_maxfinale_base_track_title
-TEXT: บัตรผ่าน GO: ฟินาเลแมกซ์
+TEXT: บัตรผาน GO: ฟนาเลแมกซ
 
 RESOURCE ID: gofest2025_maxfinale_event_duration
 TEXT: 18 สิงหาคม - 24 สิงหาคม
 
 RESOURCE ID: gofest2025_maxfinale_event_pass_details_link
-TEXT: ตรวจสอบรายละเอียดได้ที่<a href="https://pokemongo.com/gofestmaxfinale">เว็บไซต์</a>นี้
+TEXT: ตรวจสอบรายละเอียดไดที่<a href="https://pokemongo.com/gofestmaxfinale">เว็บไซต</a>นี้
 
 RESOURCE ID: gofest2025_maxfinale_event_pass_title
-TEXT: GO Fest: ฟินาเลแมกซ์
+TEXT: GO Fest: ฟนาเลแมกซ
 
 RESOURCE ID: gofest2025_maxfinale_pass_track_upgrade_header_description
-TEXT: รับรางวัลเพิ่มเติมและ<b>เพิ่มโอกาสในการเผชิญหน้ากับโปเกมอนสีแตกต่างจากแบตเทิลไดแมกซ์</b>!
+TEXT: รับรางวัลเพิ่มเติมและ<b>เพิ่มโอกาสในการเผชิญหนากับโปเกมอนสีแตกตางจากแบตเทิลไดแมกซ</b>!
 
 RESOURCE ID: gofest2025_maxfinale_premium_track_title
-TEXT: บัตรผ่าน GO Deluxe: ฟินาเลแมกซ์
+TEXT: บัตรผาน GO Deluxe: ฟนาเลแมกซ
 
 RESOURCE ID: gofest2025_maxfinale_upgrade_description
-TEXT: ซื้อบัตรผ่าน GO Deluxe: ฟินาเลแมกซ์เพื่อปลดล็อกรางวัลต่อไปนี้!
+TEXT: ซื้อบัตรผาน GO Deluxe: ฟนาเลแมกซเพื่อปลดล็อกรางวัลตอไปนี้!
 
-- โอกาสเพิ่มขึ้นที่จะได้เผชิญหน้ากับโปเกมอนไดแมกซ์สีแตกต่างในแบตเทิลไดแมกซ์หนึ่งดาวถึงสี่ดาว
+- โอกาสเพิ่มขึ้นที่จะไดเผชิญหนากับโปเกมอนไดแมกซสีแตกตางในแบตเทิลไดแมกซหนึ่งดาวถึงสี่ดาว
 - ลูกอมและลูกอม XL มุเก็นไดนาจำนวนมาก
-- การเผชิญหน้ากับโปเกมอนไดแมกซ์หลายครั้ง
-- ไอเท็มอวาตาร์หมวกกันน็อกมุเก็นไดนา
+- การเผชิญหนากับโปเกมอนไดแมกซหลายครั้ง
+- ไอเท็มอวาตารหมวกกันน็อกมุเก็นไดนา
 - และอื่น ๆ
 
-นอกเหนือจากแต้มที่ได้รับจากการทำภารกิจบัตรผ่านแล้ว เทรนเนอร์ยังสามารถรับแต้ม GO โบนัส 50 แต้มต่อวันได้ระหว่างวันที่ 18-22 สิงหาคม โปรดทราบว่าจะไม่มีการจำกัดจำนวนแต้มที่สามารถรับได้ในระหว่างอีเวนต์ทั่วโลกในวันที่ 23 และ 24 สิงหาคม!
+นอกเหนือจากแตมที่ไดรับจากการทำภารกิจบัตรผานแลว เทรนเนอรยังสามารถรับแตม GO โบนัส 50 แตมตอวันไดระหวางวันที่ 18-22 สิงหาคม โปรดทราบวาจะไมมีการจำกัดจำนวนแตมที่สามารถรับไดในระหวางอีเวนตทั่วโลกในวันที่ 23 และ 24 สิงหาคม!
 
-โปเกมอนที่เผชิญหน้าในบัตรผ่าน GO : ฟินาเลแมกซ์จะเป็นโปเกมอนไดแมกซ์ทั้งหมด
+โปเกมอนที่เผชิญหนาในบัตรผาน GO : ฟนาเลแมกซจะเปนโปเกมอนไดแมกซทั้งหมด
 
 RESOURCE ID: gofest_2025_finale_deluxe_event_pass_track_unlock_description
-TEXT: รับรางวัลเพิ่มเติมในแต่ละระดับ
+TEXT: รับรางวัลเพิ่มเติมในแตละระดับ
 
 RESOURCE ID: gofest_2025_finale_deluxe_event_pass_track_unlock_plus_points_description
-TEXT: รับรางวัลเพิ่มเติมในแต่ละระดับ และระดับเพิ่มขึ้น 10 ระดับทันที
+TEXT: รับรางวัลเพิ่มเติมในแตละระดับ และระดับเพิ่มขึ้น 10 ระดับทันที
 
 RESOURCE ID: gofest_2025_finale_deluxe_event_pass_track_unlock_plus_points_title
-TEXT: บัตรผ่าน GO Deluxe: ฟินาเลแมกซ์ + 10 ระดับ
+TEXT: บัตรผาน GO Deluxe: ฟนาเลแมกซ + 10 ระดับ
 
 RESOURCE ID: gofest_2025_finale_deluxe_event_pass_track_unlock_title
-TEXT: บัตรผ่าน GO Deluxe: ฟินาเลแมกซ์
+TEXT: บัตรผาน GO Deluxe: ฟนาเลแมกซ
 
 RESOURCE ID: great_league_championship_series
-TEXT: การแข่งขันซีรีส์ 2025 Championship
+TEXT: การแขงขันซีรีส 2025 Championship
 
 RESOURCE ID: increased_mega_form_duration_bonus
-TEXT: 3× ระยะเวลาวิวัฒนาการเมก้า
+TEXT: 3× ระยะเวลาวิวัฒนาการเมกา
+
+RESOURCE ID: incubator_expired_toast
+TEXT: หมดอายุ
+
+RESOURCE ID: incubator_header_ui
+TEXT: รับรางวัลเพิ่มเติมและปลดล็อกเครื่องฟกไขจำกัดเวลาที่ระดับ 20!
+
+RESOURCE ID: incubator_recap_days_active_plural
+TEXT: ใชงานได {0} วัน
+
+RESOURCE ID: incubator_recap_days_active_singular
+TEXT: ใชงานได {0} วัน
+
+RESOURCE ID: incubator_recap_eggs_hatched_plural
+TEXT: ไขฟก {0} ใบ
+
+RESOURCE ID: incubator_recap_eggs_hatched_singular
+TEXT: ไขฟก {0} ใบ
+
+RESOURCE ID: incubator_recap_hatch_header
+TEXT: โปเกมอนที่ฟกออกมา
+
+RESOURCE ID: incubator_recap_km_explored_plural
+TEXT: สำรวจ {0} กม.
+
+RESOURCE ID: incubator_recap_km_explored_singular
+TEXT: สำรวจ {0} กม.
+
+RESOURCE ID: incubator_recap_replacement_desc
+TEXT: ไขที่กำลังฟกถูกยายไปที่เครื่องฟกไขสำหรับใชงานครั้งเดียวแลว
+
+RESOURCE ID: incubator_recap_title
+TEXT: เครื่องฟกไขจำกัดเวลาหมดอายุ
+
+RESOURCE ID: item_event_ticket_evergreen_desc_conciergecb0925
+TEXT: ตั๋วสำหรับเขารวมงานวิจัยแบบจำกัดเวลาพรีเมียม: ริมหาด
+ถึงวันที่ 14 กันยายน 2025 เวลา 20:00 น. ตามเวลาทองถิ่นทั่วโลก
 
 RESOURCE ID: item_event_ticket_evergreen_desc_gbw_wcs_aug25
-TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยแบบจำกัดเวลาพรีเมียม: 2025 WCS
-ตั้งแต่วันที่ 15 สิงหาคม เวลา 10:00 น. ถึงวันที่ 17 สิงหาคม 2025 เวลา 20:00 น. ตามเวลาท้องถิ่นไม่ว่าคุณจะอยู่ที่ใด
+TEXT: ตั๋วสำหรับเขารวมงานวิจัยแบบจำกัดเวลาพรีเมียม: 2025 WCS
+ตั้งแตวันที่ 15 สิงหาคม เวลา 10:00 น. ถึงวันที่ 17 สิงหาคม 2025 เวลา 20:00 น. ตามเวลาทองถิ่นไมวาคุณจะอยูที่ใด
 
 RESOURCE ID: item_event_ticket_evergreen_desc_kanto_celebrationsep25
-TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยพิเศษ "ตำนานภูมิภาคคันโต"
+TEXT: ตั๋วสำหรับเขารวมงานวิจัยพิเศษ "ตำนานภูมิภาคคันโต"
 ในวันที่ 2 กันยายน 2025 เวลา 10:00 น.
-ตามเวลาท้องถิ่นทั่วโลก
+ตามเวลาทองถิ่นทั่วโลก
 
 RESOURCE ID: item_event_ticket_evergreen_desc_sunkissedctr0825
-TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยแบบจำกัดเวลาพรีเมียม: แต่งตัวรับลมร้อน
-ถึงวันที่ 31 สิงหาคม 2025 เวลา 20:00 น. ตามเวลาท้องถิ่นทั่วโลก
+TEXT: ตั๋วสำหรับเขารวมงานวิจัยแบบจำกัดเวลาพรีเมียม: แตงตัวรับลมรอน
+ถึงวันที่ 31 สิงหาคม 2025 เวลา 20:00 น. ตามเวลาทองถิ่นทั่วโลก
 
 RESOURCE ID: item_event_ticket_evergreen_desc_sunkissedetr0825
-TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยแบบจำกัดเวลาพรีเมียม: ชายฝั่งอาบแสง
-ถึงวันที่ 31 สิงหาคม 2025 เวลา 20:00 น. ตามเวลาท้องถิ่นทั่วโลก
+TEXT: ตั๋วสำหรับเขารวมงานวิจัยแบบจำกัดเวลาพรีเมียม: ชายฝ่งอาบแสง
+ถึงวันที่ 31 สิงหาคม 2025 เวลา 20:00 น. ตามเวลาทองถิ่นทั่วโลก
+
+RESOURCE ID: item_event_ticket_evergreen_details_conciergecb0925
+TEXT: ตั๋วสำหรับเขารวมงานวิจัยแบบจำกัดเวลาพรีเมียม: ริมหาด
+ในวันที่ 9 กันยายน
+คุณจะสามารถเขารวมไดโดยอัตโนมัติ
+ตามเวลาทองถิ่นทั่วโลก
 
 RESOURCE ID: item_event_ticket_evergreen_details_gbw_wcs_aug25
-TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยแบบจำกัดเวลาพรีเมียม: 2025 WCS
+TEXT: ตั๋วสำหรับเขารวมงานวิจัยแบบจำกัดเวลาพรีเมียม: 2025 WCS
 ในวันที่ 15 สิงหาคม
-คุณจะสามารถเข้าร่วมได้โดยอัตโนมัติ
-ตามเวลาท้องถิ่นทั่วโลก
+คุณจะสามารถเขารวมไดโดยอัตโนมัติ
+ตามเวลาทองถิ่นทั่วโลก
 
 RESOURCE ID: item_event_ticket_evergreen_details_kanto_celebrationsep25
-TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยพิเศษ "ตำนานภูมิภาคคันโต"
+TEXT: ตั๋วสำหรับเขารวมงานวิจัยพิเศษ "ตำนานภูมิภาคคันโต"
 ในวันที่ 2 กันยายน
-คุณจะสามารถเข้าร่วมได้โดยอัตโนมัติ
-ตามเวลาท้องถิ่นทั่วโลก
+คุณจะสามารถเขารวมไดโดยอัตโนมัติ
+ตามเวลาทองถิ่นทั่วโลก
 
 RESOURCE ID: item_event_ticket_evergreen_details_sunkissedctr0825
-TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยแบบจำกัดเวลาพรีเมียม: แต่งตัวรับลมร้อน
+TEXT: ตั๋วสำหรับเขารวมงานวิจัยแบบจำกัดเวลาพรีเมียม: แตงตัวรับลมรอน
 ในวันที่ 25 สิงหาคม
-คุณจะสามารถเข้าร่วมได้โดยอัตโนมัติ
-ตามเวลาท้องถิ่นทั่วโลก
+คุณจะสามารถเขารวมไดโดยอัตโนมัติ
+ตามเวลาทองถิ่นทั่วโลก
 
 RESOURCE ID: item_event_ticket_evergreen_details_sunkissedetr0825
-TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยแบบจำกัดเวลาพรีเมียม: ชายฝั่งอาบแสง
+TEXT: ตั๋วสำหรับเขารวมงานวิจัยแบบจำกัดเวลาพรีเมียม: ชายฝ่งอาบแสง
 ในวันที่ 25 สิงหาคม
-คุณจะสามารถเข้าร่วมได้โดยอัตโนมัติ
-ตามเวลาท้องถิ่นทั่วโลก
+คุณจะสามารถเขารวมไดโดยอัตโนมัติ
+ตามเวลาทองถิ่นทั่วโลก
 
 RESOURCE ID: item_event_ticket_gray_desc_megagyaradosraidday
 TEXT: ตั๋วสำหรับรับโบนัสพิเศษในวันที่
 31 สิงหาคม 2025 เวลา 14:00-17:00 น.
-ตามเวลาท้องถิ่นทั่วโลก
+ตามเวลาทองถิ่นทั่วโลก
 
 RESOURCE ID: item_event_ticket_gray_desc_megasharpedoraidday
 TEXT: ตั๋วสำหรับรับโบนัสพิเศษในวันที่
 7 กันยายน 2025 เวลา 14:00-17:00 น.
-ตามเวลาท้องถิ่นทั่วโลก
+ตามเวลาทองถิ่นทั่วโลก
 
 RESOURCE ID: item_event_ticket_gray_desc_originraidday
 TEXT: ตั๋วสำหรับรับโบนัสพิเศษในวันที่
 10 สิงหาคม 2025 เวลา 11:00-17:00 น.
-ตามเวลาท้องถิ่นทั่วโลก
+ตามเวลาทองถิ่นทั่วโลก
 
 RESOURCE ID: item_event_ticket_gray_details_megagyaradosraidday
 TEXT: ตั๋วสำหรับรับโบนัสพิเศษ
 ในวันที่ 31 สิงหาคม
-คุณจะสามารถเข้าร่วมได้โดยอัตโนมัติ
-ตามเวลาท้องถิ่นทั่วโลก
+คุณจะสามารถเขารวมไดโดยอัตโนมัติ
+ตามเวลาทองถิ่นทั่วโลก
 
 RESOURCE ID: item_event_ticket_gray_details_megasharpedoraidday
 TEXT: ตั๋วสำหรับรับโบนัสพิเศษ
 ในวันที่ 7 กันยายน
-คุณจะสามารถเข้าร่วมได้โดยอัตโนมัติ
-ตามเวลาท้องถิ่นทั่วโลก
+คุณจะสามารถเขารวมไดโดยอัตโนมัติ
+ตามเวลาทองถิ่นทั่วโลก
+
+RESOURCE ID: item_event_ticket_pink_desc_cd_flabebe25
+TEXT: ตั๋วสำหรับเขารวมงานวิจัยพิเศษ
+ฟลาเบเบคอมมิวนิตี้เดย
+ในวันที่ 14 กันยายน 2025 14:00 น.
+ตามเวลาทองถิ่นทั่วโลก
+
+RESOURCE ID: item_event_ticket_pink_details_cd_flabebe25
+TEXT: ตั๋วสำหรับเขารวมงานวิจัยพิเศษ "พลังดอกไม"
+ในวันที่ 14 กันยายน
+คุณจะสามารถเขารวมไดโดยอัตโนมัติ
+ตามเวลาทองถิ่นทั่วโลก
 
 RESOURCE ID: item_global_event_ticket_desc_gowa25
-TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยพิเศษ
-Pokémon GO ไวลด์แอเรีย 2025: ทั่วโลก
+TEXT: ตั๋วสำหรับเขารวมงานวิจัยพิเศษ
+Pokémon GO ไวลดแอเรีย 2025: ทั่วโลก
 ในวันที่ 15-16 พฤศจิกายน 2025
-ตามเวลาท้องถิ่นทั่วโลก
+ตามเวลาทองถิ่นทั่วโลก
 
 RESOURCE ID: item_global_event_ticket_details_gowa25
-TEXT: ตั๋วนี้จะทำให้คุณเข้าร่วมงานวิจัยพิเศษ Pokémon GO ไวลด์แอเรีย: ทั่วโลก
+TEXT: ตั๋วนี้จะทำใหคุณเขารวมงานวิจัยพิเศษ Pokémon GO ไวลดแอเรีย: ทั่วโลก
 ในวันที่ 15-16 พฤศจิกายน
-ได้โดยอัตโนมัติไม่ว่าคุณจะอยู่ที่ใดในโลก
-สามารถดูรายละเอียดได้ที่ข่าวสารในเกม
+ไดโดยอัตโนมัติไมวาคุณจะอยูที่ใดในโลก
+สามารถดูรายละเอียดไดที่ขาวสารในเกม
 
-คุณต้องเล่นเกมในช่วงเวลาที่กำหนด
-เพื่อรับโบนัสทั้งหมดจากอีเวนต์
+คุณตองเลนเกมในชวงเวลาที่กำหนด
+เพื่อรับโบนัสทั้งหมดจากอีเวนต
+
+RESOURCE ID: item_incubator_timed_desc
+TEXT: อุปกรณสำหรับฟกไขดวยการเดิน
+สามารถใชไดจนถึง 1 สัปดาหหลังจากระยะเวลาของบัตรผาน GO สิ้นสุด
+
+RESOURCE ID: item_incubator_timed_name
+TEXT: เครื่องฟกไขจำกัดเวลา
 
 RESOURCE ID: kanto_celebration_event_name
 TEXT: เฉลิมฉลองคันโต
 
 RESOURCE ID: kanto_celebration_sep2025_cc
-TEXT: คำท้านักสะสมเพื่อนพ้องตัวแรก
+TEXT: คำทานักสะสมเพื่อนพองตัวแรก
 
 RESOURCE ID: kr_lotteworld_collab_2025_tag
 TEXT: โลกสยองขวัญ
@@ -719,85 +842,85 @@ RESOURCE ID: kr_lotteworld_collab_event_raid
 TEXT: เก็งกาสวมชุดเทศกาลสุดหลอนจะปรากฏตัวในตีบอส
 
 RESOURCE ID: kr_lotteworld_collab_photobomb_announcing
-TEXT: จับมูมาหลังถ่ายรูปในโกสแนปช็อตเพื่อเคลียร์คำท้านักสะสม
+TEXT: จับมูมาหลังถายรูปในโกสแนปช็อตเพื่อเคลียรคำทานักสะสม
 
 RESOURCE ID: kr_lotteworld_collab_sep2025_cc
-TEXT: คำท้านักสะสมโลกสยองขวัญ
+TEXT: คำทานักสะสมโลกสยองขวัญ
 
 RESOURCE ID: make_good_origin_dialga_desc
-TEXT: เผชิญหน้า: ดีอัลกา (ฟอร์มดั้งเดิม)
+TEXT: เผชิญหนา: ดีอัลกา (ฟอรมดั้งเดิม)
 
 RESOURCE ID: make_good_origin_dialga_title_001
-TEXT: เผชิญหน้า: ดีอัลกา (ฟอร์มดั้งเดิม) 1
+TEXT: เผชิญหนา: ดีอัลกา (ฟอรมดั้งเดิม) 1
 
 RESOURCE ID: make_good_origin_dialga_title_002
-TEXT: เผชิญหน้า: ดีอัลกา (ฟอร์มดั้งเดิม) 2
+TEXT: เผชิญหนา: ดีอัลกา (ฟอรมดั้งเดิม) 2
 
 RESOURCE ID: make_good_origin_dialga_title_003
-TEXT: เผชิญหน้า: ดีอัลกา (ฟอร์มดั้งเดิม) 3
+TEXT: เผชิญหนา: ดีอัลกา (ฟอรมดั้งเดิม) 3
 
 RESOURCE ID: make_good_origin_dialga_title_004
-TEXT: เผชิญหน้า: ดีอัลกา (ฟอร์มดั้งเดิม) 4
+TEXT: เผชิญหนา: ดีอัลกา (ฟอรมดั้งเดิม) 4
 
 RESOURCE ID: make_good_origin_dialga_title_005
-TEXT: เผชิญหน้า: ดีอัลกา (ฟอร์มดั้งเดิม) 5
+TEXT: เผชิญหนา: ดีอัลกา (ฟอรมดั้งเดิม) 5
 
 RESOURCE ID: make_good_origin_dialga_title_006
-TEXT: เผชิญหน้า: ดีอัลกา (ฟอร์มดั้งเดิม) 6
+TEXT: เผชิญหนา: ดีอัลกา (ฟอรมดั้งเดิม) 6
 
 RESOURCE ID: make_good_origin_dialga_title_007
-TEXT: เผชิญหน้า: ดีอัลกา (ฟอร์มดั้งเดิม) 7
+TEXT: เผชิญหนา: ดีอัลกา (ฟอรมดั้งเดิม) 7
 
 RESOURCE ID: make_good_origin_palkia_desc
-TEXT: เผชิญหน้า: พัลเกีย (ฟอร์มดั้งเดิม)
+TEXT: เผชิญหนา: พัลเกีย (ฟอรมดั้งเดิม)
 
 RESOURCE ID: make_good_origin_palkia_title_001
-TEXT: เผชิญหน้า: พัลเกีย (ฟอร์มดั้งเดิม) 1
+TEXT: เผชิญหนา: พัลเกีย (ฟอรมดั้งเดิม) 1
 
 RESOURCE ID: make_good_origin_palkia_title_002
-TEXT: เผชิญหน้า: พัลเกีย (ฟอร์มดั้งเดิม) 2
+TEXT: เผชิญหนา: พัลเกีย (ฟอรมดั้งเดิม) 2
 
 RESOURCE ID: make_good_origin_palkia_title_003
-TEXT: เผชิญหน้า: พัลเกีย (ฟอร์มดั้งเดิม) 3
+TEXT: เผชิญหนา: พัลเกีย (ฟอรมดั้งเดิม) 3
 
 RESOURCE ID: make_good_origin_palkia_title_004
-TEXT: เผชิญหน้า: พัลเกีย (ฟอร์มดั้งเดิม) 4
+TEXT: เผชิญหนา: พัลเกีย (ฟอรมดั้งเดิม) 4
 
 RESOURCE ID: make_good_origin_palkia_title_005
-TEXT: เผชิญหน้า: พัลเกีย (ฟอร์มดั้งเดิม) 5
+TEXT: เผชิญหนา: พัลเกีย (ฟอรมดั้งเดิม) 5
 
 RESOURCE ID: make_good_origin_palkia_title_006
-TEXT: เผชิญหน้า: พัลเกีย (ฟอร์มดั้งเดิม) 6
+TEXT: เผชิญหนา: พัลเกีย (ฟอรมดั้งเดิม) 6
 
 RESOURCE ID: make_good_origin_palkia_title_007
-TEXT: เผชิญหน้า: พัลเกีย (ฟอร์มดั้งเดิม) 7
+TEXT: เผชิญหนา: พัลเกีย (ฟอรมดั้งเดิม) 7
 
 RESOURCE ID: max_battle_win_plus3000_bonus
-TEXT: +3,000 XP เมื่อแบตเทิลแมกซ์เสร็จสิ้น
+TEXT: +3,000 XP เมื่อแบตเทิลแมกซเสร็จสิ้น
 
 RESOURCE ID: maxfinale_2025_ep_bonus_title
-TEXT: โบนัสบัตรผ่านของบัตรผ่าน GO: ฟินาเลแมกซ์
+TEXT: โบนัสบัตรผานของบัตรผาน GO: ฟนาเลแมกซ
 
 RESOURCE ID: maxfinale_2025_ep_bonus_title_00
-TEXT: โบนัสบัตรผ่าน GO: ฟินาเลแมกซ์ Tier 1
+TEXT: โบนัสบัตรผาน GO: ฟนาเลแมกซ Tier 1
 
 RESOURCE ID: maxfinale_2025_ep_bonus_title_01
-TEXT: โบนัสบัตรผ่าน GO: ฟินาเลแมกซ์ Tier 2
+TEXT: โบนัสบัตรผาน GO: ฟนาเลแมกซ Tier 2
 
 RESOURCE ID: maxfinale_2025_ep_bonus_title_02
-TEXT: โบนัสบัตรผ่าน GO: ฟินาเลแมกซ์ Tier 3
+TEXT: โบนัสบัตรผาน GO: ฟนาเลแมกซ Tier 3
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2025-08-26T20:50:20.810080+00:00 for th-TH
-at SHA fbdbfb20aef
-Pipeline 3341523, job 45364801
-Patch from: 0.377.0-SHA-66580fe4-RC1, 0.375.2-SHA-af434c3c-RC1
+TEXT: Built at 2025-08-29T23:21:27.944320+00:00 for th-TH
+at SHA cde95d30a7a
+Pipeline 3347785, job 45617830
+Patch from: 0.377.0-SHA-66580fe4-RC1, 0.375.2-SHA-ba322e6e-RC2
 
 RESOURCE ID: minicollect_help_desc_type_bread
-TEXT: รวบรวมโปเกมอนไดแมกซ์
+TEXT: รวบรวมโปเกมอนไดแมกซ
 
 RESOURCE ID: minicollect_help_desc_type_dough
-TEXT: รวบรวมโปเกมอนกิกะแมกซ์
+TEXT: รวบรวมโปเกมอนกิกะแมกซ
 
 RESOURCE ID: move_name_0488
 TEXT: Chilling Water
@@ -805,40 +928,43 @@ TEXT: Chilling Water
 RESOURCE ID: party_play_see_details_label
 TEXT: SEE DETAILS
 
+RESOURCE ID: photobomb_five_flabebe
+TEXT: ฟลาเบเบแยงซีนถายรูปในโกสแนปช็อต 5 ครั้ง
+
 RESOURCE ID: photobomb_three_misdreavus
-TEXT: มูมาแย่งซีนถ่ายรูปในโกสแนปช็อต 3 ครั้ง
+TEXT: มูมาแยงซีนถายรูปในโกสแนปช็อต 3 ครั้ง
 
 RESOURCE ID: pidgey_drop_mega_energy
-TEXT: เมื่อจับป็อปโปะ อาจได้รับพลังงานเมก้าของพีเจียต
+TEXT: เมื่อจับปอปโปะ อาจไดรับพลังงานเมกาของพีเจียต
 
 RESOURCE ID: pokemon_desc_0854_2477
-TEXT: ว่ากันว่าชาที่เหลือและปล่อยไว้ให้เย็นชืดนั้น
-มีจิตเหงาหงอยมาสิงสู่จนกลายเป็นโปเกมอน
+TEXT: วากันวาชาที่เหลือและปลอยไวใหเย็นชืดนั้น
+มีจิตเหงาหงอยมาสิงสูจนกลายเปนโปเกมอน
 
 RESOURCE ID: pokemon_desc_0854_2478
-TEXT: ลายที่หมุนเป็นวงของร่างกายคือจุดอ่อน
-ถ้าถูกคนแล้วจะเสียรูปร่างและเกิดอาการตาลาย
+TEXT: ลายที่หมุนเปนวงของรางกายคือจุดออน
+ถาถูกคนแลวจะเสียรูปรางและเกิดอาการตาลาย
 
 RESOURCE ID: pokemon_desc_0855_2480
-TEXT: อาศัยอยู่ในกาโบราณ ส่วนมากจะเป็น
-ของปลอมแต่นาน ๆ ครั้งก็จะเจอของจริง
+TEXT: อาศัยอยูในกาโบราณ สวนมากจะเปน
+ของปลอมแตนาน ๆ ครั้งก็จะเจอของจริง
 
 RESOURCE ID: pokemon_desc_0855_2481
-TEXT: มีรสชาติและกลิ่นหอมเฉพาะตัว มีเพียงเทรนเนอร์
-ที่เชื่อใจเท่านั้นที่จะยอมให้ชิมรสชาติได้บ้าง
+TEXT: มีรสชาติและกลิ่นหอมเฉพาะตัว มีเพียงเทรนเนอร
+ที่เชื่อใจเทานั้นที่จะยอมใหชิมรสชาติไดบาง
 
 RESOURCE ID: pokemon_desc_0890_2580
-TEXT: มีพลังอันไร้ขีดจำกัด
-ปล่อยออกมาจากแกนกลางที่ขยายยักษ์
-จนสามารถบิดเวลารอบ ๆ ได้
+TEXT: มีพลังอันไรขีดจำกัด
+ปลอยออกมาจากแกนกลางที่ขยายยักษ
+จนสามารถบิดเวลารอบ ๆ ได
 
 RESOURCE ID: pokemon_desc_0890_2581
-TEXT: แกนกลางช่วงอกจะดูดซับพลังงานที่พวยพุ่ง
-จากผืนดินของภูมิภาคกาลาร์ เพื่อใช้ชีวิตอยู่
-อย่างกระฉับกระเฉง
+TEXT: แกนกลางชวงอกจะดูดซับพลังงานที่พวยพุง
+จากผืนดินของภูมิภาคกาลาร เพื่อใชชีวิตอยู
+อยางกระฉับกระเฉง
 
 RESOURCE ID: profile_banner_level_updates
-TEXT: มีกำหนดการอัปเดตเทรนเนอร์เลเวล! เรียนรู้เพิ่มเติม<a href="https://pokemongolive.com">ที่นี่</a>
+TEXT: มีกำหนดการอัปเดตเทรนเนอรเลเวล! เรียนรูเพิ่มเติม<a href="https://pokemongo.com/post/pgo-leveling-update-announce-2025">ที่นี่</a>
 
 RESOURCE ID: quest_battle_bug_charge_plural
 TEXT: Use a Bug-type Charged Attack in {0} battles
@@ -949,7 +1075,7 @@ RESOURCE ID: quest_battle_water_charge_singular
 TEXT: Use a Water-type Charged Attack in a battle
 
 RESOURCE ID: quest_candy_keldeo_singular
-TEXT: ได้รับลูกอม 1 เม็ด จากการเดินสำรวจโดยมีเคลดิโอเป็นคู่หู
+TEXT: ไดรับลูกอม 1 เม็ด จากการเดินสำรวจโดยมีเคลดิโอเปนคูหู
 
 RESOURCE ID: quest_catch_galar_starters
 TEXT: จับซารุโนริ, ฮิบานี หรือเมซซอน {0} ตัว
@@ -961,11 +1087,11 @@ RESOURCE ID: quest_catch_kanto_starters_singular
 TEXT: จับฟุชิกิดาเนะ, ฮิโตคาเงะ หรือเซนิกาเมะ
 
 RESOURCE ID: quest_catch_pokemon_galar
-TEXT: จับโปเกมอนที่ถูกค้นพบครั้งแรก
-ในภูมิภาคกาลาร์ {0} ตัว
+TEXT: จับโปเกมอนที่ถูกคนพบครั้งแรก
+ในภูมิภาคกาลาร {0} ตัว
 
 RESOURCE ID: quest_catch_water_fighting_plural
-TEXT: จับโปเกมอนประเภทน้ำหรือต่อสู้ {0} ตัว
+TEXT: จับโปเกมอนประเภทน้ำหรือตอสู {0} ตัว
 
 RESOURCE ID: quest_catch_zacian
 TEXT: จับซาเชียน
@@ -974,19 +1100,19 @@ RESOURCE ID: quest_catch_zamazenta
 TEXT: จับซามาเซนตา
 
 RESOURCE ID: quest_directive_emax_win
-TEXT: เอาชนะมุเก็นไดนา (มุเก็นไดแมกซ์) ในแบตเทิลแมกซ์
+TEXT: เอาชนะมุเก็นไดนา (มุเก็นไดแมกซ) ในแบตเทิลแมกซ
 
 RESOURCE ID: quest_directive_gmax_win
-TEXT: ชนะแบตเทิลกิกะแมกซ์ 1 ครั้ง
+TEXT: ชนะแบตเทิลกิกะแมกซ 1 ครั้ง
 
 RESOURCE ID: quest_directive_t1_dmax_win
-TEXT: ชนะแบตเทิลไดแมกซ์หนึ่งดาว 1 ครั้ง
+TEXT: ชนะแบตเทิลไดแมกซหนึ่งดาว 1 ครั้ง
 
 RESOURCE ID: quest_directive_t2_t3_dmax_win
-TEXT: ชนะแบตเทิลไดแมกซ์สองดาวหรือสามดาว 1 ครั้ง
+TEXT: ชนะแบตเทิลไดแมกซสองดาวหรือสามดาว 1 ครั้ง
 
 RESOURCE ID: quest_directive_t4_t5_dmax_win
-TEXT: ชนะแบตเทิลไดแมกซ์สี่ดาวหรือห้าดาว 1 ครั้ง
+TEXT: ชนะแบตเทิลไดแมกซสี่ดาวหรือหาดาว 1 ครั้ง
 
 RESOURCE ID: quest_event_eevee_snapshot_amsterdam
 TEXT: Take a snapshot of your Eevee in Amsterdam
@@ -1018,23 +1144,26 @@ TEXT: Spin a PokéStop or Gym in Valencia
 RESOURCE ID: quest_event_spin_vancouver
 TEXT: Spin a PokéStop or Gym in Vancouver
 
+RESOURCE ID: quest_flabebe_catch_b
+TEXT: จับฟลาเบเบ {0} ตัว
+
 RESOURCE ID: quest_form_change_keldeo
-TEXT: เปลี่ยนร่างเคลดิโอ
+TEXT: เปลี่ยนรางเคลดิโอ
 
 RESOURCE ID: quest_mega_evolve_kanto_starters_plural
-TEXT: วิวัฒนาการเมก้าฟุชิกิบานะ, ลิซาร์ดอน หรือคาเม็กซ์ {0} ครั้ง
+TEXT: วิวัฒนาการเมกาฟุชิกิบานะ, ลิซารดอน หรือคาเม็กซ {0} ครั้ง
 
 RESOURCE ID: quest_mega_evolve_kanto_starters_singular
-TEXT: วิวัฒนาการเมก้าฟุชิกิบานะ, ลิซาร์ดอน หรือคาเม็กซ์
+TEXT: วิวัฒนาการเมกาฟุชิกิบานะ, ลิซารดอน หรือคาเม็กซ
 
 RESOURCE ID: quest_power_up_fairy_fighting
-TEXT: พาวเวอร์อัปโปเกมอนประเภทแฟรี่หรือต่อสู้ {0} ครั้ง
+TEXT: พาวเวอรอัปโปเกมอนประเภทแฟรี่หรือตอสู {0} ครั้ง
 
 RESOURCE ID: quest_powerup_keldeo_plural
-TEXT: พาวเวอร์อัปเคลดิโอ {0} ครั้ง
+TEXT: พาวเวอรอัปเคลดิโอ {0} ครั้ง
 
 RESOURCE ID: quest_powerup_water_fighting_plural
-TEXT: พาวเวอร์อัปโปเกมอนประเภทน้ำหรือต่อสู้ {0} ครั้ง
+TEXT: พาวเวอรอัปโปเกมอนประเภทน้ำหรือตอสู {0} ครั้ง
 
 RESOURCE ID: quest_raid_t1_win
 TEXT: ชนะตีบอสหนึ่งดาว
@@ -1042,11 +1171,111 @@ TEXT: ชนะตีบอสหนึ่งดาว
 RESOURCE ID: quest_raid_t3_win
 TEXT: ชนะตีบอสสามดาว
 
+RESOURCE ID: quest_special_dialogue_hoopaunbound_0_10
+TEXT: บทกวีสอดคลองกับขอเท็จจริงที่วาฮูปามีหลายรางคือ
+ฮูปารางถูกผนึก และ ฮูปารางปลดปลอย
+
+RESOURCE ID: quest_special_dialogue_hoopaunbound_0_11
+TEXT: ยิ่งไปกวานั้น ฉันรูสึกถึง...พลังลึกลับที่เล็ดลอดออกมา
+จากไห ลวดลายบนมันชวนใหนึกถึงฮูปา
+
+RESOURCE ID: quest_special_dialogue_hoopaunbound_0_12
+TEXT: เรื่องนี้ทำใหฉันตื่นเตนสุด ๆ ไปเลย! เราพยายามศึกษา
+เกี่ยวกับฮูปากันมาระยะหนึ่งแลว และไมแนวานี่อาจเปน
+จิ๊กซอวชิ้นสุดทายของปริศนาก็เปนได
+
+RESOURCE ID: quest_special_dialogue_hoopaunbound_0_13
+TEXT: แนนอนวาฉันคงตองขอความรวมมือ
+จาก %PLAYERNAME% ดวย!
+
+RESOURCE ID: quest_special_dialogue_hoopaunbound_0_14
+TEXT: ชวยออกไปตรวจสอบขางนอกดูหนอยไดไหม? สวนฉัน
+จะพยายามไขปริศนาของบทกวีและไหนี่ตอไป
+
+RESOURCE ID: quest_special_dialogue_hoopaunbound_0_8
+TEXT: And in this form it shall remain 
+Until an offering is made again.
+
+RESOURCE ID: quest_special_dialogue_hoopaunbound_0_9
+TEXT: ฉันไมคอยถนัดพวกบทกวีเทาไหร
+แตก็ไมเลวใชไหมละ!
+
+RESOURCE ID: quest_special_dialogue_hoopaunbound_1_0
+TEXT: ขอบคุณนะ %PLAYERNAME%!
+
+RESOURCE ID: quest_special_dialogue_hoopaunbound_1_1
+TEXT: ฉันวิเคราะหไหและบทกวีที่มากับมันจนคนพบ
+อะไรบางอยางแลวละ
+
+RESOURCE ID: quest_special_dialogue_hoopaunbound_1_2
+TEXT: ดูเหมือวาบทกวีจะบอกใบเกี่ยวกับวิธีการเปลี่ยนราง
+ของฮูปา และฉันเชื่อวาไหนี้นาจะมีสวนเกี่ยวของ
+ในกระบวนการนั้น
+
+RESOURCE ID: quest_special_dialogue_hoopaunbound_1_3
+TEXT: ถาเราสามารถหาทางดึงพลังของไหนี้ได
+เราตองเปลี่ยนรางของฮูปาไดแน!
+
+RESOURCE ID: quest_special_dialogue_hoopaunbound_1_4
+TEXT: เราไขปริศนามาไดถึงจุดนี้แลว ฉันเชื่อวารอบนี้
+เราก็ตองทำไดอีกอยางแนนอน
+
+RESOURCE ID: quest_special_dialogue_hoopaunbound_1_5
+TEXT: เธอชวยออกไปตรวจสอบเพิ่มเติมหนอยไดไหม?
+
+RESOURCE ID: quest_special_dialogue_hoopaunbound_2_0
+TEXT: สำเร็จ! %PLAYERNAME%
+นี่เปนการคนพบครั้งใหญเลยละ
+
+RESOURCE ID: quest_special_dialogue_hoopaunbound_2_1
+TEXT: จำบทกวีสวนที่กลาวถึงของหวานและผงไดไหม?
+
+RESOURCE ID: quest_special_dialogue_hoopaunbound_2_2
+TEXT: ดูเหมือนมันจะหมายความวาเราตองใชลูกอมฮูปา
+และสตารดัสตในการเปลี่ยนรางละ!
+
+RESOURCE ID: quest_special_dialogue_hoopaunbound_2_3
+TEXT: เธอสามารถสะสมสตารดัสตไดโดยการจับโปเกมอน
+และตอสูในการตีบอส แตลูกอมฮูปาสามารถหาไดจาก
+การออกผจญภัยรวมกับฮูปาในฐานะคูหูเทานั้น
+
+RESOURCE ID: quest_special_dialogue_hoopaunbound_2_4
+TEXT: โชคดีที่ฉันสามารถแปลงพลังของไหเปนลูกอมฮูปาได
+เมื่อเธอรวบรวมทุกอยางครบแลวก็จะสามารถเปลี่ยน
+ฮูปารางถูกผนึกปนฮูปารางปลดปลอยไดละ
+
+RESOURCE ID: quest_special_dialogue_hoopaunbound_2_5
+TEXT: มีบทกวีอีกสวนที่ฉันคิดวานาจะมีความเกี่ยวของ
+กับการเปลี่ยนรางเชนกัน
+
+RESOURCE ID: quest_special_dialogue_hoopaunbound_2_6
+TEXT: «Когда время настанет 
+Вернуться к форме исходной, 
+Примени то же самое – 
+Станет Хуппа вновь Заключённым.»
+
+RESOURCE ID: quest_special_dialogue_hoopaunbound_2_7
+TEXT: ดูเหมือนวาเธอจะตองใชลูกอมฮูปาและสตารดัสต
+เพื่อเปลี่ยนฮูปารางปลดปลอยกลับเปนฮูปารางถูกผนึก
+แตฉันวาเราอาจจะไมตองใชของในปริมาณเทาเดิม
+
+RESOURCE ID: quest_title_flabebe
+TEXT: พลังดอกไม
+
+RESOURCE ID: quest_title_flabebe_0
+TEXT: พลังดอกไม (1/3)
+
+RESOURCE ID: quest_title_flabebe_1
+TEXT: พลังดอกไม (2/3)
+
+RESOURCE ID: quest_title_flabebe_2
+TEXT: พลังดอกไม (3/3)
+
 RESOURCE ID: quest_title_kanto_celebration_farfetchd
-TEXT: งานวิจัยแบบจำกัดเวลาเฉลิมฉลองคันโต: นกเป็ดน้ำ
+TEXT: งานวิจัยแบบจำกัดเวลาเฉลิมฉลองคันโต: นกเปดน้ำ
 
 RESOURCE ID: quest_title_kanto_celebration_kangaskhan
-TEXT: งานวิจัยแบบจำกัดเวลาเฉลิมฉลองคันโต: แม่ลูกอ่อน
+TEXT: งานวิจัยแบบจำกัดเวลาเฉลิมฉลองคันโต: แมลูกออน
 
 RESOURCE ID: quest_title_kanto_celebration_mr_mime
 TEXT: งานวิจัยแบบจำกัดเวลาเฉลิมฉลองคันโต: บาเรีย
@@ -1082,52 +1311,52 @@ RESOURCE ID: quest_win_raid_lvl1_plural
 TEXT: ชนะตีบอสหนึ่งดาว {0} ครั้ง
 
 RESOURCE ID: raid_day_mega_sharpedo_event_name
-TEXT: วันตีบอส: เมก้าซาเมฮาเดอร์
+TEXT: วันตีบอส: เมกาซาเมฮาเดอร
 
 RESOURCE ID: raid_win_plus3000_bonus
 TEXT: +3,000 XP เมื่อตีบอสเสร็จสิ้น
 
 RESOURCE ID: rally_paris_2025_desc
-TEXT: Earn encounters with Charmander by completing the rally!
+TEXT: เผชิญหนากับฮิโตคาเงะเมื่อเคลียรแสตมปแรลลี!
 
 RESOURCE ID: rally_paris_2025_desc_detail
-TEXT: Collect stamps by visiting GO Stamp Rally PokéStops on a scenic path in the heart of Paris!
+TEXT: แวะไปเสาโปเกสต็อปที่กำหนดซึ่งตั้งอยูในใจกลางปารีสเพื่อป๊มแสตมป!
 
 RESOURCE ID: rally_paris_2025_location
-TEXT: Paris, France
+TEXT: ปารีส, ฝรั่งเศส
 
 RESOURCE ID: rally_paris_2025_rewards_desc
-TEXT: Complete this stamp rally to earn encounters with Charmander while also collecting enough Mega Energy to Mega Evolve your Charizard into Mega Charizard X or Mega Charizard Y.
+TEXT: การเผชิญหนากับฮิโตคาเงะ (รวบรวมพลังงานเมกาแลวจะสามารถวิวัฒนาการเมกาลิซารดอนเปนเมกาลิซารดอน X หรือเมกาลิซารดอน Y ได)
 
 RESOURCE ID: rally_paris_2025_stamp_description_1
-TEXT: This park is the closest to Les Halles, and it’s a great place to relax or take on raids. Many Trainers meet there on Community Days due to its accessibility.
+TEXT: สวนสาธารณะที่เหมาะสมสำหรับตีบอสที่สุดใกลเลอาลล เทรนเนอรจำนวนมากมักไปรวมตัวกันในคอมมิวนิตี้เดยและเขารวมตีบอส
 
 RESOURCE ID: rally_paris_2025_stamp_description_2
-TEXT: Between the Louvre and the Saint-Germain-l’Auxerrois church, this spot offers a great view of Paris by the Seine river.
+TEXT: จุดที่อยูระหวางพิพิธภัณฑลูฟวรและโบสถแซ็ง-แฌรแม็ง-ลอกแซรัว มองเห็นทัศนียภาพของแมน้ำแซนและปารีส
 
 RESOURCE ID: rally_paris_2025_stamp_description_3
-TEXT: Place Colette is right in front of the Salle Richelieu, which hosts La Comédie-Française, France’s most famous theatre troupe.
+TEXT: จัตุรัสโคแล็ตคือจัตุรัสที่ตั้งอยูหนาสำนักงานใหญของคณะละครกอเมดีฟร็องแซซซึ่งเปนคณะละครที่มีชื่อเสียงของฝรั่งเศส
 
 RESOURCE ID: rally_paris_2025_stamp_description_4
-TEXT: This chalet hides under the Louvre and the Jardin des Tuileries, inside a mall built within Paris’s old walls. You can see the inverted pyramid of the Louvre, as well as multiple statues!
+TEXT: กระทอมชาเลตที่ตั้งอยูในศูนยการคาใตดินชื่อดังตรงพีระมิดลูฟวรซึ่งอยูระหวางสวนสาธารณะตุยเลอรีและพิพิธภัณฑลูฟวร
 
 RESOURCE ID: rally_paris_2025_stamp_description_5
-TEXT: At the start of one of Europe’s most famous avenues, Les Champs-Élysées, you can visit one of Paris’s first parks, laid out by the famous architect and designer André Le Nôtre in 1667.
+TEXT: สวนที่ออกแบบโดยสถาปนิกภูมิทัศนที่ชื่ออังเดร เลอ โนเทรอในป 1667 ตั้งอยูริมถนนฌ็องเซลิเซที่มีชื่อเสียงเรื่องความงดงาม
 
 RESOURCE ID: rally_paris_2025_stamp_description_6
-TEXT: The Westfield mall in Les Halles hosts the Lumiose City tourism hub.
+TEXT: จุดทองเที่ยวภายในหางสรรพสินคา Westfield ในเลอาลลที่ใหบรรยากาศเหมือนศูนยกลางการทองเที่ยวมิอาเรซิตี้
 
 RESOURCE ID: rally_paris_2025_stamp_description_7
-TEXT: The Jardin des Tuileries in front of the Louvre offers a great walk during your adventure with classic Parisian sights.
+TEXT: สวนสาธารณะตุยเลอรีที่ตั้งอยูระหวางพิพิธภัณฑลูฟวรและจัตุรัสคองคอรด เปนสถานที่ที่เหมาะสำหรับการเดินเลนในปารีส
 
 RESOURCE ID: rally_paris_2025_title
-TEXT: Paris Stamp Rally
+TEXT: แสตมปแรลลีปารีส
 
 RESOURCE ID: remote_max_battler_box
-TEXT: กล่องนักแบตเทิลแมกซ์ระยะไกล
+TEXT: กลองนักแบตเทิลแมกซระยะไกล
 
 RESOURCE ID: s19_tgr_takeover_collection_challenge
-TEXT: คำท้านักสะสม
+TEXT: คำทานักสะสม
 
 RESOURCE ID: safari_city_2025_amsterdam_title
 TEXT: City Safari: Amsterdam 2025
@@ -1193,53 +1422,99 @@ RESOURCE ID: screen_social_title
 TEXT: โซเชียล
 
 RESOURCE ID: season19_finale_cosmetic_tr_name
-TEXT: งานวิจัยแบบจำกัดเวลาพรีเมียม: แต่งตัวรับลมร้อน
+TEXT: งานวิจัยแบบจำกัดเวลาพรีเมียม: แตงตัวรับลมรอน
 
 RESOURCE ID: season19_finale_encounter_tr_name
-TEXT: งานวิจัยแบบจำกัดเวลาพรีเมียม: ชายฝั่งอาบแสง
+TEXT: งานวิจัยแบบจำกัดเวลาพรีเมียม: ชายฝ่งอาบแสง
 
 RESOURCE ID: season19_finale_free_tr_name
-TEXT: งานวิจัยแบบจำกัดเวลาชายฝั่งอาบแสง
+TEXT: งานวิจัยแบบจำกัดเวลาชายฝ่งอาบแสง
 
 RESOURCE ID: season20_keldeo_story_dialgoue_0_0
-TEXT: สวัสดี %PLAYERNAME%! ฉันมีเรื่องเล่าน่าทึ่ง
-เกี่ยวกับโปเกมอนม้ารุ่น เคลดิโอ
-มาเล่าให้เธอฟังด้วย
+TEXT: สวัสดี %PLAYERNAME%! ฉันมีเรื่องเลานาทึ่ง
+เกี่ยวกับโปเกมอนมารุน เคลดิโอ
+มาเลาใหเธอฟงดวย
 
 RESOURCE ID: season20_keldeo_story_dialgoue_0_1
-TEXT: เธออาจจะเคยได้ยินมาแล้ว แต่ทบทวนสักหน่อยก็ไม่เสียหาย!
+TEXT: เธออาจจะเคยไดยินมาแลว แตทบทวนสักหนอยก็ไมเสียหาย!
 
 RESOURCE ID: season20_keldeo_story_dialgoue_0_2
-TEXT: เคลดิโอร่ำเรียนการต่อสู้มาจากโคบัลออน
+TEXT: เคลดิโอร่ำเรียนการตอสูมาจากโคบัลออน
 เทราคิออนและวิริซิออน
-มันวิ่งทะยานไปทั่วโลกเพื่อฝึกตนต่อไป
+มันวิ่งทะยานไปทั่วโลกเพื่อฝกตนตอไป
 
 RESOURCE ID: season20_keldeo_story_dialgoue_0_3
-TEXT: ฟังดูเหมือนเทรนเนอร์สักคนที่ฉันรู้จักเลย...
-แถมฉันยังได้ข่าวดีมาด้วย มีรายงานการพบเห็น
+TEXT: ฟงดูเหมือนเทรนเนอรสักคนที่ฉันรูจักเลย...
+แถมฉันยังไดขาวดีมาดวย มีรายงานการพบเห็น
 เคลดิโอในพื้นที่! ออกไปตามหาดูสิ
-เรื่องราวบทถัดไปได้เริ่มขึ้นแล้ว!
+เรื่องราวบทถัดไปไดเริ่มขึ้นแลว!
 
 RESOURCE ID: season20_keldeo_story_dialgoue_1_0
-TEXT: %PLAYERNAME% ดีใจที่ได้เห็นเธออยู่
-พร้อมหน้ากับเคลดิโอนะ! รายงานของฉัน
-ระบุว่า เคลดิโอมีพลังที่แท้จริงซึ่งยังหลับใหลอยู่!
+TEXT: %PLAYERNAME% ดีใจที่ไดเห็นเธออยู
+พรอมหนากับเคลดิโอนะ! รายงานของฉัน
+ระบุวา เคลดิโอมีพลังที่แทจริงซึ่งยังหลับใหลอยู!
 
 RESOURCE ID: season20_keldeo_story_dialgoue_1_1
 TEXT: เหมือนกับที่ครั้งหนึ่งโคบัลออน เทราคิออน
-และวิริซิออนได้เคยช่วยนำทางเคลดิโอ
-คราวนี้เป็นตาของเธอที่จะต้องช่วยให้มัน
-เติบโตและค้นพบศักยภาพอันยิ่งใหญ่ของตัวเอง
+และวิริซิออนไดเคยชวยนำทางเคลดิโอ
+คราวนี้เปนตาของเธอที่จะตองชวยใหมัน
+เติบโตและคนพบศักยภาพอันยิ่งใหญของตัวเอง
 
 RESOURCE ID: season20_keldeo_story_dialgoue_1_2
-TEXT: การฝึกกับโปเกมอนที่น่าทึ่งอย่างเคลดิโอ
-ยังช่วยให้เธอพัฒนาทักษะของตัวเองด้วย!
+TEXT: การฝกกับโปเกมอนที่นาทึ่งอยางเคลดิโอ
+ยังชวยใหเธอพัฒนาทักษะของตัวเองดวย!
 
 RESOURCE ID: season20_keldeo_story_dialgoue_1_3
-TEXT: ระหว่างที่เธอควบออกไปผจญภัย ฉันก็จะรวบรวมข้อมูลต่อไปนะ!
+TEXT: ระหวางที่เธอควบออกไปผจญภัย ฉันก็จะรวบรวมขอมูลตอไปนะ!
+
+RESOURCE ID: season20_keldeo_story_title
+TEXT: เรื่องเลาแหงการแปรเปลี่ยน
+
+RESOURCE ID: season20_keldeo_story_title_0
+TEXT: เรื่องเลาแหงการแปรเปลี่ยน (1/8)
+
+RESOURCE ID: season20_keldeo_story_title_1
+TEXT: เรื่องเลาแหงการแปรเปลี่ยน (2/8)
+
+RESOURCE ID: season20_keldeo_story_title_2
+TEXT: เรื่องเลาแหงการแปรเปลี่ยน (3/8)
+
+RESOURCE ID: season20_keldeo_story_title_3
+TEXT: เรื่องเลาแหงการแปรเปลี่ยน (4/8)
+
+RESOURCE ID: season20_keldeo_story_title_4
+TEXT: เรื่องเลาแหงการแปรเปลี่ยน (5/8)
+
+RESOURCE ID: season20_keldeo_story_title_5
+TEXT: เรื่องเลาแหงการแปรเปลี่ยน (6/8)
+
+RESOURCE ID: season20_keldeo_story_title_6
+TEXT: เรื่องเลาแหงการแปรเปลี่ยน (7/8)
+
+RESOURCE ID: season20_keldeo_story_title_7
+TEXT: เรื่องเลาแหงการแปรเปลี่ยน (8/8)
 
 RESOURCE ID: season_gbl_forecast_title_20
-TEXT: Pokémon GO: เรื่องเล่าแห่งการแปรเปลี่ยน
+TEXT: Pokémon GO: เรื่องเลาแหงการแปรเปลี่ยน
+
+RESOURCE ID: season_pass_details_link_september2025
+TEXT: ตรวจสอบรายละเอียดไดที่<a href="https://pokemongo.com/go-pass">เว็บไซต</a>นี้
+
+RESOURCE ID: season_pass_september2025_event_duration
+TEXT: 2 กันยายน - 7 ตุลาคม
+
+RESOURCE ID: season_pass_september2025_track_upgrade_header_description
+TEXT: รับรางวัลเพิ่มเติมและปลดล็อกเครื่องฟกไขจำกัดเวลาที่ระดับ 20!
+
+RESOURCE ID: season_pass_september2025_track_upgrade_header_description_out
+TEXT: รับรางวัลเพิ่มเติมและปลดล็อก<b>{0}</b>ที่ระดับ {1}!
+
+RESOURCE ID: season_pass_september2025_upgrade_description
+TEXT: ซื้อบัตรผาน GO Deluxe: กันยายน เพื่อปลดล็อกรางวัลตอไปนี้!
+
+- เครื่องฟกไขชั้นเยี่ยม 1 ชิ้น
+- <a href="https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2358-incubators-hatching-pokemon-eggs/">เครื่องฟกไขจำกัดเวลา</a>ที่สามารถฟกไขไดไมจำกัดจำนวนครั้ง 1 ชิ้น
+- และอื่น ๆ
 
 RESOURCE ID: slulo_event_title
 TEXT: งานฉลอง XP
@@ -1262,153 +1537,182 @@ TEXT: งานวิจัยแบบจำกัดเวลางานฉ�
 RESOURCE ID: slulo_tr_title_page50
 TEXT: งานวิจัยแบบจำกัดเวลางานฉลอง XP (50/50)
 
+RESOURCE ID: spawn_flabebe
+TEXT: ฟลาเบเบปรากฏตัวออกมามากขึ้น!
+
 RESOURCE ID: special_trade_bonus_expiration
 TEXT: โบนัสแลกเปลี่ยนแบบพิเศษเพิ่มเติมหมดอายุ
 
 RESOURCE ID: special_trade_confirm_bonus
-TEXT: แลกเปลี่ยนแบบพิเศษได้อีก {0} ครั้ง
+TEXT: แลกเปลี่ยนแบบพิเศษไดอีก {0} ครั้ง
 
 RESOURCE ID: special_trade_confirm_bonus_plural
-TEXT: แลกเปลี่ยนแบบพิเศษได้อีก {0} ครั้ง
+TEXT: แลกเปลี่ยนแบบพิเศษไดอีก {0} ครั้ง
 
 RESOURCE ID: special_trade_per_day_plural
-TEXT: แลกเปลี่ยนแบบพิเศษได้ {0} ครั้งต่อวัน
+TEXT: แลกเปลี่ยนแบบพิเศษได {0} ครั้งตอวัน
 
 RESOURCE ID: special_trade_remaining_select
 TEXT: แลกเปลี่ยนแบบพิเศษคงเหลือ: {0} ครั้ง
 
 RESOURCE ID: sunkissed_shores_event_name
-TEXT: ชายฝั่งอาบแสง
+TEXT: ชายฝ่งอาบแสง
+
+RESOURCE ID: text_rewards_key_cd_flabebe25
+TEXT: <b>รางวัลที่จะไดรับ:</b>
+- ไอเท็มภายในเกม เชน บัตรแบตเทิลพรีเมียม
+TM ทาชารจ และลูกอมประหลาด
+- การเผชิญหนากับฟลาเบเบที่มีพื้นหลังพิเศษ
+และอื่น ๆ
+
+RESOURCE ID: text_rewards_key_conciergecb0925
+TEXT: <b>รางวัลที่จะไดรับ:</b>
+- การเผชิญหนากับโคดักสวมหวงยาง
+- ทาโพสยืดเหยียด
+- ซูเปอรบอล 15 ลูก
+- ผลราสสีทอง 5 ผล
+- ผลราส 15 ผล
+- ผลไพน 10 ผล
+- 5,000 สตารดัสต
 
 RESOURCE ID: text_rewards_key_gbw_wcs_aug25
-TEXT: <b>รางวัลที่จะได้รับ:</b>
-- การเผชิญหน้ากับเบโรรินกา, ลาพลาซ, มาริลลิ, ยามิรามิ, มารุโนม, เนนดอลล์, เมเลซี, อคูจิคิง และเอ็กซ์เลก
+TEXT: <b>รางวัลที่จะไดรับ:</b>
+- การเผชิญหนากับเบโรรินกา, ลาพลาซ, มาริลลิ, ยามิรามิ, มารุโนม, เนนดอลล, เมเลซี, อคูจิคิง และเอ็กซเลก
 - บัตรแบตเทิลพรีเมียม 1 ใบ
-- 25,000 สตาร์ดัสต์
+- 25,000 สตารดัสต
 
 RESOURCE ID: text_rewards_key_gowa25
-TEXT: <b>สิ่งที่จะได้รับ:</b>
-- การเผชิญหน้ากับโปเกมอนบิลด์อัป "โอลองเกะ"
-- บัตรตีบอสฟรีสูงสุด 6 ใบในแต่ละวัน โดยการหมุนแผ่นภาพที่ยิม
-- เพิ่มโอกาสได้รับไข่ 5 กม. จากการหมุนเสาโปเกสต็อป
-- แลกเปลี่ยนแบบพิเศษได้สูงสุด 6 ครั้งต่อวัน และลดปริมาณสตาร์ดัสต์ที่ใช้สำหรับแลกเปลี่ยน
-- 1/2 ระยะทางฟักไข่
+TEXT: <b>สิ่งที่จะไดรับ:</b>
+- การเผชิญหนากับโปเกมอนบิลดอัป "โอลองเกะ"
+- บัตรตีบอสฟรีสูงสุด 6 ใบในแตละวัน โดยการหมุนแผนภาพที่ยิม
+- เพิ่มโอกาสไดรับไข 5 กม. จากการหมุนเสาโปเกสต็อป
+- แลกเปลี่ยนแบบพิเศษไดสูงสุด 6 ครั้งตอวัน และลดปริมาณสตารดัสตที่ใชสำหรับแลกเปลี่ยน
+- 1/2 ระยะทางฟกไข
 - 2× ลูกอมจากการจับโปเกมอน
-- โอกาสในการเผชิญหน้ากับโปเกมอนสีแตกต่างจะเพิ่มขึ้นในระหว่างอีเวนต์
+- โอกาสในการเผชิญหนากับโปเกมอนสีแตกตางจะเพิ่มขึ้นในระหวางอีเวนต
 
-เรียนรู้เพิ่มเติมเกี่ยวกับโบนัสตั๋วได้<a href="pokemongo.com/gowildarea/global">ที่นี่</a>
+เรียนรูเพิ่มเติมเกี่ยวกับโบนัสตั๋วได<a href="pokemongo.com/gowildarea/global">ที่นี่</a>
 
 RESOURCE ID: text_rewards_key_kanto_celebrationsep25
-TEXT: <b>รางวัลที่จะได้รับ:</b>
-- การเผชิญหน้ากับฟรีเซอร์ไดแมกซ์, ธันเดอร์ไดแมกซ์ และไฟเยอร์ไดแมกซ์
-- TM ท่าชาร์จ 3 ชิ้น
-- TM ท่าเร็ว 3 ชิ้น
-- โปฟฟิน 1 ชิ้น
+TEXT: <b>รางวัลที่จะไดรับ:</b>
+- การเผชิญหนากับฟรีเซอรไดแมกซ, ธันเดอรไดแมกซ และไฟเยอรไดแมกซ
+- TM ทาชารจ 3 ชิ้น
+- TM ทาเร็ว 3 ชิ้น
+- โปฟฟน 1 ชิ้น
 - ลูกอมประหลาด 5 เม็ด
-- ผลไพน์สีเงิน 2 ชิ้น
+- ผลไพนสีเงิน 2 ชิ้น
 - ผลราสสีทอง 2 ชิ้น
-- 30,000 XP และ 30,000 สตาร์ดัสต์
+- 30,000 XP และ 30,000 สตารดัสต
 - และอื่น ๆ
 
 RESOURCE ID: text_rewards_key_megagyaradosraidday
-TEXT: <b>โบนัสที่จะได้รับ:</b>
+TEXT: <b>โบนัสที่จะไดรับ:</b>
 - บัตรตีบอสเพิ่ม 8 ใบจากการหมุน
-แผ่นภาพที่ยิม
-- เพิ่มโอกาสได้รับลูกอมประหลาด XL จากตีบอส
-- เพิ่ม XP 50% และ 2× สตาร์ดัสต์เมื่อตีบอสเสร็จสิ้น
+แผนภาพที่ยิม
+- เพิ่มโอกาสไดรับลูกอมประหลาด XL จากตีบอส
+- เพิ่ม XP 50% และ 2× สตารดัสตเมื่อตีบอสเสร็จสิ้น
 
 RESOURCE ID: text_rewards_key_megasharpedoraidday
-TEXT: <b>โบนัสที่จะได้รับ:</b>
+TEXT: <b>โบนัสที่จะไดรับ:</b>
 - บัตรตีบอสเพิ่ม 8 ใบจากการหมุน
-แผ่นภาพที่ยิม
-- เพิ่มโอกาสได้รับลูกอมประหลาด XL จากตีบอส
-- เพิ่ม XP 50% และ 2× สตาร์ดัสต์เมื่อตีบอสเสร็จสิ้น
+แผนภาพที่ยิม
+- เพิ่มโอกาสไดรับลูกอมประหลาด XL จากตีบอส
+- เพิ่ม XP 50% และ 2× สตารดัสตเมื่อตีบอสเสร็จสิ้น
 
 RESOURCE ID: text_rewards_key_sunkissedctr0825
-TEXT: <b>รางวัลที่จะได้รับ:</b>
-- การเผชิญหน้ากับเชลเดอร์และการะการะ (ร่างอโลลา)
-- ไอเท็มอวาตาร์กระเป๋าผลไพน์
-- ซูเปอร์บอล 15 ลูก
-- ผลไพน์ 25 ผล
-- 4,000 XP และ 3,000 สตาร์ดัสต์
+TEXT: <b>รางวัลที่จะไดรับ:</b>
+- การเผชิญหนากับเชลเดอรและการะการะ (รางอโลลา)
+- ไอเท็มอวาตารกระเปาผลไพน
+- ซูเปอรบอล 15 ลูก
+- ผลไพน 25 ผล
+- 4,000 XP และ 3,000 สตารดัสต
 
 RESOURCE ID: text_rewards_key_sunkissedetr0825
-TEXT: <b>รางวัลที่จะได้รับ:</b>
-- การเผชิญหน้ากับนามาเคโรสวมหมวกกันแดดและเฮรัชเชอร์
+TEXT: <b>รางวัลที่จะไดรับ:</b>
+- การเผชิญหนากับนามาเคโรสวมหมวกกันแดดและเฮรัชเชอร
 - บัตรแบตเทิลพรีเมียม 2 ใบ
-- 3,000 สตาร์ดัสต์
+- 3,000 สตารดัสต
+
+RESOURCE ID: ticket_flabebe_cd
+TEXT: สามารถซื้อตั๋วสำหรับงานวิจัยพิเศษ "ฟลาเบเบคอมมิวนิตี้เดย" ไดที่รานคา
+
+RESOURCE ID: timed_incubator_ftue_body
+TEXT: เครื่องฟกไขไมจำกัดจำนวนครั้งที่ไดรับจากบัตรผาน GO สามารถใชไดจนถึง 1 สัปดาหหลังจากระยะเวลาของบัตรผาน GO สิ้นสุด
+
+RESOURCE ID: timed_incubator_ftue_title
+TEXT: คุณไดรับเครื่องฟกไขจำกัดเวลา!
 
 RESOURCE ID: title_gofest2025_finale_event_pass_daily_bonus_quest
-TEXT: ภารกิจรายวันบัตรผ่าน GO: ฟินาเลแมกซ์
+TEXT: ภารกิจรายวันบัตรผาน GO: ฟนาเลแมกซ
 
 RESOURCE ID: title_gofest2025_finale_event_pass_daily_bonus_quest_premium
-TEXT: ภารกิจรายวันบัตรผ่าน GO Deluxe: ฟินาเลแมกซ์
+TEXT: ภารกิจรายวันบัตรผาน GO Deluxe: ฟนาเลแมกซ
 
 RESOURCE ID: title_gofest2025_finale_event_pass_hourly_bonus_quest
-TEXT: ภารกิจรายชั่วโมงบัตรผ่าน GO: ฟินาเลแมกซ์
+TEXT: ภารกิจรายชั่วโมงบัตรผาน GO: ฟนาเลแมกซ
 
 RESOURCE ID: title_tr_go_fest_max_finale_2025_01
-TEXT: งานวิจัยแบบจำกัดเวลา GO Fest: ฟินาเลแมกซ์ (2/2)
+TEXT: งานวิจัยแบบจำกัดเวลา GO Fest: ฟนาเลแมกซ (2/2)
 
 RESOURCE ID: trade_exclusion_reason_friend_reached_daily_limit
-TEXT: วันนี้เพื่อนของคุณถึงขีดจำกัดสูงสุดแล้ว จึงไม่สามารถแลกเปลี่ยนแบบพิเศษได้
+TEXT: วันนี้เพื่อนของคุณถึงขีดจำกัดสูงสุดแลว จึงไมสามารถแลกเปลี่ยนแบบพิเศษได
 
 RESOURCE ID: trade_exclusion_reason_friend_reached_daily_limit_old
-TEXT: วันนี้เพื่อนของคุณได้ทำการแลกเปลี่ยนแบบพิเศษไปแล้ว
+TEXT: วันนี้เพื่อนของคุณไดทำการแลกเปลี่ยนแบบพิเศษไปแลว
 
 RESOURCE ID: trade_exclusion_reason_player_reached_daily_limit
-TEXT: แลกเปลี่ยนแบบพิเศษถึงขีดจำกัดสูงสุดแล้ว
+TEXT: แลกเปลี่ยนแบบพิเศษถึงขีดจำกัดสูงสุดแลว
 
 RESOURCE ID: trade_exclusion_reason_player_reached_daily_limit_out
-TEXT: วันนี้คุณได้ทำการแลกเปลี่ยนแบบพิเศษไปแล้ว
+TEXT: วันนี้คุณไดทำการแลกเปลี่ยนแบบพิเศษไปแลว
 
 RESOURCE ID: wcs_aug25_tr_title
 TEXT: งานวิจัยแบบจำกัดเวลาพรีเมียม: 2025 WCS
 
 RESOURCE ID: weedle_drop_mega_energy
-TEXT: เมื่อจับบีเดิล อาจได้รับพลังงานเมก้าของสเปียร์
+TEXT: เมื่อจับบีเดิล อาจไดรับพลังงานเมกาของสเปยร
 
 RESOURCE ID: weekly_challenges_challenge_almost_complete_in_app_notification
-TEXT: Your weekly challenge is {0} complete and ends soon!
+TEXT: Your weekly challenge is {0}% complete and ends soon!
 
 RESOURCE ID: weekly_challenges_choose_group_label
-TEXT: เลือกกลุ่ม
+TEXT: เลือกกลุม
 
 RESOURCE ID: weekly_challenges_claim_reward_button
 TEXT: รับรางวัล!
 
 RESOURCE ID: weekly_challenges_create_group_button_label
-TEXT: สร้างกลุ่ม
+TEXT: สรางกลุม
 
 RESOURCE ID: weekly_challenges_create_new_group_label
 TEXT: เชิญเพื่อน!
 
 RESOURCE ID: weekly_challenges_description
-TEXT: เทรนเนอร์ 4 คนร่วมมือกันทำคำท้าให้เสร็จสิ้น!
+TEXT: เทรนเนอร 4 คนรวมมือกันทำคำทาใหเสร็จสิ้น!
 
 RESOURCE ID: weekly_challenges_encounter_reward_toast
-TEXT: You must claim your Weekly Challenge encounter reward first.
+TEXT: You must claim your Weekly Challenge reward encounter first
 
 RESOURCE ID: weekly_challenges_entry_all_groups_label
 TEXT: CHOOSE YOUR GROUP
 
 RESOURCE ID: weekly_challenges_error_creating_party
-TEXT: เกิดข้อผิดพลาด โปรดลองใหม่อีกครั้ง
+TEXT: เกิดขอผิดพลาด โปรดลองใหมอีกครั้ง
 
 RESOURCE ID: weekly_challenges_error_joining_party
-TEXT: เกิดข้อผิดพลาด โปรดลองใหม่อีกครั้ง
+TEXT: เกิดขอผิดพลาด โปรดลองใหมอีกครั้ง
 
 RESOURCE ID: weekly_challenges_friend_level_too_low_for_invite
-TEXT: Trainer needs to be level {0} to join a Weekly Challenge.
+TEXT: Trainer needs to be level {0} to join a weekly challenge.
 
 RESOURCE ID: weekly_challenges_friend_list_empty
-TEXT: ไม่มีเพื่อนที่เข้าร่วมได้
+TEXT: ไมมีเพื่อนที่เขารวมได
 
 RESOURCE ID: weekly_challenges_friend_request_modal_desc
-TEXT: เมื่ออีกฝ่ายตอบรับคำขอเป็นเพื่อน จะกลายเป็น "เพื่อนสนิท"
+TEXT: เมื่ออีกฝายตอบรับคำขอเปนเพื่อน จะกลายเปน "เพื่อนสนิท"
 
 RESOURCE ID: weekly_challenges_group_invitation_label
-TEXT: {0} ได้เชิญคุณ!
+TEXT: {0} ไดเชิญคุณ!
 
 RESOURCE ID: weekly_challenges_group_invitation_label_plus_one
 TEXT: {0} and 1 other invited you!
@@ -1417,7 +1721,7 @@ RESOURCE ID: weekly_challenges_group_invitation_label_plus_others
 TEXT: {0} and {1} others invited you!
 
 RESOURCE ID: weekly_challenges_in_app_notification_invite
-TEXT: <b>{0}</b> ได้เชิญให้คุณเข้าร่วมกลุ่มคำท้ารายสัปดาห์!
+TEXT: <b>{0}</b> ไดเชิญใหคุณเขารวมกลุมคำทารายสัปดาห!
 
 RESOURCE ID: weekly_challenges_invite_friends
 TEXT: เชิญเพื่อน
@@ -1429,70 +1733,70 @@ RESOURCE ID: weekly_challenges_invite_push_notification_toggle_title
 TEXT: คำเชิญ
 
 RESOURCE ID: weekly_challenges_invite_sent_confirmation
-TEXT: ส่งคำเชิญคำท้ารายสัปดาห์แล้ว
+TEXT: สงคำเชิญคำทารายสัปดาหแลว
 
 RESOURCE ID: weekly_challenges_join_error_invite_expired_title
-TEXT: คำเชิญหมดอายุแล้ว
+TEXT: คำเชิญหมดอายุแลว
 
 RESOURCE ID: weekly_challenges_join_error_modal_body
-TEXT: โปรดเข้าร่วมกลุ่มคำท้ารายสัปดาห์อื่น
+TEXT: โปรดเขารวมกลุมคำทารายสัปดาหอื่น
 
 RESOURCE ID: weekly_challenges_join_error_party_full_title
-TEXT: กลุ่มของ {0} เต็มแล้ว
+TEXT: กลุมของ {0} เต็มแลว
 
 RESOURCE ID: weekly_challenges_join_group_button_label
-TEXT: เข้าร่วมกลุ่ม
+TEXT: เขารวมกลุม
 
 RESOURCE ID: weekly_challenges_join_matchmaking_confirmation_body
-TEXT: You will be paired with up to 3 other Trainers. You can choose to leave and join another group at any time.
+TEXT: You will be paired with up to three other Trainers. You can choose to leave and join another group at any time.
 
 RESOURCE ID: weekly_challenges_join_matchmaking_confirmation_title
 TEXT: Are you sure you want to join a group with other Trainers?
 
 RESOURCE ID: weekly_challenges_join_party_confirmation_message
-TEXT: เมื่อเข้าร่วมกลุ่มนี้จะไม่สามารถตอบรับคำเชิญอื่นได้ คุณสามารถออกจากกลุ่มและไปเข้าร่วมกลุ่มอื่นได้ทุกเมื่อ
+TEXT: เมื่อเขารวมกลุมนี้จะไมสามารถตอบรับคำเชิญอื่นได คุณสามารถออกจากกลุมและไปเขารวมกลุมอื่นไดทุกเมื่อ
 
 RESOURCE ID: weekly_challenges_join_party_confirmation_title
-TEXT: เข้าร่วมกลุ่มของ {0} หรือไม่?
+TEXT: เขารวมกลุมของ {0} หรือไม?
 
 RESOURCE ID: weekly_challenges_join_random_group_label
-TEXT: หาผู้เข้าร่วม!
+TEXT: หาผูเขารวม!
 
 RESOURCE ID: weekly_challenges_leave_group_label
-TEXT: ออกจากกลุ่ม
+TEXT: ออกจากกลุม
 
 RESOURCE ID: weekly_challenges_leave_party_message
-TEXT: จะไม่สามารถรับรางวัลหลังคำท้าเสร็จสิ้นได้ และคะแนนก็จะถูกรีเซ็ตด้วยเช่นกัน
+TEXT: จะไมสามารถรับรางวัลหลังคำทาเสร็จสิ้นได และคะแนนก็จะถูกรีเซ็ตดวยเชนกัน
 
 RESOURCE ID: weekly_challenges_leave_party_title
-TEXT: ออกจากกลุ่มคำท้ารายสัปดาห์นี้หรือไม่?
+TEXT: ออกจากกลุมคำทารายสัปดาหนี้หรือไม?
 
 RESOURCE ID: weekly_challenges_leave_party_toast
-TEXT: You have left the Weekly Challenge group
+TEXT: You have left the Weekly Challenge group.
 
 RESOURCE ID: weekly_challenges_lets_go_button
-TEXT: เริ่มคำท้า!
+TEXT: เริ่มคำทา!
 
 RESOURCE ID: weekly_challenges_matchmaking_finding_player
 TEXT: finding...
 
 RESOURCE ID: weekly_challenges_matchmaking_success_in_app_notification
-TEXT: You have been matched with a Weekly Challenge group!
+TEXT: You have been matched with a weekly challenge group!
 
 RESOURCE ID: weekly_challenges_milestone_modal_label
-TEXT: คำท้ารายสัปดาห์เสร็จสิ้น {0}%!
+TEXT: คำทารายสัปดาหเสร็จสิ้น {0}%!
 
 RESOURCE ID: weekly_challenges_new_friends_expiry_header
-TEXT: Become Friends for the next Weekly Challenge!
+TEXT: Become Friends for the Next Weekly Challenge!
 
 RESOURCE ID: weekly_challenges_new_friends_header
-TEXT: เพิ่มเป็นเพื่อนแล้วเป็น "เพื่อนสนิท" กันเถอะ!
+TEXT: เพิ่มเปนเพื่อนแลวเปน "เพื่อนสนิท" กันเถอะ!
 
 RESOURCE ID: weekly_challenges_new_social_tab_tutorial_body
 TEXT: Group up with others to complete activities and earn rewards.
 
 RESOURCE ID: weekly_challenges_new_social_tab_tutorial_title
-TEXT: New Social tab has been added!
+TEXT: A new tab has been added: Social!
 
 RESOURCE ID: weekly_challenges_not_available
 TEXT: Check back in next week for a new challenge!
@@ -1516,7 +1820,7 @@ RESOURCE ID: weekly_challenges_progress_push_notification_toggle_title
 TEXT: Challenge Progress
 
 RESOURCE ID: weekly_challenges_reward_preview_description
-TEXT: Complete this week's challenge to claim these rewards!
+TEXT: Complete this week’s challenge to claim these rewards!
 
 RESOURCE ID: weekly_challenges_rewards_prefix
 TEXT: รางวัล: 
@@ -1531,30 +1835,30 @@ RESOURCE ID: weekly_challenges_settings_category_title
 TEXT: Weekly Challenges
 
 RESOURCE ID: weekly_challenges_title
-TEXT: คำท้ารายสัปดาห์
+TEXT: คำทารายสัปดาห
 
 RESOURCE ID: weekly_challenges_today_score_title
 TEXT: คะแนนของวันนี้
 
 RESOURCE ID: weekly_challenges_tutorial_1_body
-TEXT: คำท้าใหม่จะปรากฏขึ้นทุกสัปดาห์ เข้าร่วมกลุ่มกับเทรนเนอร์อีกสูงสุด 3 คน แล้วทำคำท้าให้เสร็จสิ้นภายในเวลาเพื่อรับรางวัล!
+TEXT: คำทาใหมจะปรากฏขึ้นทุกสัปดาห เขารวมกลุมกับเทรนเนอรอีกสูงสุด 3 คน แลวทำคำทาใหเสร็จสิ้นภายในเวลาเพื่อรับรางวัล!
 
 RESOURCE ID: weekly_challenges_tutorial_1_title
-TEXT: คำท้ารายสัปดาห์
+TEXT: คำทารายสัปดาห
 
 RESOURCE ID: weekly_challenges_tutorial_2_body
-TEXT: เลือกวิธีเข้าร่วมจากวิธีดังต่อไปนี้
-1. จับกลุ่มกับเทรนเนอร์อื่นอีก 3 คน
-2. สร้างกลุ่มกับเพื่อน
+TEXT: เลือกวิธีเขารวมจากวิธีดังตอไปนี้
+1. จับกลุมกับเทรนเนอรอื่นอีก 3 คน
+2. สรางกลุมกับเพื่อน
 
 RESOURCE ID: weekly_challenges_tutorial_2_title
-TEXT: เข้าร่วมกลุ่ม
+TEXT: เขารวมกลุม
 
 RESOURCE ID: weekly_challenges_tutorial_3_body
-TEXT: เมื่อทำคำท้ารายสัปดาห์เสร็จสิ้น ระดับมิตรภาพกับเพื่อนจะเพิ่มขึ้น
+TEXT: เมื่อทำคำทารายสัปดาหเสร็จสิ้น ระดับมิตรภาพกับเพื่อนจะเพิ่มขึ้น
 
 RESOURCE ID: weekly_challenges_tutorial_3_title
-TEXT: ระดับมิตรภาพคืบหน้า
+TEXT: ระดับมิตรภาพคืบหนา
 
 RESOURCE ID: weekly_challenges_view_invites_label
 TEXT: ดูคำเชิญ
