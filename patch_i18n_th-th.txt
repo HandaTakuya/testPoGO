@@ -509,6 +509,21 @@ TEXT: Spin a Dark-themed Pokéstop
 RESOURCE ID: desc_mighty_o_clock
 TEXT: At the top of each hour, mighty Pokémon will appear more frequently!
 
+RESOURCE ID: eevee_explorers_amsterdam_title
+TEXT: นักสำรวจอีวุย - แสตมป์แรลลีอัมสเตอร์ดัม
+
+RESOURCE ID: eevee_explorers_bangkok_title
+TEXT: นักสำรวจอีวุย - แสตมป์แรลลีกรุงเทพฯ
+
+RESOURCE ID: eevee_explorers_cancun_title
+TEXT: นักสำรวจอีวุย - แสตมป์แรลลีแคนคูน
+
+RESOURCE ID: eevee_explorers_valencia_title
+TEXT: นักสำรวจอีวุย - แสตมป์แรลลีบาเลนเซีย
+
+RESOURCE ID: eevee_explorers_vancouver_title
+TEXT: นักสำรวจอีวุย - แสตมป์แรลลีแวนคูเวอร์
+
 RESOURCE ID: egg_detail_hatch_expiring_soon
 TEXT: หมดอายุเร็ว ๆ นี้
 
@@ -516,6 +531,83 @@ RESOURCE ID: egg_detail_hatch_walk_timed
 TEXT: เดินเพื่อฟักไข่!
 
 เครื่องฟักไข่ที่ได้รับจากบัตรผ่าน GO สามารถใช้งานได้ไม่จำกัดภายในระยะเวลาที่กำหนด
+
+RESOURCE ID: em_hawlucha_2025_bonus_event_title
+TEXT: โบนัสเทศกาลเฉลิมฉลองลูจาบูล
+
+RESOURCE ID: em_hawlucha_2025_bonus_tr_desc_title_00
+TEXT: งานวิจัยแบบจำกัดเวลาโบนัสเทศกาลเฉลิมฉลองลูจาบูล (1/2)
+
+RESOURCE ID: em_hawlucha_2025_bonus_tr_desc_title_01
+TEXT: งานวิจัยแบบจำกัดเวลาโบนัสเทศกาลเฉลิมฉลองลูจาบูล (2/2)
+
+RESOURCE ID: em_hawlucha_2025_bonus_tr_dialog_00
+TEXT: ไง %PLAYERNAME%! ได้เวลาเลือกแล้วว่า
+จะสนับสนุนใครระหว่างลูจาบูลกับไคริกี?
+
+RESOURCE ID: em_hawlucha_2025_bonus_tr_path_a
+TEXT: ลูจาบูล
+
+RESOURCE ID: em_hawlucha_2025_bonus_tr_path_a_desc
+TEXT: เมื่อเลือกเส้นทางนี้ จะได้เผชิญหน้า
+กับลูจาบูล และรับรางวัล
+เช่น TM ท่าชาร์จและ TM ท่าเร็ว
+
+RESOURCE ID: em_hawlucha_2025_bonus_tr_path_b
+TEXT: ไคริกี
+
+RESOURCE ID: em_hawlucha_2025_bonus_tr_path_b_desc
+TEXT: เมื่อเลือกเส้นทางนี้ จะได้เผชิญหน้า
+กับไคริกี และรับรางวัล
+เช่น TM ท่าชาร์จและ TM ท่าเร็ว
+
+RESOURCE ID: em_hawlucha_2025_bonus_tr_title
+TEXT: งานวิจัยแบบจำกัดเวลาโบนัสเทศกาลเฉลิมฉลองลูจาบูล
+
+RESOURCE ID: em_hawlucha_2025_collection_challenge
+TEXT: คำท้านักสะสมเทศกาลเฉลิมฉลองลูจาบูล
+
+RESOURCE ID: em_hawlucha_2025_event_title
+TEXT: เทศกาลเฉลิมฉลองลูจาบูล
+
+RESOURCE ID: em_hawlucha_2025_tr_desc_title_00
+TEXT: งานวิจัยแบบจำกัดเวลาเทศกาลเฉลิมฉลองลูจาบูล (1/4)
+
+RESOURCE ID: em_hawlucha_2025_tr_desc_title_01
+TEXT: งานวิจัยแบบจำกัดเวลาเทศกาลเฉลิมฉลองลูจาบูล (2/4)
+
+RESOURCE ID: em_hawlucha_2025_tr_desc_title_02
+TEXT: งานวิจัยแบบจำกัดเวลาเทศกาลเฉลิมฉลองลูจาบูล (3/4)
+
+RESOURCE ID: em_hawlucha_2025_tr_desc_title_03
+TEXT: งานวิจัยแบบจำกัดเวลาเทศกาลเฉลิมฉลองลูจาบูล (4/4)
+
+RESOURCE ID: em_hawlucha_2025_tr_dialog_00
+TEXT: ไง %PLAYERNAME%! ได้เวลาเลือกแล้วว่า
+จะฝึกฝนแบบเน้นพละกำลังแบบคลิฟ
+หรือเน้นการใช้กลยุทธ์แบบบลองช์?
+
+RESOURCE ID: em_hawlucha_2025_tr_path_a
+TEXT: บลองช์
+
+RESOURCE ID: em_hawlucha_2025_tr_path_a_desc
+TEXT: เมื่อเลือกเส้นทางนี้ จะได้เผชิญหน้า
+กับมาคุโนชิตะ, ซึรุกกุ และนุยโคกุมะ
+และรับรางวัล เช่น TM ท่าชาร์จและ TM ท่าเร็ว
+
+RESOURCE ID: em_hawlucha_2025_tr_path_b
+TEXT: คลิฟ
+
+RESOURCE ID: em_hawlucha_2025_tr_path_b_desc
+TEXT: เมื่อเลือกเส้นทางนี้ จะได้เผชิญหน้า
+กับวันริกี, กูเรกกรู และด็อคโคเรอร์
+และรับรางวัล เช่น TM ท่าชาร์จและ TM ท่าเร็ว
+
+RESOURCE ID: em_hawlucha_2025_tr_title
+TEXT: งานวิจัยแบบจำกัดเวลาเทศกาลเฉลิมฉลองลูจาบูล
+
+RESOURCE ID: event_bonus_hawlucha_wild
+TEXT: ลูจาบูลปรากฏตัวมากขึ้นในธรรมชาติ
 
 RESOURCE ID: event_datetime_range_key_cd_flabebe25
 TEXT: 14 กันยายน เวลา 14:00-17:00 น.
@@ -542,6 +634,9 @@ TEXT: 28 กันยายน เวลา 14:00-17:00 น.
 RESOURCE ID: event_datetime_range_key_megagyaradosraidday
 TEXT: 31 สิงหาคม เวลา 14:00-17:00 น.
 
+RESOURCE ID: event_datetime_range_key_megametagrossraidday
+TEXT: 4 ตุลาคม เวลา 14:00-17:00 น.
+
 RESOURCE ID: event_datetime_range_key_megasharpedoraidday
 TEXT: 7 กันยายน เวลา 14:00-17:00 น.
 
@@ -552,6 +647,10 @@ TEXT: 16 กันยายน เวลา 12:00 น. ถึง
 RESOURCE ID: event_datetime_range_key_shadowgroudonraidweekend
 TEXT: 20 กันยายน เวลา 6:00 น. ถึง
 21 กันยายน เวลา 22:00 น.
+
+RESOURCE ID: event_datetime_range_key_steelskyline0925
+TEXT: 30 กันยายน เวลา 10:00 น. ถึง
+7 ตุลาคม เวลา 20:00 น.
 
 RESOURCE ID: event_pass_premium_reward_banner_bottom_text_timed_incubator
 TEXT: ได้รับเมื่อถึงระดับ 20
@@ -613,6 +712,9 @@ TEXT: ตำนานภูมิภาคคันโต
 RESOURCE ID: general1.ticket._shadowgroudonraidweekend_title
 TEXT: ตั๋ว "สุดสัปดาห์ตีบอสกราดอนชาโดว์"
 
+RESOURCE ID: general1.ticket._steelskyline0925_title
+TEXT: ตั๋วงานวิจัยแบบจำกัดเวลาพรีเมียม: ขอบฟ้าเหล็กกล้า
+
 RESOURCE ID: general1.ticket_cd_flabebe25_title
 TEXT: ตั๋วฟลาเบเบคอมมิวนิตี้เดย์
 
@@ -621,6 +723,9 @@ TEXT: ตั๋ว "วันตีบอสเมก้าบาคูดา"
 
 RESOURCE ID: general2.ticket.6_conciergecb0925_title
 TEXT: ตั๋วงานวิจัยแบบจำกัดเวลาพรีเมียม: ริมหาด
+
+RESOURCE ID: general2.ticket.6_megametagrossraidday_title
+TEXT: ตั๋ว "วันตีบอสเมก้าเมทากรอส"
 
 RESOURCE ID: general2.ticket.6_megasharpedoraidday_title
 TEXT: ตั๋ว "วันตีบอสเมก้าซาเมฮาเดอร์"
@@ -792,6 +897,10 @@ TEXT: ตั๋วสำหรับเข้าร่วมงานวิจ�
 ในวันที่ 2 กันยายน 2025 เวลา 10:00 น.
 ตามเวลาท้องถิ่นทั่วโลก
 
+RESOURCE ID: item_event_ticket_evergreen_desc_steelskyline0925
+TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยแบบจำกัดเวลาพรีเมียม: ขอบฟ้าเหล็กกล้า
+ถึงวันที่ 7 ตุลาคม 2025 เวลา 20:00 น. ตามเวลาท้องถิ่นทั่วโลก
+
 RESOURCE ID: item_event_ticket_evergreen_details_completelynormal_sep25
 TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยแบบจำกัดเวลาพรีเมียม: ปกติสุด ๆ
 ในวันที่ 23 กันยายน
@@ -810,6 +919,12 @@ TEXT: ตั๋วสำหรับเข้าร่วมงานวิจ�
 คุณจะสามารถเข้าร่วมได้โดยอัตโนมัติ
 ตามเวลาท้องถิ่นทั่วโลก
 
+RESOURCE ID: item_event_ticket_evergreen_details_steelskyline0925
+TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยแบบจำกัดเวลาพรีเมียม: ขอบฟ้าเหล็กกล้า
+ในวันที่ 30 กันยายน
+คุณจะสามารถเข้าร่วมได้โดยอัตโนมัติ
+ตามเวลาท้องถิ่นทั่วโลก
+
 RESOURCE ID: item_event_ticket_gray_desc_megacameruptraidday
 TEXT: ตั๋วสำหรับรับโบนัสพิเศษในวันที่
 28 กันยายน 2025 เวลา 14:00-17:00 น.
@@ -818,6 +933,11 @@ TEXT: ตั๋วสำหรับรับโบนัสพิเศษใ�
 RESOURCE ID: item_event_ticket_gray_desc_megagyaradosraidday
 TEXT: ตั๋วสำหรับรับโบนัสพิเศษในวันที่
 31 สิงหาคม 2025 เวลา 14:00-17:00 น.
+ตามเวลาท้องถิ่นทั่วโลก
+
+RESOURCE ID: item_event_ticket_gray_desc_megametagrossraidday
+TEXT: ตั๋วสำหรับรับโบนัสพิเศษในวันที่
+4 ตุลาคม 2025 เวลา 14:00-17:00 น.
 ตามเวลาท้องถิ่นทั่วโลก
 
 RESOURCE ID: item_event_ticket_gray_desc_megasharpedoraidday
@@ -841,6 +961,12 @@ TEXT: ตั๋วสำหรับรับโบนัสพิเศษ
 RESOURCE ID: item_event_ticket_gray_details_megagyaradosraidday
 TEXT: ตั๋วสำหรับรับโบนัสพิเศษ
 ในวันที่ 31 สิงหาคม
+คุณจะสามารถเข้าร่วมได้โดยอัตโนมัติ
+ตามเวลาท้องถิ่นทั่วโลก
+
+RESOURCE ID: item_event_ticket_gray_details_megametagrossraidday
+TEXT: ตั๋วสำหรับรับโบนัสพิเศษ
+ในวันที่ 4 ตุลาคม
 คุณจะสามารถเข้าร่วมได้โดยอัตโนมัติ
 ตามเวลาท้องถิ่นทั่วโลก
 
@@ -1022,8 +1148,14 @@ TEXT: เผชิญหน้า: พัลเกีย (ฟอร์มดั�
 RESOURCE ID: make_good_origin_palkia_title_007
 TEXT: เผชิญหน้า: พัลเกีย (ฟอร์มดั้งเดิม) 7
 
+RESOURCE ID: max_battle_rare_xl_candy_bonus
+TEXT: การันตีลูกอมประหลาด XL 1 เม็ด จากการชนะแบตเทิลแมกซ์ในพื้นที่
+
 RESOURCE ID: max_battle_win_plus3000_bonus
 TEXT: +3,000 XP เมื่อแบตเทิลแมกซ์เสร็จสิ้น
+
+RESOURCE ID: max_battles_event
+TEXT: แบตเทิลแมกซ์ธีมอีเวนต์
 
 RESOURCE ID: meetup_check_in_research_title_gowa2025
 TEXT: Meetup Check-in Timed Research: GO Wild Area
@@ -1031,11 +1163,14 @@ TEXT: Meetup Check-in Timed Research: GO Wild Area
 RESOURCE ID: mega_camerupt_raid_day_event_name
 TEXT: วันตีบอสเมก้าบาคูดา
 
+RESOURCE ID: mega_metagross_raid_day_event_name
+TEXT: วันตีบอสเมก้าเมทากรอส
+
 RESOURCE ID: metadata_patch
-TEXT: Built at 2025-09-18T01:18:40.014813+00:00 for th-TH
-at SHA 9d4d108e07d
-Pipeline 3373352, job 46567682
-Patch from: 0.381.0-SHA-08a6eb52-RC1, 0.379.0-SHA-c9f2d815-RC1, 0.377.1-SHA-1c6140c0-RC2
+TEXT: Built at 2025-09-19T23:55:41.077990+00:00 for th-TH
+at SHA 40832ea7ced
+Pipeline 3375818, job 46657873
+Patch from: 0.377.2-SHA-aa2010b0-RC1, 0.379.0-SHA-252b2dfa-RC3, 0.381.0-SHA-08a6eb52-RC1
 
 RESOURCE ID: minicollect_help_desc_type_bread
 TEXT: รวบรวมโปเกมอนไดแมกซ์
@@ -1054,6 +1189,9 @@ TEXT: ดูรายละเอียด
 
 RESOURCE ID: photobomb_five_flabebe
 TEXT: ฟลาเบเบแย่งซีนถ่ายรูปในโกสแนปช็อต 5 ครั้ง
+
+RESOURCE ID: photobomb_five_hawlucha
+TEXT: ลูจาบูลแย่งซีนถ่ายรูปในโกสแนปช็อต 5 ครั้ง
 
 RESOURCE ID: photobomb_special_six
 TEXT: Up to 6 Event-themed suprise encounters in GO Snapshot
@@ -1465,6 +1603,66 @@ TEXT: วันตีบอส: เมก้าซาเมฮาเดอร์
 RESOURCE ID: raid_win_plus3000_bonus
 TEXT: +3,000 XP เมื่อตีบอสเสร็จสิ้น
 
+RESOURCE ID: rally_city_safari_2025_amsterdam_desc
+TEXT: ยินดีต้อนรับสู่ City Safari: อัมสเตอร์ดัม!
+
+RESOURCE ID: rally_city_safari_2025_amsterdam_desc_detail
+TEXT: เผชิญหน้ากับอีวุยเมื่อหมุนเสาโปเกสต็อปแสตมป์แรลลีในเมืองอัมสเตอร์ดัม (สูงสุด 8 ครั้งต่อตั๋ว 1 ใบ) ตรวจสอบรายละเอียดได้ที่แผนที่แสตมป์แรลลี
+
+RESOURCE ID: rally_city_safari_2025_amsterdam_location
+TEXT: อัมสเตอร์ดัม, เนเธอร์แลนด์
+
+RESOURCE ID: rally_city_safari_2025_amsterdam_rewards_desc_general
+TEXT: เผชิญหน้ากับอีวุย (อีวุยสวมหมวกซาฟารี) ที่มีพื้นหลังสถานที่พิเศษเฉพาะอัมสเตอร์ดัม
+
+RESOURCE ID: rally_city_safari_2025_bangkok_desc
+TEXT: ยินดีต้อนรับสู่ City Safari: กรุงเทพฯ!
+
+RESOURCE ID: rally_city_safari_2025_bangkok_desc_detail
+TEXT: เผชิญหน้ากับอีวุยเมื่อหมุนเสาโปเกสต็อปแสตมป์แรลลีในเมืองกรุงเทพฯ (สูงสุด 8 ครั้งต่อตั๋ว 1 ใบ) ตรวจสอบรายละเอียดได้ที่แผนที่แสตมป์แรลลี
+
+RESOURCE ID: rally_city_safari_2025_bangkok_location
+TEXT: กรุงเทพฯ, ไทย
+
+RESOURCE ID: rally_city_safari_2025_bangkok_rewards_desc_general
+TEXT: เผชิญหน้ากับอีวุย (อีวุยสวมหมวกซาฟารี) ที่มีพื้นหลังสถานที่พิเศษเฉพาะกรุงเทพฯ
+
+RESOURCE ID: rally_city_safari_2025_cancun_desc
+TEXT: ยินดีต้อนรับสู่ City Safari: แคนคูน!
+
+RESOURCE ID: rally_city_safari_2025_cancun_desc_detail
+TEXT: เผชิญหน้ากับอีวุยเมื่อหมุนเสาโปเกสต็อปแสตมป์แรลลีในเมืองแคนคูน (สูงสุด 8 ครั้งต่อตั๋ว 1 ใบ) ตรวจสอบรายละเอียดได้ที่แผนที่แสตมป์แรลลี
+
+RESOURCE ID: rally_city_safari_2025_cancun_location
+TEXT: แคนคูน, เม็กซิโก
+
+RESOURCE ID: rally_city_safari_2025_cancun_rewards_desc_general
+TEXT: เผชิญหน้ากับอีวุย (อีวุยสวมหมวกซาฟารี) ที่มีพื้นหลังสถานที่พิเศษเฉพาะแคนคูน
+
+RESOURCE ID: rally_city_safari_2025_valencia_desc
+TEXT: ยินดีต้อนรับสู่ City Safari: บาเลนเซีย!
+
+RESOURCE ID: rally_city_safari_2025_valencia_desc_detail
+TEXT: เผชิญหน้ากับอีวุยเมื่อหมุนเสาโปเกสต็อปแสตมป์แรลลีในเมืองบาเลนเซีย (สูงสุด 8 ครั้งต่อตั๋ว 1 ใบ) ตรวจสอบรายละเอียดได้ที่แผนที่แสตมป์แรลลี
+
+RESOURCE ID: rally_city_safari_2025_valencia_location
+TEXT: บาเลนเซีย, สเปน
+
+RESOURCE ID: rally_city_safari_2025_valencia_rewards_desc_general
+TEXT: เผชิญหน้ากับอีวุย (อีวุยสวมหมวกซาฟารี) ที่มีพื้นหลังสถานที่พิเศษเฉพาะบาเลนเซีย
+
+RESOURCE ID: rally_city_safari_2025_vancouver_desc
+TEXT: ยินดีต้อนรับสู่ City Safari: แวนคูเวอร์!
+
+RESOURCE ID: rally_city_safari_2025_vancouver_desc_detail
+TEXT: เผชิญหน้ากับอีวุยเมื่อหมุนเสาโปเกสต็อปแสตมป์แรลลีในเมืองแวนคูเวอร์ (สูงสุด 8 ครั้งต่อตั๋ว 1 ใบ) ตรวจสอบรายละเอียดได้ที่แผนที่แสตมป์แรลลี
+
+RESOURCE ID: rally_city_safari_2025_vancouver_location
+TEXT: แวนคูเวอร์, แคนาดา
+
+RESOURCE ID: rally_city_safari_2025_vancouver_rewards_desc_general
+TEXT: เผชิญหน้ากับอีวุย (อีวุยสวมหมวกซาฟารี) ที่มีพื้นหลังสถานที่พิเศษเฉพาะแวนคูเวอร์
+
 RESOURCE ID: rally_paris_2025_desc
 TEXT: เผชิญหน้ากับฮิโตคาเงะเมื่อเคลียร์แสตมป์แรลลี!
 
@@ -1641,6 +1839,43 @@ TEXT: การฝึกกับโปเกมอนที่น่าทึ�
 RESOURCE ID: season20_keldeo_story_dialogue_1_3
 TEXT: ระหว่างที่เธอควบออกไปผจญภัย ฉันก็จะรวบรวมข้อมูลต่อไปนะ!
 
+RESOURCE ID: season20_keldeo_story_dialogue_2_0
+TEXT: ไง %PLAYERNAME%!
+ออกไปผจญภัยกับเคลดิโอมาเป็นยังไงบ้าง
+เคยเห็นมันพ่นน้ำออกมาจากกีบหรือยัง?
+
+RESOURCE ID: season20_keldeo_story_dialogue_2_1
+TEXT: การพ่นน้ำออกมาจากกีบทำให้มันเคลื่อนที่
+ไปบนผิวน้ำได้ราวกับลื่นไถล
+ไม่จำเป็นต้องใช้เรือเลยล่ะ
+
+RESOURCE ID: season20_keldeo_story_dialogue_2_2
+TEXT: การผจญภัยไปกับเธอคงช่วยให้มัน
+เชี่ยวชาญทักษะนี้ และยังช่วยให้พลัง
+ที่หลับใหลในตัวของมันใกล้ตื่นขึ้นด้วย!
+
+RESOURCE ID: season20_keldeo_story_dialogue_2_3
+TEXT: ลุยต่อไปแบบนั้นแหละ %PLAYERNAME%
+อีกเดี๋ยวเธอก็จะได้เห็นพลังที่น่าทึ่งแล้ว!
+
+RESOURCE ID: season20_keldeo_story_dialogue_3_0
+TEXT: ยินดีต้อนรับกลับมานะ %PLAYERNAME%!
+
+RESOURCE ID: season20_keldeo_story_dialogue_3_1
+TEXT: เธอน่าจะรู้อยู่แล้วว่าเคลดิโอมีสองประเภท
+คือประเภทน้ำและต่อสู้! การจับคู่ที่หายากนี้
+ทำให้เคลดิโอต่อสู้ได้อย่างเก่งกาจจนน่าทึ่ง
+
+RESOURCE ID: season20_keldeo_story_dialogue_3_2
+TEXT: มีโปเกมอนน้อยตัวนักที่จะสามารถใช้ท่าเคลื่อนที่
+ไปบนผิวน้ำได้ราวกับลื่นไถลและใช้ท่าต่อสู้
+ได้อย่างดิบเถื่อนเช่นเคลดิโอ
+
+RESOURCE ID: season20_keldeo_story_dialogue_3_3
+TEXT: การจะดึงศักยภาพสูงสุดของมันออกมา
+ต้องมีความเข้าใจเกี่ยวกับเรื่องประเภทเหล่านั้น
+และเอามาใช้ให้เกิดประโยชน์ ฝากด้วยล่ะ!
+
 RESOURCE ID: season20_keldeo_story_title
 TEXT: เรื่องเล่าแห่งการแปรเปลี่ยน
 
@@ -1813,6 +2048,24 @@ TEXT: FINAL STAMP
 RESOURCE ID: stardust_cost_trade_reduced_bonus
 TEXT: สตาร์ดัสต์ที่ใช้แลกเปลี่ยนลดลง
 
+RESOURCE ID: steel_skyline_event_name
+TEXT: ขอบฟ้าเหล็กกล้า
+
+RESOURCE ID: steel_skyline_free_tr_name
+TEXT: งานวิจัยแบบจำกัดเวลาขอบฟ้าเหล็กกล้า
+
+RESOURCE ID: steel_skyline_paid_tr_name
+TEXT: งานวิจัยแบบจำกัดเวลาพรีเมียม: ขอบฟ้าเหล็กกล้า
+
+RESOURCE ID: steel_skyline_tier1_reward
+TEXT: รางวัลคำท้าสำหรับทั่วโลกขอบฟ้าเหล็กกล้า Tier 1
+
+RESOURCE ID: steel_skyline_tier2_reward
+TEXT: รางวัลคำท้าสำหรับทั่วโลกขอบฟ้าเหล็กกล้า Tier 2
+
+RESOURCE ID: steel_skyline_tier3_reward
+TEXT: รางวัลคำท้าสำหรับทั่วโลกขอบฟ้าเหล็กกล้า Tier 3
+
 RESOURCE ID: strong_encounter_tutorial_message
 TEXT: Pokémon GO Wild Area ticket holders have more opportunities to receive GO Safari Balls as part of their ticketed bonuses.
 
@@ -1890,6 +2143,13 @@ TEXT: <b>โบนัสที่จะได้รับ:</b>
 - เพิ่มโอกาสได้รับลูกอมประหลาด XL จากตีบอส
 - เพิ่ม XP 50% และ 2× สตาร์ดัสต์เมื่อตีบอสเสร็จสิ้น
 
+RESOURCE ID: text_rewards_key_megametagrossraidday
+TEXT: <b>โบนัสที่จะได้รับ:</b>
+- บัตรตีบอสเพิ่ม 8 ใบจากการหมุน
+แผ่นภาพที่ยิม
+- เพิ่มโอกาสได้รับลูกอมประหลาด XL จากตีบอส
+- เพิ่ม XP 50% และ 2× สตาร์ดัสต์เมื่อตีบอสเสร็จสิ้น
+
 RESOURCE ID: text_rewards_key_megasharpedoraidday
 TEXT: <b>โบนัสที่จะได้รับ:</b>
 - บัตรตีบอสเพิ่ม 8 ใบจากการหมุน
@@ -1908,6 +2168,13 @@ TEXT: <b>โบนัสที่จะได้รับ:</b>
 - บัตรตีบอสเพิ่ม 5 ใบจากการหมุน
 แผ่นภาพที่ยิม
 - เพิ่ม XP 50% และ 2× สตาร์ดัสต์เมื่อตีบอสเสร็จสิ้น
+
+RESOURCE ID: text_rewards_key_steelskyline0925
+TEXT: <b>รางวัลที่จะได้รับ:</b>
+- การเผชิญหน้ากับเนียส (ร่างกาลาร์) และดิวรัลดอนไดแมกซ์
+- บัตรตีบอสพรีเมียม 2 ใบ
+- 800 อนุภาคแมกซ์
+- 3,000 สตาร์ดัสต์
 
 RESOURCE ID: ticket_flabebe_cd
 TEXT: สามารถซื้อตั๋วสำหรับงานวิจัยพิเศษ "ฟลาเบเบคอมมิวนิตี้เดย์" ได้ที่ร้านค้า
