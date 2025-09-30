@@ -1,5 +1,11 @@
+RESOURCE ID: account_locked_article_url
+TEXT: https://niantic.helpshift.com/hc/faq/5242-my-account-has-been-locked-or-restricted/
+
 RESOURCE ID: additional_candy_max_battle_singular
 TEXT: One additional Candy for completing Max Battles
+
+RESOURCE ID: apple_encounters_evo_item_drop_bonus
+TEXT: โปเกมอนที่ปรากฏตัวหลังแตะแอปเปิลมีโอกาสที่จะถือแอปเปิลสำหรับวิวัฒนาการคาจิชชูเพิ่มขึ้น
 
 RESOURCE ID: appraise_poltchageist_artisan_1
 TEXT: An Artisan Form Poltchageist. A rare find!
@@ -401,20 +407,51 @@ TEXT: แวนคูเวอร์, 28 กันยายน 2025
 RESOURCE ID: badge_safari_2025_vancouver_sunday_title
 TEXT: Pokémon GO City Safari
 
+RESOURCE ID: blocked_player_lockout_day_plural
+TEXT: Unauthorized Software Detected
+
+Your account has been locked for {0} days. Our systems have detected use of unauthorized or third-party software on this account.
+
+Please discontinue use of this software or your account may be at risk of further punishment, including permanent suspension.
+
+RESOURCE ID: blocked_player_lockout_day_singular
+TEXT: Unauthorized Software Detected
+
+Your account has been locked for one day. Our systems have detected use of unauthorized or third-party software on this account.
+
+Please discontinue use of this software or your account may be at risk of further punishment, including permanent suspension.
+
+RESOURCE ID: blocked_player_lockout_hour_plural
+TEXT: Unauthorized Software Detected
+
+Your account has been locked for {0} hours. Our systems have detected use of unauthorized or third-party software on this account.
+
+Please discontinue use of this software or your account may be at risk of further punishment, including permanent suspension.
+
+RESOURCE ID: blocked_player_lockout_hour_singular
+TEXT: Unauthorized Software Detected
+
+Your account has been locked for one hour. Our systems have detected use of unauthorized or third-party software on this account.
+
+Please discontinue use of this software or your account may be at risk of further punishment, including permanent suspension.
+
 RESOURCE ID: bonus_10_daily_raid_passes
 TEXT: Receive up to 10 Raid Passes at no cost by spinning Photo Discs at Gyms
 
 RESOURCE ID: bonus_3_daily_raid_passes
-TEXT: Receive up to 3 Raid Passes at no cost by spinning Photo Discs at Gyms
+TEXT: Receive up to three Raid Passes at no cost by spinning Photo Discs at Gyms
 
 RESOURCE ID: bonus_5k_egg_rate
 TEXT: Increased chance of receiving event-themed 5 km Eggs from spinning PokéStops or Gyms
 
 RESOURCE ID: bonus_6_daily_raid_passes
-TEXT: Receive up to 6 Raid Passes at no cost by spinning Photo Discs at Gyms
+TEXT: Receive up to six Raid Passes at no cost by spinning Photo Discs at Gyms
 
 RESOURCE ID: bonus_cd_move_flabebe
 TEXT: วิวัฒนาการฟลาเอตเตเป็นฟลาเจสที่รู้ท่าโจมตีชาร์จ "น้ำเย็น"
+
+RESOURCE ID: bonus_cd_move_solosis
+TEXT: วิวัฒนาการดาบูลันเป็นแลนคูลัสที่รู้ท่าโจมตีเร็ว "ออดอ้อน"
 
 RESOURCE ID: bonus_dmax_shiny_chance_increase
 TEXT: โอกาสเพิ่มขึ้นที่จะได้เผชิญหน้ากับโปเกมอนไดแมกซ์สีแตกต่างในแบตเทิลไดแมกซ์หนึ่งดาวถึงสี่ดาว
@@ -432,10 +469,10 @@ RESOURCE ID: bonus_event_stamp_rally_timed_research
 TEXT: มีงานวิจัยแบบจำกัดเวลาธีมอีเวนต์ฟรีสำหรับตะลุยสถานที่ต่าง ๆ ของแสตมป์แรลลีเกาะเชจู
 
 RESOURCE ID: bonus_raid_3_xl_candy_all_raids
-TEXT: Three additional Candy XL from completing Raids
+TEXT: Three additional Candy XL for completing Raid Battles
 
 RESOURCE ID: bonus_raid_6_candy_all_raids
-TEXT: Six additional Candy from completing Raids
+TEXT: Six additional Candy for completing Raid Battles
 
 RESOURCE ID: bonus_tw_route_campaign_routes
 TEXT: อาจเผชิญหน้ากับคาบิกอนในชุดคอสตูมในเส้นทาง "GO กันเลย!"
@@ -473,6 +510,9 @@ TEXT: โกแบตเทิลลีก: เรื่องเล่าแห
 RESOURCE ID: community_day_flabebe_event_name
 TEXT: คอมมิวนิตี้เดย์: ฟลาเบเบ
 
+RESOURCE ID: community_day_solosis_event_name
+TEXT: คอมมิวนิตี้เดย์: ยูนิรัน
+
 RESOURCE ID: completely_normal_event_name
 TEXT: ปกติธรรมดา
 
@@ -501,10 +541,10 @@ RESOURCE ID: concierge_promo_tr_name
 TEXT: งานวิจัยแบบจำกัดเวลาโบนัสโปเกมอน คอนเซียร์จ
 
 RESOURCE ID: dark_poi_spin_plural
-TEXT: Spin {0} Dark-themed Pokéstops
+TEXT: Spin {0} Dark type–themed PokéStops
 
 RESOURCE ID: dark_poi_spin_singular
-TEXT: Spin a Dark-themed Pokéstop
+TEXT: Spin a Dark type–themed PokéStop
 
 RESOURCE ID: desc_mighty_o_clock
 TEXT: At the top of each hour, mighty Pokémon will appear more frequently!
@@ -612,6 +652,9 @@ TEXT: ลูจาบูลปรากฏตัวมากขึ้นใน�
 RESOURCE ID: event_datetime_range_key_cd_flabebe25
 TEXT: 14 กันยายน เวลา 14:00-17:00 น.
 
+RESOURCE ID: event_datetime_range_key_cd_solosis25
+TEXT: 12 ตุลาคม เวลา 14:00-17:00 น.
+
 RESOURCE ID: event_datetime_range_key_completelynormal_sep25
 TEXT: 23 กันยายน เวลา 10:00 น. ถึง
 27 กันยายน เวลา 20:00 น.
@@ -623,6 +666,10 @@ TEXT: 9 กันยายน เวลา 10:00 น. ถึง
 RESOURCE ID: event_datetime_range_key_gowa25
 TEXT: 15 พฤศจิกายน -
 16 พฤศจิกายน
+
+RESOURCE ID: event_datetime_range_key_harvestfestival_oct25
+TEXT: 10 ตุลาคม เวลา 10:00 น. ถึง
+16 ตุลาคม เวลา 20:00 น.
 
 RESOURCE ID: event_datetime_range_key_kanto_celebrationsep25
 TEXT: 2 กันยายน เวลา 10:00 น. ถึง
@@ -652,6 +699,12 @@ RESOURCE ID: event_datetime_range_key_steelskyline0925
 TEXT: 30 กันยายน เวลา 10:00 น. ถึง
 7 ตุลาคม เวลา 20:00 น.
 
+RESOURCE ID: event_gotour_2021_npc08_defeat__female_speaker
+TEXT: แบตเทิลกับเทรนเนอร์ที่แข็งแกร่งนี่สนุกสุด ๆ ไปเลย!
+
+RESOURCE ID: event_gotour_2021_npc08_defeat__male_speaker
+TEXT: แบตเทิลกับเทรนเนอร์ที่แข็งแกร่งนี่สนุกสุด ๆ ไปเลย!
+
 RESOURCE ID: event_pass_premium_reward_banner_bottom_text_timed_incubator
 TEXT: ได้รับเมื่อถึงระดับ 20
 
@@ -662,10 +715,10 @@ RESOURCE ID: event_season20_name
 TEXT: ฤดูกาลปัจจุบัน: เรื่องเล่าแห่งการแปรเปลี่ยน
 
 RESOURCE ID: fairy_poi_spin_plural
-TEXT: Spin {0} Fairy-themed Pokéstops
+TEXT: Spin {0} Fairy type–themed PokéStops
 
 RESOURCE ID: fairy_poi_spin_singular
-TEXT: Spin a Fairy-themed Pokéstop
+TEXT: Spin a Fairy type–themed PokéStop
 
 RESOURCE ID: form_indeedee_female
 TEXT: Female
@@ -706,6 +759,9 @@ TEXT: ตั๋วงานวิจัยแบบจำกัดเวลา�
 RESOURCE ID: general1.ticket._completelynormal_sep25_title
 TEXT: ตั๋วงานวิจัยแบบจำกัดเวลาพรีเมียม: ปกติสุด ๆ
 
+RESOURCE ID: general1.ticket._harvestfestival_oct25_title
+TEXT: ตั๋วงานวิจัยแบบจำกัดเวลาพรีเมียม: แอปเปิลเคลือบน้ำตาล
+
 RESOURCE ID: general1.ticket._kanto_celebrationsep25_title
 TEXT: ตำนานภูมิภาคคันโต
 
@@ -717,6 +773,9 @@ TEXT: ตั๋วงานวิจัยแบบจำกัดเวลา�
 
 RESOURCE ID: general1.ticket_cd_flabebe25_title
 TEXT: ตั๋วฟลาเบเบคอมมิวนิตี้เดย์
+
+RESOURCE ID: general1.ticket_cd_solosis25_title
+TEXT: ตั๋วยูนิรันคอมมิวนิตี้เดย์
 
 RESOURCE ID: general2.ticket.5_megacameruptraidday_title
 TEXT: ตั๋ว "วันตีบอสเมก้าบาคูดา"
@@ -776,38 +835,47 @@ TEXT: บอลพิเศษที่สามารถใช้ได้เ�
 RESOURCE ID: gosafariball.50_title
 TEXT: ซาฟารีบอล GO 50 ลูก
 
+RESOURCE ID: gowa2025_leadup_collection_challenge
+TEXT: Into the Wild Collection Challenge
+
+RESOURCE ID: gowa2025_leadup_global_todayview_bonus
+TEXT: Into the Wild Additional Bonus
+
 RESOURCE ID: gowa_2025
 TEXT: Pokémon GO ไวลด์แอเรีย 2025
 
 RESOURCE ID: gowa_2025_all_sat
-TEXT: Pokémon GO Wild Area 2025: Saturday All-day
+TEXT: Pokémon GO Wild Area 2025: All-Day Saturday
 
 RESOURCE ID: gowa_2025_all_sun
-TEXT: Pokémon GO Wild Area 2025: Sunday All-day
+TEXT: Pokémon GO Wild Area 2025: All-Day Sunday
 
 RESOURCE ID: gowa_2025_all_weekend
-TEXT: Pokémon GO Wild Area 2025: Weekend All-day
+TEXT: Pokémon GO Wild Area 2025: All Weekend
 
 RESOURCE ID: gowa_2025_all_weekend_ticketed
-TEXT: Pokémon GO Wild Area 2025: Weekend All-day - Ticket
+TEXT: Pokémon GO Wild Area 2025: All Weekend (Ticket)
 
 RESOURCE ID: gowa_2025_content_hashtag
 TEXT: เราจะเลือกและแชร์ภาพจากภาพที่โพสต์พร้อมติดแฮชแท็ก #GOWildArea2025
 
 RESOURCE ID: gowa_2025_dark_badge_candy_xl_bonus
-TEXT: One additional Candy XL from catching Dark-Type mighty Pokémon
+TEXT: One additional Candy XL from catching Dark-type mighty Pokémon
 
 RESOURCE ID: gowa_2025_dark_badge_stardust_bonus
-TEXT: 1000 additional Stardust from catching Dark-Type mighty Pokémon
+TEXT: 1,000 additional Stardust from catching Dark-type mighty Pokémon
 
 RESOURCE ID: gowa_2025_fairy_badge_candy_xl_bonus
-TEXT: One additional Candy XL from catching Fairy-Type mighty Pokémon
+TEXT: One additional Candy XL from catching Fairy-type mighty Pokémon
 
 RESOURCE ID: gowa_2025_fairy_badge_stardust_bonus
-TEXT: 1000 additional Stardust from catching Fairy-Type mighty Pokémon
+TEXT: 1,000 additional Stardust from catching Fairy-type mighty Pokémon
 
 RESOURCE ID: gowa_2025_fri_ticketed
-TEXT: Pokémon GO Wild Area 2025: Friday All-day - Ticket
+TEXT: Pokémon GO Wild Area 2025: All-Day Friday (Ticket)
+
+RESOURCE ID: gowa_2025_global_extended_bonus
+TEXT: Pokémon GO Wild Area 2025 - Extended Bonuses
 
 RESOURCE ID: gowa_2025_habitat_cc_description
 TEXT: จับโปเกมอนอีเวนต์!
@@ -830,20 +898,50 @@ TEXT: กำลังจัด: ชั่วโมงแฟรี่
 RESOURCE ID: gowa_2025_nagasaki
 TEXT: Pokémon GO ไวลด์แอเรีย 2025: นางาซากิ
 
+RESOURCE ID: gowa_2025_nagasaki_extended_bonus
+TEXT: Pokémon GO Wild Area 2025: Nagasaki - Extended Bonuses
+
 RESOURCE ID: gowa_2025_sat
 TEXT: Pokémon GO Wild Area 2025: Saturday Event Hours
 
 RESOURCE ID: gowa_2025_sat_ticketed
-TEXT: Pokémon GO Wild Area 2025: Saturday Event Hours - Ticket
+TEXT: Pokémon GO Wild Area 2025: Saturday Event Hours (Ticket)
+
+RESOURCE ID: gowa_2025_stamp_today_view
+TEXT: A special Stamp Rally is available!
 
 RESOURCE ID: gowa_2025_sun
 TEXT: Pokémon GO Wild Area 2025: Sunday Event Hours
 
 RESOURCE ID: gowa_2025_sun_ticketed
-TEXT: Pokémon GO Wild Area 2025: Sunday Event Hours - Ticket
+TEXT: Pokémon GO Wild Area 2025: Sunday Event Hours (Ticket)
+
+RESOURCE ID: gowa_supply_balloon_gsb
+TEXT: A supply balloon will appear once each hour. Tap it to claim GO Safari Balls!
 
 RESOURCE ID: great_league_championship_series
 TEXT: การแข่งขันซีรีส์ 2025 Championship
+
+RESOURCE ID: harvest_festival_2025_premium_tr
+TEXT: งานวิจัยแบบจำกัดเวลาพรีเมียม: แอปเปิลเคลือบน้ำตาล
+
+RESOURCE ID: harvest_festival_2025_premium_tr_0
+TEXT: งานวิจัยแบบจำกัดเวลาพรีเมียม: แอปเปิลเคลือบน้ำตาล (1/3)
+
+RESOURCE ID: harvest_festival_2025_premium_tr_1
+TEXT: งานวิจัยแบบจำกัดเวลาพรีเมียม: แอปเปิลเคลือบน้ำตาล (2/3)
+
+RESOURCE ID: harvest_festival_2025_premium_tr_2
+TEXT: งานวิจัยแบบจำกัดเวลาพรีเมียม: แอปเปิลเคลือบน้ำตาล (3/3)
+
+RESOURCE ID: harvest_festival_oct2025_combee_cc
+TEXT: คำท้านักสะสมเก็บเกี่ยวน้ำหวาน
+
+RESOURCE ID: harvest_festival_oct2025_pumpkaboo_cc
+TEXT: คำท้านักสะสมแปลงฟักทอง
+
+RESOURCE ID: harvest_festival_oct2025_smoliv_cc
+TEXT: คำท้านักสะสมสวนมะกอก
 
 RESOURCE ID: incense_duration_two_hours
 TEXT: 2-hour Incense duration
@@ -892,6 +990,10 @@ RESOURCE ID: item_event_ticket_evergreen_desc_conciergecb0925
 TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยแบบจำกัดเวลาพรีเมียม: ริมหาด
 ถึงวันที่ 14 กันยายน 2025 เวลา 20:00 น. ตามเวลาท้องถิ่นทั่วโลก
 
+RESOURCE ID: item_event_ticket_evergreen_desc_harvestfestival_oct25
+TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยแบบจำกัดเวลาพรีเมียม: แอปเปิลเคลือบน้ำตาล
+ถึงวันที่ 16 ตุลาคม 2025 เวลา 20:00 น. ตามเวลาท้องถิ่นทั่วโลก
+
 RESOURCE ID: item_event_ticket_evergreen_desc_kanto_celebrationsep25
 TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยพิเศษ "ตำนานภูมิภาคคันโต"
 ในวันที่ 2 กันยายน 2025 เวลา 10:00 น.
@@ -910,6 +1012,12 @@ TEXT: ตั๋วสำหรับเข้าร่วมงานวิจ�
 RESOURCE ID: item_event_ticket_evergreen_details_conciergecb0925
 TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยแบบจำกัดเวลาพรีเมียม: ริมหาด
 ในวันที่ 9 กันยายน
+คุณจะสามารถเข้าร่วมได้โดยอัตโนมัติ
+ตามเวลาท้องถิ่นทั่วโลก
+
+RESOURCE ID: item_event_ticket_evergreen_details_harvestfestival_oct25
+TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยแบบจำกัดเวลาพรีเมียม: แอปเปิลเคลือบน้ำตาล
+ในวันที่ 10 ตุลาคม
 คุณจะสามารถเข้าร่วมได้โดยอัตโนมัติ
 ตามเวลาท้องถิ่นทั่วโลก
 
@@ -994,9 +1102,21 @@ TEXT: ตั๋วสำหรับเข้าร่วมงานวิจ�
 ในวันที่ 14 กันยายน 2025 14:00 น.
 ตามเวลาท้องถิ่นทั่วโลก
 
+RESOURCE ID: item_event_ticket_pink_desc_cd_solosis25
+TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยพิเศษ
+ยูนิรันคอมมิวนิตี้เดย์
+ในวันที่ 12 ตุลาคม 2025 14:00 น.
+ตามเวลาท้องถิ่นทั่วโลก
+
 RESOURCE ID: item_event_ticket_pink_details_cd_flabebe25
 TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยพิเศษ "พลังดอกไม้"
 ในวันที่ 14 กันยายน
+คุณจะสามารถเข้าร่วมได้โดยอัตโนมัติ
+ตามเวลาท้องถิ่นทั่วโลก
+
+RESOURCE ID: item_event_ticket_pink_details_cd_solosis25
+TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยพิเศษ "สังสรรค์ยูนิรัน"
+ในวันที่ 12 ตุลาคม
 คุณจะสามารถเข้าร่วมได้โดยอัตโนมัติ
 ตามเวลาท้องถิ่นทั่วโลก
 
@@ -1100,6 +1220,9 @@ TEXT: จับมูมาหลังถ่ายรูปในโกสแ�
 RESOURCE ID: kr_lotteworld_collab_sep2025_cc
 TEXT: คำท้านักสะสมโลกสยองขวัญ
 
+RESOURCE ID: lure_duration_1_hr
+TEXT: อุปกรณ์ปล่อยลัวร์มีผล 1 ชม.
+
 RESOURCE ID: make_good_origin_dialga_desc
 TEXT: เผชิญหน้า: ดีอัลกา (ฟอร์มดั้งเดิม)
 
@@ -1157,8 +1280,14 @@ TEXT: +3,000 XP เมื่อแบตเทิลแมกซ์เสร็�
 RESOURCE ID: max_battles_event
 TEXT: แบตเทิลแมกซ์ธีมอีเวนต์
 
+RESOURCE ID: meetup_check_in_research_title_community_0
+TEXT: งานวิจัยแบบจำกัดเวลาเช็กอินงานพบปะ: คอมมิวนิตี้เดย์ (1/2)
+
+RESOURCE ID: meetup_check_in_research_title_community_1
+TEXT: งานวิจัยแบบจำกัดเวลาเช็กอินงานพบปะ: คอมมิวนิตี้เดย์ (2/2)
+
 RESOURCE ID: meetup_check_in_research_title_gowa2025
-TEXT: Meetup Check-in Timed Research: GO Wild Area
+TEXT: Meetup Check-In Timed Research: GO Wild Area
 
 RESOURCE ID: mega_camerupt_raid_day_event_name
 TEXT: วันตีบอสเมก้าบาคูดา
@@ -1167,10 +1296,10 @@ RESOURCE ID: mega_metagross_raid_day_event_name
 TEXT: วันตีบอสเมก้าเมทากรอส
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2025-09-19T23:55:41.077990+00:00 for th-TH
-at SHA 40832ea7ced
-Pipeline 3375818, job 46657873
-Patch from: 0.377.2-SHA-aa2010b0-RC1, 0.379.0-SHA-252b2dfa-RC3, 0.381.0-SHA-08a6eb52-RC1
+TEXT: Built at 2025-09-27T01:38:02.373711+00:00 for th-TH
+at SHA fd4c269f6ff
+Pipeline 3385398, job 47010635
+Patch from: 0.377.1-SHA-e8413828-RC1, 0.379.0-SHA-7ac7a8aa-RC5, 0.381.0-SHA-87544fd7-RC2
 
 RESOURCE ID: minicollect_help_desc_type_bread
 TEXT: รวบรวมโปเกมอนไดแมกซ์
@@ -1193,17 +1322,26 @@ TEXT: ฟลาเบเบแย่งซีนถ่ายรูปในโ�
 RESOURCE ID: photobomb_five_hawlucha
 TEXT: ลูจาบูลแย่งซีนถ่ายรูปในโกสแนปช็อต 5 ครั้ง
 
+RESOURCE ID: photobomb_five_solosis
+TEXT: ยูนิรันแย่งซีนถ่ายรูปในโกสแนปช็อต 5 ครั้ง
+
 RESOURCE ID: photobomb_special_six
-TEXT: Up to 6 Event-themed suprise encounters in GO Snapshot
+TEXT: Up to six event-themed surprise encounters in GO Snapshot
 
 RESOURCE ID: photobomb_special_three
-TEXT: Up to 3 Event-themed surprise encounters in GO Snapshot
+TEXT: Up to three event-themed surprise encounters in GO Snapshot
 
 RESOURCE ID: photobomb_three_misdreavus
 TEXT: มูมาแย่งซีนถ่ายรูปในโกสแนปช็อต 3 ครั้ง
 
 RESOURCE ID: pidgey_drop_mega_energy
 TEXT: เมื่อจับป็อปโปะ อาจได้รับพลังงานเมก้าของพีเจียต
+
+RESOURCE ID: pinap_berry_2x_candy_bonus
+TEXT: 2× ลูกอมที่ได้รับจากการใช้ผลไพน์และผลไพน์สีเงิน
+
+RESOURCE ID: poi_contrib_unavailable_limit_distance_temp
+TEXT: You are too far away from this {0} to contribute.
 
 RESOURCE ID: pokemon_category_1011
 TEXT: โปเกมอนแอปเปิลเคลือบน้ำตาล
@@ -1265,6 +1403,9 @@ TEXT: Sinistcha
 
 RESOURCE ID: pokemon_name_1019
 TEXT: คามิสึโอโรจิ
+
+RESOURCE ID: pokestop_berry_increase_bonus
+TEXT: เพิ่มผลไม้ที่ได้รับจากเสาโปเกสต็อปและยิม
 
 RESOURCE ID: profile_banner_level_updates
 TEXT: มีกำหนดการอัปเดตเทรนเนอร์เลเวล! เรียนรู้เพิ่มเติม<a href="https://pokemongo.com/post/pgo-leveling-update-announce-2025">ที่นี่</a>
@@ -1407,6 +1548,12 @@ TEXT: ใช้ท่าโจมตีชาร์จประเภทน้�
 RESOURCE ID: quest_battle_water_charge_singular
 TEXT: ใช้ท่าโจมตีชาร์จประเภทน้ำในแบตเทิล
 
+RESOURCE ID: quest_buddy_affection_dark_plural
+TEXT: Earn {0} hearts with a Dark-type buddy
+
+RESOURCE ID: quest_buddy_affection_fairy_plural
+TEXT: Earn {0} hearts with a Fairy-type buddy
+
 RESOURCE ID: quest_candy_keldeo_singular
 TEXT: ได้รับลูกอม 1 เม็ด จากการเดินสำรวจโดยมีเคลดิโอเป็นคู่หู
 
@@ -1455,6 +1602,12 @@ TEXT: หมุนเสาโปเกสต็อปหรือยิมใ�
 RESOURCE ID: quest_evolve_special_dunsparce
 TEXT: วิวัฒนาการโนก็อจจิ
 
+RESOURCE ID: quest_explore_buddy_dark
+TEXT: Earn a Candy exploring with a Dark type as your buddy
+
+RESOURCE ID: quest_explore_buddy_fairy
+TEXT: Earn a Candy exploring with a Fairy type as your buddy
+
 RESOURCE ID: quest_flabebe_catch_b
 TEXT: จับฟลาเบเบ {0} ตัว
 
@@ -1472,6 +1625,9 @@ TEXT: พาวเวอร์อัปเคลดิโอ {0} ครั้ง
 
 RESOURCE ID: quest_powerup_water_fighting_plural
 TEXT: พาวเวอร์อัปโปเกมอนประเภทน้ำหรือต่อสู้ {0} ครั้ง
+
+RESOURCE ID: quest_solosis_catch_b
+TEXT: จับยูนิรัน {0} ตัว
 
 RESOURCE ID: quest_special_dialogue_hoopaunbound_0_10
 TEXT: บทกวีสอดคล้องกับข้อเท็จจริงที่ว่าฮูปามีหลายร่างคือ
@@ -1597,6 +1753,18 @@ TEXT: ตำนานภูมิภาคคันโต (2/3)
 RESOURCE ID: quest_title_kanto_legends_sr_2
 TEXT: ตำนานภูมิภาคคันโต (3/3)
 
+RESOURCE ID: quest_title_solosis
+TEXT: สังสรรค์ยูนิรัน
+
+RESOURCE ID: quest_title_solosis_0
+TEXT: สังสรรค์ยูนิรัน (1/3)
+
+RESOURCE ID: quest_title_solosis_1
+TEXT: สังสรรค์ยูนิรัน (2/3)
+
+RESOURCE ID: quest_title_solosis_2
+TEXT: สังสรรค์ยูนิรัน (3/3)
+
 RESOURCE ID: raid_day_mega_sharpedo_event_name
 TEXT: วันตีบอส: เมก้าซาเมฮาเดอร์
 
@@ -1663,6 +1831,36 @@ TEXT: แวนคูเวอร์, แคนาดา
 RESOURCE ID: rally_city_safari_2025_vancouver_rewards_desc_general
 TEXT: เผชิญหน้ากับอีวุย (อีวุยสวมหมวกซาฟารี) ที่มีพื้นหลังสถานที่พิเศษเฉพาะแวนคูเวอร์
 
+RESOURCE ID: rally_gowa_2025_desc
+TEXT: Welcome to GO Wild Area 2025: Nagasaki!
+
+RESOURCE ID: rally_gowa_2025_desc_detail
+TEXT: Collect stamps by visiting GO Stamp Rally PokéStops in Nagasaki City during your ticketed event day!
+
+RESOURCE ID: rally_gowa_2025_location
+TEXT: Nagasaki City, Nagasaki, Japan
+
+RESOURCE ID: rally_gowa_2025_rewards_desc
+TEXT: Encounter an event-exclusive Bewear wearing a wilderness cape with a Nagasaki City Location Background at the end of this rally!
+
+RESOURCE ID: rally_gowa_2025_title
+TEXT: GO Wild Area 2025 – Stamp Rally
+
+RESOURCE ID: rally_nagasaki_2025_desc
+TEXT: A GO Stamp Rally celebrating the city of Nagasaki
+
+RESOURCE ID: rally_nagasaki_2025_desc_detail
+TEXT: Collect stamps by visiting GO Stamp Rally PokéStops in Nagasaki City!
+
+RESOURCE ID: rally_nagasaki_2025_location
+TEXT: Nagasaki City, Nagasaki, Japan
+
+RESOURCE ID: rally_nagasaki_2025_rewards_desc
+TEXT: Encounter an Ampharos with a Nagasaki City Location Background at the end of this rally!
+
+RESOURCE ID: rally_nagasaki_2025_title
+TEXT: Nagasaki City Stamp Rally
+
 RESOURCE ID: rally_paris_2025_desc
 TEXT: เผชิญหน้ากับฮิโตคาเงะเมื่อเคลียร์แสตมป์แรลลี!
 
@@ -1699,8 +1897,29 @@ TEXT: สวนสาธารณะตุยเลอรีที่ตั้�
 RESOURCE ID: rally_paris_2025_title
 TEXT: แสตมป์แรลลีปารีส
 
+RESOURCE ID: ready_for_the_wild_tr_1
+TEXT: Ready for the Wild (1/5)
+
+RESOURCE ID: ready_for_the_wild_tr_2
+TEXT: Ready for the Wild (2/5)
+
+RESOURCE ID: ready_for_the_wild_tr_3
+TEXT: Ready for the Wild (3/5)
+
+RESOURCE ID: ready_for_the_wild_tr_4
+TEXT: Ready for the Wild (4/5)
+
+RESOURCE ID: ready_for_the_wild_tr_5
+TEXT: Ready for the Wild (5/5)
+
+RESOURCE ID: ready_for_the_wild_tr_title
+TEXT: Ready for the Wild
+
 RESOURCE ID: rewarded_spend_helpshift_blog_url
 TEXT: https://pokemongo.com/news/go-pass-september-2025#rewardroad
+
+RESOURCE ID: s_pinap_g_razz_pokestop_drop_bonus
+TEXT: อาจได้รับผลไพน์สีเงินหรือผลราสสีทองจากการหมุนเสาโปเกสต็อปหรือยิม
 
 RESOURCE ID: safari_city_2025_amsterdam_title
 TEXT: City Safari: อัมสเตอร์ดัม 2025
@@ -1958,50 +2177,53 @@ TEXT: งานวิจัยแบบจำกัดเวลางานฉ�
 RESOURCE ID: spawn_flabebe
 TEXT: ฟลาเบเบปรากฏตัวออกมามากขึ้น!
 
+RESOURCE ID: spawn_solosis
+TEXT: ยูนิรันปรากฏตัวออกมามากขึ้น!
+
 RESOURCE ID: sr_gowa2025_global_dark_2
-TEXT: GO Wild Area 2025: Path to Mastery - Dark (2/6)
+TEXT: GO Wild Area 2025: Path to Mastery – Dark (2/6)
 
 RESOURCE ID: sr_gowa2025_global_dark_3
-TEXT: GO Wild Area 2025: Path to Mastery - Dark (3/6)
+TEXT: GO Wild Area 2025: Path to Mastery – Dark (3/6)
 
 RESOURCE ID: sr_gowa2025_global_dark_4
-TEXT: GO Wild Area 2025: Path to Mastery - Dark (4/6)
+TEXT: GO Wild Area 2025: Path to Mastery – Dark (4/6)
 
 RESOURCE ID: sr_gowa2025_global_dark_5
-TEXT: GO Wild Area 2025: Path to Mastery - Dark (5/6)
+TEXT: GO Wild Area 2025: Path to Mastery – Dark (5/6)
 
 RESOURCE ID: sr_gowa2025_global_dark_6
-TEXT: GO Wild Area 2025: Path to Mastery - Dark (6/6)
+TEXT: GO Wild Area 2025: Path to Mastery – Dark (6/6)
 
 RESOURCE ID: sr_gowa2025_global_dark_title
-TEXT: GO Wild Area 2025: Path to Mastery - Dark
+TEXT: GO Wild Area 2025: Path to Mastery – Dark
 
 RESOURCE ID: sr_gowa2025_global_fairy_2
-TEXT: GO Wild Area 2025: Path to Mastery - Fairy (2/6)
+TEXT: GO Wild Area 2025: Path to Mastery – Fairy (2/6)
 
 RESOURCE ID: sr_gowa2025_global_fairy_3
-TEXT: GO Wild Area 2025: Path to Mastery - Fairy (3/6)
+TEXT: GO Wild Area 2025: Path to Mastery – Fairy (3/6)
 
 RESOURCE ID: sr_gowa2025_global_fairy_4
-TEXT: GO Wild Area 2025: Path to Mastery - Fairy (4/6)
+TEXT: GO Wild Area 2025: Path to Mastery – Fairy (4/6)
 
 RESOURCE ID: sr_gowa2025_global_fairy_5
-TEXT: GO Wild Area 2025: Path to Mastery - Fairy (5/6)
+TEXT: GO Wild Area 2025: Path to Mastery – Fairy (5/6)
 
 RESOURCE ID: sr_gowa2025_global_fairy_6
-TEXT: GO Wild Area 2025: Path to Mastery - Fairy (6/6)
+TEXT: GO Wild Area 2025: Path to Mastery – Fairy (6/6)
 
 RESOURCE ID: sr_gowa2025_global_fairy_title
-TEXT: GO Wild Area 2025: Path to Mastery - Fairy
+TEXT: GO Wild Area 2025: Path to Mastery – Fairy
 
 RESOURCE ID: sr_gowa2025_global_quest_branch_dark_description
-TEXT: Pick this branch, and you will pursue Dark-type Pokémon to become an accomplished Dark-type trainer. Tasks will be focused on catching, powering up, and evolving Dark-type Pokémon. Completing this research will award you the Dark Detective Badge!
+TEXT: Choose this path to become an accomplished Dark-type Trainer. Tasks will be focused on catching, powering up, and evolving Dark-type Pokémon. Completing this research awards the Dark Detective medal!
 
 RESOURCE ID: sr_gowa2025_global_quest_branch_dark_title
 TEXT: Dark
 
 RESOURCE ID: sr_gowa2025_global_quest_branch_fairy_description
-TEXT: Pick this branch, and you will pursue Fairy-type Pokémon to become an accomplished Fairy-type trainer. Tasks will be focused on catching, powering up, and evolving Fairy-type Pokémon. Completing this research will award you the Fairy Fanatic Badge!
+TEXT: Choose this path to become an accomplished Fairy-type Trainer. Tasks will be focused on catching, powering up, and evolving Fairy-type Pokémon. Completing this research awards the Fairy Fanatic medal!
 
 RESOURCE ID: sr_gowa2025_global_quest_branch_fairy_title
 TEXT: Fairy
@@ -2010,28 +2232,28 @@ RESOURCE ID: sr_gowa2025_global_title
 TEXT: GO Wild Area 2025: A Grim Beginning (1/6)
 
 RESOURCE ID: sr_gowa2025_irl
-TEXT: GO Wild Area Nagasaki: Fairy Tales and Wild Trails
+TEXT: GO Wild Area: Nagasaki – Fairy Tales and Wild Trails
 
 RESOURCE ID: sr_gowa2025_irl_1
-TEXT: GO Wild Area Nagasaki: Fairy Tales and Wild Trails (1/6)
+TEXT: GO Wild Area: Nagasaki – Fairy Tales and Wild Trails (1/6)
 
 RESOURCE ID: sr_gowa2025_irl_2
-TEXT: GO Wild Area Nagasaki: Fairy Tales and Wild Trails (2/6)
+TEXT: GO Wild Area: Nagasaki – Fairy Tales and Wild Trails (2/6)
 
 RESOURCE ID: sr_gowa2025_irl_3
-TEXT: GO Wild Area Nagasaki: Fairy Tales and Wild Trails (3/6)
+TEXT: GO Wild Area: Nagasaki – Fairy Tales and Wild Trails (3/6)
 
 RESOURCE ID: sr_gowa2025_irl_4
-TEXT: GO Wild Area Nagasaki: Fairy Tales and Wild Trails (4/6)
+TEXT: GO Wild Area: Nagasaki – Fairy Tales and Wild Trails (4/6)
 
 RESOURCE ID: sr_gowa2025_irl_5
-TEXT: GO Wild Area Nagasaki: Fairy Tales and Wild Trails (5/6)
+TEXT: GO Wild Area: Nagasaki – Fairy Tales and Wild Trails (5/6)
 
 RESOURCE ID: sr_gowa2025_irl_6
-TEXT: GO Wild Area Nagasaki: Fairy Tales and Wild Trails (6/6)
+TEXT: GO Wild Area: Nagasaki – Fairy Tales and Wild Trails (6/6)
 
 RESOURCE ID: stamp_mini_game_locked_instruction
-TEXT: Go here when you’ve collected all of the other stamps!
+TEXT: Go to this location when you’ve collected all the other stamps!
 
 RESOURCE ID: stamp_rally_locked_stamp_explanation_plural
 TEXT: You can collect these stamps once you’ve finished collecting all other stamps.
@@ -2067,7 +2289,7 @@ RESOURCE ID: steel_skyline_tier3_reward
 TEXT: รางวัลคำท้าสำหรับทั่วโลกขอบฟ้าเหล็กกล้า Tier 3
 
 RESOURCE ID: strong_encounter_tutorial_message
-TEXT: Pokémon GO Wild Area ticket holders have more opportunities to receive GO Safari Balls as part of their ticketed bonuses.
+TEXT: Pokémon GO Wild Area ticket bonuses include more opportunities to receive GO Safari Balls.
 
 RESOURCE ID: strong_encounter_tutorial_message_out
 TEXT: รับได้จากการหมุนแผ่นภาพที่เสาโปเกสต็อปและยิม
@@ -2075,16 +2297,35 @@ TEXT: รับได้จากการหมุนแผ่นภาพท�
 ผู้ที่มีตั๋ว "Pokémon GO ไวลด์แอเรีย" จะได้รับงานวิจัยแบบจำกัดเวลาพรีเมียมที่มีซาฟารีบอล GO เป็นรางวัลทุกชั่วโมง
 
 RESOURCE ID: strong_encounter_tutorial_title
-TEXT: Get more GO Safari Balls with a GO Wild Area Ticket!
+TEXT: Get more GO Safari Balls with a GO Wild Area ticket!
 
 RESOURCE ID: strong_encounter_tutorial_title_out
 TEXT: ซาฟารีบอล GO เหมาะสำหรับจับโปเกมอนทรงพลัง!
+
+RESOURCE ID: tapubulu_special_move_bonus
+TEXT: Tapu Bulu caught during the event will know the move Nature's Madness
+
+RESOURCE ID: tapufini_special_move_bonus
+TEXT: Tapu Fini caught during the event will know the move Nature's Madness
+
+RESOURCE ID: tapukoko_special_move_bonus
+TEXT: Tapu Koko caught during the event will know the move Nature's Madness
+
+RESOURCE ID: tapulele_special_move_bonus
+TEXT: Tapu Lele caught during the event will know the move Nature's Madness
 
 RESOURCE ID: text_rewards_key_cd_flabebe25
 TEXT: <b>รางวัลที่จะได้รับ:</b>
 - ไอเท็มภายในเกม เช่น บัตรแบตเทิลพรีเมียม
 TM ท่าชาร์จ และลูกอมประหลาด
 - การเผชิญหน้ากับฟลาเบเบที่มีพื้นหลังพิเศษ
+และอื่น ๆ
+
+RESOURCE ID: text_rewards_key_cd_solosis25
+TEXT: <b>รางวัลที่จะได้รับ:</b>
+- ไอเท็มภายในเกม เช่น บัตรแบตเทิลพรีเมียม
+TM ท่าชาร์จ และลูกอมประหลาด
+- การเผชิญหน้ากับยูนิรันที่มีพื้นหลังพิเศษ
 และอื่น ๆ
 
 RESOURCE ID: text_rewards_key_completelynormal_sep25
@@ -2116,6 +2357,16 @@ TEXT: <b>สิ่งที่จะได้รับ:</b>
 - โอกาสในการเผชิญหน้ากับโปเกมอนสีแตกต่างจะเพิ่มขึ้นในระหว่างอีเวนต์
 
 เรียนรู้เพิ่มเติมเกี่ยวกับโบนัสตั๋วได้<a href="pokemongo.com/gowildarea/global">ที่นี่</a>
+
+RESOURCE ID: text_rewards_key_harvestfestival_oct25
+TEXT: <b>รางวัลที่จะได้รับ:</b>
+- การเผชิญหน้ากับคาจิชชู
+- อุปกรณ์ปล่อยลัวร์มอส 3 ชิ้น
+- ผลไพน์สีเงิน 30 ชิ้น
+- ผลไพน์ 30 ชิ้น
+- แอปเปิลไส้น้ำหวาน 4 ชิ้น
+- ลูกอมคาจิชชู 30 เม็ด
+- 5,000 สตาร์ดัสต์
 
 RESOURCE ID: text_rewards_key_kanto_celebrationsep25
 TEXT: <b>รางวัลที่จะได้รับ:</b>
@@ -2172,12 +2423,14 @@ TEXT: <b>โบนัสที่จะได้รับ:</b>
 RESOURCE ID: text_rewards_key_steelskyline0925
 TEXT: <b>รางวัลที่จะได้รับ:</b>
 - การเผชิญหน้ากับเนียส (ร่างกาลาร์) และดิวรัลดอนไดแมกซ์
-- บัตรตีบอสพรีเมียม 2 ใบ
 - 800 อนุภาคแมกซ์
 - 3,000 สตาร์ดัสต์
 
 RESOURCE ID: ticket_flabebe_cd
 TEXT: สามารถซื้อตั๋วสำหรับงานวิจัยพิเศษ "ฟลาเบเบคอมมิวนิตี้เดย์" ได้ที่ร้านค้า
+
+RESOURCE ID: ticket_solosis_cd
+TEXT: สามารถซื้อตั๋วสำหรับงานวิจัยพิเศษ "ยูนิรันคอมมิวนิตี้เดย์" ได้ที่ร้านค้า
 
 RESOURCE ID: timed_incubator_ftue_body
 TEXT: เครื่องฟักไข่ไม่จำกัดจำนวนครั้งที่ได้รับจากบัตรผ่าน GO สามารถใช้ได้จนถึง 1 สัปดาห์หลังจากระยะเวลาของบัตรผ่าน GO สิ้นสุด
@@ -2195,10 +2448,10 @@ RESOURCE ID: tr_gowa2025_irl_shadow_lc_title
 TEXT: Shadow Rescue
 
 RESOURCE ID: tr_gowa2025_poi_dark
-TEXT: A Wild Pursuit - Dark
+TEXT: A Wild Pursuit – Dark
 
 RESOURCE ID: tr_gowa2025_poi_fairy
-TEXT: A Wild Pursuit - Fairy
+TEXT: A Wild Pursuit – Fairy
 
 RESOURCE ID: tr_tw2025_route_campaign_00_header
 TEXT: งานวิจัยแบบจำกัดเวลา GO กันเลย! (1/5)
