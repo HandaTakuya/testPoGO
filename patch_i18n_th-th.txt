@@ -1,5 +1,8 @@
-RESOURCE ID: account_locked_article_url
-TEXT: https://niantic.helpshift.com/hc/faq/5242-my-account-has-been-locked-or-restricted/
+RESOURCE ID: additional_candy_max_battle_singular
+TEXT: +1 ลูกอมเมื่อแบตเทิลแมกซ์เสร็จสิ้น
+
+RESOURCE ID: additional_candy_raid_singular
+TEXT: One additional Candy for completing Raid Battles
 
 RESOURCE ID: apac2025_fullmoon_clefairy_o_clock_desc_1
 TEXT: ระหว่างช่วงอีเวนต์ ปิปปีจะปรากฏตัวทุกวันเวลา 13.00 น. และ 19.00 น.
@@ -12,9 +15,6 @@ TEXT: ปิปปีกำลังมา!
 
 RESOURCE ID: apac2025_fullmoon_title
 TEXT: เต้นรำชมจันทร์
-
-RESOURCE ID: apple_encounters_evo_item_drop_bonus
-TEXT: โปเกมอนที่ปรากฏตัวหลังแตะแอปเปิลมีโอกาสที่จะถือแอปเปิลสำหรับวิวัฒนาการคาจิชชูเพิ่มขึ้น
 
 RESOURCE ID: appraise_poltchageist_artisan_1
 TEXT: นี่คือฉะเดธร่างของแพงซึ่งพบเห็นได้ยากมาก!
@@ -76,6 +76,15 @@ TEXT: หมวกสไตล์ตัวเอกมิอาเรซิต�
 RESOURCE ID: avatar_n_pants_lvl75-techtrousers_0
 TEXT: กางเกงเทรนเนอร์เลเวล 75
 
+RESOURCE ID: avatar_n_shirt_bewear
+TEXT: ชุดคอสเพลย์คิเทรุกุมะ
+
+RESOURCE ID: avatar_n_shirt_gowa2025
+TEXT: เสื้อยืด GO ไวลด์แอเรีย 2025
+
+RESOURCE ID: avatar_n_shirt_gowa2025purple
+TEXT: เสื้อยืด GO ไวลด์แอเรีย 2025 (สีม่วง)
+
 RESOURCE ID: avatar_n_shirt_lvl80-circuitjacket_0
 TEXT: เสื้อแจ็กเก็ตเทรนเนอร์เลเวล 80
 
@@ -118,104 +127,11 @@ TEXT: ท่าโพสเทรนเนอร์เลเวล 77
 RESOURCE ID: avatar_pose_legacy50
 TEXT: ท่าโพสเหรียญรางวัลเทรนเนอร์เลเวล 50
 
+RESOURCE ID: avatar_pose_pokeballbuddy
+TEXT: ท่าโพส GO ไวลด์แอเรีย 2025
+
 RESOURCE ID: avatar_pose_teacup
 TEXT: ท่าโพสเวลาน้ำชา
-
-RESOURCE ID: badge_gowa_2025_global
-TEXT: 15-16 พฤศจิกายน 2025
-
-RESOURCE ID: badge_gowa_2025_global_test
-TEXT: 15-16 พฤศจิกายน 2025
-
-RESOURCE ID: badge_gowa_2025_global_test_title
-TEXT: GO ไวลด์แอเรีย 2025: ทั่วโลก (Test)
-
-RESOURCE ID: badge_gowa_2025_global_title
-TEXT: GO ไวลด์แอเรีย 2025
-
-RESOURCE ID: badge_gowa_2025_irl_addon_battle
-TEXT: นางาซากิ, 7-9 พฤศจิกายน 2025
-
-RESOURCE ID: badge_gowa_2025_irl_addon_battle_test
-TEXT: นางาซากิ, 7-9 พฤศจิกายน 2025
-
-RESOURCE ID: badge_gowa_2025_irl_addon_battle_test_title
-TEXT: GO ไวลด์แอเรีย: แบตเทิลเดือด (Test)
-
-RESOURCE ID: badge_gowa_2025_irl_addon_battle_title
-TEXT: GO ไวลด์แอเรีย 2025: แบตเทิลเดือด
-
-RESOURCE ID: badge_gowa_2025_irl_addon_extra_day_test
-TEXT: นางาซากิ, 7-9 พฤศจิกายน 2025
-
-RESOURCE ID: badge_gowa_2025_irl_addon_extra_day_test_title
-TEXT: GO ไวลด์แอเรีย 2025: วันเสริม (Test)
-
-RESOURCE ID: badge_gowa_2025_irl_addon_hatch
-TEXT: นางาซากิ, 7-9 พฤศจิกายน 2025
-
-RESOURCE ID: badge_gowa_2025_irl_addon_hatch_test
-TEXT: นางาซากิ, 7-9 พฤศจิกายน 2025
-
-RESOURCE ID: badge_gowa_2025_irl_addon_hatch_test_title
-TEXT: GO ไวลด์แอเรีย: ฟักไข่ไม่หยุด (Test)
-
-RESOURCE ID: badge_gowa_2025_irl_addon_hatch_title
-TEXT: GO ไวลด์แอเรีย 2025: ฟักไข่ไม่หยุด
-
-RESOURCE ID: badge_gowa_2025_irl_friday_city_addon
-TEXT: นางาซากิ, วันศุกร์ที่ 7 พฤศจิกายน 2025, 9:00 - 17:00 น.
-
-RESOURCE ID: badge_gowa_2025_irl_friday_city_addon_title
-TEXT: GO ไวลด์แอเรีย 2025: วันเสริม (วันศุกร์)
-
-RESOURCE ID: badge_gowa_2025_irl_friday_ticketed_city
-TEXT: นางาซากิ, วันศุกร์ที่ 7 พฤศจิกายน 2025, 9:00 - 17:00 น.
-
-RESOURCE ID: badge_gowa_2025_irl_friday_ticketed_city_title
-TEXT: GO ไวลด์แอเรีย 2025: วันศุกร์
-
-RESOURCE ID: badge_gowa_2025_irl_fulltest
-TEXT: นางาซากิ, 7-9 พฤศจิกายน 2025
-
-RESOURCE ID: badge_gowa_2025_irl_fulltest_title
-TEXT: GO ไวลด์แอเรีย: นางาซากิ (Test)
-
-RESOURCE ID: badge_gowa_2025_irl_saturday_city_addon
-TEXT: นางาซากิ, วันเสาร์ที่ 8 พฤศจิกายน 2025, 9:00 - 17:00 น.
-
-RESOURCE ID: badge_gowa_2025_irl_saturday_city_addon_title
-TEXT: GO ไวลด์แอเรีย 2025: วันเสริม (วันเสาร์)
-
-RESOURCE ID: badge_gowa_2025_irl_saturday_ticketed_city
-TEXT: นางาซากิ, วันเสาร์ที่ 8 พฤศจิกายน 2025, 9:00 - 17:00 น.
-
-RESOURCE ID: badge_gowa_2025_irl_saturday_ticketed_city_title
-TEXT: GO ไวลด์แอเรีย 2025: วันเสาร์
-
-RESOURCE ID: badge_gowa_2025_irl_sunday_city_addon
-TEXT: นางาซากิ, วันอาทิตย์ที่ 9 พฤศจิกายน 2025, 9:00 - 17:00 น.
-
-RESOURCE ID: badge_gowa_2025_irl_sunday_city_addon_title
-TEXT: GO ไวลด์แอเรีย 2025: วันเสริม (วันอาทิตย์)
-
-RESOURCE ID: badge_gowa_2025_irl_sunday_ticketed_city
-TEXT: นางาซากิ, วันอาทิตย์ที่ 9 พฤศจิกายน 2025, 9:00 - 17:00 น.
-
-RESOURCE ID: badge_gowa_2025_irl_sunday_ticketed_city_title
-TEXT: GO ไวลด์แอเรีย 2025: วันอาทิตย์
-
-RESOURCE ID: badge_gowa_2025_special_research_a
-TEXT: Pokémon GO ไวลด์แอเรีย 2025
-
-RESOURCE ID: badge_gowa_2025_special_research_a_title
-TEXT: ผู้ชำนาญด้านความมืด
-
-RESOURCE ID: badge_gowa_2025_special_research_b
-TEXT: Pokémon GO ไวลด์แอเรีย 2025
-
-RESOURCE ID: badge_gowa_2025_special_research_b_title
-TEXT: ผู้คลั่งไคล้ด้านแฟรี่
 
 RESOURCE ID: badge_smores_00
 TEXT: ถึงเลเวล {0} ภายในวันที่ 15 ตุลาคม 2025
@@ -261,14 +177,17 @@ TEXT: ตรวจพบซอฟต์แวร์ที่ไม่ได้�
 
 กรุณาหยุดใช้ซอฟต์แวร์นี้ มิฉะนั้นบัญชีของคุณอาจถูกลงโทษเพิ่มเติม รวมถึงอาจถูกระงับการใช้งานถาวร
 
+RESOURCE ID: bonus_10_daily_raid_passes
+TEXT: รับบัตรตีบอสฟรีสูงสุด 10 ใบด้วยการหมุนแผ่นภาพที่ยิม
+
 RESOURCE ID: bonus_3_daily_raid_passes
-TEXT: Receive up to three Raid Passes at no cost by spinning Photo Discs at Gyms
+TEXT: รับบัตรตีบอสฟรีได้ถึง 3 ใบด้วยการหมุนแผ่นภาพที่ยิม
+
+RESOURCE ID: bonus_5k_egg_rate
+TEXT: เพิ่มโอกาสได้รับไข่ 5 กม. ธีมอีเวนต์จากการหมุนเสาโปเกสต็อปหรือยิม
 
 RESOURCE ID: bonus_6_daily_raid_passes
-TEXT: Receive up to six Raid Passes at no cost by spinning Photo Discs at Gyms
-
-RESOURCE ID: bonus_cd_move_solosis
-TEXT: วิวัฒนาการดาบูลันเป็นแลนคูลัสที่รู้ท่าโจมตีเร็ว "ออดอ้อน"
+TEXT: รับบัตรตีบอสฟรีสูงสุด 6 ใบด้วยการหมุนแผ่นภาพที่ยิม
 
 RESOURCE ID: bonus_dai_boost_chikorita
 TEXT: เพิ่มโอกาสที่จิโคริตาจะถูกดึงดูดด้วยเครื่องหอมรายวัน
@@ -288,21 +207,9 @@ TEXT: วิวัฒนาการจาโอบูเป็นเอ็น�
 RESOURCE ID: bonus_event_move_meganium
 TEXT: วิวัฒนาการเบย์ลีฟเป็นเมกาเนียมที่รู้ท่าโจมตีชาร์จ "ฮาร์ดแพลนท์"
 
-RESOURCE ID: bonus_event_stamp_rally_encounter_pokemon
-TEXT: นอกจากพิคาชูสวมเสื้อยืดสีฟ้าลายส้มแล้ว ยังสามารถเผชิญหน้ากับโปเกมอนเด่นในแต่ละแสตมป์ได้ที่เสาโปเกสต็อปแสตมป์แรลลี GO และบริเวณรอบ ๆ
-
-RESOURCE ID: bonus_event_stamp_rally_introduce
-TEXT: ระหว่างวันที่ 2-26 ตุลาคม ออกสำรวจเกาะเชจูเพื่อรวบรวมแสตมป์! ตรวจสอบความคืบหน้าได้ที่หมวด "แสตมป์แรลลี GO" ในหน้าสมุดภาพ
-
 RESOURCE ID: bonus_event_stamp_rally_introduce_tw2025
 TEXT: กำหนดจัดแสตมป์แรลลี GO ที่ Taipei Children’s Amusement Park ไทเป, ไต้หวัน!
 ในวันที่ 21 ตุลาคม ถึงวันที่ 16 พฤศจิกายน อย่าพลาดโอกาสเผชิญหน้ากับ "ลาพลาซผูกผ้าพันคอ" ที่มีพื้นหลังสถานที่!
-
-RESOURCE ID: bonus_event_stamp_rally_rewards
-TEXT: "พิคาชูสวมเสื้อยืดสีฟ้าลายส้ม" ที่จับได้จากแสตมป์แรลลี GO จะมีพื้นหลังสถานที่เกาะเชจู
-
-RESOURCE ID: bonus_event_stamp_rally_timed_research
-TEXT: มีงานวิจัยแบบจำกัดเวลาธีมอีเวนต์ฟรีสำหรับตะลุยสถานที่ต่าง ๆ ของแสตมป์แรลลีเกาะเชจู
 
 RESOURCE ID: bonus_increased_mega_raid_percent
 TEXT: เพิ่มโอกาสที่ตีบอสเมก้าจะปรากฏขึ้น
@@ -311,31 +218,16 @@ RESOURCE ID: bonus_pokemon_town_lapras_raid
 TEXT: ลาพลาซผูกผ้าพันคอปรากฏตัวในตีบอส
 
 RESOURCE ID: bonus_raid_3_xl_candy_all_raids
-TEXT: Three additional Candy XL for completing Raid Battles
+TEXT: +3 ลูกอม XL เมื่อตีบอสเสร็จสิ้น
 
 RESOURCE ID: bonus_raid_6_candy_all_raids
-TEXT: Six additional Candy for completing Raid Battles
+TEXT: +6 ลูกอมเมื่อตีบอสเสร็จสิ้น
 
 RESOURCE ID: bonus_tr_gbl_championships_2026_a_desc
 TEXT: งานวิจัยแบบจำกัดเวลาโบนัสพลังดึกดำบรรพ์
 
 RESOURCE ID: bonus_tr_gbl_championships_2026_a_title
 TEXT: งานวิจัยแบบจำกัดเวลาโบนัสพลังดึกดำบรรพ์
-
-RESOURCE ID: bundle.general1.large.1_title
-TEXT: กล่องไฮเปอร์
-
-RESOURCE ID: bundle.general1.medium.1_title
-TEXT: กล่องซูเปอร์
-
-RESOURCE ID: bundle.general2.large.1_title
-TEXT: กล่องไฮเปอร์
-
-RESOURCE ID: bundle.general2.medium.1_title
-TEXT: กล่องซูเปอร์
-
-RESOURCE ID: bundle.general3.large.1_title
-TEXT: กล่องไฮเปอร์
 
 RESOURCE ID: bundle.midautumn.incubator
 TEXT: กล่องเครื่องฟักไข่เต้นรำชมจันทร์
@@ -346,38 +238,62 @@ TEXT: กล่องอนุภาคแมกซ์เต้นรำชม�
 RESOURCE ID: bundle.midautumn.raid
 TEXT: กล่องตีบอสเต้นรำชมจันทร์
 
-RESOURCE ID: bundle.xmas.medium.1_title
-TEXT: กล่องซูเปอร์
-
 RESOURCE ID: city_manhole_1
 TEXT: โยโกฮามะ
 
 RESOURCE ID: city_manhole_10
 TEXT: โอฟุนาโตะ
 
+RESOURCE ID: city_manhole_100
+TEXT: มาจิดะ
+
 RESOURCE ID: city_manhole_100_c0f4
 TEXT: Machida
+
+RESOURCE ID: city_manhole_101
+TEXT: มาจิดะ
 
 RESOURCE ID: city_manhole_101_9594
 TEXT: Machida
 
+RESOURCE ID: city_manhole_102
+TEXT: มาจิดะ
+
 RESOURCE ID: city_manhole_102_698e
 TEXT: Machida
+
+RESOURCE ID: city_manhole_103
+TEXT: มาจิดะ
 
 RESOURCE ID: city_manhole_103_3103
 TEXT: Machida
 
+RESOURCE ID: city_manhole_104
+TEXT: โอตสึ
+
 RESOURCE ID: city_manhole_104_8d97
 TEXT: Otsu
+
+RESOURCE ID: city_manhole_105
+TEXT: โอตสึ
 
 RESOURCE ID: city_manhole_105_8313
 TEXT: Otsu
 
+RESOURCE ID: city_manhole_106
+TEXT: ชิซุ
+
 RESOURCE ID: city_manhole_106_5a2a
 TEXT: Chizu
 
+RESOURCE ID: city_manhole_107
+TEXT: ยาซุ
+
 RESOURCE ID: city_manhole_107_915e
 TEXT: Yazu
+
+RESOURCE ID: city_manhole_108
+TEXT: โฮกุเอ
 
 RESOURCE ID: city_manhole_108_3804
 TEXT: Hokuei
@@ -503,7 +419,7 @@ RESOURCE ID: city_manhole_126_f4fd
 TEXT: Zao
 
 RESOURCE ID: city_manhole_127
-TEXT: ชิจิกาชูกุ
+TEXT: ชิจิกาชุกุ
 
 RESOURCE ID: city_manhole_127_9a38
 TEXT: Shichikashuku
@@ -526,32 +442,62 @@ TEXT: Marugame
 RESOURCE ID: city_manhole_13
 TEXT: ซากาอิเดะ
 
+RESOURCE ID: city_manhole_130
+TEXT: ชิบาตะ
+
 RESOURCE ID: city_manhole_130_9200
 TEXT: Shibata
+
+RESOURCE ID: city_manhole_131
+TEXT: คาวาซากิ
 
 RESOURCE ID: city_manhole_131_59a0
 TEXT: Kawasaki
 
+RESOURCE ID: city_manhole_132
+TEXT: มารุโมริ
+
 RESOURCE ID: city_manhole_132_78ad
 TEXT: Marumori
+
+RESOURCE ID: city_manhole_133
+TEXT: ไทวะ
 
 RESOURCE ID: city_manhole_133_7264
 TEXT: Taiwa
 
+RESOURCE ID: city_manhole_134
+TEXT: โอซาโตะ
+
 RESOURCE ID: city_manhole_134_e1f8
 TEXT: Osato
+
+RESOURCE ID: city_manhole_135
+TEXT: โอฮิระ
 
 RESOURCE ID: city_manhole_135_d402
 TEXT: Ohira
 
+RESOURCE ID: city_manhole_136
+TEXT: ชิกามะ
+
 RESOURCE ID: city_manhole_136_94c8
 TEXT: Shikama
+
+RESOURCE ID: city_manhole_137
+TEXT: คามิ
 
 RESOURCE ID: city_manhole_137_1c48
 TEXT: Kami
 
+RESOURCE ID: city_manhole_138
+TEXT: วากุยะ
+
 RESOURCE ID: city_manhole_138_e120
 TEXT: Wakuya
+
+RESOURCE ID: city_manhole_139
+TEXT: มิซาโตะ
 
 RESOURCE ID: city_manhole_139_d638
 TEXT: Misato
@@ -560,7 +506,10 @@ RESOURCE ID: city_manhole_13_8eff
 TEXT: Sakaide
 
 RESOURCE ID: city_manhole_14
-TEXT: เซ็นสึจิ
+TEXT: เซนสึจิ
+
+RESOURCE ID: city_manhole_140
+TEXT: โทมาโกไม
 
 RESOURCE ID: city_manhole_140_c9c8
 TEXT: Tomakomai
@@ -571,14 +520,20 @@ TEXT: มิกาสะ
 RESOURCE ID: city_manhole_141_535d
 TEXT: Mikasa
 
+RESOURCE ID: city_manhole_142
+TEXT: คามิฟุราโนะ
+
 RESOURCE ID: city_manhole_142_1b5d
 TEXT: Kamifurano
 
 RESOURCE ID: city_manhole_143
-TEXT: เคนบุจิ
+TEXT: เคมบุจิ
 
 RESOURCE ID: city_manhole_143_bd68
 TEXT: Kenbuchi
+
+RESOURCE ID: city_manhole_144
+TEXT: โอจิยะ
 
 RESOURCE ID: city_manhole_144_cda6
 TEXT: Ojiya
@@ -589,14 +544,26 @@ TEXT: โอจิยะ
 RESOURCE ID: city_manhole_145_e060
 TEXT: Ojiya
 
+RESOURCE ID: city_manhole_146
+TEXT: โอจิยะ
+
 RESOURCE ID: city_manhole_146_127f
 TEXT: Ojiya
+
+RESOURCE ID: city_manhole_147
+TEXT: โอจิยะ
 
 RESOURCE ID: city_manhole_147_f0ed
 TEXT: Ojiya
 
+RESOURCE ID: city_manhole_148
+TEXT: อิการุงะ
+
 RESOURCE ID: city_manhole_148_09b3
 TEXT: Ikaruga
+
+RESOURCE ID: city_manhole_149
+TEXT: อิการุงะ
 
 RESOURCE ID: city_manhole_149_5fc2
 TEXT: Ikaruga
@@ -701,7 +668,7 @@ RESOURCE ID: city_manhole_163_8d7a
 TEXT: Kyoto
 
 RESOURCE ID: city_manhole_163_temp
-TEXT: Mimata
+TEXT: มิมาตะ
 
 RESOURCE ID: city_manhole_164
 TEXT: ทากานาเบะ
@@ -769,6 +736,9 @@ TEXT: นาฮะ
 RESOURCE ID: city_manhole_173_fea1
 TEXT: Naha
 
+RESOURCE ID: city_manhole_174
+TEXT: กิโนวัง
+
 RESOURCE ID: city_manhole_174_537c
 TEXT: Ginowan
 
@@ -785,13 +755,13 @@ RESOURCE ID: city_manhole_176_ae9c
 TEXT: Uruma
 
 RESOURCE ID: city_manhole_177
-TEXT: ทาคาจิโฮะ
+TEXT: ทากาจิโฮะ
 
 RESOURCE ID: city_manhole_177_950c
 TEXT: Takachiho
 
 RESOURCE ID: city_manhole_178
-TEXT: โมโรสึกะ
+TEXT: โมโรตสึกะ
 
 RESOURCE ID: city_manhole_178_a642
 TEXT: Morotsuka
@@ -820,14 +790,26 @@ TEXT: เนมุโระ
 RESOURCE ID: city_manhole_181_69d6
 TEXT: Nemuro
 
+RESOURCE ID: city_manhole_182
+TEXT: โนโบริเบตสึ
+
 RESOURCE ID: city_manhole_182_7c4a
 TEXT: Noboribetsu
+
+RESOURCE ID: city_manhole_183
+TEXT: ฮมเบตสึ
 
 RESOURCE ID: city_manhole_183_5e59
 TEXT: Honbetsu
 
+RESOURCE ID: city_manhole_184
+TEXT: ริกุเบตสึ
+
 RESOURCE ID: city_manhole_184_5b68
 TEXT: Rikubetsu
+
+RESOURCE ID: city_manhole_185
+TEXT: นากาชิเบตสึ
 
 RESOURCE ID: city_manhole_185_9c8f
 TEXT: Nakashibetsu
@@ -861,6 +843,9 @@ TEXT: Mitoyo
 
 RESOURCE ID: city_manhole_19
 TEXT: โทโนโช
+
+RESOURCE ID: city_manhole_190
+TEXT: ฮิโนกาเงะ
 
 RESOURCE ID: city_manhole_190_124b
 TEXT: Hinokage
@@ -925,32 +910,62 @@ TEXT: Tonosho
 RESOURCE ID: city_manhole_20
 TEXT: โชโดชิมะ
 
+RESOURCE ID: city_manhole_200
+TEXT: ฮิงาชิโอซาก้า
+
 RESOURCE ID: city_manhole_200_20c4
 TEXT: Higashiosaka
+
+RESOURCE ID: city_manhole_201
+TEXT: ฮิงาชิโอซาก้า
 
 RESOURCE ID: city_manhole_201_d7ad
 TEXT: Higashiosaka
 
+RESOURCE ID: city_manhole_202
+TEXT: ฮิงาชิโอซาก้า
+
 RESOURCE ID: city_manhole_202_cb03
 TEXT: Higashiosaka
+
+RESOURCE ID: city_manhole_203
+TEXT: ฮิงาชิโอซาก้า
 
 RESOURCE ID: city_manhole_203_14cd
 TEXT: Higashiosaka
 
+RESOURCE ID: city_manhole_204
+TEXT: โกคาเสะ
+
 RESOURCE ID: city_manhole_204_ca05
 TEXT: Gokase
+
+RESOURCE ID: city_manhole_205
+TEXT: ทากาฮารุ
 
 RESOURCE ID: city_manhole_205_2076
 TEXT: Takaharu
 
+RESOURCE ID: city_manhole_206
+TEXT: คุนิโตมิ
+
 RESOURCE ID: city_manhole_206_f940
 TEXT: Kunitomi
+
+RESOURCE ID: city_manhole_207
+TEXT: อายะ
 
 RESOURCE ID: city_manhole_207_27db
 TEXT: Aya
 
+RESOURCE ID: city_manhole_208
+TEXT: นิชิเมระ
+
 RESOURCE ID: city_manhole_208_548e
 TEXT: Nishimera
+
+RESOURCE ID: city_manhole_209
+TEXT: ชีบะ
 
 RESOURCE ID: city_manhole_209_ca2e
 TEXT: Shiiba
@@ -961,32 +976,62 @@ TEXT: Shodoshima
 RESOURCE ID: city_manhole_21
 TEXT: มิกิ
 
+RESOURCE ID: city_manhole_210
+TEXT: โทโกโรซาวะ
+
 RESOURCE ID: city_manhole_210_1931
 TEXT: Tokorozawa
+
+RESOURCE ID: city_manhole_211
+TEXT: โทโกโรซาวะ
 
 RESOURCE ID: city_manhole_211_d0ee
 TEXT: Tokorozawa
 
+RESOURCE ID: city_manhole_212
+TEXT: โทโกโรซาวะ
+
 RESOURCE ID: city_manhole_212_dc4b
 TEXT: Tokorozawa
+
+RESOURCE ID: city_manhole_213
+TEXT: คาโตริ
 
 RESOURCE ID: city_manhole_213_5bad
 TEXT: Katori
 
+RESOURCE ID: city_manhole_214
+TEXT: คาโตริ
+
 RESOURCE ID: city_manhole_214_77dc
 TEXT: Katori
+
+RESOURCE ID: city_manhole_215
+TEXT: คาโตริ
 
 RESOURCE ID: city_manhole_215_90a4
 TEXT: Katori
 
+RESOURCE ID: city_manhole_216
+TEXT: คาโตริ
+
 RESOURCE ID: city_manhole_216_89ec
 TEXT: Katori
+
+RESOURCE ID: city_manhole_217
+TEXT: อาซาฮิกาวะ
 
 RESOURCE ID: city_manhole_217_df06
 TEXT: Asahikawa
 
+RESOURCE ID: city_manhole_218
+TEXT: คุชิโระ
+
 RESOURCE ID: city_manhole_218_1fa3
 TEXT: Kushiro
+
+RESOURCE ID: city_manhole_219
+TEXT: โอบิฮิโระ
 
 RESOURCE ID: city_manhole_219_c492
 TEXT: Obihiro
@@ -997,29 +1042,56 @@ TEXT: Miki
 RESOURCE ID: city_manhole_22
 TEXT: นาโอชิมะ
 
+RESOURCE ID: city_manhole_220
+TEXT: อาบาชิริ
+
 RESOURCE ID: city_manhole_220_1979
 TEXT: Abashiri
+
+RESOURCE ID: city_manhole_221
+TEXT: อากาอิงาวะ
 
 RESOURCE ID: city_manhole_221_137a
 TEXT: Akaigawa
 
+RESOURCE ID: city_manhole_222
+TEXT: ฮิงาชิกาวะ
+
 RESOURCE ID: city_manhole_222_cfeb
 TEXT: Higashikawa
+
+RESOURCE ID: city_manhole_223
+TEXT: ชาริ
 
 RESOURCE ID: city_manhole_223_51db
 TEXT: Shari
 
+RESOURCE ID: city_manhole_224
+TEXT: เอริโมะ
+
 RESOURCE ID: city_manhole_224_b881
 TEXT: Erimo
+
+RESOURCE ID: city_manhole_225
+TEXT: อุตสึโนมิยะ
 
 RESOURCE ID: city_manhole_225_e947
 TEXT: Utsunomiya
 
+RESOURCE ID: city_manhole_226
+TEXT: อุตสึโนมิยะ
+
 RESOURCE ID: city_manhole_226_b085
 TEXT: Utsunomiya
 
+RESOURCE ID: city_manhole_227
+TEXT: อุตสึโนมิยะ
+
 RESOURCE ID: city_manhole_227_2d3c
 TEXT: Utsunomiya
+
+RESOURCE ID: city_manhole_228
+TEXT: โคกะ
 
 RESOURCE ID: city_manhole_228_2867
 TEXT: Koka
@@ -1049,10 +1121,13 @@ RESOURCE ID: city_manhole_231_4f0e
 TEXT: Urasoe
 
 RESOURCE ID: city_manhole_232
-TEXT: นาโง
+TEXT: นาโงะ
 
 RESOURCE ID: city_manhole_232_ee6d
 TEXT: Nago
+
+RESOURCE ID: city_manhole_233
+TEXT: อิโตมัน
 
 RESOURCE ID: city_manhole_233_1121
 TEXT: Itoman
@@ -1098,6 +1173,9 @@ TEXT: Ayagawa
 
 RESOURCE ID: city_manhole_24
 TEXT: โคโตฮิระ
+
+RESOURCE ID: city_manhole_240
+TEXT: ยกกาอิจิ
 
 RESOURCE ID: city_manhole_240_4168
 TEXT: Yokkaichi
@@ -1159,32 +1237,65 @@ TEXT: Fukushima
 RESOURCE ID: city_manhole_24_922d
 TEXT: Kotohira
 
+RESOURCE ID: city_manhole_25
+TEXT: ทาโดตสึ
+
+RESOURCE ID: city_manhole_250
+TEXT: โคริยามะ
+
 RESOURCE ID: city_manhole_250_9eb3
 TEXT: Koriyama
+
+RESOURCE ID: city_manhole_251
+TEXT: มินามิไอซุ
 
 RESOURCE ID: city_manhole_251_648d
 TEXT: Minamiaizu
 
+RESOURCE ID: city_manhole_252
+TEXT: โชวะ
+
 RESOURCE ID: city_manhole_252_8f04
 TEXT: Showa
+
+RESOURCE ID: city_manhole_253
+TEXT: อีตาเตะ
 
 RESOURCE ID: city_manhole_253_8538
 TEXT: Iitate
 
+RESOURCE ID: city_manhole_254
+TEXT: ยานาอิซุ
+
 RESOURCE ID: city_manhole_254_ca7d
 TEXT: Yanaizu
+
+RESOURCE ID: city_manhole_255
+TEXT: ฟุตาบะ
 
 RESOURCE ID: city_manhole_255_4e3f
 TEXT: Futaba
 
+RESOURCE ID: city_manhole_256
+TEXT: ไอซุวากามัตสึ
+
 RESOURCE ID: city_manhole_256_7eab
 TEXT: Aizuwakamatsu
+
+RESOURCE ID: city_manhole_257
+TEXT: ฮานามากิ
 
 RESOURCE ID: city_manhole_257_7703
 TEXT: Hanamaki
 
+RESOURCE ID: city_manhole_258
+TEXT: โทโนะ
+
 RESOURCE ID: city_manhole_258_7a62
 TEXT: Tono
+
+RESOURCE ID: city_manhole_259
+TEXT: อิจิโนเซกิ
 
 RESOURCE ID: city_manhole_259_b3b5
 TEXT: Ichinoseki
@@ -1225,17 +1336,32 @@ TEXT: ชิวะ
 RESOURCE ID: city_manhole_264_6994
 TEXT: Shiwa
 
+RESOURCE ID: city_manhole_265
+TEXT: นิชิวางะ
+
 RESOURCE ID: city_manhole_265_39bd
 TEXT: Nishiwaga
+
+RESOURCE ID: city_manhole_266
+TEXT: ฮิราอิซุมิ
 
 RESOURCE ID: city_manhole_266_3284
 TEXT: Hiraizumi
 
+RESOURCE ID: city_manhole_267
+TEXT: คารุไม
+
 RESOURCE ID: city_manhole_267_25d9
 TEXT: Karumai
 
+RESOURCE ID: city_manhole_268
+TEXT: คุโนเฮะ
+
 RESOURCE ID: city_manhole_268_0a00
 TEXT: Kunohe
+
+RESOURCE ID: city_manhole_269
+TEXT: อิจิโนเฮะ
 
 RESOURCE ID: city_manhole_269_9814
 TEXT: Ichinohe
@@ -1288,17 +1414,29 @@ TEXT: โทยามะ
 RESOURCE ID: city_manhole_276_7531
 TEXT: Toyama
 
+RESOURCE ID: city_manhole_277
+TEXT: โทเบตสึ
+
 RESOURCE ID: city_manhole_277_7d20
 TEXT: Tobetsu
 
+RESOURCE ID: city_manhole_278
+TEXT: ไซโง
+
 RESOURCE ID: city_manhole_278_dc0e
 TEXT: Saigo
+
+RESOURCE ID: city_manhole_279
+TEXT: นิฮนมัตสึ
 
 RESOURCE ID: city_manhole_279_fc9e
 TEXT: Nihonmatsu
 
 RESOURCE ID: city_manhole_27_ce6f
 TEXT: Iwaizumi
+
+RESOURCE ID: city_manhole_28
+TEXT: ริกุเซนตากาตะ
 
 RESOURCE ID: city_manhole_280
 TEXT: ยาบุกิ
@@ -1366,6 +1504,9 @@ TEXT: Rikuzentakata
 RESOURCE ID: city_manhole_29
 TEXT: สุมิตะ
 
+RESOURCE ID: city_manhole_290
+TEXT: วาตาราอิ
+
 RESOURCE ID: city_manhole_290_fd3f
 TEXT: Watarai
 
@@ -1388,7 +1529,7 @@ RESOURCE ID: city_manhole_293_563b
 TEXT: Odai
 
 RESOURCE ID: city_manhole_294
-TEXT: อาซาฮี
+TEXT: อาซาฮิ
 
 RESOURCE ID: city_manhole_294_a5c0
 TEXT: Asahi
@@ -1457,139 +1598,271 @@ RESOURCE ID: city_manhole_304_bd58
 TEXT: Kitami
 
 RESOURCE ID: city_manhole_305
-TEXT: อุตะชิไน
+TEXT: อุตาชิไน
 
 RESOURCE ID: city_manhole_305_e7a1
 TEXT: Utashinai
 
+RESOURCE ID: city_manhole_306
+TEXT: นาบาริ
+
 RESOURCE ID: city_manhole_306_3fcf
 TEXT: Nabari
+
+RESOURCE ID: city_manhole_307
+TEXT: โยโกฮามะ
 
 RESOURCE ID: city_manhole_307_caaf
 TEXT: Yokohama
 
+RESOURCE ID: city_manhole_308
+TEXT: โยโกฮามะ
+
 RESOURCE ID: city_manhole_308_7c7b
 TEXT: Yokohama
+
+RESOURCE ID: city_manhole_309
+TEXT: โยโกฮามะ
 
 RESOURCE ID: city_manhole_309_ef50
 TEXT: Yokohama
 
+RESOURCE ID: city_manhole_310
+TEXT: โยโกฮามะ
+
 RESOURCE ID: city_manhole_310_c735
 TEXT: Yokohama
+
+RESOURCE ID: city_manhole_311
+TEXT: คิโซซากิ
 
 RESOURCE ID: city_manhole_311_8800
 TEXT: Kisosaki
 
+RESOURCE ID: city_manhole_312
+TEXT: โทอิน
+
 RESOURCE ID: city_manhole_312_c940
 TEXT: Toin
+
+RESOURCE ID: city_manhole_313
+TEXT: ซารุฟุตสึ
 
 RESOURCE ID: city_manhole_313_8206
 TEXT: Sarufutsu
 
+RESOURCE ID: city_manhole_314
+TEXT: ดาไซฟุ
+
 RESOURCE ID: city_manhole_314_804a
 TEXT: Dazaifu
+
+RESOURCE ID: city_manhole_315
+TEXT: ดาไซฟุ
 
 RESOURCE ID: city_manhole_315_f4f0
 TEXT: Dazaifu
 
+RESOURCE ID: city_manhole_316
+TEXT: ดาไซฟุ
+
 RESOURCE ID: city_manhole_316_d90a
 TEXT: Dazaifu
+
+RESOURCE ID: city_manhole_317
+TEXT: อากิตะ
 
 RESOURCE ID: city_manhole_317_b402
 TEXT: Akita
 
+RESOURCE ID: city_manhole_318
+TEXT: โยโกเตะ
+
 RESOURCE ID: city_manhole_318_8447
 TEXT: Yokote
+
+RESOURCE ID: city_manhole_319
+TEXT: โองะ
 
 RESOURCE ID: city_manhole_319_39ea
 TEXT: Oga
 
+RESOURCE ID: city_manhole_320
+TEXT: คาซุโนะ
+
 RESOURCE ID: city_manhole_320_aaeb
 TEXT: Kazuno
+
+RESOURCE ID: city_manhole_321
+TEXT: เซนโบกุ
 
 RESOURCE ID: city_manhole_321_eeab
 TEXT: Senboku
 
+RESOURCE ID: city_manhole_322
+TEXT: คิตากามิ
+
 RESOURCE ID: city_manhole_322_cbc1
 TEXT: Kitakami
+
+RESOURCE ID: city_manhole_323
+TEXT: บิเอ
 
 RESOURCE ID: city_manhole_323_b24b
 TEXT: Biei
 
+RESOURCE ID: city_manhole_324
+TEXT: มัตสึยามะ
+
 RESOURCE ID: city_manhole_324_a72d
 TEXT: Matsuyama
+
+RESOURCE ID: city_manhole_325
+TEXT: มัตสึยามะ
 
 RESOURCE ID: city_manhole_325_11d7
 TEXT: Matsuyama
 
+RESOURCE ID: city_manhole_326
+TEXT: นารุโตะ
+
 RESOURCE ID: city_manhole_326_196a
 TEXT: Naruto
+
+RESOURCE ID: city_manhole_327
+TEXT: นารุโตะ
 
 RESOURCE ID: city_manhole_327_8ba1
 TEXT: Naruto
 
+RESOURCE ID: city_manhole_328
+TEXT: นารุโตะ
+
 RESOURCE ID: city_manhole_328_96ab
 TEXT: Naruto
+
+RESOURCE ID: city_manhole_329
+TEXT: มิฮามะ
 
 RESOURCE ID: city_manhole_329_836b
 TEXT: Mihama
 
+RESOURCE ID: city_manhole_330
+TEXT: ทากาฮามะ
+
 RESOURCE ID: city_manhole_330_39ea
 TEXT: Takahama
+
+RESOURCE ID: city_manhole_331
+TEXT: เอเฮจิโจ
 
 RESOURCE ID: city_manhole_331_f03e
 TEXT: Eiheijicho
 
+RESOURCE ID: city_manhole_332
+TEXT: เอจิเซน
+
 RESOURCE ID: city_manhole_332_aac3
 TEXT: Echizen
+
+RESOURCE ID: city_manhole_333
+TEXT: อาวาระ
 
 RESOURCE ID: city_manhole_333_bb67
 TEXT: Awara
 
+RESOURCE ID: city_manhole_334
+TEXT: คัตสึยามะ
+
 RESOURCE ID: city_manhole_334_90ea
 TEXT: Katsuyama
+
+RESOURCE ID: city_manhole_335
+TEXT: มินามิอิเสะ
 
 RESOURCE ID: city_manhole_335_cd6d
 TEXT: Minamiise
 
+RESOURCE ID: city_manhole_336
+TEXT: ทามากิ
+
 RESOURCE ID: city_manhole_336_04c8
 TEXT: Tamaki
+
+RESOURCE ID: city_manhole_337
+TEXT: มัตสึซากะ
 
 RESOURCE ID: city_manhole_337_eeb4
 TEXT: Matsusaka
 
+RESOURCE ID: city_manhole_338
+TEXT: ทากิ
+
 RESOURCE ID: city_manhole_338_f8b2
 TEXT: Taki
+
+RESOURCE ID: city_manhole_339
+TEXT: คาวาโกเอะ
 
 RESOURCE ID: city_manhole_339_fd15
 TEXT: Kawagoe
 
+RESOURCE ID: city_manhole_340
+TEXT: โคยะ
+
 RESOURCE ID: city_manhole_340_729b
 TEXT: Koya
+
+RESOURCE ID: city_manhole_341
+TEXT: สุซุกะ
 
 RESOURCE ID: city_manhole_341_c88c
 TEXT: Suzuka
 
+RESOURCE ID: city_manhole_342
+TEXT: วากายามะ
+
 RESOURCE ID: city_manhole_342_cdcb
 TEXT: Wakayama
+
+RESOURCE ID: city_manhole_343
+TEXT: คุชิโมโตะ
 
 RESOURCE ID: city_manhole_343_35f6
 TEXT: Kushimoto
 
+RESOURCE ID: city_manhole_344
+TEXT: ชิราฮามะ
+
 RESOURCE ID: city_manhole_344_0e61
 TEXT: Shirahama
+
+RESOURCE ID: city_manhole_345
+TEXT: นาจิกัตสึอุระ
 
 RESOURCE ID: city_manhole_345_2a02
 TEXT: Nachikatsuura
 
+RESOURCE ID: city_manhole_346
+TEXT: ชิซุโอกะ
+
 RESOURCE ID: city_manhole_346_39f4
 TEXT: Shizuoka
+
+RESOURCE ID: city_manhole_347
+TEXT: ฟูจิ
 
 RESOURCE ID: city_manhole_347_09b9
 TEXT: Fuji
 
+RESOURCE ID: city_manhole_348
+TEXT: นุมาซุ
+
 RESOURCE ID: city_manhole_348_85c1
 TEXT: Numazu
+
+RESOURCE ID: city_manhole_349
+TEXT: อิซุ
 
 RESOURCE ID: city_manhole_349_6561
 TEXT: Izu
@@ -1611,6 +1884,9 @@ TEXT: ฮามามัตสึ
 
 RESOURCE ID: city_manhole_352_a861
 TEXT: Hamamatsu
+
+RESOURCE ID: city_manhole_353
+TEXT: ซาเซโบะ
 
 RESOURCE ID: city_manhole_353_083d
 TEXT: Sasebo
@@ -1634,7 +1910,7 @@ RESOURCE ID: city_manhole_356_e21d
 TEXT: Nagasaki
 
 RESOURCE ID: city_manhole_357
-TEXT: อุนเซ็น
+TEXT: อุนเซน
 
 RESOURCE ID: city_manhole_357_f96d
 TEXT: Unzen
@@ -1687,6 +1963,9 @@ TEXT: สึรุงะ
 RESOURCE ID: city_manhole_365_7e26
 TEXT: Tsuruga
 
+RESOURCE ID: city_manhole_366
+TEXT: มินามิเอจิเซน
+
 RESOURCE ID: city_manhole_366_d793
 TEXT: Minamiechizen
 
@@ -1708,32 +1987,62 @@ TEXT: ฮิราตะ
 RESOURCE ID: city_manhole_369_be8c
 TEXT: Hirata
 
+RESOURCE ID: city_manhole_370
+TEXT: อิซุโมะ
+
 RESOURCE ID: city_manhole_370_6a4d
 TEXT: Izumo
+
+RESOURCE ID: city_manhole_371
+TEXT: โอกิโนชิมะ
 
 RESOURCE ID: city_manhole_371_059a
 TEXT: Okinoshima
 
+RESOURCE ID: city_manhole_372
+TEXT: ทานางุระ
+
 RESOURCE ID: city_manhole_372_e121
 TEXT: Tanagura
+
+RESOURCE ID: city_manhole_373
+TEXT: คุนิมิ
 
 RESOURCE ID: city_manhole_373_a72f
 TEXT: Kunimi
 
+RESOURCE ID: city_manhole_374
+TEXT: ยุงาวะ
+
 RESOURCE ID: city_manhole_374_ac3a
 TEXT: Yugawa
+
+RESOURCE ID: city_manhole_375
+TEXT: ไอซุบันเงะ
 
 RESOURCE ID: city_manhole_375_6987
 TEXT: Aizubange
 
+RESOURCE ID: city_manhole_376
+TEXT: ยาสุงิ
+
 RESOURCE ID: city_manhole_376_275d
 TEXT: Yasugi
+
+RESOURCE ID: city_manhole_377
+TEXT: โอดะ
 
 RESOURCE ID: city_manhole_377_88e5
 TEXT: Oda
 
+RESOURCE ID: city_manhole_378
+TEXT: ฮามาดะ
+
 RESOURCE ID: city_manhole_378_9777
 TEXT: Hamada
+
+RESOURCE ID: city_manhole_379
+TEXT: ชิรากาวะ
 
 RESOURCE ID: city_manhole_379_eb03
 TEXT: Shirakawa
@@ -1750,8 +2059,14 @@ TEXT: คางามิอิชิ
 RESOURCE ID: city_manhole_381_8ff6
 TEXT: Kagamiishi
 
+RESOURCE ID: city_manhole_4(ibusuki)
+TEXT: อิบุสุกิ
+
 RESOURCE ID: city_manhole_4(ibusuki)_d64e
 TEXT: Ibusuki
+
+RESOURCE ID: city_manhole_44
+TEXT: เคเซนนุมะ
 
 RESOURCE ID: city_manhole_44_4580
 TEXT: Kesennuma
@@ -1768,11 +2083,20 @@ TEXT: โอนางาวะ
 RESOURCE ID: city_manhole_46_251e
 TEXT: Onagawa
 
+RESOURCE ID: city_manhole_47
+TEXT: อิชิโนมากิ
+
 RESOURCE ID: city_manhole_47_603e
 TEXT: Ishinomaki
 
+RESOURCE ID: city_manhole_48
+TEXT: ฮิงาชิมัตสึชิมะ
+
 RESOURCE ID: city_manhole_48_3675
 TEXT: Higashimatsushima
+
+RESOURCE ID: city_manhole_49
+TEXT: มัตสึชิมะ
 
 RESOURCE ID: city_manhole_49_38b6
 TEXT: Matsushima
@@ -1840,32 +2164,62 @@ TEXT: Ishikari
 RESOURCE ID: city_manhole_6
 TEXT: ฮิโรโนะ
 
+RESOURCE ID: city_manhole_60
+TEXT: เอนิวะ
+
 RESOURCE ID: city_manhole_60_b0e4
 TEXT: Eniwa
+
+RESOURCE ID: city_manhole_61
+TEXT: โทยาโกะ
 
 RESOURCE ID: city_manhole_61_ce29
 TEXT: Toyako
 
+RESOURCE ID: city_manhole_62
+TEXT: โมริ
+
 RESOURCE ID: city_manhole_62_5eaf
 TEXT: Mori
+
+RESOURCE ID: city_manhole_63
+TEXT: คามิโนกุนิ
 
 RESOURCE ID: city_manhole_63_2ba4
 TEXT: Kaminokuni
 
+RESOURCE ID: city_manhole_64
+TEXT: ชิเบตสึ
+
 RESOURCE ID: city_manhole_64_e361
 TEXT: Shibetsu
+
+RESOURCE ID: city_manhole_65
+TEXT: พิปปุ
 
 RESOURCE ID: city_manhole_65_c01f
 TEXT: Pippu
 
+RESOURCE ID: city_manhole_66
+TEXT: เทชิโอะ
+
 RESOURCE ID: city_manhole_66_ab9f
 TEXT: Teshio
+
+RESOURCE ID: city_manhole_67
+TEXT: วักกาไน
 
 RESOURCE ID: city_manhole_67_6331
 TEXT: Wakkanai
 
+RESOURCE ID: city_manhole_68
+TEXT: โทโยโตมิ
+
 RESOURCE ID: city_manhole_68_5fed
 TEXT: Toyotomi
+
+RESOURCE ID: city_manhole_69
+TEXT: มมเบตสึ
 
 RESOURCE ID: city_manhole_69_32c1
 TEXT: Monbetsu
@@ -1876,32 +2230,62 @@ TEXT: Hirono
 RESOURCE ID: city_manhole_7
 TEXT: โนดะ
 
+RESOURCE ID: city_manhole_70
+TEXT: เอนการุ
+
 RESOURCE ID: city_manhole_70_2346
 TEXT: Engaru
+
+RESOURCE ID: city_manhole_71
+TEXT: โอโซระ
 
 RESOURCE ID: city_manhole_71_02a7
 TEXT: Ozora
 
+RESOURCE ID: city_manhole_72
+TEXT: ชินโตกุ
+
 RESOURCE ID: city_manhole_72_331d
 TEXT: Shintoku
+
+RESOURCE ID: city_manhole_73
+TEXT: อาโชโระ
 
 RESOURCE ID: city_manhole_73_ea66
 TEXT: Ashoro
 
+RESOURCE ID: city_manhole_74
+TEXT: ทตโตริ
+
 RESOURCE ID: city_manhole_74_eec7
 TEXT: Tottori
+
+RESOURCE ID: city_manhole_75
+TEXT: โยนาโงะ
 
 RESOURCE ID: city_manhole_75_57ce
 TEXT: Yonago
 
+RESOURCE ID: city_manhole_76
+TEXT: คุราโยชิ
+
 RESOURCE ID: city_manhole_76_30ea
 TEXT: Kurayoshi
+
+RESOURCE ID: city_manhole_77
+TEXT: ซาไกมินาโตะ
 
 RESOURCE ID: city_manhole_77_ff99
 TEXT: Sakaiminato
 
+RESOURCE ID: city_manhole_78
+TEXT: อิวามิ
+
 RESOURCE ID: city_manhole_78_3c55
 TEXT: Iwami
+
+RESOURCE ID: city_manhole_79
+TEXT: วากาสะ
 
 RESOURCE ID: city_manhole_79_e5cc
 TEXT: Wakasa
@@ -1909,32 +2293,65 @@ TEXT: Wakasa
 RESOURCE ID: city_manhole_7_057d
 TEXT: Noda
 
+RESOURCE ID: city_manhole_8
+TEXT: ทาโนฮาตะ
+
+RESOURCE ID: city_manhole_80
+TEXT: มิซาสะ
+
 RESOURCE ID: city_manhole_80_6936
 TEXT: Misasa
+
+RESOURCE ID: city_manhole_81
+TEXT: ยุริฮามะ
 
 RESOURCE ID: city_manhole_81_6e27
 TEXT: Yurihama
 
+RESOURCE ID: city_manhole_82
+TEXT: โคโตอุระ
+
 RESOURCE ID: city_manhole_82_9e2a
 TEXT: Kotoura
+
+RESOURCE ID: city_manhole_83
+TEXT: ไดเซน
 
 RESOURCE ID: city_manhole_83_1be7
 TEXT: Daisen
 
+RESOURCE ID: city_manhole_84
+TEXT: นัมบุ
+
 RESOURCE ID: city_manhole_84_2b1a
 TEXT: Nambu
+
+RESOURCE ID: city_manhole_85
+TEXT: โฮกิ
 
 RESOURCE ID: city_manhole_85_17f6
 TEXT: Hoki
 
+RESOURCE ID: city_manhole_86
+TEXT: นิจินัน
+
 RESOURCE ID: city_manhole_86_9784
 TEXT: Nichinan
+
+RESOURCE ID: city_manhole_87
+TEXT: ฮิโนะ
 
 RESOURCE ID: city_manhole_87_7f03
 TEXT: Hino
 
+RESOURCE ID: city_manhole_88
+TEXT: ชินจิ
+
 RESOURCE ID: city_manhole_88_3729
 TEXT: Shinchi
+
+RESOURCE ID: city_manhole_89
+TEXT: โซมะ
 
 RESOURCE ID: city_manhole_89_6ce2
 TEXT: Soma
@@ -1943,34 +2360,64 @@ RESOURCE ID: city_manhole_8_ec1c
 TEXT: Tanohata
 
 RESOURCE ID: city_manhole_9
-TEXT: โอสึจิ
+TEXT: โอตสึจิ
+
+RESOURCE ID: city_manhole_90
+TEXT: มินามิโซมะ
 
 RESOURCE ID: city_manhole_90_3800
 TEXT: Minamisoma
 
+RESOURCE ID: city_manhole_91
+TEXT: นามิเอะ
+
 RESOURCE ID: city_manhole_91_4194
 TEXT: Namie
+
+RESOURCE ID: city_manhole_92
+TEXT: นาราฮะ
 
 RESOURCE ID: city_manhole_92_5d86
 TEXT: Naraha
 
+RESOURCE ID: city_manhole_93
+TEXT: อิวากิ
+
 RESOURCE ID: city_manhole_93_4591
 TEXT: Iwaki
+
+RESOURCE ID: city_manhole_94
+TEXT: คาวามาตะ
 
 RESOURCE ID: city_manhole_94_51d3
 TEXT: Kawamata
 
+RESOURCE ID: city_manhole_95
+TEXT: ทามุระ
+
 RESOURCE ID: city_manhole_95_a6ea
 TEXT: Tamura
+
+RESOURCE ID: city_manhole_96
+TEXT: คาวาอุจิ
 
 RESOURCE ID: city_manhole_96_78e1
 TEXT: Kawauchi
 
+RESOURCE ID: city_manhole_97
+TEXT: อุตะซุ
+
 RESOURCE ID: city_manhole_97_5f22
 TEXT: Utazu
 
+RESOURCE ID: city_manhole_98
+TEXT: มาจิดะ
+
 RESOURCE ID: city_manhole_98_42ff
 TEXT: Machida
+
+RESOURCE ID: city_manhole_99
+TEXT: มาจิดะ
 
 RESOURCE ID: city_manhole_99_2a2d
 TEXT: Machida
@@ -1978,29 +2425,47 @@ TEXT: Machida
 RESOURCE ID: city_manhole_9_ed48
 TEXT: Otsuchi
 
-RESOURCE ID: community_day_solosis_event_name
-TEXT: คอมมิวนิตี้เดย์: ยูนิรัน
-
 RESOURCE ID: dark_poi_spin_plural
-TEXT: Spin {0} Dark type–themed PokéStops
+TEXT: หมุนเสาโปเกสต็อปธีมประเภทความมืด {0} แห่ง
 
 RESOURCE ID: dark_poi_spin_singular
-TEXT: Spin a Dark type–themed PokéStop
+TEXT: หมุนเสาโปเกสต็อปธีมประเภทความมืด
 
-RESOURCE ID: eevee_explorers_amsterdam_title
-TEXT: นักสำรวจอีวุย - แสตมป์แรลลีอัมสเตอร์ดัม
+RESOURCE ID: desc_mighty_o_clock
+TEXT: โปเกมอนทรงพลังจะปรากฏตัวบ่อยขึ้นในทุกต้นชั่วโมง!
 
-RESOURCE ID: eevee_explorers_bangkok_title
-TEXT: นักสำรวจอีวุย - แสตมป์แรลลีกรุงเทพฯ
+RESOURCE ID: em_ddm_2025_bonus_cubone_tr_desc_title_00
+TEXT: Día de Muertos: งานวิจัยแบบจำกัดเวลาคาระคาระ (1/1)
 
-RESOURCE ID: eevee_explorers_cancun_title
-TEXT: นักสำรวจอีวุย - แสตมป์แรลลีแคนคูน
+RESOURCE ID: em_ddm_2025_bonus_drifloon_tr_desc_title_00
+TEXT: Día de Muertos: งานวิจัยแบบจำกัดเวลาฟูวันเต (1/1)
 
-RESOURCE ID: eevee_explorers_valencia_title
-TEXT: นักสำรวจอีวุย - แสตมป์แรลลีบาเลนเซีย
+RESOURCE ID: em_ddm_2025_bonus_duskull_tr_desc_title_00
+TEXT: Día de Muertos: งานวิจัยแบบจำกัดเวลาโยมาวารุ (1/1)
 
-RESOURCE ID: eevee_explorers_vancouver_title
-TEXT: นักสำรวจอีวุย - แสตมป์แรลลีแวนคูเวอร์
+RESOURCE ID: em_ddm_2025_bonus_event_title
+TEXT: Día de Muertos: พลังที่อยู่ภายใน
+
+RESOURCE ID: em_ddm_2025_bonus_fidough_tr_desc_title_00
+TEXT: Día de Muertos: งานวิจัยแบบจำกัดเวลาพาปิม็อตจิ (1/1)
+
+RESOURCE ID: em_ddm_2025_bonus_flabebe_tr_desc_title_00
+TEXT: Día de Muertos: งานวิจัยแบบจำกัดเวลาฟลาเบเบ (1/1)
+
+RESOURCE ID: em_ddm_2025_bonus_fuecoco_tr_desc_title_00
+TEXT: Día de Muertos: งานวิจัยแบบจำกัดเวลาโฮเกเตอร์ (1/1)
+
+RESOURCE ID: em_ddm_2025_bonus_greavard_tr_desc_title_00
+TEXT: Día de Muertos: งานวิจัยแบบจำกัดเวลาโบจิ (1/1)
+
+RESOURCE ID: em_ddm_2025_bonus_litwick_tr_desc_title_00
+TEXT: Día de Muertos: งานวิจัยแบบจำกัดเวลาฮิโตโมชิ (1/1)
+
+RESOURCE ID: em_ddm_2025_bonus_phantump_tr_desc_title_00
+TEXT: Día de Muertos: งานวิจัยแบบจำกัดเวลาโบคุเร (1/1)
+
+RESOURCE ID: em_ddm_2025_bonus_sunflora_tr_desc_title_00
+TEXT: Día de Muertos: งานวิจัยแบบจำกัดเวลาคิมาวาริ (1/1)
 
 RESOURCE ID: em_diwali_2025_collection_challenge
 TEXT: คำท้านักสะสมเทศกาลแห่งแสง 2025
@@ -2051,102 +2516,27 @@ RESOURCE ID: em_golden_goal_pikachu_tr_title
 TEXT: งานวิจัยแบบจำกัดเวลา
 Golden Goal Time with Pikachu
 
-RESOURCE ID: em_hawlucha_2025_bonus_event_title
-TEXT: โบนัสเทศกาลเฉลิมฉลองลูจาบูล
+RESOURCE ID: enchanted_hollow_event_name
+TEXT: ป่าต้องมนตร์
 
-RESOURCE ID: em_hawlucha_2025_bonus_tr_desc_title_00
-TEXT: งานวิจัยแบบจำกัดเวลาโบนัสเทศกาลเฉลิมฉลองลูจาบูล (1/2)
+RESOURCE ID: enchanted_hollow_nov2025_cc_1
+TEXT: คำท้านักสะสมป่าสน
 
-RESOURCE ID: em_hawlucha_2025_bonus_tr_desc_title_01
-TEXT: งานวิจัยแบบจำกัดเวลาโบนัสเทศกาลเฉลิมฉลองลูจาบูล (2/2)
+RESOURCE ID: enchanted_hollow_nov2025_cc_2
+TEXT: คำท้านักสะสมป่าใบกว้าง
 
-RESOURCE ID: em_hawlucha_2025_bonus_tr_dialog_00
-TEXT: ไง %PLAYERNAME%! ได้เวลาเลือกแล้วว่า
-จะสนับสนุนใครระหว่างลูจาบูลกับไคริกี?
+RESOURCE ID: enchanted_hollow_tr_name
+TEXT: งานวิจัยแบบจำกัดเวลาพรีเมียม: แช่กายในผืนป่า
 
-RESOURCE ID: em_hawlucha_2025_bonus_tr_path_a
-TEXT: ลูจาบูล
-
-RESOURCE ID: em_hawlucha_2025_bonus_tr_path_a_desc
-TEXT: เมื่อเลือกเส้นทางนี้ จะได้เผชิญหน้า
-กับลูจาบูล และรับรางวัล
-เช่น TM ท่าชาร์จและ TM ท่าเร็ว
-
-RESOURCE ID: em_hawlucha_2025_bonus_tr_path_b
-TEXT: ไคริกี
-
-RESOURCE ID: em_hawlucha_2025_bonus_tr_path_b_desc
-TEXT: เมื่อเลือกเส้นทางนี้ จะได้เผชิญหน้า
-กับไคริกี และรับรางวัล
-เช่น TM ท่าชาร์จและ TM ท่าเร็ว
-
-RESOURCE ID: em_hawlucha_2025_bonus_tr_title
-TEXT: งานวิจัยแบบจำกัดเวลาโบนัสเทศกาลเฉลิมฉลองลูจาบูล
-
-RESOURCE ID: em_hawlucha_2025_collection_challenge
-TEXT: คำท้านักสะสมเทศกาลเฉลิมฉลองลูจาบูล
-
-RESOURCE ID: em_hawlucha_2025_event_title
-TEXT: เทศกาลเฉลิมฉลองลูจาบูล
-
-RESOURCE ID: em_hawlucha_2025_tr_desc_title_00
-TEXT: งานวิจัยแบบจำกัดเวลาเทศกาลเฉลิมฉลองลูจาบูล (1/4)
-
-RESOURCE ID: em_hawlucha_2025_tr_desc_title_01
-TEXT: งานวิจัยแบบจำกัดเวลาเทศกาลเฉลิมฉลองลูจาบูล (2/4)
-
-RESOURCE ID: em_hawlucha_2025_tr_desc_title_02
-TEXT: งานวิจัยแบบจำกัดเวลาเทศกาลเฉลิมฉลองลูจาบูล (3/4)
-
-RESOURCE ID: em_hawlucha_2025_tr_desc_title_03
-TEXT: งานวิจัยแบบจำกัดเวลาเทศกาลเฉลิมฉลองลูจาบูล (4/4)
-
-RESOURCE ID: em_hawlucha_2025_tr_dialog_00
-TEXT: ไง %PLAYERNAME%! ได้เวลาเลือกแล้วว่า
-จะฝึกฝนแบบเน้นพละกำลังแบบคลิฟ
-หรือเน้นการใช้กลยุทธ์แบบบลองช์?
-
-RESOURCE ID: em_hawlucha_2025_tr_path_a
-TEXT: บลองช์
-
-RESOURCE ID: em_hawlucha_2025_tr_path_a_desc
-TEXT: เมื่อเลือกเส้นทางนี้ จะได้เผชิญหน้า
-กับมาคุโนชิตะ, ซึรุกกุ และนุยโคกุมะ
-และรับรางวัล เช่น TM ท่าชาร์จและ TM ท่าเร็ว
-
-RESOURCE ID: em_hawlucha_2025_tr_path_b
-TEXT: คลิฟ
-
-RESOURCE ID: em_hawlucha_2025_tr_path_b_desc
-TEXT: เมื่อเลือกเส้นทางนี้ จะได้เผชิญหน้า
-กับวันริกี, กูเรกกรู และด็อคโคเรอร์
-และรับรางวัล เช่น TM ท่าชาร์จและ TM ท่าเร็ว
-
-RESOURCE ID: em_hawlucha_2025_tr_title
-TEXT: งานวิจัยแบบจำกัดเวลาเทศกาลเฉลิมฉลองลูจาบูล
-
-RESOURCE ID: event_bonus_hawlucha_wild
-TEXT: ลูจาบูลปรากฏตัวมากขึ้นในธรรมชาติ
-
-RESOURCE ID: event_datetime_range_key_cd_solosis25
-TEXT: 12 ตุลาคม เวลา 14:00-17:00 น.
+RESOURCE ID: event_datetime_range_key_enchanted_hollow_nov25
+TEXT: 4 พฤศจิกายน เวลา 10:00 น. ถึง
+9 พฤศจิกายน เวลา 20:00 น.
 
 RESOURCE ID: event_datetime_range_key_gmaxgarbodor25
 TEXT: 1 พฤศจิกายน เวลา 14:00-17:00 น.
 
-RESOURCE ID: event_datetime_range_key_harvestfestival_oct25
-TEXT: 10 ตุลาคม เวลา 10:00 น. ถึง
-16 ตุลาคม เวลา 20:00 น.
-
-RESOURCE ID: event_datetime_range_key_megametagrossraidday
-TEXT: 4 ตุลาคม เวลา 14:00-17:00 น.
-
 RESOURCE ID: event_datetime_range_key_megarayquazaraidday
 TEXT: 18 ตุลาคม เวลา 14:00-17:00 น.
-
-RESOURCE ID: event_datetime_range_key_steelskyline0925
-TEXT: 30 กันยายน เวลา 10:00 น. ถึง
-7 ตุลาคม เวลา 20:00 น.
 
 RESOURCE ID: event_gotour_2021_npc08_defeat__female_speaker
 TEXT: แบตเทิลกับเทรนเนอร์ที่แข็งแกร่งนี่สนุกสุด ๆ ไปเลย!
@@ -2154,11 +2544,42 @@ TEXT: แบตเทิลกับเทรนเนอร์ที่แข�
 RESOURCE ID: event_gotour_2021_npc08_defeat__male_speaker
 TEXT: แบตเทิลกับเทรนเนอร์ที่แข็งแกร่งนี่สนุกสุด ๆ ไปเลย!
 
+RESOURCE ID: event_pass_gowa_2025_bonus_1
+TEXT: GO Pass: Into the Wild Pass Bonuses - Tier 1
+
+RESOURCE ID: event_pass_gowa_2025_bonus_2
+TEXT: GO Pass: Into the Wild Pass Bonuses - Tier 2
+
+RESOURCE ID: event_pass_gowa_2025_bonus_3
+TEXT: GO Pass: Into the Wild Pass Bonuses - Tier 3
+
+RESOURCE ID: event_pass_gowa_2025_event_duration
+TEXT: November 10 - November 16
+
+RESOURCE ID: event_pass_gowa_2025_link_november2025
+TEXT: For more details, visit the <a href="https://pokemongo.com/news/into-the-wild-2025">website</a>.
+
+RESOURCE ID: event_pass_gowa_2025_premium_title
+TEXT: GO Pass Deluxe: Into the Wild
+
+RESOURCE ID: event_pass_gowa_2025_title
+TEXT: GO Pass: Into the Wild
+
+RESOURCE ID: event_pass_gowa_2025_track_upgrade_header_description
+TEXT: Earn additional rewards and unlock a <b>Silver Bottle Cap</b> at Rank 100!
+
+RESOURCE ID: event_pass_gowa_2025_upgrade_description
+TEXT: Purchase GO Pass Deluxe: Into the Wild to unlock the following rewards!
+
+• One encounter with Shadow Darkrai
+• One <a href="https://pokemongo.com/news/into-the-wild-2025/">Silver Bottle Cap</a>, which can be used to max one stat—Attack, Defense, or HP—on any Pokémon via Hyper Training!
+• And much more!
+
 RESOURCE ID: fairy_poi_spin_plural
-TEXT: Spin {0} Fairy type–themed PokéStops
+TEXT: หมุนเสาโปเกสต็อปธีมประเภทแฟรี่ {0} แห่ง
 
 RESOURCE ID: fairy_poi_spin_singular
-TEXT: Spin a Fairy type–themed PokéStop
+TEXT: หมุนเสาโปเกสต็อปธีมประเภทแฟรี่
 
 RESOURCE ID: feature_candy_xl_desc
 TEXT: ลูกอมที่ใช้พาวเวอร์อัปโปเกมอนเกินเลเวล 40 ได้ รับได้จากการจับโปเกมอน
@@ -2393,17 +2814,8 @@ TEXT: งานวิจัยแบบจำกัดเวลาพรีเ�
 RESOURCE ID: gastly_drop_mega_energy
 TEXT: เมื่อจับโกส อาจได้รับพลังงานเมก้าของเก็งกา
 
-RESOURCE ID: general1.ticket._harvestfestival_oct25_title
-TEXT: ตั๋วงานวิจัยแบบจำกัดเวลาพรีเมียม: แอปเปิลเคลือบน้ำตาล
-
-RESOURCE ID: general1.ticket._steelskyline0925_title
-TEXT: ตั๋วงานวิจัยแบบจำกัดเวลาพรีเมียม: ขอบฟ้าเหล็กกล้า
-
-RESOURCE ID: general1.ticket_cd_solosis25_title
-TEXT: ตั๋วยูนิรันคอมมิวนิตี้เดย์
-
-RESOURCE ID: general2.ticket.6_megametagrossraidday_title
-TEXT: ตั๋ว "วันตีบอสเมก้าเมทากรอส"
+RESOURCE ID: general1.ticket._enchanted_hollow_nov25_title
+TEXT: ตั๋วงานวิจัยแบบจำกัดเวลาพรีเมียม: แช่กายในผืนป่า
 
 RESOURCE ID: general2.ticket.6_megarayquazaraidday_title
 TEXT: ตั๋ว "วันตีบอสเมก้าเร็คควอซา"
@@ -2426,101 +2838,137 @@ TEXT: งานวิจัยแบบจำกัดเวลาเตรี�
 RESOURCE ID: gmax_garbodor_max_battles
 TEXT: ดัสต์ดาสกิกะแมกซ์ปรากฏตัวในแบตเทิลแมกซ์
 
-RESOURCE ID: gosafariball.10_description
-TEXT: บอลพิเศษที่สามารถใช้ได้เฉพาะในช่วงอีเวนต์ "GO ไวลด์แอเรีย" ชุด 10 ลูก
-
-RESOURCE ID: gosafariball.10_title
-TEXT: ซาฟารีบอล GO 10 ลูก
-
-RESOURCE ID: gosafariball.25_description
-TEXT: บอลพิเศษที่สามารถใช้ได้เฉพาะในช่วงอีเวนต์ "GO ไวลด์แอเรีย" ชุด 25 ลูก
-
-RESOURCE ID: gosafariball.25_title
-TEXT: ซาฟารีบอล GO 25 ลูก
-
-RESOURCE ID: gosafariball.50_description
-TEXT: บอลพิเศษที่สามารถใช้ได้เฉพาะในช่วงอีเวนต์ "GO ไวลด์แอเรีย" ชุด 50 ลูก
-
-RESOURCE ID: gosafariball.50_title
-TEXT: ซาฟารีบอล GO 50 ลูก
-
 RESOURCE ID: gowa2025_leadup_collection_challenge
-TEXT: Into the Wild Collection Challenge
+TEXT: คำท้านักสะสมสู่ธรรมชาติ
 
 RESOURCE ID: gowa2025_leadup_global_todayview_bonus
-TEXT: Into the Wild Additional Bonuses
-
-RESOURCE ID: gowa_2025
-TEXT: Pokémon GO ไวลด์แอเรีย 2025
+TEXT: สู่ธรรมชาติ - โบนัสเพิ่มเติม
 
 RESOURCE ID: gowa_2025_all_sat
-TEXT: Pokémon GO Wild Area 2025: All-Day Saturday
+TEXT: Pokémon GO ไวลด์แอเรีย 2025: วันเสาร์ตลอดวัน
 
 RESOURCE ID: gowa_2025_all_sun
-TEXT: Pokémon GO Wild Area 2025: All-Day Sunday
+TEXT: Pokémon GO ไวลด์แอเรีย 2025: วันอาทิตย์ตลอดวัน
 
 RESOURCE ID: gowa_2025_all_weekend
-TEXT: Pokémon GO Wild Area 2025: All Weekend
+TEXT: Pokémon GO ไวลด์แอเรีย 2025: สุดสัปดาห์
 
 RESOURCE ID: gowa_2025_all_weekend_ticketed
-TEXT: Pokémon GO Wild Area 2025: All Weekend (Ticket)
-
-RESOURCE ID: gowa_2025_content_hashtag
-TEXT: เราจะเลือกและแชร์ภาพจากภาพที่โพสต์พร้อมติดแฮชแท็ก #GOWildArea2025
+TEXT: Pokémon GO ไวลด์แอเรีย 2025: สุดสัปดาห์ (ตั๋ว)
 
 RESOURCE ID: gowa_2025_dark_badge_candy_xl_bonus
-TEXT: One additional Candy XL from catching Dark-type mighty Pokémon
+TEXT: +1 ลูกอม XL จากการจับโปเกมอนทรงพลังประเภทความมืด
 
 RESOURCE ID: gowa_2025_dark_badge_stardust_bonus
-TEXT: 1,000 additional Stardust from catching Dark-type mighty Pokémon
+TEXT: +1,000 สตาร์ดัสต์จากการจับโปเกมอนทรงพลังประเภทความมืด
+
+RESOURCE ID: gowa_2025_deluxe_event_pass_track_unlock_plus_points_title
+TEXT: GO Pass Deluxe: Into the Wild + 10 Ranks
 
 RESOURCE ID: gowa_2025_fairy_badge_candy_xl_bonus
-TEXT: One additional Candy XL from catching Fairy-type mighty Pokémon
+TEXT: +1 ลูกอม XL จากการจับโปเกมอนทรงพลังประเภทแฟรี่
 
 RESOURCE ID: gowa_2025_fairy_badge_stardust_bonus
-TEXT: 1,000 additional Stardust from catching Fairy-type mighty Pokémon
+TEXT: +1,000 สตาร์ดัสต์จากการจับโปเกมอนทรงพลังประเภทแฟรี่
 
 RESOURCE ID: gowa_2025_fri_ticketed
-TEXT: Pokémon GO Wild Area 2025: All-Day Friday (Ticket)
+TEXT: Pokémon GO ไวลด์แอเรีย 2025: วันศุกร์ตลอดวัน (ตั๋ว)
 
 RESOURCE ID: gowa_2025_global_extended_bonus
-TEXT: Pokémon GO Wild Area 2025 – Extended Bonuses
+TEXT: Pokémon GO ไวลด์แอเรีย 2025 - โบนัสเพิ่มเติม
 
-RESOURCE ID: gowa_2025_habitat_cc_description
-TEXT: จับโปเกมอนอีเวนต์!
+RESOURCE ID: gowa_2025_irl_sr_1_0
+TEXT: Oh, where could they be?! Ah—%PLAYERNAME%!
 
-RESOURCE ID: gowa_2025_habitat_global_cc_saturday
-TEXT: คำท้านักสะสมไวลด์แอเรีย: วันเสาร์
+RESOURCE ID: gowa_2025_irl_sr_1_1
+TEXT: You don’t happen to have seen my field notes anywhere, do you? It’s like they disappeared into thin air!
 
-RESOURCE ID: gowa_2025_habitat_global_cc_sunday
-TEXT: คำท้านักสะสมไวลด์แอเรีย: วันอาทิตย์
+RESOURCE ID: gowa_2025_irl_sr_1_2
+TEXT: Sorry you have to see me in such a tizzy. I must’ve missed something...
 
-RESOURCE ID: gowa_2025_habitat_irl_cc
-TEXT: GO ไวลด์แอเรีย: คำท้านักสะสมนางาซากิ
+RESOURCE ID: gowa_2025_irl_sr_1_3
+TEXT: Hm? Do you see something over there?
 
-RESOURCE ID: gowa_2025_habitat_now_dark
-TEXT: กำลังจัด: ชั่วโมงความมืด
+RESOURCE ID: gowa_2025_irl_sr_2_0
+TEXT: Aha! It looks like Impidimp, the Wily Pokémon, was behind my missing notes!
 
-RESOURCE ID: gowa_2025_habitat_now_fairy
-TEXT: กำลังจัด: ชั่วโมงแฟรี่
+RESOURCE ID: gowa_2025_irl_sr_2_1
+TEXT: Impidimp like to sneak into people’s homes to steal things and feast on the negative energy of the frustrated occupants.
 
-RESOURCE ID: gowa_2025_nagasaki
-TEXT: Pokémon GO ไวลด์แอเรีย 2025: นางาซากิ
+RESOURCE ID: gowa_2025_irl_sr_2_2
+TEXT: Oho, but look where Impidimp has led us! This place is rife with Fairy- and Dark-type Pokémon!
+
+RESOURCE ID: gowa_2025_irl_sr_2_3
+TEXT: Feeling bold? Then let’s do some exploring!
+
+RESOURCE ID: gowa_2025_irl_sr_3_0
+TEXT: Nice work! Your bravery is top-tier, %PLAYERNAME%!
+
+RESOURCE ID: gowa_2025_irl_sr_3_1
+TEXT: This is a great time to brush up on your knowledge of Dark-type Pokémon. Do you remember their strengths and weaknesses?
+
+RESOURCE ID: gowa_2025_irl_sr_3_2
+TEXT: Exactly! Dark types are strong against Psychic and Ghost types, but they’re weak to Fighting-, Bug-, and Fairy-type attacks.
+
+RESOURCE ID: gowa_2025_irl_sr_3_3
+TEXT: Let’s put some of that theory into practice!
+
+RESOURCE ID: gowa_2025_irl_sr_4_0
+TEXT: Say, have you ever heard the story of the fairy prince who could attract Pokémon with the power of his music? Oh, you haven’t? Er, maybe I just made it up...
+
+RESOURCE ID: gowa_2025_irl_sr_4_1
+TEXT: In any case, I may not be a fairy prince, but I do know a little about Fairy-type Pokémon that I can share!
+
+RESOURCE ID: gowa_2025_irl_sr_4_2
+TEXT: They’re strong against Fighting-, Dragon-, and Dark-type Pokémon, but they’re weak to Poison and Steel types.
+
+RESOURCE ID: gowa_2025_irl_sr_4_3
+TEXT: I wonder what other observations we might be able to make.
+
+RESOURCE ID: gowa_2025_irl_sr_5_0
+TEXT: Keep your eyes peeled—we’re not out of the woods yet.
+
+RESOURCE ID: gowa_2025_irl_sr_5_1
+TEXT: Team GO Rocket is on the prowl—plus, Shadow Darkrai and Shadow Cresselia need help!
+
+RESOURCE ID: gowa_2025_irl_sr_5_2
+TEXT: It’s a good thing you’re here to save the day, %PLAYERNAME%.
+
+RESOURCE ID: gowa_2025_irl_sr_5_3
+TEXT: Team GO Rocket’s itching for a fight, so let’s grant their wish!
+
+RESOURCE ID: gowa_2025_irl_sr_6_0
+TEXT: Way to go, %PLAYERNAME%! You continue to impress.
+
+RESOURCE ID: gowa_2025_irl_sr_6_1
+TEXT: What started out as a search for my missing notes has turned into quite the adventure! But our tale doesn’t end here.
+
+RESOURCE ID: gowa_2025_irl_sr_6_2
+TEXT: As you well know, there’s always more to see and learn.
+
+RESOURCE ID: gowa_2025_irl_sr_6_3
+TEXT: I’m excited to see the next chapter unfold. Until next time, %PLAYERNAME%!
 
 RESOURCE ID: gowa_2025_nagasaki_extended_bonus
-TEXT: Pokémon GO Wild Area: Nagasaki – Extended Bonuses
+TEXT: Pokémon GO ไวลด์แอเรีย: นางาซากิ - โบนัสเพิ่มเติม
+
+RESOURCE ID: gowa_2025_sat
+TEXT: Pokémon GO ไวลด์แอเรีย 2025: ชั่วโมงอีเวนต์วันเสาร์
 
 RESOURCE ID: gowa_2025_sat_ticketed
-TEXT: Pokémon GO Wild Area 2025: Saturday Event Hours (Ticket)
+TEXT: Pokémon GO ไวลด์แอเรีย 2025: ชั่วโมงอีเวนต์วันเสาร์ (ตั๋ว)
 
 RESOURCE ID: gowa_2025_stamp_today_view
-TEXT: A special stamp rally is available!
+TEXT: แสตมป์แรลลีพิเศษใช้งานได้แล้ว!
+
+RESOURCE ID: gowa_2025_sun
+TEXT: Pokémon GO ไวลด์แอเรีย 2025: ชั่วโมงอีเวนต์วันอาทิตย์
 
 RESOURCE ID: gowa_2025_sun_ticketed
-TEXT: Pokémon GO Wild Area 2025: Sunday Event Hours (Ticket)
+TEXT: Pokémon GO ไวลด์แอเรีย 2025: ชั่วโมงอีเวนต์วันอาทิตย์ (ตั๋ว)
 
 RESOURCE ID: gowa_supply_balloon_gsb
-TEXT: A Supply Balloon will appear every hour. Tap it to get GO Safari Balls!
+TEXT: บอลลูนเสบียงที่ขนซาฟารีบอล GO จะปรากฏขึ้นชั่วโมงละครั้ง
 
 RESOURCE ID: halloween_2025_part_1_event_name
 TEXT: ฮาโลวีน 2025 ส่วนที่ 1
@@ -2534,26 +2982,8 @@ TEXT: เพิ่มโอกาสได้รับลูกอมประ�
 RESOURCE ID: halloween_rare_candy_xl_held_bonus
 TEXT: เพิ่มโอกาสได้รับลูกอมประหลาด XL จากการจับโปเกมอนในชุดคอสตูมเมื่อขว้างได้ดีขึ้นไป
 
-RESOURCE ID: harvest_festival_2025_premium_tr
-TEXT: งานวิจัยแบบจำกัดเวลาพรีเมียม: แอปเปิลเคลือบน้ำตาล
-
-RESOURCE ID: harvest_festival_2025_premium_tr_0
-TEXT: งานวิจัยแบบจำกัดเวลาพรีเมียม: แอปเปิลเคลือบน้ำตาล (1/3)
-
-RESOURCE ID: harvest_festival_2025_premium_tr_1
-TEXT: งานวิจัยแบบจำกัดเวลาพรีเมียม: แอปเปิลเคลือบน้ำตาล (2/3)
-
-RESOURCE ID: harvest_festival_2025_premium_tr_2
-TEXT: งานวิจัยแบบจำกัดเวลาพรีเมียม: แอปเปิลเคลือบน้ำตาล (3/3)
-
-RESOURCE ID: harvest_festival_oct2025_combee_cc
-TEXT: คำท้านักสะสมเก็บเกี่ยวน้ำหวาน
-
-RESOURCE ID: harvest_festival_oct2025_pumpkaboo_cc
-TEXT: คำท้านักสะสมแปลงฟักทอง
-
-RESOURCE ID: harvest_festival_oct2025_smoliv_cc
-TEXT: คำท้านักสะสมสวนมะกอก
+RESOURCE ID: incense_duration_two_hours
+TEXT: เครื่องหอมมีผล 2 ชม.
 
 RESOURCE ID: item_event_ticket_08_desc_gmaxgarbodor25
 TEXT: ตั๋วสำหรับรับโบนัสพิเศษในวันที่
@@ -2566,56 +2996,23 @@ TEXT: ตั๋วสำหรับรับโบนัสพิเศษ
 คุณจะสามารถเข้าร่วมได้โดยอัตโนมัติ
 ตามเวลาท้องถิ่นทั่วโลก
 
-RESOURCE ID: item_event_ticket_evergreen_desc_harvestfestival_oct25
-TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยแบบจำกัดเวลาพรีเมียม: แอปเปิลเคลือบน้ำตาล
-ถึงวันที่ 16 ตุลาคม 2025 เวลา 20:00 น. ตามเวลาท้องถิ่นทั่วโลก
+RESOURCE ID: item_event_ticket_evergreen_desc_enchanted_hollow_nov25
+TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยแบบจำกัดเวลาพรีเมียม: แช่กายในผืนป่า
+ถึงวันที่ 9 พฤศจิกายน 2025 เวลา 20:00 น. ตามเวลาท้องถิ่นทั่วโลก
 
-RESOURCE ID: item_event_ticket_evergreen_desc_steelskyline0925
-TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยแบบจำกัดเวลาพรีเมียม: ขอบฟ้าเหล็กกล้า
-ถึงวันที่ 7 ตุลาคม 2025 เวลา 20:00 น. ตามเวลาท้องถิ่นทั่วโลก
-
-RESOURCE ID: item_event_ticket_evergreen_details_harvestfestival_oct25
-TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยแบบจำกัดเวลาพรีเมียม: แอปเปิลเคลือบน้ำตาล
-ในวันที่ 10 ตุลาคม
+RESOURCE ID: item_event_ticket_evergreen_details_enchanted_hollow_nov25
+TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยแบบจำกัดเวลาพรีเมียม: แช่กายในผืนป่า
+ในวันที่ 4 พฤศจิกายน
 คุณจะสามารถเข้าร่วมได้โดยอัตโนมัติ
-ตามเวลาท้องถิ่นทั่วโลก
-
-RESOURCE ID: item_event_ticket_evergreen_details_steelskyline0925
-TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยแบบจำกัดเวลาพรีเมียม: ขอบฟ้าเหล็กกล้า
-ในวันที่ 30 กันยายน
-คุณจะสามารถเข้าร่วมได้โดยอัตโนมัติ
-ตามเวลาท้องถิ่นทั่วโลก
-
-RESOURCE ID: item_event_ticket_gray_desc_megametagrossraidday
-TEXT: ตั๋วสำหรับรับโบนัสพิเศษในวันที่
-4 ตุลาคม 2025 เวลา 14:00-17:00 น.
 ตามเวลาท้องถิ่นทั่วโลก
 
 RESOURCE ID: item_event_ticket_gray_desc_megarayquazaraidday
 TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยแบบจำกัดเวลาพรีเมียม: วันตีบอสเมก้าเร็คควอซา
 ในวันที่ 18 ตุลาคม 2025 เวลา 14:00-17:00 น. ตามเวลาท้องถิ่น
 
-RESOURCE ID: item_event_ticket_gray_details_megametagrossraidday
-TEXT: ตั๋วสำหรับรับโบนัสพิเศษ
-ในวันที่ 4 ตุลาคม
-คุณจะสามารถเข้าร่วมได้โดยอัตโนมัติ
-ตามเวลาท้องถิ่นทั่วโลก
-
 RESOURCE ID: item_event_ticket_gray_details_megarayquazaraidday
 TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยแบบจำกัดเวลาพรีเมียม: วันตีบอสเมก้าเร็คควอซา
 ในวันที่ 18 ตุลาคม
-คุณจะสามารถเข้าร่วมได้โดยอัตโนมัติ
-ตามเวลาท้องถิ่นทั่วโลก
-
-RESOURCE ID: item_event_ticket_pink_desc_cd_solosis25
-TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยพิเศษ
-ยูนิรันคอมมิวนิตี้เดย์
-ในวันที่ 12 ตุลาคม 2025 14:00 น.
-ตามเวลาท้องถิ่นทั่วโลก
-
-RESOURCE ID: item_event_ticket_pink_details_cd_solosis25
-TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยพิเศษ "สังสรรค์ยูนิรัน"
-ในวันที่ 12 ตุลาคม
 คุณจะสามารถเข้าร่วมได้โดยอัตโนมัติ
 ตามเวลาท้องถิ่นทั่วโลก
 
@@ -2714,48 +3111,9 @@ RESOURCE ID: item_ultra_ball_desc_short
 TEXT: บอลประสิทธิภาพดีเยี่ยมที่มี
 อัตราการจับสำเร็จสูง
 
-RESOURCE ID: item_used_outside_eligible_hour
-TEXT: ไม่สามารถใช้{0}นอกเวลาอีเวนต์ได้
-
 RESOURCE ID: item_xl_rare_candy_desc_short
 TEXT: ใช้เปลี่ยนเป็นลูกอมของโปเกมอน
 ตัวใดก็ได้
-
-RESOURCE ID: jeju_island_rally_2025_desc
-TEXT: แสตมป์แรลลี GO ที่จะพาคุณตะลอนไปตามสถานที่ที่น่าสนใจต่าง ๆ ในเกาะเชจู เกาหลีใต้!
-
-RESOURCE ID: jeju_island_rally_2025_desc_detail
-TEXT: "พิคาชูสวมเสื้อยืดสีฟ้าลายส้ม" ที่เผชิญหน้าจากการเข้าร่วมแสตมป์แรลลี GO จะมีพื้นหลังสถานที่เกาะเชจู
-
-RESOURCE ID: jeju_island_rally_2025_event_title
-TEXT: Pokémon GO@เกาะเชจู
-
-RESOURCE ID: jeju_island_rally_2025_introduce_title
-TEXT: เข้าร่วมแสตมป์แรลลีเกาะเชจู
-
-RESOURCE ID: jeju_island_rally_2025_location
-TEXT: เกาะเชจู, เกาหลีใต้
-
-RESOURCE ID: jeju_island_rally_2025_rewards_desc_general
-TEXT: เผชิญหน้ากับพิคาชูที่มีพื้นหลังสถานที่เกาะเชจู
-
-RESOURCE ID: jeju_island_rally_2025_tag
-TEXT: แสตมป์แรลลีเกาะเชจู
-
-RESOURCE ID: jeju_island_rally_2025_title
-TEXT: แสตมป์แรลลีเกาะเชจู
-
-RESOURCE ID: jeju_island_rally_2025_tr_name
-TEXT: งานวิจัยแบบจำกัดเวลาแสตมป์แรลลีเกาะเชจู
-
-RESOURCE ID: jeju_island_rally_2025_tr_name_1
-TEXT: งานวิจัยแบบจำกัดเวลาแสตมป์แรลลีเกาะเชจู (1/3)
-
-RESOURCE ID: jeju_island_rally_2025_tr_name_2
-TEXT: งานวิจัยแบบจำกัดเวลาแสตมป์แรลลีเกาะเชจู (2/3)
-
-RESOURCE ID: jeju_island_rally_2025_tr_name_3
-TEXT: งานวิจัยแบบจำกัดเวลาแสตมป์แรลลีเกาะเชจู (3/3)
 
 RESOURCE ID: kr_lotteworld_collab_event_raid
 TEXT: เก็งกาสวมชุดเทศกาลสุดหลอนปรากฏตัวในตีบอส
@@ -2835,32 +3193,17 @@ TEXT: ปลดล็อกเลเวลใหม่
 RESOURCE ID: lucky_egg_bonus
 TEXT: โบนัสไข่แห่งความสุข
 
-RESOURCE ID: lure_duration_1_hr
-TEXT: อุปกรณ์ปล่อยลัวร์มีผล 1 ชม.
-
 RESOURCE ID: max_battle_day_gigantamax_garbodor_event_name
 TEXT: วันแบตเทิลแมกซ์ดัสต์ดาสกิกะแมกซ์
 
 RESOURCE ID: max_battle_day_gigantamax_garbodor_ticketed
 TEXT: โบนัสตั๋ว "วันแบตเทิลแมกซ์ดัสต์ดาสกิกะแมกซ์"
 
-RESOURCE ID: max_battle_rare_xl_candy_bonus
-TEXT: การันตีลูกอมประหลาด XL 1 เม็ด จากการชนะแบตเทิลแมกซ์ในพื้นที่
-
-RESOURCE ID: max_battles_event
-TEXT: แบตเทิลแมกซ์ธีมอีเวนต์
-
-RESOURCE ID: meetup_check_in_research_title_community_0
-TEXT: งานวิจัยแบบจำกัดเวลาเช็กอินงานพบปะ: คอมมิวนิตี้เดย์ (1/2)
-
-RESOURCE ID: meetup_check_in_research_title_community_1
-TEXT: งานวิจัยแบบจำกัดเวลาเช็กอินงานพบปะ: คอมมิวนิตี้เดย์ (2/2)
+RESOURCE ID: max_battle_win_plus5000_bonus
+TEXT: Additional 5,000 XP awarded for successful Max Battles
 
 RESOURCE ID: meetup_check_in_research_title_gowa2025
-TEXT: Meetup Check-In Timed Research: GO Wild Area
-
-RESOURCE ID: mega_metagross_raid_day_event_name
-TEXT: วันตีบอสเมก้าเมทากรอส
+TEXT: งานวิจัยแบบจำกัดเวลาเช็กอินงานพบปะ: GO ไวลด์แอเรีย
 
 RESOURCE ID: mega_rayquaza_free_tr_name
 TEXT: งานวิจัยแบบจำกัดเวลาวันตีบอสเมก้าเร็คควอซา
@@ -2872,43 +3215,45 @@ RESOURCE ID: mega_rayquaza_raid_day_event_name
 TEXT: วันตีบอสเมก้าเร็คควอซา
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2025-10-14T19:08:00.541026+00:00 for th-TH
-at SHA 04d5ca7f8e3
-Pipeline 3405584, job 47620916
-Patch from: 0.383.0-SHA-d152e581-RC2, 0.385.0-SHA-e2642da6-RC1, 0.381.3-SHA-518cef07-RC1
+TEXT: Built at 2025-10-22T00:51:42.729529+00:00 for th-TH
+at SHA d8e8a674c61
+Pipeline 3414296, job 47875701
+Patch from: 0.385.0-SHA-e2642da6-RC1, 0.383.2-SHA-14085244-RC1
 
 RESOURCE ID: mighty_ftue_encounter_dialog_1
-TEXT: You found a mighty Pokémon! A mighty Pokémon is difficult to catch, but it’s well worth the effort.
+TEXT: ที่เธอเจอคือโปเกมอนทรงพลัง!
+แม้โปเกมอนทรงพลังจะจับยาก
+แต่ก็เป็นโปเกมอนที่ควรค่าแก่ความพยายาม
 
 RESOURCE ID: mighty_ftue_encounter_dialog_2
-TEXT: No need to worry, though! GO Safari Balls are very effective at catching mighty Pokémon. Here, give them a try!
+TEXT: ไม่ต้องกังวลไป! ซาฟารีบอล GO เหมาะสำหรับ
+จับโปเกมอนทรงพลังเป็นอย่างมาก ลองใช้ดูสิ
 
 RESOURCE ID: mighty_ftue_post_encounter_dialog_1
-TEXT: Nice catch! It’s exciting to see the GO Safari Ball in action.
+TEXT: ยอดเยี่ยมมาก!
+ตื่นเต้นจริง ๆ ที่ได้เห็นซาฟารีบอล GO ตอนใช้จริง
 
 RESOURCE ID: mighty_ftue_post_encounter_dialog_2
-TEXT: There are sure to be other mighty Pokémon in the wild, so here are more GO Safari Balls to get you started. You might also find them at PokéStops and Gyms.
+TEXT: ยังมีโปเกมอนทรงพลังตัวอื่น ๆ อยู่ตามธรรมชาติ
+อย่างแน่นอน รับซาฟารีบอล GO นี่ไปสิ
+ตามเสาโปเกสต็อปกับยิมก็อาจจะมีนะ
 
 RESOURCE ID: mighty_ftue_post_encounter_dialog_3
-TEXT: Keep in mind, GO Safari Balls can only be used for a limited time. Let’s see how many mighty Pokémon you can find!
-
-RESOURCE ID: photobomb_five_hawlucha
-TEXT: ลูจาบูลแย่งซีนถ่ายรูปในโกสแนปช็อต 5 ครั้ง
-
-RESOURCE ID: photobomb_five_solosis
-TEXT: ยูนิรันแย่งซีนถ่ายรูปในโกสแนปช็อต 5 ครั้ง
+TEXT: ซาฟารีบอล GO สามารถใช้ได้แบบ
+จำกัดเวลาเท่านั้น ระวังด้วยล่ะ
+มาดูกันว่าจะจับโปเกมอนทรงพลังได้กี่ตัว!
 
 RESOURCE ID: photobomb_special_six
-TEXT: Up to six event-themed surprise encounters in GO Snapshot
+TEXT: พบการเผชิญหน้าที่ไม่คาดคิดตามธีมอีเวนต์ในโกสแนปช็อตสูงสุด 6 ครั้ง
 
 RESOURCE ID: photobomb_special_three
-TEXT: Up to three event-themed surprise encounters in GO Snapshot
+TEXT: พบการเผชิญหน้าที่ไม่คาดคิดตามธีมอีเวนต์ในโกสแนปช็อตสูงสุด 3 ครั้ง
 
-RESOURCE ID: pinap_berry_2x_candy_bonus
-TEXT: 2× ลูกอมที่ได้รับจากการใช้ผลไพน์และผลไพน์สีเงิน
-
-RESOURCE ID: poi_contrib_unavailable_limit_distance_temp
+RESOURCE ID: poi_contrib_unavailable_limit_distance
 TEXT: คุณอยู่ห่างจาก{0}นี้เกินกว่าที่จะยื่นเรื่อง
+
+RESOURCE ID: poi_contrib_unavailable_limit_distance_out
+TEXT: คุณอยู่ห่างจากเสาโปเกสต็อปนี้เกินกว่าที่จะยื่นคำร้อง
 
 RESOURCE ID: pokemon_category_1012_2871
 TEXT: โปเกมอนชาเขียว
@@ -2921,6 +3266,12 @@ TEXT: โปเกมอนชาเขียว
 
 RESOURCE ID: pokemon_category_1013_2874
 TEXT: โปเกมอนชาเขียว
+
+RESOURCE ID: pokemon_desc_0647_0149
+TEXT: Cobalion, Terrakion, and Virizion taught this Pokémon how to fight. It dashes across the world, seeking more opportunities to further its training.
+
+RESOURCE ID: pokemon_desc_0647_0150
+TEXT: Keldeo has strengthened its resolve for battle, filling its body with power and changing its form.
 
 RESOURCE ID: pokemon_desc_1012_2871
 TEXT: ดูเหมือนว่าความเจ็บแค้นของนักชงชาที่เสียชีวิต
@@ -2942,122 +3293,32 @@ TEXT: อาศัยอยู่ในถ้วยชาชั้นเลิ�
 ช่างปั้นดินเผาเลื่องชื่อ เป็นโปเกมอนที่
 เหล่านักสะสมชื่นชอบมาก
 
+RESOURCE ID: pokemon_info_form_change_confirmation_no_form
+TEXT: Are you sure you want to change {0} from its {1} to its {2}?
+
+RESOURCE ID: pokemon_info_form_change_warning_short
+TEXT: Are you sure you want to change form?
+
+RESOURCE ID: pokemon_learn_move
+TEXT: Learn {0}
+
+RESOURCE ID: pokemon_learn_new_charged_move
+TEXT: Learn a new Charged Attack
+
+RESOURCE ID: pokemon_learn_new_quick_move
+TEXT: Learn a new Fast Attack
+
 RESOURCE ID: pokemon_name_1012
 TEXT: ฉะเดธ
 
 RESOURCE ID: pokemon_name_1013
 TEXT: ยาบาโซฉะ
 
-RESOURCE ID: pokestop_berry_increase_bonus
-TEXT: เพิ่มผลไม้ที่ได้รับจากเสาโปเกสต็อปและยิม
+RESOURCE ID: pokemon_no_longer_able_battle_powerspots
+TEXT: No longer be able to battle at Power Spots
 
-RESOURCE ID: quest_battle_bug_charge_plural
-TEXT: ใช้ท่าโจมตีชาร์จประเภทแมลงใน {0} แบตเทิล
-
-RESOURCE ID: quest_battle_bug_charge_singular
-TEXT: ใช้ท่าโจมตีชาร์จประเภทแมลงในแบตเทิล
-
-RESOURCE ID: quest_battle_dark_charge_plural
-TEXT: ใช้ท่าโจมตีชาร์จประเภทความมืดใน {0} แบตเทิล
-
-RESOURCE ID: quest_battle_dark_charge_singular
-TEXT: ใช้ท่าโจมตีชาร์จประเภทความมืดในแบตเทิล
-
-RESOURCE ID: quest_battle_dragon_charge_plural
-TEXT: ใช้ท่าโจมตีชาร์จประเภทมังกรใน {0} แบตเทิล
-
-RESOURCE ID: quest_battle_dragon_charge_singular
-TEXT: ใช้ท่าโจมตีชาร์จประเภทมังกรในแบตเทิล
-
-RESOURCE ID: quest_battle_electric_charge_plural
-TEXT: ใช้ท่าโจมตีชาร์จประเภทไฟฟ้าใน {0} แบตเทิล
-
-RESOURCE ID: quest_battle_electric_charge_singular
-TEXT: ใช้ท่าโจมตีชาร์จประเภทไฟฟ้าในแบตเทิล
-
-RESOURCE ID: quest_battle_fairy_charge_plural
-TEXT: ใช้ท่าโจมตีชาร์จประเภทแฟรี่ใน {0} แบตเทิล
-
-RESOURCE ID: quest_battle_fairy_charge_singular
-TEXT: ใช้ท่าโจมตีชาร์จประเภทแฟรี่ในแบตเทิล
-
-RESOURCE ID: quest_battle_fighting_charge_plural
-TEXT: ใช้ท่าโจมตีชาร์จประเภทต่อสู้ใน {0} แบตเทิล
-
-RESOURCE ID: quest_battle_fighting_charge_singular
-TEXT: ใช้ท่าโจมตีชาร์จประเภทต่อสู้ในแบตเทิล
-
-RESOURCE ID: quest_battle_fire_charge_plural
-TEXT: ใช้ท่าโจมตีชาร์จประเภทไฟใน {0} แบตเทิล
-
-RESOURCE ID: quest_battle_fire_charge_singular
-TEXT: ใช้ท่าโจมตีชาร์จประเภทไฟในแบตเทิล
-
-RESOURCE ID: quest_battle_flying_charge_plural
-TEXT: ใช้ท่าโจมตีชาร์จประเภทบินใน {0} แบตเทิล
-
-RESOURCE ID: quest_battle_flying_charge_singular
-TEXT: ใช้ท่าโจมตีชาร์จประเภทบินในแบตเทิล
-
-RESOURCE ID: quest_battle_ghost_charge_plural
-TEXT: ใช้ท่าโจมตีชาร์จประเภทผีใน {0} แบตเทิล
-
-RESOURCE ID: quest_battle_ghost_charge_singular
-TEXT: ใช้ท่าโจมตีชาร์จประเภทผีในแบตเทิล
-
-RESOURCE ID: quest_battle_grass_charge_plural
-TEXT: ใช้ท่าโจมตีชาร์จประเภทหญ้าใน {0} แบตเทิล
-
-RESOURCE ID: quest_battle_grass_charge_singular
-TEXT: ใช้ท่าโจมตีชาร์จประเภทหญ้าในแบตเทิล
-
-RESOURCE ID: quest_battle_ground_charge_plural
-TEXT: ใช้ท่าโจมตีชาร์จประเภทดินใน {0} แบตเทิล
-
-RESOURCE ID: quest_battle_ground_charge_singular
-TEXT: ใช้ท่าโจมตีชาร์จประเภทดินในแบตเทิล
-
-RESOURCE ID: quest_battle_ice_charge_plural
-TEXT: ใช้ท่าโจมตีชาร์จประเภทน้ำแข็งใน {0} แบตเทิล
-
-RESOURCE ID: quest_battle_ice_charge_singular
-TEXT: ใช้ท่าโจมตีชาร์จประเภทน้ำแข็งในแบตเทิล
-
-RESOURCE ID: quest_battle_normal_charge_plural
-TEXT: ใช้ท่าโจมตีชาร์จประเภทปกติใน {0} แบตเทิล
-
-RESOURCE ID: quest_battle_normal_charge_singular
-TEXT: ใช้ท่าโจมตีชาร์จประเภทปกติในแบตเทิล
-
-RESOURCE ID: quest_battle_poison_charge_plural
-TEXT: ใช้ท่าโจมตีชาร์จประเภทพิษใน {0} แบตเทิล
-
-RESOURCE ID: quest_battle_poison_charge_singular
-TEXT: ใช้ท่าโจมตีชาร์จประเภทพิษในแบตเทิล
-
-RESOURCE ID: quest_battle_psychic_charge_plural
-TEXT: ใช้ท่าโจมตีชาร์จประเภทพลังจิตใน {0} แบตเทิล
-
-RESOURCE ID: quest_battle_psychic_charge_singular
-TEXT: ใช้ท่าโจมตีชาร์จประเภทพลังจิตในแบตเทิล
-
-RESOURCE ID: quest_battle_rock_charge_plural
-TEXT: ใช้ท่าโจมตีชาร์จประเภทหินใน {0} แบตเทิล
-
-RESOURCE ID: quest_battle_rock_charge_singular
-TEXT: ใช้ท่าโจมตีชาร์จประเภทหินในแบตเทิล
-
-RESOURCE ID: quest_battle_steel_charge_plural
-TEXT: ใช้ท่าโจมตีชาร์จประเภทโลหะใน {0} แบตเทิล
-
-RESOURCE ID: quest_battle_steel_charge_singular
-TEXT: ใช้ท่าโจมตีชาร์จประเภทโลหะในแบตเทิล
-
-RESOURCE ID: quest_battle_water_charge_plural
-TEXT: ใช้ท่าโจมตีชาร์จประเภทน้ำใน {0} แบตเทิล
-
-RESOURCE ID: quest_battle_water_charge_singular
-TEXT: ใช้ท่าโจมตีชาร์จประเภทน้ำในแบตเทิล
+RESOURCE ID: pokemon_will
+TEXT: {0} will:
 
 RESOURCE ID: quest_branch_choose_chikorita_za_desc
 TEXT: เลือกเส้นทางนี้เพื่อเผชิญหน้ากับจิโคริตาเพิ่มขึ้น นอกจากนี้ โอกาสที่จิโคริตาจะถูกดึงดูดด้วยเครื่องหอมรายวันสูงขึ้น
@@ -3069,10 +3330,15 @@ RESOURCE ID: quest_branch_choose_totodile_za_desc
 TEXT: เลือกเส้นทางนี้เพื่อเผชิญหน้ากับวานิโนโกะเพิ่มขึ้น นอกจากนี้ โอกาสที่วานิโนโกะจะถูกดึงดูดด้วยเครื่องหอมรายวันสูงขึ้น
 
 RESOURCE ID: quest_buddy_affection_dark_plural
-TEXT: Earn {0} hearts with a Dark-type buddy
+TEXT: ได้รับหัวใจร่วมกันกับคู่หูประเภทความมืด
+ของคุณ {0} ดวง
 
 RESOURCE ID: quest_buddy_affection_fairy_plural
-TEXT: Earn {0} hearts with a Fairy-type buddy
+TEXT: ได้รับหัวใจร่วมกันกับคู่หูประเภทแฟรี่
+ของคุณ {0} ดวง
+
+RESOURCE ID: quest_catch_impidimp
+TEXT: Catch an Impidimp
 
 RESOURCE ID: quest_complete_routes_days_row_plural
 TEXT: เล่นเส้นทาง {0} วันติดต่อกัน
@@ -3087,10 +3353,12 @@ RESOURCE ID: quest_evolve_pokemon_pignite_singular
 TEXT: วิวัฒนาการจาโอบู
 
 RESOURCE ID: quest_explore_buddy_dark
-TEXT: Earn a Candy exploring with a Dark type as your buddy
+TEXT: ได้รับลูกอมจากการเดินสำรวจกับ
+โปเกมอนประเภทความมืดที่เป็นคู่หู
 
 RESOURCE ID: quest_explore_buddy_fairy
-TEXT: Earn a Candy exploring with a Fairy type as your buddy
+TEXT: ได้รับลูกอมจากการเดินสำรวจกับ
+โปเกมอนประเภทแฟรี่ที่เป็นคู่หู
 
 RESOURCE ID: quest_gbl_rank_ace
 TEXT: ไปถึงแรงก์หัวกะทิในโกแบตเทิลลีก
@@ -3101,119 +3369,47 @@ TEXT: ไปถึงแรงก์ {0} ในโกแบตเทิลลี
 RESOURCE ID: quest_join_team
 TEXT: เข้าร่วมทีม
 
-RESOURCE ID: quest_solosis_catch_b
-TEXT: จับยูนิรัน {0} ตัว
-
 RESOURCE ID: quest_spend_stardust_plural
 TEXT: ใช้ {0} สตาร์ดัสต์
-
-RESOURCE ID: quest_title_solosis
-TEXT: สังสรรค์ยูนิรัน
-
-RESOURCE ID: quest_title_solosis_0
-TEXT: สังสรรค์ยูนิรัน (1/3)
-
-RESOURCE ID: quest_title_solosis_1
-TEXT: สังสรรค์ยูนิรัน (2/3)
-
-RESOURCE ID: quest_title_solosis_2
-TEXT: สังสรรค์ยูนิรัน (3/3)
 
 RESOURCE ID: quest_visit_gym_singular
 TEXT: แวะไปที่ยิม
 
+RESOURCE ID: raid_win_plus5000_bonus
+TEXT: Additional 5,000 XP awarded for successful Raids
+
 RESOURCE ID: raids_alolan_marowak
 TEXT: อโลลาการะการะปรากฏตัวในตีบอส
 
-RESOURCE ID: rally_city_safari_2025_amsterdam_desc
-TEXT: ยินดีต้อนรับสู่ City Safari: อัมสเตอร์ดัม!
-
-RESOURCE ID: rally_city_safari_2025_amsterdam_desc_detail
-TEXT: เผชิญหน้ากับอีวุยเมื่อหมุนเสาโปเกสต็อปแสตมป์แรลลีในเมืองอัมสเตอร์ดัม (สูงสุด 8 ครั้งต่อตั๋ว 1 ใบ) ตรวจสอบรายละเอียดได้ที่แผนที่แสตมป์แรลลี
-
-RESOURCE ID: rally_city_safari_2025_amsterdam_location
-TEXT: อัมสเตอร์ดัม, เนเธอร์แลนด์
-
-RESOURCE ID: rally_city_safari_2025_amsterdam_rewards_desc_general
-TEXT: เผชิญหน้ากับอีวุย (อีวุยสวมหมวกซาฟารี) ที่มีพื้นหลังสถานที่พิเศษเฉพาะอัมสเตอร์ดัม
-
-RESOURCE ID: rally_city_safari_2025_bangkok_desc
-TEXT: ยินดีต้อนรับสู่ City Safari: กรุงเทพฯ!
-
-RESOURCE ID: rally_city_safari_2025_bangkok_desc_detail
-TEXT: เผชิญหน้ากับอีวุยเมื่อหมุนเสาโปเกสต็อปแสตมป์แรลลีในเมืองกรุงเทพฯ (สูงสุด 8 ครั้งต่อตั๋ว 1 ใบ) ตรวจสอบรายละเอียดได้ที่แผนที่แสตมป์แรลลี
-
-RESOURCE ID: rally_city_safari_2025_bangkok_location
-TEXT: กรุงเทพฯ, ไทย
-
-RESOURCE ID: rally_city_safari_2025_bangkok_rewards_desc_general
-TEXT: เผชิญหน้ากับอีวุย (อีวุยสวมหมวกซาฟารี) ที่มีพื้นหลังสถานที่พิเศษเฉพาะกรุงเทพฯ
-
-RESOURCE ID: rally_city_safari_2025_cancun_desc
-TEXT: ยินดีต้อนรับสู่ City Safari: แคนคูน!
-
-RESOURCE ID: rally_city_safari_2025_cancun_desc_detail
-TEXT: เผชิญหน้ากับอีวุยเมื่อหมุนเสาโปเกสต็อปแสตมป์แรลลีในเมืองแคนคูน (สูงสุด 8 ครั้งต่อตั๋ว 1 ใบ) ตรวจสอบรายละเอียดได้ที่แผนที่แสตมป์แรลลี
-
-RESOURCE ID: rally_city_safari_2025_cancun_location
-TEXT: แคนคูน, เม็กซิโก
-
-RESOURCE ID: rally_city_safari_2025_cancun_rewards_desc_general
-TEXT: เผชิญหน้ากับอีวุย (อีวุยสวมหมวกซาฟารี) ที่มีพื้นหลังสถานที่พิเศษเฉพาะแคนคูน
-
-RESOURCE ID: rally_city_safari_2025_valencia_desc
-TEXT: ยินดีต้อนรับสู่ City Safari: บาเลนเซีย!
-
-RESOURCE ID: rally_city_safari_2025_valencia_desc_detail
-TEXT: เผชิญหน้ากับอีวุยเมื่อหมุนเสาโปเกสต็อปแสตมป์แรลลีในเมืองบาเลนเซีย (สูงสุด 8 ครั้งต่อตั๋ว 1 ใบ) ตรวจสอบรายละเอียดได้ที่แผนที่แสตมป์แรลลี
-
-RESOURCE ID: rally_city_safari_2025_valencia_location
-TEXT: บาเลนเซีย, สเปน
-
-RESOURCE ID: rally_city_safari_2025_valencia_rewards_desc_general
-TEXT: เผชิญหน้ากับอีวุย (อีวุยสวมหมวกซาฟารี) ที่มีพื้นหลังสถานที่พิเศษเฉพาะบาเลนเซีย
-
-RESOURCE ID: rally_city_safari_2025_vancouver_desc
-TEXT: ยินดีต้อนรับสู่ City Safari: แวนคูเวอร์!
-
-RESOURCE ID: rally_city_safari_2025_vancouver_desc_detail
-TEXT: เผชิญหน้ากับอีวุยเมื่อหมุนเสาโปเกสต็อปแสตมป์แรลลีในเมืองแวนคูเวอร์ (สูงสุด 8 ครั้งต่อตั๋ว 1 ใบ) ตรวจสอบรายละเอียดได้ที่แผนที่แสตมป์แรลลี
-
-RESOURCE ID: rally_city_safari_2025_vancouver_location
-TEXT: แวนคูเวอร์, แคนาดา
-
-RESOURCE ID: rally_city_safari_2025_vancouver_rewards_desc_general
-TEXT: เผชิญหน้ากับอีวุย (อีวุยสวมหมวกซาฟารี) ที่มีพื้นหลังสถานที่พิเศษเฉพาะแวนคูเวอร์
-
 RESOURCE ID: rally_gowa_2025_desc
-TEXT: Welcome to GO Wild Area: Nagasaki!
+TEXT: ยินดีต้อนรับสู่ GO ไวลด์แอเรีย: นางาซากิ!
 
 RESOURCE ID: rally_gowa_2025_desc_detail
-TEXT: Collect stamps by visiting GO Stamp Rally PokéStops in Nagasaki City during your ticketed event day!
+TEXT: แวะไปเสาโปเกสต็อปที่กำหนดในเมืองนางาซากิเพื่อสะสมแสตมป์!
 
 RESOURCE ID: rally_gowa_2025_location
-TEXT: Nagasaki City, Nagasaki, Japan
+TEXT: เมืองนางาซากิ นางาซากิ, ญี่ปุ่น
 
 RESOURCE ID: rally_gowa_2025_rewards_desc
-TEXT: Complete this rally to encounter an event-exclusive Bewear wearing a wilderness cape with a Nagasaki City Location Background!
+TEXT: เมื่อเคลียร์แสตมป์แรลลี GO นี้ จะได้เผชิญหน้ากับคิเทรุกุมะสวมผ้าคลุมที่มีพื้นหลังสถานที่เมืองนางาซากิ!
 
 RESOURCE ID: rally_gowa_2025_title
-TEXT: GO Wild Area 2025 Stamp Rally
+TEXT: แสตมป์แรลลี GO ไวลด์แอเรีย 2025
 
 RESOURCE ID: rally_nagasaki_2025_desc
-TEXT: A GO Stamp Rally celebrating the city of Nagasaki
+TEXT: "แสตมป์แรลลี GO" ที่พาคุณท่องไปตามพื้นที่ต่าง ๆ ในเมืองนางาซากิ
 
 RESOURCE ID: rally_nagasaki_2025_desc_detail
-TEXT: Collect stamps by visiting GO Stamp Rally PokéStops in Nagasaki City!
+TEXT: แวะไปเสาโปเกสต็อปที่กำหนดในเมืองนางาซากิเพื่อสะสมแสตมป์!
 
 RESOURCE ID: rally_nagasaki_2025_location
-TEXT: Nagasaki City, Nagasaki, Japan
+TEXT: เมืองนางาซากิ นางาซากิ, ญี่ปุ่น
 
 RESOURCE ID: rally_nagasaki_2025_rewards_desc
-TEXT: Encounter an Ampharos with a Nagasaki City Location Background at the end of this rally!
+TEXT: เมื่อเคลียร์แสตมป์แรลลี GO นี้ จะได้เผชิญหน้ากับเด็นริวที่มีพื้นหลังสถานที่เมืองนางาซากิ!
 
 RESOURCE ID: rally_nagasaki_2025_title
-TEXT: Nagasaki City Stamp Rally
+TEXT: แสตมป์แรลลีเมืองนางาซากิ
 
 RESOURCE ID: rally_rewards_desc_general
 TEXT: เมื่อสะสมแสตมป์แรลลี จะได้เผชิญหน้ากับโปเกมอน
@@ -3233,102 +3429,28 @@ RESOURCE ID: rally_tw_2025_amusement_park_title
 TEXT: แสตมป์แรลลี Taipei Children’s Amusement Park
 
 RESOURCE ID: ready_for_the_wild_tr_1
-TEXT: Ready for the Wild Premium Timed Research (1/5)
+TEXT: งานวิจัยแบบจำกัดเวลาพรีเมียม: คู่มือสู่ธรรมชาติ (1/5)
 
 RESOURCE ID: ready_for_the_wild_tr_2
-TEXT: Ready for the Wild Premium Timed Research (2/5)
+TEXT: งานวิจัยแบบจำกัดเวลาพรีเมียม: คู่มือสู่ธรรมชาติ (2/5)
 
 RESOURCE ID: ready_for_the_wild_tr_3
-TEXT: Ready for the Wild Premium Timed Research (3/5)
+TEXT: งานวิจัยแบบจำกัดเวลาพรีเมียม: คู่มือสู่ธรรมชาติ (3/5)
 
 RESOURCE ID: ready_for_the_wild_tr_4
-TEXT: Ready for the Wild Premium Timed Research (4/5)
+TEXT: งานวิจัยแบบจำกัดเวลาพรีเมียม: คู่มือสู่ธรรมชาติ (4/5)
 
 RESOURCE ID: ready_for_the_wild_tr_5
-TEXT: Ready for the Wild Premium Timed Research (5/5)
+TEXT: งานวิจัยแบบจำกัดเวลาพรีเมียม: คู่มือสู่ธรรมชาติ (5/5)
 
 RESOURCE ID: ready_for_the_wild_tr_title
-TEXT: Ready for the Wild
+TEXT: คู่มือสู่ธรรมชาติ
 
-RESOURCE ID: s_pinap_g_razz_pokestop_drop_bonus
-TEXT: อาจได้รับผลไพน์สีเงินหรือผลราสสีทองจากการหมุนเสาโปเกสต็อปหรือยิม
+RESOURCE ID: rewarded_spend_helpshift_blog_url
+TEXT: https://pokemongo.com/news/go-pass-october-2025#rewardroad
 
 RESOURCE ID: sableye_drop_mega_energy
 TEXT: เมื่อจับยามิรามิ อาจได้รับพลังงานเมก้าของยามิรามิ
-
-RESOURCE ID: season20_keldeo_story_dialogue_0_0
-TEXT: สวัสดี %PLAYERNAME%! ฉันมีเรื่องเล่าน่าทึ่ง
-เกี่ยวกับโปเกมอนม้ารุ่น เคลดิโอ
-มาเล่าให้เธอฟังด้วย
-
-RESOURCE ID: season20_keldeo_story_dialogue_0_1
-TEXT: เธออาจจะเคยได้ยินมาแล้ว แต่ทบทวนสักหน่อยก็ไม่เสียหาย!
-
-RESOURCE ID: season20_keldeo_story_dialogue_0_2
-TEXT: เคลดิโอร่ำเรียนการต่อสู้มาจากโคบัลออน
-เทราคิออนและวิริซิออน
-มันวิ่งทะยานไปทั่วโลกเพื่อฝึกตนต่อไป
-
-RESOURCE ID: season20_keldeo_story_dialogue_0_3
-TEXT: ฟังดูเหมือนเทรนเนอร์สักคนที่ฉันรู้จักเลย...
-แถมฉันยังได้ข่าวดีมาด้วย มีรายงานการพบเห็น
-เคลดิโอในพื้นที่! ออกไปตามหาดูสิ
-เรื่องราวบทถัดไปได้เริ่มขึ้นแล้ว!
-
-RESOURCE ID: season20_keldeo_story_dialogue_1_0
-TEXT: %PLAYERNAME% ดีใจที่ได้เห็นเธออยู่
-พร้อมหน้ากับเคลดิโอนะ! รายงานของฉัน
-ระบุว่า เคลดิโอมีพลังที่แท้จริงซึ่งยังหลับใหลอยู่!
-
-RESOURCE ID: season20_keldeo_story_dialogue_1_1
-TEXT: เหมือนกับที่ครั้งหนึ่งโคบัลออน เทราคิออน
-และวิริซิออนได้เคยช่วยนำทางเคลดิโอ
-คราวนี้เป็นตาของเธอที่จะต้องช่วยให้มัน
-เติบโตและค้นพบศักยภาพอันยิ่งใหญ่ของตัวเอง
-
-RESOURCE ID: season20_keldeo_story_dialogue_1_2
-TEXT: การฝึกกับโปเกมอนที่น่าทึ่งอย่างเคลดิโอ
-ยังช่วยให้เธอพัฒนาทักษะของตัวเองด้วย!
-
-RESOURCE ID: season20_keldeo_story_dialogue_1_3
-TEXT: ระหว่างที่เธอควบออกไปผจญภัย ฉันก็จะรวบรวมข้อมูลต่อไปนะ!
-
-RESOURCE ID: season20_keldeo_story_dialogue_2_0
-TEXT: ไง %PLAYERNAME%!
-ออกไปผจญภัยกับเคลดิโอมาเป็นยังไงบ้าง
-เคยเห็นมันพ่นน้ำออกมาจากกีบหรือยัง?
-
-RESOURCE ID: season20_keldeo_story_dialogue_2_1
-TEXT: การพ่นน้ำออกมาจากกีบทำให้มันเคลื่อนที่
-ไปบนผิวน้ำได้ราวกับลื่นไถล
-ไม่จำเป็นต้องใช้เรือเลยล่ะ
-
-RESOURCE ID: season20_keldeo_story_dialogue_2_2
-TEXT: การผจญภัยไปกับเธอคงช่วยให้มัน
-เชี่ยวชาญทักษะนี้ และยังช่วยให้พลัง
-ที่หลับใหลในตัวของมันใกล้ตื่นขึ้นด้วย!
-
-RESOURCE ID: season20_keldeo_story_dialogue_2_3
-TEXT: ลุยต่อไปแบบนั้นแหละ %PLAYERNAME%
-อีกเดี๋ยวเธอก็จะได้เห็นพลังที่น่าทึ่งแล้ว!
-
-RESOURCE ID: season20_keldeo_story_dialogue_3_0
-TEXT: ยินดีต้อนรับกลับมานะ %PLAYERNAME%!
-
-RESOURCE ID: season20_keldeo_story_dialogue_3_1
-TEXT: เธอน่าจะรู้อยู่แล้วว่าเคลดิโอมีสองประเภท
-คือประเภทน้ำและต่อสู้! การจับคู่ที่หายากนี้
-ทำให้เคลดิโอต่อสู้ได้อย่างเก่งกาจจนน่าทึ่ง
-
-RESOURCE ID: season20_keldeo_story_dialogue_3_2
-TEXT: มีโปเกมอนน้อยตัวนักที่จะสามารถใช้ท่าเคลื่อนที่
-ไปบนผิวน้ำได้ราวกับลื่นไถลและใช้ท่าต่อสู้
-ได้อย่างดิบเถื่อนเช่นเคลดิโอ
-
-RESOURCE ID: season20_keldeo_story_dialogue_3_3
-TEXT: การจะดึงศักยภาพสูงสุดของมันออกมา
-ต้องมีความเข้าใจเกี่ยวกับเรื่องประเภทเหล่านั้น
-และเอามาใช้ให้เกิดประโยชน์ ฝากด้วยล่ะ!
 
 RESOURCE ID: season20_keldeo_story_dialogue_4_0
 TEXT: ไง เจอกันอีกแล้วนะ %PLAYERNAME%!
@@ -3433,15 +3555,6 @@ TEXT: {0}อัปเกรดจนถึงขีดจำกัดแล้�
 
 <a href="https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/3049-available-items-your-bag/">เรียนรู้เพิ่มเติมเกี่ยวกับการเลเวลอัปได้ที่นี่</a>
 
-RESOURCE ID: shop_quick_wild_balls_get_them_here
-TEXT: โปเกมอนทรงพลังนั้นแข็งแกร่งมาก แนะนำให้ใช้ซาฟารีบอล GO ในการจับ
-
-RESOURCE ID: shop_quick_wild_balls_title
-TEXT: คุณไม่มีซาฟารีบอล GO!
-
-RESOURCE ID: spawn_solosis
-TEXT: ยูนิรันปรากฏตัวออกมามากขึ้น!
-
 RESOURCE ID: special_egg_bonus
 TEXT: โบนัสไข่รายวัน
 
@@ -3461,113 +3574,122 @@ RESOURCE ID: special_egg_xp_description
 TEXT: เดินเพื่อฟักไข่ จะได้รับ {0} XP!
 
 RESOURCE ID: sr_gowa2025_global_dark_2
-TEXT: GO Wild Area 2025: Path to Mastery – Dark (2/6)
+TEXT: GO ไวลด์แอเรีย 2025: ผู้เชี่ยวชาญความมืด (2/6)
 
 RESOURCE ID: sr_gowa2025_global_dark_3
-TEXT: GO Wild Area 2025: Path to Mastery – Dark (3/6)
+TEXT: GO ไวลด์แอเรีย 2025: ผู้เชี่ยวชาญความมืด (3/6)
 
 RESOURCE ID: sr_gowa2025_global_dark_4
-TEXT: GO Wild Area 2025: Path to Mastery – Dark (4/6)
+TEXT: GO ไวลด์แอเรีย 2025: ผู้เชี่ยวชาญความมืด (4/6)
 
 RESOURCE ID: sr_gowa2025_global_dark_5
-TEXT: GO Wild Area 2025: Path to Mastery – Dark (5/6)
+TEXT: GO ไวลด์แอเรีย 2025: ผู้เชี่ยวชาญความมืด (5/6)
 
 RESOURCE ID: sr_gowa2025_global_dark_6
-TEXT: GO Wild Area 2025: Path to Mastery – Dark (6/6)
+TEXT: GO ไวลด์แอเรีย 2025: ผู้เชี่ยวชาญความมืด (6/6)
 
 RESOURCE ID: sr_gowa2025_global_dark_title
-TEXT: GO Wild Area 2025: Path to Mastery – Dark
+TEXT: GO ไวลด์แอเรีย 2025: ผู้เชี่ยวชาญความมืด
 
 RESOURCE ID: sr_gowa2025_global_fairy_2
-TEXT: GO Wild Area 2025: Path to Mastery – Fairy (2/6)
+TEXT: GO ไวลด์แอเรีย 2025: ผู้เชี่ยวชาญแฟรี่ (2/6)
 
 RESOURCE ID: sr_gowa2025_global_fairy_3
-TEXT: GO Wild Area 2025: Path to Mastery – Fairy (3/6)
+TEXT: GO ไวลด์แอเรีย 2025: ผู้เชี่ยวชาญแฟรี่ (3/6)
 
 RESOURCE ID: sr_gowa2025_global_fairy_4
-TEXT: GO Wild Area 2025: Path to Mastery – Fairy (4/6)
+TEXT: GO ไวลด์แอเรีย 2025: ผู้เชี่ยวชาญแฟรี่ (4/6)
 
 RESOURCE ID: sr_gowa2025_global_fairy_5
-TEXT: GO Wild Area 2025: Path to Mastery – Fairy (5/6)
+TEXT: GO ไวลด์แอเรีย 2025: ผู้เชี่ยวชาญแฟรี่ (5/6)
 
 RESOURCE ID: sr_gowa2025_global_fairy_6
-TEXT: GO Wild Area 2025: Path to Mastery – Fairy (6/6)
+TEXT: GO ไวลด์แอเรีย 2025: ผู้เชี่ยวชาญแฟรี่ (6/6)
 
 RESOURCE ID: sr_gowa2025_global_fairy_title
-TEXT: GO Wild Area 2025: Path to Mastery – Fairy
+TEXT: GO ไวลด์แอเรีย 2025: ผู้เชี่ยวชาญแฟรี่
 
 RESOURCE ID: sr_gowa2025_global_quest_branch_dark_description
-TEXT: Choose this path to become an accomplished Dark-type Trainer. Tasks will be focused on catching, powering up, and evolving Dark-type Pokémon. Completing this research awards the Dark Detective medal!
+TEXT: เลือกเส้นทางนี้เพื่อมุ่งสู่การเป็นยอดฝีมือประเภทความมืด ภารกิจจะเน้นไปที่การจับ, การพาวเวอร์อัป และการวิวัฒนาการโปเกมอนประเภทความมืด เมื่อเสร็จสิ้นเส้นทางนี้จะได้รับเหรียญรางวัลผู้ชำนาญด้านความมืด
+
+RESOURCE ID: sr_gowa2025_global_quest_branch_dark_title
+TEXT: ความมืด
 
 RESOURCE ID: sr_gowa2025_global_quest_branch_fairy_description
-TEXT: Choose this path to become an accomplished Fairy-type Trainer. Tasks will be focused on catching, powering up, and evolving Fairy-type Pokémon. Completing this research awards the Fairy Fanatic medal!
+TEXT: เลือกเส้นทางนี้เพื่อมุ่งสู่การเป็นยอดฝีมือประเภทแฟรี่ ภารกิจจะเน้นไปที่การจับ, การพาวเวอร์อัป และการวิวัฒนาการโปเกมอนประเภทแฟรี่ เมื่อเสร็จสิ้นเส้นทางนี้จะได้รับเหรียญรางวัลผู้คลั่งไคล้ด้านแฟรี่
+
+RESOURCE ID: sr_gowa2025_global_quest_branch_fairy_title
+TEXT: แฟรี่
+
+RESOURCE ID: sr_gowa2025_global_title
+TEXT: GO ไวลด์แอเรีย 2025: การเริ่มต้น (1/6)
 
 RESOURCE ID: sr_gowa2025_irl
-TEXT: GO Wild Area: Nagasaki – Fairy Tales and Wild Trails
+TEXT: GO ไวลด์แอเรีย: เส้นทางนางาซากิ
 
 RESOURCE ID: sr_gowa2025_irl_1
-TEXT: GO Wild Area: Nagasaki – Fairy Tales and Wild Trails (1/6)
+TEXT: GO ไวลด์แอเรีย: เส้นทางนางาซากิ (1/6)
 
 RESOURCE ID: sr_gowa2025_irl_2
-TEXT: GO Wild Area: Nagasaki – Fairy Tales and Wild Trails (2/6)
+TEXT: GO ไวลด์แอเรีย: เส้นทางนางาซากิ (2/6)
 
 RESOURCE ID: sr_gowa2025_irl_3
-TEXT: GO Wild Area: Nagasaki – Fairy Tales and Wild Trails (3/6)
+TEXT: GO ไวลด์แอเรีย: เส้นทางนางาซากิ (3/6)
 
 RESOURCE ID: sr_gowa2025_irl_4
-TEXT: GO Wild Area: Nagasaki – Fairy Tales and Wild Trails (4/6)
+TEXT: GO ไวลด์แอเรีย: เส้นทางนางาซากิ (4/6)
 
 RESOURCE ID: sr_gowa2025_irl_5
-TEXT: GO Wild Area: Nagasaki – Fairy Tales and Wild Trails (5/6)
+TEXT: GO ไวลด์แอเรีย: เส้นทางนางาซากิ (5/6)
 
 RESOURCE ID: sr_gowa2025_irl_6
-TEXT: GO Wild Area: Nagasaki – Fairy Tales and Wild Trails (6/6)
+TEXT: GO ไวลด์แอเรีย: เส้นทางนางาซากิ (6/6)
 
 RESOURCE ID: stamp_mini_game_locked_instruction
-TEXT: Go to this location when you’ve collected all the other stamps!
+TEXT: ไปที่สถานที่นี้ หลังจากสะสมแสตมป์อื่นทั้งหมดครบแล้ว!
 
-RESOURCE ID: steel_skyline_event_name
-TEXT: ขอบฟ้าเหล็กกล้า
+RESOURCE ID: stamp_page_tutorial_page_4_header
+TEXT: สะสมแสตมป์แล้วรับรางวัล!
 
-RESOURCE ID: steel_skyline_free_tr_name
-TEXT: งานวิจัยแบบจำกัดเวลาขอบฟ้าเหล็กกล้า
+RESOURCE ID: stamp_rally_locked_stamp_explanation_plural
+TEXT: คุณสามารถสะสมแสตมป์เหล่านี้ได้ หลังจากสะสมแสตมป์อื่นทั้งหมดครบแล้ว
 
-RESOURCE ID: steel_skyline_paid_tr_name
-TEXT: งานวิจัยแบบจำกัดเวลาพรีเมียม: ขอบฟ้าเหล็กกล้า
+RESOURCE ID: stamp_rally_locked_stamp_explanation_singlular
+TEXT: คุณสามารถสะสมแสตมป์นี้ได้ หลังจากสะสมแสตมป์อื่นทั้งหมดครบแล้ว
 
-RESOURCE ID: steel_skyline_tier1_reward
-TEXT: รางวัลคำท้าสำหรับทั่วโลกขอบฟ้าเหล็กกล้า Tier 1
+RESOURCE ID: stamp_rally_locked_stamp_label_plural
+TEXT: แสตมป์สุดท้าย
 
-RESOURCE ID: steel_skyline_tier2_reward
-TEXT: รางวัลคำท้าสำหรับทั่วโลกขอบฟ้าเหล็กกล้า Tier 2
-
-RESOURCE ID: steel_skyline_tier3_reward
-TEXT: รางวัลคำท้าสำหรับทั่วโลกขอบฟ้าเหล็กกล้า Tier 3
+RESOURCE ID: stamp_rally_locked_stamp_label_singlular
+TEXT: แสตมป์สุดท้าย
 
 RESOURCE ID: strong_encounter_tutorial_message
-TEXT: Pokémon GO Wild Area ticket bonuses include more opportunities to receive GO Safari Balls.
+TEXT: ตั๋ว Pokémon GO ไวลด์แอเรียนั้นมีซาฟารีบอล GO โบนัสรวมอยู่ด้วย
 
 RESOURCE ID: strong_encounter_tutorial_title
-TEXT: Get more GO Safari Balls with a GO Wild Area ticket!
+TEXT: วิธีรับซาฟารีบอล GO เพิ่ม
 
 RESOURCE ID: tapubulu_special_move_bonus
-TEXT: Tapu Bulu caught during the event will know the Charged Attack Nature’s Madness
+TEXT: คาปู บูลูลูที่ถูกจับในระหว่างอีเวนต์นี้จะรู้ท่าโจมตีชาร์จ "ธรรมชาติพิโรธ" ด้วย!
 
 RESOURCE ID: tapufini_special_move_bonus
-TEXT: Tapu Fini caught during the event will know the Charged Attack Nature’s Madness
+TEXT: คาปู เรฮิเรที่ถูกจับในระหว่างอีเวนต์นี้จะรู้ท่าโจมตีชาร์จ "ธรรมชาติพิโรธ" ด้วย!
 
 RESOURCE ID: tapukoko_special_move_bonus
-TEXT: Tapu Koko caught during the event will know the Charged Attack Nature’s Madness
+TEXT: คาปู โคเคโคที่ถูกจับในระหว่างอีเวนต์นี้จะรู้ท่าโจมตีชาร์จ "ธรรมชาติพิโรธ" ด้วย!
 
 RESOURCE ID: tapulele_special_move_bonus
-TEXT: Tapu Lele caught during the event will know the Charged Attack Nature’s Madness
+TEXT: คาปู เทเทฟูที่ถูกจับในระหว่างอีเวนต์นี้จะรู้ท่าโจมตีชาร์จ "ธรรมชาติพิโรธ" ด้วย!
 
-RESOURCE ID: text_rewards_key_cd_solosis25
+RESOURCE ID: text_rewards_key_enchanted_hollow_nov25
 TEXT: <b>รางวัลที่จะได้รับ:</b>
-- ไอเท็มภายในเกม เช่น บัตรแบตเทิลพรีเมียม
-TM ท่าชาร์จ และลูกอมประหลาด
-- การเผชิญหน้ากับยูนิรันที่มีพื้นหลังพิเศษ
-และอื่น ๆ
+- การเผชิญหน้ากับพารัส โอโดชิชิ จิจีลอน และทามันทูล่า
+- เครื่องหอม 2 ชิ้น
+- อุปกรณ์ปล่อยลัวร์มอส 1 ชิ้น
+- ไข่แห่งความสุข 3 ชิ้น
+- และอื่น ๆ
+
+พารัสและโอโดชิชิที่พบในรางวัลเผชิญหน้าจากงานวิจัยนี้และภารกิจงานวิจัยอื่น ๆ จะมีโอกาสเป็นโปเกมอนสีแตกต่างสูงขึ้น
 
 RESOURCE ID: text_rewards_key_gmaxgarbodor25
 TEXT: <b>สิ่งที่จะได้รับ:</b>
@@ -3586,16 +3708,6 @@ TEXT: <b>สิ่งที่จะได้รับ:</b>
 - โอกาสในการเผชิญหน้ากับโปเกมอนสีแตกต่างจะเพิ่มขึ้นในระหว่างอีเวนต์
 
 เรียนรู้เพิ่มเติมเกี่ยวกับโบนัสตั๋วได้<a href="https://pokemongo.com/gowildarea/global">ที่นี่</a>
-
-RESOURCE ID: text_rewards_key_harvestfestival_oct25
-TEXT: <b>รางวัลที่จะได้รับ:</b>
-- การเผชิญหน้ากับคาจิชชู
-- อุปกรณ์ปล่อยลัวร์มอส 3 ชิ้น
-- ผลไพน์สีเงิน 30 ชิ้น
-- ผลไพน์ 30 ชิ้น
-- แอปเปิลไส้น้ำหวาน 4 ชิ้น
-- ลูกอมคาจิชชู 30 เม็ด
-- 5,000 สตาร์ดัสต์
 
 RESOURCE ID: text_rewards_key_megametagrossraidday
 TEXT: <b>โบนัสที่จะได้รับ:</b>
@@ -3619,20 +3731,11 @@ TEXT: <b>รางวัลที่จะได้รับ:</b>
 - เพิ่มโอกาสได้รับลูกอมประหลาด XL จากตีบอส
 - เพิ่ม XP 50% และ 2× สตาร์ดัสต์เมื่อตีบอสเสร็จสิ้น
 
-RESOURCE ID: text_rewards_key_steelskyline0925
-TEXT: <b>รางวัลที่จะได้รับ:</b>
-- การเผชิญหน้ากับเนียส (ร่างกาลาร์) และดิวรัลดอนไดแมกซ์
-- 800 อนุภาคแมกซ์
-- 3,000 สตาร์ดัสต์
-
-RESOURCE ID: ticket_solosis_cd
-TEXT: สามารถซื้อตั๋วสำหรับงานวิจัยพิเศษ "ยูนิรันคอมมิวนิตี้เดย์" ได้ที่ร้านค้า
-
 RESOURCE ID: timed_research_event
 TEXT: งานวิจัยแบบจำกัดเวลาธีมอีเวนต์ใช้งานได้แล้ว
 
 RESOURCE ID: today_view_field_research_section_title
-TEXT: Field Research
+TEXT: งานวิจัยภาคสนาม
 
 RESOURCE ID: tr_apac2025_fullmoon_desc
 TEXT: งานวิจัยแบบจำกัดเวลาเต้นรำชมจันทร์
@@ -3643,11 +3746,20 @@ TEXT: งานวิจัยแบบจำกัดเวลาเต้น�
 RESOURCE ID: tr_apac2025_fullmoon_title_01
 TEXT: งานวิจัยแบบจำกัดเวลาเต้นรำชมจันทร์ (2/2)
 
+RESOURCE ID: tr_gowa2025_irl_shadow_lc_1
+TEXT: ช่วยเหลือชาโดว์ (1/2)
+
+RESOURCE ID: tr_gowa2025_irl_shadow_lc_2
+TEXT: ช่วยเหลือชาโดว์ (2/2)
+
+RESOURCE ID: tr_gowa2025_irl_shadow_lc_title
+TEXT: ช่วยเหลือชาโดว์
+
 RESOURCE ID: tr_gowa2025_poi_dark
-TEXT: A Wild Pursuit – Dark
+TEXT: ไวลด์ & ดาร์กสปิน
 
 RESOURCE ID: tr_gowa2025_poi_fairy
-TEXT: A Wild Pursuit – Fairy
+TEXT: ไวลด์ & แฟรี่สปิน
 
 RESOURCE ID: tr_tw2025_amusementpark_header_00
 TEXT: งานวิจัยแบบจำกัดเวลาแสตมป์แรลลี Taipei Children’s Amusement Park (1/3)
@@ -3742,13 +3854,13 @@ RESOURCE ID: weekly_challenges_skip_button
 TEXT: ข้าม
 
 RESOURCE ID: weekly_challenges_today_view_pending_invite_multiple
-TEXT: {0} pending invites
+TEXT: คำเชิญที่รอดำเนินการ {0} รายการ
 
 RESOURCE ID: weekly_challenges_today_view_pending_invite_single
-TEXT: 1 pending invite
+TEXT: คำเชิญที่รอดำเนินการ 1 รายการ
 
 RESOURCE ID: weekly_challenges_today_view_pending_invite_title
-TEXT: New Weekly Challenge!
+TEXT: คำท้ารายสัปดาห์ใหม่!
 
 RESOURCE ID: welcome_level_up_faster_desc
 TEXT: เพิ่มขีดจำกัดเลเวลสูงสุด พร้อมกับ
@@ -3769,24 +3881,6 @@ TEXT: ใช้บัตรตีบอสระยะไกลเพื่อ�
 
 RESOURCE ID: welcome_remote_raid_name
 TEXT: เข้าร่วมตีบอสจากระยะไกล
-
-RESOURCE ID: wild_ball_tutorial_message_1
-TEXT: บอลพิเศษที่มีประสิทธิภาพสูงมาก สามารถใช้ได้เฉพาะในช่วงอีเวนต์ "GO ไวลด์แอเรีย" เท่านั้น
-
-RESOURCE ID: wild_ball_tutorial_message_2
-TEXT: รับได้จากการหมุนแผ่นภาพที่เสาโปเกสต็อปและยิมในช่วงอีเวนต์ "GO ไวลด์แอเรีย"
-
-RESOURCE ID: wild_ball_tutorial_message_3
-TEXT: ใน "GO ไวลด์แอเรีย" มี "โปเกมอนทรงพลัง" ที่แข็งแกร่งมากอยู่ ตอนเผชิญหน้ากับมันให้ใช้ซาฟารีบอล GO จับเลย
-
-RESOURCE ID: wild_ball_tutorial_title_1
-TEXT: คุณได้รับซาฟารีบอล GO แล้ว!
-
-RESOURCE ID: wild_ball_tutorial_title_2
-TEXT: หาเพิ่มได้จากที่ไหน?
-
-RESOURCE ID: wild_ball_tutorial_title_3
-TEXT: ขว้างใส่โปเกมอนทรงพลัง
 
 RESOURCE ID: yokohama_7a63
 TEXT: 
@@ -3811,3 +3905,4 @@ TEXT: อีเวนต์ฉลอง Pokemon Legends: Z-A, โบนัสเ
 
 RESOURCE ID: z_a_collab_event_title_totodile
 TEXT: อีเวนต์ฉลอง Pokemon Legends: Z-A, โบนัสเพิ่มเติม: วานิโนโกะ
+
