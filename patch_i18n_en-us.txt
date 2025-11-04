@@ -1,17 +1,11 @@
 RESOURCE ID: additional_candy_raid_singular
-TEXT: One additional Candy for completing Raid Battles
+TEXT: One additional Candy from raids
 
-RESOURCE ID: apac2025_fullmoon_clefairy_o_clock_desc_1
-TEXT: During the event, Clefairy will appear at 1:00 p.m. and 7:00 p.m. every day!
+RESOURCE ID: allow_stamp_from_gift_settings_desc
+TEXT: You will no longer receive Poké Lid stamps from Gifts.
 
-RESOURCE ID: apac2025_fullmoon_clefairy_o_clock_desc_2
-TEXT: Clefairy are now appearing in large numbers!
-
-RESOURCE ID: apac2025_fullmoon_clefairy_o_clock_title
-TEXT: Clefairy are coming!
-
-RESOURCE ID: apac2025_fullmoon_title
-TEXT: Dancing in the Moonlight
+RESOURCE ID: allow_stamp_from_gift_settings_title
+TEXT: Are you sure you want to stop receiving stamps from Gifts?
 
 RESOURCE ID: avatar_n_glasses_lvl73-visorspecs_0
 TEXT: Level 73 Shades
@@ -24,15 +18,6 @@ TEXT: Great Ball Cap
 
 RESOURCE ID: avatar_n_hat_pokeballitems-ultra_0
 TEXT: Ultra Ball Cap
-
-RESOURCE ID: avatar_n_hat_polteageist
-TEXT: Polteageist Hat
-
-RESOURCE ID: avatar_n_hat_zacostume_a
-TEXT: Lumiose City Hat (White)
-
-RESOURCE ID: avatar_n_hat_zacostume_b
-TEXT: Lumiose City Hat (Black)
 
 RESOURCE ID: avatar_n_pants_lvl75-techtrousers_0
 TEXT: Level 75 Pants
@@ -58,12 +43,6 @@ TEXT: Great Ball Jacket
 RESOURCE ID: avatar_n_shirt_pokeballitems-ultra_0
 TEXT: Ultra Ball Jacket
 
-RESOURCE ID: avatar_n_shirt_zacostume_a
-TEXT: Lumiose City Outfit (Relaxed)
-
-RESOURCE ID: avatar_n_shirt_zacostume_b
-TEXT: Lumiose City Outfit (Fitted)
-
 RESOURCE ID: avatar_n_shoes_lvl71-cyberkicks_0
 TEXT: Level 71 Shoes
 
@@ -76,12 +55,6 @@ TEXT: Great Ball Shoes
 RESOURCE ID: avatar_n_shoes_pokeballitems-ultra_0
 TEXT: Ultra Ball Shoes
 
-RESOURCE ID: avatar_n_shoes_zacostume_a
-TEXT: Lumiose City Shoes (Blue)
-
-RESOURCE ID: avatar_n_shoes_zacostume_b
-TEXT: Lumiose City Shoes (Red)
-
 RESOURCE ID: avatar_pose_exploration
 TEXT: Level 77 Pose
 
@@ -90,9 +63,6 @@ TEXT: Level 50 Medal Pose
 
 RESOURCE ID: avatar_pose_pokeballbuddy
 TEXT: GO Wild Area 2025 Pose
-
-RESOURCE ID: avatar_pose_teacup
-TEXT: Teatime Pose
 
 RESOURCE ID: badge_smores_00
 TEXT: Achieved level {0} by October 15, 2025.
@@ -106,45 +76,11 @@ TEXT: Achieved level 50 by October 15, 2025.
 RESOURCE ID: badge_smores_01_title
 TEXT: Legacy 50
 
-RESOURCE ID: bonus_dai_boost_chikorita
-TEXT: Increased chance of attracting Chikorita with Daily Adventure Incense
+RESOURCE ID: bonus_clefairy_special_background
+TEXT: Field Research in the area may award an encounter with Clefairy with a Special Background
 
-RESOURCE ID: bonus_dai_boost_tepig
-TEXT: Increased chance of attracting Tepig with Daily Adventure Incense
-
-RESOURCE ID: bonus_dai_boost_totodile
-TEXT: Increased chance of attracting Totodile with Daily Adventure Incense
-
-RESOURCE ID: bonus_dai_clefairy
-TEXT: Daily Adventure Incense may attract Clefairy!
-
-RESOURCE ID: bonus_event_move_emboar
-TEXT: Evolve Pignite to get an Emboar that knows the Charged Attack Blast Burn!
-
-RESOURCE ID: bonus_event_move_meganium
-TEXT: Evolve Bayleef to get a Meganium that knows the Charged Attack Frenzy Plant!
-
-RESOURCE ID: bonus_event_stamp_rally_introduce_tw2025
-TEXT: A GO Stamp Rally is taking place at Taipei Children’s Amusement Park in Taipei, Taiwan!
-This event runs from October 21 to November 16. This is your chance to get Lapras wearing a scarf with a special Location Background!
-
-RESOURCE ID: bonus_increased_mega_raid_percent
-TEXT: Higher chance of Mega Raids appearing
-
-RESOURCE ID: bonus_tr_gbl_championships_2026_a_desc
-TEXT: Ancient Power Bonus Timed Research
-
-RESOURCE ID: bonus_tr_gbl_championships_2026_a_title
-TEXT: Ancient Power Bonus Timed Research
-
-RESOURCE ID: bundle.midautumn.incubator
-TEXT: Dancing in the Moonlight Incubator Box
-
-RESOURCE ID: bundle.midautumn.maxparticle
-TEXT: Dancing in the Moonlight Max Particle Box
-
-RESOURCE ID: bundle.midautumn.raid
-TEXT: Dancing in the Moonlight Raid Box
+RESOURCE ID: city_manhole_1(ibusuki)
+TEXT: Ibusuki
 
 RESOURCE ID: city_manhole_100_c0f4
 TEXT: Machida
@@ -359,9 +295,6 @@ TEXT: Mimata
 RESOURCE ID: city_manhole_163_8d7a
 TEXT: Kyoto
 
-RESOURCE ID: city_manhole_163_temp
-TEXT: Mimata
-
 RESOURCE ID: city_manhole_164_dc9d
 TEXT: Takanabe
 
@@ -481,6 +414,9 @@ TEXT: Higashiosaka
 
 RESOURCE ID: city_manhole_19_b579
 TEXT: Tonosho
+
+RESOURCE ID: city_manhole_2(ibusuki)
+TEXT: Ibusuki
 
 RESOURCE ID: city_manhole_200_20c4
 TEXT: Higashiosaka
@@ -812,6 +748,9 @@ TEXT: Tottori
 RESOURCE ID: city_manhole_29_b46c
 TEXT: Sumita
 
+RESOURCE ID: city_manhole_3(ibusuki)
+TEXT: Ibusuki
+
 RESOURCE ID: city_manhole_300_b965
 TEXT: Kanazawa
 
@@ -1061,6 +1000,21 @@ TEXT: Kagamiishi
 RESOURCE ID: city_manhole_4(ibusuki)_d64e
 TEXT: Ibusuki
 
+RESOURCE ID: city_manhole_421
+TEXT: Chatan
+
+RESOURCE ID: city_manhole_422
+TEXT: Zamami
+
+RESOURCE ID: city_manhole_423
+TEXT: Tokashiki
+
+RESOURCE ID: city_manhole_424
+TEXT: Kumejima
+
+RESOURCE ID: city_manhole_426
+TEXT: Higashisonogi
+
 RESOURCE ID: city_manhole_44_4580
 TEXT: Kesennuma
 
@@ -1079,14 +1033,14 @@ TEXT: Higashimatsushima
 RESOURCE ID: city_manhole_49_38b6
 TEXT: Matsushima
 
+RESOURCE ID: city_manhole_5(ibusuki)
+TEXT: Ibusuki
+
 RESOURCE ID: city_manhole_50_3a01
 TEXT: Shiogama
 
 RESOURCE ID: city_manhole_51_bb09
 TEXT: Rifu
-
-RESOURCE ID: city_manhole_52
-TEXT: Shichigahama
 
 RESOURCE ID: city_manhole_52_ade5
 TEXT: Shigahama
@@ -1103,9 +1057,6 @@ TEXT: Natori
 RESOURCE ID: city_manhole_56_7d3f
 TEXT: Iwanuma
 
-RESOURCE ID: city_manhole_57
-TEXT: Watari
-
 RESOURCE ID: city_manhole_57_7b37
 TEXT: Watori
 
@@ -1114,6 +1065,9 @@ TEXT: Yamamoto
 
 RESOURCE ID: city_manhole_59_00b5
 TEXT: Ishikari
+
+RESOURCE ID: city_manhole_6(ibusuki)
+TEXT: Ibusuki
 
 RESOURCE ID: city_manhole_60_b0e4
 TEXT: Eniwa
@@ -1148,6 +1102,9 @@ TEXT: Monbetsu
 RESOURCE ID: city_manhole_6_594a
 TEXT: Hirono
 
+RESOURCE ID: city_manhole_7(ibusuki)
+TEXT: Ibusuki
+
 RESOURCE ID: city_manhole_70_2346
 TEXT: Engaru
 
@@ -1180,6 +1137,9 @@ TEXT: Wakasa
 
 RESOURCE ID: city_manhole_7_057d
 TEXT: Noda
+
+RESOURCE ID: city_manhole_8(ibusuki)
+TEXT: Ibusuki
 
 RESOURCE ID: city_manhole_80_6936
 TEXT: Misasa
@@ -1214,6 +1174,9 @@ TEXT: Soma
 RESOURCE ID: city_manhole_8_ec1c
 TEXT: Tanohata
 
+RESOURCE ID: city_manhole_9(ibusuki)
+TEXT: Ibusuki
+
 RESOURCE ID: city_manhole_90_3800
 TEXT: Minamisoma
 
@@ -1246,6 +1209,36 @@ TEXT: Machida
 
 RESOURCE ID: city_manhole_9_ed48
 TEXT: Otsuchi
+
+RESOURCE ID: city_manhole_iki
+TEXT: Iki
+
+RESOURCE ID: city_manhole_naha
+TEXT: Naha
+
+RESOURCE ID: city_manhole_saza
+TEXT: Saza
+
+RESOURCE ID: city_manhole_shimabara
+TEXT: Shimabara
+
+RESOURCE ID: city_manhole_togitsu
+TEXT: Togitsu
+
+RESOURCE ID: combat_description_season_21
+TEXT: Dates and times below are listed in local time.
+
+RESOURCE ID: combat_description_season_22
+TEXT: Dates and times below are listed in local time.
+
+RESOURCE ID: combat_description_season_23
+TEXT: Dates and times below are listed in local time.
+
+RESOURCE ID: combat_description_season_24
+TEXT: Dates and times below are listed in local time.
+
+RESOURCE ID: combat_description_season_25
+TEXT: Dates and times below are listed in local time.
 
 RESOURCE ID: em_ddm_2025_bonus_cubone_tr_desc_title_00
 TEXT: Día de Muertos: Cubone Timed Research (1/1)
@@ -1280,47 +1273,20 @@ TEXT: Día de Muertos: Phantump Timed Research (1/1)
 RESOURCE ID: em_ddm_2025_bonus_sunflora_tr_desc_title_00
 TEXT: Día de Muertos: Sunflora Timed Research (1/1)
 
-RESOURCE ID: em_diwali_2025_collection_challenge
-TEXT: Festival of Lights 2025 Collection Challenge
+RESOURCE ID: em_ddm_2025_collection_challenge_01
+TEXT: Día de Muertos 2025: Cubone Collection Challenge
 
-RESOURCE ID: em_diwali_2025_event_title
-TEXT: Festival of Lights 2025
+RESOURCE ID: em_ddm_2025_collection_challenge_02
+TEXT: Día de Muertos 2025: Duskull Collection Challenge
 
-RESOURCE ID: em_diwali_2025_tr_desc_title_00
-TEXT: Festival of Lights 2025 Timed Research (1/3)
+RESOURCE ID: em_ddm_2025_event_title
+TEXT: Día de Muertos 2025
 
-RESOURCE ID: em_diwali_2025_tr_desc_title_01
-TEXT: Festival of Lights 2025 Timed Research (2/3)
+RESOURCE ID: em_ddm_2025_tr_desc_title_00
+TEXT: Día de Muertos 2025 Timed Research (1/1)
 
-RESOURCE ID: em_diwali_2025_tr_desc_title_02
-TEXT: Festival of Lights 2025 Timed Research (3/3)
-
-RESOURCE ID: em_diwali_2025_tr_dialog_00
-TEXT: Hey, %PLAYERNAME%! It’s time to celebrate. Choose a new friend to start your adventure!
-
-RESOURCE ID: em_diwali_2025_tr_path_a
-TEXT: Choose Pikachu wearing a kurta
-
-RESOURCE ID: em_diwali_2025_tr_path_a_desc
-TEXT: Choose this path for an encounter with Pikachu wearing a kurta, plus rewards including stickers and a Premium Battle Pass!
-
-RESOURCE ID: em_diwali_2025_tr_path_b
-TEXT: Choose Pikachu wearing a saree
-
-RESOURCE ID: em_diwali_2025_tr_path_b_desc
-TEXT: Choose this path for an encounter with Pikachu wearing a saree, plus rewards including stickers and a Premium Battle Pass!
-
-RESOURCE ID: em_diwali_2025_tr_title
-TEXT: Festival of Lights 2025 Timed Research
-
-RESOURCE ID: em_golden_goal_pikachu_event_title
-TEXT: Golden Goal Time with Pikachu
-
-RESOURCE ID: em_golden_goal_pikachu_tr_desc_title_00
-TEXT: Golden Goal Time with Pikachu Timed Research (1/1)
-
-RESOURCE ID: em_golden_goal_pikachu_tr_title
-TEXT: Golden Goal Time with Pikachu Timed Research
+RESOURCE ID: em_ddm_2025_tr_title
+TEXT: Día de Muertos 2025 Timed Research
 
 RESOURCE ID: enchanted_hollow_event_name
 TEXT: Enchanted Hollow
@@ -1338,24 +1304,21 @@ RESOURCE ID: event_datetime_range_key_enchanted_hollow_nov25
 TEXT: November 4, 10:00 a.m. –
 November 9, 8:00 p.m.
 
-RESOURCE ID: event_datetime_range_key_gmaxgarbodor25
-TEXT: November 1, 2:00 p.m. –
-November 1, 5:00 p.m.
-
-RESOURCE ID: event_datetime_range_key_megarayquazaraidday
-TEXT: October 18, 2:00 p.m. – 5:00 p.m.
+RESOURCE ID: event_datetime_range_key_gowa25_leadup
+TEXT: November 10 –
+November 14
 
 RESOURCE ID: event_pass_gowa_2025_bonus_1
-TEXT: GO Pass: Into the Wild Pass Bonuses - Tier 1
+TEXT: Tier 1 GO Pass: Into the Wild Bonuses
 
 RESOURCE ID: event_pass_gowa_2025_bonus_2
-TEXT: GO Pass: Into the Wild Pass Bonuses - Tier 2
+TEXT: Tier 2 GO Pass: Into the Wild Bonuses
 
 RESOURCE ID: event_pass_gowa_2025_bonus_3
-TEXT: GO Pass: Into the Wild Pass Bonuses - Tier 3
+TEXT: Tier 3 GO Pass: Into the Wild Bonuses
 
 RESOURCE ID: event_pass_gowa_2025_event_duration
-TEXT: November 10 - November 16
+TEXT: November 10 – November 16
 
 RESOURCE ID: event_pass_gowa_2025_link_november2025
 TEXT: For more details, visit the <a href="https://pokemongo.com/news/into-the-wild-2025">website</a>.
@@ -1373,7 +1336,7 @@ RESOURCE ID: event_pass_gowa_2025_upgrade_description
 TEXT: Purchase GO Pass Deluxe: Into the Wild to unlock the following rewards!
 
 • One encounter with Shadow Darkrai
-• One <a href="https://pokemongo.com/news/into-the-wild-2025/">Silver Bottle Cap</a>, which can be used to max one stat—Attack, Defense, or HP—on any Pokémon via Hyper Training!
+• One <a href="https://pokemongo.com/news/into-the-wild-2025/">Silver Bottle Cap</a>, which can be used to max one stat—Attack, Defense, or HP—on any Pokémon via Hyper Training
 • And much more!
 
 RESOURCE ID: feature_candy_xl_desc
@@ -1547,44 +1510,197 @@ TEXT: Complete a challenge with friends each week and earn rewards.
 RESOURCE ID: feature_weekly_challenges_name
 TEXT: Weekly Challenges
 
-RESOURCE ID: friend_picker_max_selection_toast
-TEXT: You can only invite up to {0} friends.
+RESOURCE ID: form_gourgeist_average
+TEXT: Medium Variety
 
-RESOURCE ID: garbodor_gmax_tr_2025_title
-TEXT: Gigantamax Garbodor Max Battle Day Premium Timed Research
+RESOURCE ID: form_gourgeist_large
+TEXT: Large Variety
 
-RESOURCE ID: gastly_drop_mega_energy
-TEXT: Catching Gastly may award Gengar Mega Energy
+RESOURCE ID: form_gourgeist_small
+TEXT: Small Variety
+
+RESOURCE ID: form_gourgeist_super
+TEXT: Jumbo Variety
+
+RESOURCE ID: form_pumpkaboo_average
+TEXT: Medium Variety
+
+RESOURCE ID: form_pumpkaboo_large
+TEXT: Large Variety
+
+RESOURCE ID: form_pumpkaboo_small
+TEXT: Small Variety
+
+RESOURCE ID: form_pumpkaboo_super
+TEXT: Jumbo Variety
 
 RESOURCE ID: general1.ticket._enchanted_hollow_nov25_title
 TEXT: Woven Web Premium Timed Research Ticket
 
-RESOURCE ID: general2.ticket.6_megarayquazaraidday_title
-TEXT: Mega Rayquaza Raid Day Ticket
-
-RESOURCE ID: general2.ticket.8_gmaxgarbodor25_title
-TEXT: Gigantamax Garbodor Max Battle Day Ticket
+RESOURCE ID: general2.ticket._gowa25_leadup_title
+TEXT: Ready for the Wild Premium Timed Research Ticket
 
 RESOURCE ID: general_progress_km
 TEXT: {0}/{1} km
 
-RESOURCE ID: gmax_garbodor_lead_up_timed_research
-TEXT: Gigantamax Garbodor Max Battle Day Lead-Up Timed Research
-
-RESOURCE ID: gmax_garbodor_max_battles
-TEXT: Gigantamax Garbodor is appearing in Max Battles
-
-RESOURCE ID: gowa2025_leadup_collection_challenge
-TEXT: Into the Wild Collection Challenge
-
-RESOURCE ID: gowa2025_leadup_global_todayview_bonus
-TEXT: Into the Wild Additional Bonuses
+RESOURCE ID: general_settings_allow_stamp_from_gifts
+TEXT: Receive Poké Lid stamps from Gifts
 
 RESOURCE ID: gowa_2025_deluxe_event_pass_track_unlock_plus_points_title
 TEXT: GO Pass Deluxe: Into the Wild + 10 Ranks
 
-RESOURCE ID: gowa_2025_global_extended_bonus
-TEXT: Pokémon GO Wild Area 2025 – Extended Bonuses
+RESOURCE ID: gowa_2025_global_sr_dark_3_0
+TEXT: Dark, eh? We’ll try to keep things “light” and breezy then!
+
+RESOURCE ID: gowa_2025_global_sr_dark_3_1
+TEXT: Ahem. Anyhow, Impidimp’s mischievous antics sure are fascinating, but maybe next time it can sneak into someone else’s lab.
+
+RESOURCE ID: gowa_2025_global_sr_dark_3_2
+TEXT: Thanks again for recovering my notes from Impidimp, %PLAYERNAME%.
+
+RESOURCE ID: gowa_2025_global_sr_dark_3_3
+TEXT: I’m eager to see what other brilliant feats you’ll achieve. Lead the way!
+
+RESOURCE ID: gowa_2025_global_sr_dark_4_0
+TEXT: Oooh, it’s kind of spooky here...
+
+RESOURCE ID: gowa_2025_global_sr_dark_4_1
+TEXT: But there’s no reason to be afraid of the Dark...type Pokémon!
+
+RESOURCE ID: gowa_2025_global_sr_dark_4_2
+TEXT: Not that I need to tell you that. They’re taking to you like a shadow in late afternoon!
+
+RESOURCE ID: gowa_2025_global_sr_dark_4_3
+TEXT: Why don’t you spend some more quality time with them and see what else we can learn?
+
+RESOURCE ID: gowa_2025_global_sr_dark_5_0
+TEXT: Nice work! You’re the grimmest Trainer of them all. Er...in a good way!
+
+RESOURCE ID: gowa_2025_global_sr_dark_5_1
+TEXT: This is a great time to brush up on your knowledge of Dark-type Pokémon. Do you remember their strengths and weaknesses?
+
+RESOURCE ID: gowa_2025_global_sr_dark_5_2
+TEXT: Exactly! Dark types are strong against Psychic and Ghost types, but they’re weak to Fighting-, Bug-, and Fairy-type attacks.
+
+RESOURCE ID: gowa_2025_global_sr_dark_5_3
+TEXT: Let’s put some of that theory into practice!
+
+RESOURCE ID: gowa_2025_global_sr_dark_6_0
+TEXT: Not to be all doom and gloom, it looks like we’re not out of the woods yet.
+
+RESOURCE ID: gowa_2025_global_sr_dark_6_1
+TEXT: Team GO Rocket is on the prowl—plus, Shadow Darkrai and Shadow Cresselia need help!
+
+RESOURCE ID: gowa_2025_global_sr_dark_6_2
+TEXT: It’s a good thing you’re here to save the day, %PLAYERNAME%.
+
+RESOURCE ID: gowa_2025_global_sr_dark_6_3
+TEXT: Team GO Rocket is itching for a fight, so let’s grant their wish!
+
+RESOURCE ID: gowa_2025_global_sr_dark_7_0
+TEXT: Way to go, %PLAYERNAME%! I knew beyond a shadow of a doubt that you were going to succeed!
+
+RESOURCE ID: gowa_2025_global_sr_dark_7_1
+TEXT: What started out as a search for my missing notes has turned into quite the adventure! But our tale doesn’t end here.
+
+RESOURCE ID: gowa_2025_global_sr_dark_7_2
+TEXT: As you well know, there’s always more to see and learn.
+
+RESOURCE ID: gowa_2025_global_sr_dark_7_3
+TEXT: I’m excited to see the next chapter unfold. Until next time, %PLAYERNAME%!
+
+RESOURCE ID: gowa_2025_global_sr_fairy_3_0
+TEXT: I’m charmed by your decision!
+
+RESOURCE ID: gowa_2025_global_sr_fairy_3_1
+TEXT: Impidimp’s mischievous antics sure are fascinating, but maybe next time it can sneak into someone else’s lab.
+
+RESOURCE ID: gowa_2025_global_sr_fairy_3_2
+TEXT: Thanks again for recovering my notes from Impidimp, %PLAYERNAME%.
+
+RESOURCE ID: gowa_2025_global_sr_fairy_3_3
+TEXT: And now for another enchanting experience—it’s time to research Fairy-type Pokémon! Lead the way!
+
+RESOURCE ID: gowa_2025_global_sr_fairy_4_0
+TEXT: These Fairy-type Pokémon are quite fantastical, aren’t they?
+
+RESOURCE ID: gowa_2025_global_sr_fairy_4_1
+TEXT: Maybe if we get into their good graces they can grant our wishes in secret. Now that’s fun to imagine!
+
+RESOURCE ID: gowa_2025_global_sr_fairy_4_2
+TEXT: What would you wish for? I’d want to switch bodies with Meltan for a day!
+
+RESOURCE ID: gowa_2025_global_sr_fairy_4_3
+TEXT: Anyway, let’s wander around some more and see what else we can learn.
+
+RESOURCE ID: gowa_2025_global_sr_fairy_5_0
+TEXT: Say, have you ever heard the story of the fairy prince who could attract Pokémon with the power of his music? Oh, you haven’t? Er, maybe I just made it up...
+
+RESOURCE ID: gowa_2025_global_sr_fairy_5_1
+TEXT: In any case, I may not be a fairy prince, but I do know a little about Fairy-type Pokémon that I can share!
+
+RESOURCE ID: gowa_2025_global_sr_fairy_5_2
+TEXT: They’re strong against Fighting-, Dragon-, and Dark-type Pokémon, but they’re weak to Poison and Steel types.
+
+RESOURCE ID: gowa_2025_global_sr_fairy_5_3
+TEXT: I wonder what other observations we might be able to make.
+
+RESOURCE ID: gowa_2025_global_sr_fairy_6_0
+TEXT: Keep your eyes peeled—we’re not out of the woods yet.
+
+RESOURCE ID: gowa_2025_global_sr_fairy_6_1
+TEXT: Team GO Rocket is on the prowl—plus, Shadow Darkrai and Shadow Cresselia need help!
+
+RESOURCE ID: gowa_2025_global_sr_fairy_6_2
+TEXT: It’s a good thing you’re here to save the day, %PLAYERNAME%.
+
+RESOURCE ID: gowa_2025_global_sr_fairy_6_3
+TEXT: Team GO Rocket’s itching for a fight, so let’s grant their wish!
+
+RESOURCE ID: gowa_2025_global_sr_fairy_7_0
+TEXT: Way to go, %PLAYERNAME%! You continue to impress.
+
+RESOURCE ID: gowa_2025_global_sr_fairy_7_1
+TEXT: What started out as a search for my missing notes has turned into quite the adventure! But our tale doesn’t end here.
+
+RESOURCE ID: gowa_2025_global_sr_fairy_7_2
+TEXT: As you well know, there’s always more to see and learn.
+
+RESOURCE ID: gowa_2025_global_sr_fairy_7_3
+TEXT: I’m excited to see the next chapter unfold. Until next time, %PLAYERNAME%!
+
+RESOURCE ID: gowa_2025_global_sr_intro_1_0
+TEXT: Oh, where could they be?! Ah—%PLAYERNAME%!
+
+RESOURCE ID: gowa_2025_global_sr_intro_1_1
+TEXT: You don’t happen to have seen my field notes anywhere, do you? It’s like they disappeared into thin air!
+
+RESOURCE ID: gowa_2025_global_sr_intro_1_2
+TEXT: Sorry you have to see me in such a tizzy. I must’ve missed something...
+
+RESOURCE ID: gowa_2025_global_sr_intro_1_3
+TEXT: Hm? Do you see something over there?
+
+RESOURCE ID: gowa_2025_global_sr_intro_2_0
+TEXT: Aha! It looks like Impidimp, the Wily Pokémon, was behind my missing notes!
+
+RESOURCE ID: gowa_2025_global_sr_intro_2_1
+TEXT: Impidimp like to sneak into people’s homes to steal things and feast on the negative energy of the frustrated occupants.
+
+RESOURCE ID: gowa_2025_global_sr_intro_2_2
+TEXT: Oho, but look where Impidimp has led us! This place is rife with Fairy- and Dark-type Pokémon!
+
+RESOURCE ID: gowa_2025_global_sr_intro_2_3
+TEXT: Feeling bold? Then let’s do some exploring!
+
+RESOURCE ID: gowa_2025_habitat_irl_cc_friday
+TEXT: GO Wild Area: Nagasaki Collection Challenge
+
+RESOURCE ID: gowa_2025_habitat_irl_cc_saturday
+TEXT: GO Wild Area: Nagasaki Collection Challenge
+
+RESOURCE ID: gowa_2025_habitat_irl_cc_sunday
+TEXT: GO Wild Area: Nagasaki Collection Challenge
 
 RESOURCE ID: gowa_2025_irl_sr_1_0
 TEXT: Oh, where could they be?! Ah—%PLAYERNAME%!
@@ -1658,44 +1774,20 @@ TEXT: As you well know, there’s always more to see and learn.
 RESOURCE ID: gowa_2025_irl_sr_6_3
 TEXT: I’m excited to see the next chapter unfold. Until next time, %PLAYERNAME%!
 
-RESOURCE ID: gowa_2025_nagasaki_extended_bonus
-TEXT: Pokémon GO Wild Area: Nagasaki – Extended Bonuses
+RESOURCE ID: halloween_2025_pass_details_link
+TEXT: For more details, visit the <a href="https://pokemongo.com/news/go-pass-halloween-2025">website</a>.
 
-RESOURCE ID: gowa_2025_stamp_today_view
-TEXT: A special stamp rally is available!
+RESOURCE ID: item_event_ticket_6_desc_gowa25_leadup
+TEXT: A ticket to access the Ready for the Wild Premium Timed Research from November 10 at 10:00 a.m. to November 14, 2025, at 8:00 p.m. local time, wherever you are.
 
-RESOURCE ID: gowa_supply_balloon_gsb
-TEXT: A Supply Balloon will appear every hour. Tap it to get GO Safari Balls!
-
-RESOURCE ID: halloween_2025_part_1_event_name
-TEXT: Halloween 2025 Part I
-
-RESOURCE ID: halloween_2025_part_2_event_name
-TEXT: Halloween 2025 Part II
-
-RESOURCE ID: halloween_rare_candy_held_bonus
-TEXT: Increased chance to receive Rare Candy from costumed Pokémon when caught with Nice Throws or better
-
-RESOURCE ID: halloween_rare_candy_xl_held_bonus
-TEXT: Increased chance to receive Rare Candy XL from costumed Pokémon when caught with Nice Throws or better
-
-RESOURCE ID: item_event_ticket_08_desc_gmaxgarbodor25
-TEXT: A ticket to access special bonuses on November 1, 2025, from 2:00 p.m. to 5:00 p.m. local time, wherever you are.
-
-RESOURCE ID: item_event_ticket_08_details_gmaxgarbodor25
-TEXT: This ticket will automatically activate to give you access to special bonuses on November 1, wherever you are.
+RESOURCE ID: item_event_ticket_6_details_gowa25_leadup
+TEXT: This ticket will automatically activate to give you access to the Ready for the Wild Premium Timed Research on November 10 at 10:00 a.m. local time, wherever you are.
 
 RESOURCE ID: item_event_ticket_evergreen_desc_enchanted_hollow_nov25
 TEXT: A ticket to access the Woven Web Premium Timed Research until November 9, 2025, at 8:00 p.m. local time, wherever you are.
 
 RESOURCE ID: item_event_ticket_evergreen_details_enchanted_hollow_nov25
 TEXT: This ticket will automatically activate on November 4 to give you access to the Woven Web Premium Timed Research, wherever you are.
-
-RESOURCE ID: item_event_ticket_gray_desc_megarayquazaraidday
-TEXT: A ticket to access the Mega Rayquaza Raid Day Premium Timed Research and special bonuses on October 18, from 2:00 p.m. to 5:00 p.m. local time, wherever you are.
-
-RESOURCE ID: item_event_ticket_gray_details_megarayquazaraidday
-TEXT: This ticket will automatically activate to give you access to the Mega Rayquaza Raid Day Premium Timed Research and special bonuses on October 18, wherever you are.
 
 RESOURCE ID: item_giftbox_storage_upgrade_earned_name
 TEXT: Gift Storage
@@ -1778,12 +1870,6 @@ TEXT: An ultra-performance ball with a higher catch rate.
 RESOURCE ID: item_xl_rare_candy_desc_short
 TEXT: Turn this into any Pokémon’s Candy.
 
-RESOURCE ID: legends_za_event_name
-TEXT: Pokémon Legends: Z-A Celebration Event
-
-RESOURCE ID: legends_za_tr_name
-TEXT: Pokémon Legends: Z-A Timed Research
-
 RESOURCE ID: level_onboard_modal_backfill
 TEXT: Claim the rewards for your new level!
 
@@ -1846,47 +1932,32 @@ VISITED
 RESOURCE ID: level_up_v3_unlock_title
 TEXT: NEW LEVEL UNLOCKS
 
+RESOURCE ID: lucario_bonus_lucario_raid
+TEXT: Mega Lucario appearing in raids
+
+RESOURCE ID: lucario_bonus_title
+TEXT: Lucario Bonus Timed Research
+
+RESOURCE ID: lucario_bonus_title_00
+TEXT: Lucario Bonus Timed Research (1/1)
+
+RESOURCE ID: lucario_bonus_title_today_view
+TEXT: Pokémon TCG: Mega Lucario ex Release Celebration
+
 RESOURCE ID: lucky_egg_bonus
 TEXT: LUCKY EGG BONUS
-
-RESOURCE ID: max_battle_day_gigantamax_garbodor_event_name
-TEXT: Gigantamax Garbodor Max Battle Day
-
-RESOURCE ID: max_battle_day_gigantamax_garbodor_ticketed
-TEXT: Gigantamax Garbodor Max Battle Day Ticket Bonuses
 
 RESOURCE ID: max_battle_win_plus5000_bonus
 TEXT: Additional 5,000 XP awarded for successful Max Battles
 
-RESOURCE ID: mega_rayquaza_free_tr_name
-TEXT: Mega Rayquaza Raid Day Timed Research
-
-RESOURCE ID: mega_rayquaza_paid_tr_name
-TEXT: Mega Rayquaza Raid Day Premium Timed Research
-
-RESOURCE ID: mega_rayquaza_raid_day_event_name
-TEXT: Mega Rayquaza Raid Day
-
 RESOURCE ID: metadata_patch
-TEXT: Built at 2025-10-22T00:51:42.729529+00:00 for en-US
-at SHA d8e8a674c61
-Pipeline 3414296, job 47875701
-Patch from: 0.385.0-SHA-e2642da6-RC1, 0.383.2-SHA-14085244-RC1
+TEXT: Built at 2025-11-04T01:17:37.187351+00:00 for en-US
+at SHA 0621ec152de
+Pipeline 3428244, job 48242731
+Patch from: 0.387.0-SHA-415ba74d-RC2, 0.385.1-SHA-705313b7-RC1
 
-RESOURCE ID: mighty_ftue_encounter_dialog_1
-TEXT: You found a mighty Pokémon! A mighty Pokémon is difficult to catch, but it’s well worth the effort.
-
-RESOURCE ID: mighty_ftue_encounter_dialog_2
-TEXT: No need to worry, though! GO Safari Balls are very effective at catching mighty Pokémon. Here, give them a try!
-
-RESOURCE ID: mighty_ftue_post_encounter_dialog_1
-TEXT: Nice catch! It’s exciting to see the GO Safari Ball in action.
-
-RESOURCE ID: mighty_ftue_post_encounter_dialog_2
-TEXT: There are sure to be other mighty Pokémon in the wild, so here are more GO Safari Balls to get you started. You might also find them at PokéStops and Gyms.
-
-RESOURCE ID: mighty_ftue_post_encounter_dialog_3
-TEXT: Keep in mind, GO Safari Balls can only be used for a limited time. Let’s see how many mighty Pokémon you can find!
+RESOURCE ID: observatory_exhibition_bonus_event_title
+TEXT: Pokémon Observatory Exhibition Tour
 
 RESOURCE ID: poi_contrib_unavailable_limit_distance
 TEXT: You are too far away from this {0} to contribute.
@@ -1894,17 +1965,71 @@ TEXT: You are too far away from this {0} to contribute.
 RESOURCE ID: poi_contrib_unavailable_limit_distance_out
 TEXT: You are too far away from this Pokéstop to contribute.
 
+RESOURCE ID: pokelid_collected_count
+TEXT: Collected: {0}
+
+RESOURCE ID: pokelid_collection
+TEXT: Poké Lid Stamp Rally
+
+RESOURCE ID: pokelid_details_description
+TEXT: Poké Lids located across Japan appear as PokéStops in Pokémon GO. When you visit one and tap the Poké Lid’s PokéStop, you’ll receive a special Poké Lid stamp featuring a design unique to that region.
+
+You can also enjoy this stamp rally with your friends! If you send a Gift from a Poké Lid PokéStop to a friend, they’ll also receive the stamp from that PokéStop for their Scrapbook.
+
+Gather your friends and have fun collecting stamps together!
+
+RESOURCE ID: pokelid_image_placeholder_text
+TEXT: Coming Soon
+
+RESOURCE ID: pokelid_rewards_description
+TEXT: Collect two stamps in any prefecture to encounter a Pikachu with a unique Location Background representing that prefecture.
+You can see your progress with the reward track displayed for each prefecture.
+
+RESOURCE ID: pokelid_subheader_description
+TEXT: This is a stamp rally where you visit Poké Lids installed across Japan.
+
+RESOURCE ID: pokelid_visited_count
+TEXT: Visited: {0}
+
+RESOURCE ID: pokelid_where_description
+TEXT: Find the stamps all over Japan!
+You can check the locations of the Poké Lids on the following website.
+
 RESOURCE ID: pokemon_desc_0647_0149
+TEXT: When it is resolute, its body fills with power and it becomes swifter. Its jumps are then too fast to follow.
+
+RESOURCE ID: pokemon_desc_0647_0149_temp
 TEXT: Cobalion, Terrakion, and Virizion taught this Pokémon how to fight. It dashes across the world, seeking more opportunities to further its training.
 
 RESOURCE ID: pokemon_desc_0647_0150
 TEXT: Keldeo has strengthened its resolve for battle, filling its body with power and changing its form.
 
+RESOURCE ID: pokemon_evolution_not_enough_candy_toast
+TEXT: You don't have enough candy to evolve this Pokémon.
+
+RESOURCE ID: pokemon_info_caught_raid_nnm_with_lobby
+TEXT: CAUGHT AT A MEGA RAID WITH {0} TRAINERS
+
+RESOURCE ID: pokemon_info_caught_raid_nnn_with_lobby
+TEXT: CAUGHT AT A RAID WITH {0} TRAINERS
+
+RESOURCE ID: pokemon_info_caught_raid_nnp_with_lobby
+TEXT: CAUGHT AT A PRIMAL RAID WITH {0} TRAINERS
+
+RESOURCE ID: pokemon_info_caught_raid_rnm_with_lobby
+TEXT: REMOTELY CAUGHT AT A MEGA RAID WITH {0} TRAINERS
+
+RESOURCE ID: pokemon_info_caught_raid_rnn_with_lobby
+TEXT: REMOTELY CAUGHT AT A RAID WITH {0} TRAINERS
+
+RESOURCE ID: pokemon_info_caught_raid_rnp_with_lobby
+TEXT: REMOTELY CAUGHT AT A PRIMAL RAID WITH {0} TRAINERS
+
 RESOURCE ID: pokemon_info_form_change_confirmation_no_form
 TEXT: Are you sure you want to change {0} from its {1} to its {2}?
 
 RESOURCE ID: pokemon_info_form_change_warning_short
-TEXT: Are you sure you want to change form?
+TEXT: Are you sure you want to change this Pokémon’s form?
 
 RESOURCE ID: pokemon_learn_move
 TEXT: Learn {0}
@@ -1921,41 +2046,14 @@ TEXT: No longer be able to battle at Power Spots
 RESOURCE ID: pokemon_will
 TEXT: {0} will:
 
-RESOURCE ID: quest_branch_choose_chikorita_za_desc
-TEXT: Select this path for an additional encounter with Chikorita, the Leaf Pokémon, and an increased chance of attracting Chikorita with Daily Adventure Incense.
-
-RESOURCE ID: quest_branch_choose_tepig_za_desc
-TEXT: Select this path for an additional encounter with Tepig, the Fire Pig Pokémon, and an increased chance of attracting Tepig with Daily Adventure Incense.
-
-RESOURCE ID: quest_branch_choose_totodile_za_desc
-TEXT: Select this path for an additional encounter with Totodile, the Big Jaw Pokémon, and an increased chance of attracting Totodile with Daily Adventure Incense.
-
-RESOURCE ID: quest_buddy_affection_dark_plural
-TEXT: Earn {0} hearts with a Dark-type buddy
-
-RESOURCE ID: quest_buddy_affection_fairy_plural
-TEXT: Earn {0} hearts with a Fairy-type buddy
-
 RESOURCE ID: quest_catch_impidimp
 TEXT: Catch an Impidimp
 
+RESOURCE ID: quest_catch_pikachu_singular
+TEXT: Catch a Pikachu
+
 RESOURCE ID: quest_complete_routes_days_row_plural
 TEXT: Follow a Route {0} days in a row
-
-RESOURCE ID: quest_evolve_pokemon_bayleef_singular
-TEXT: Evolve a Bayleef
-
-RESOURCE ID: quest_evolve_pokemon_croconaw_singular
-TEXT: Evolve a Croconaw
-
-RESOURCE ID: quest_evolve_pokemon_pignite_singular
-TEXT: Evolve a Pignite
-
-RESOURCE ID: quest_explore_buddy_dark
-TEXT: Earn a Candy exploring with a Dark type as your buddy
-
-RESOURCE ID: quest_explore_buddy_fairy
-TEXT: Earn a Candy exploring with a Fairy type as your buddy
 
 RESOURCE ID: quest_gbl_rank_ace
 TEXT: Achieve Ace rank in the GO Battle League
@@ -1966,149 +2064,48 @@ TEXT: Achieve rank {0} in the GO Battle League
 RESOURCE ID: quest_join_team
 TEXT: Join a team
 
-RESOURCE ID: quest_spend_stardust_plural
-TEXT: Use {0} Stardust
-
 RESOURCE ID: quest_visit_gym_singular
 TEXT: Visit a Gym
 
+RESOURCE ID: quests_log_complete_weekly_challenge_quest
+TEXT: Completed weekly challenge: {0}
+
 RESOURCE ID: raid_win_plus5000_bonus
-TEXT: Additional 5,000 XP awarded for successful Raids
+TEXT: Additional 5,000 XP awarded for successful raids
 
-RESOURCE ID: rally_gowa_2025_desc
-TEXT: Welcome to GO Wild Area: Nagasaki!
+RESOURCE ID: rally_jp_2025_aeon_mall_title_1
+TEXT: Pokémon GO Mega Training! Stamp Rally – AEON MALL Makuhari-shintoshin
 
-RESOURCE ID: rally_gowa_2025_desc_detail
-TEXT: Collect stamps by visiting GO Stamp Rally PokéStops in Nagasaki City during your ticketed event day!
+RESOURCE ID: rally_jp_2025_aeon_mall_title_1_desc
+TEXT: Exclusive GO Stamp Rally available only at AEON MALL Makuhari-shintoshin, Chiba, Japan
 
-RESOURCE ID: rally_gowa_2025_location
-TEXT: Nagasaki City, Nagasaki, Japan
+RESOURCE ID: rally_jp_2025_aeon_mall_title_1_location
+TEXT: AEON MALL Makuhari-shintoshin, Chiba, Japan
 
-RESOURCE ID: rally_gowa_2025_rewards_desc
-TEXT: Complete this rally to encounter an event-exclusive Bewear wearing a wilderness cape with a Nagasaki City Location Background!
+RESOURCE ID: rally_jp_2025_aeon_mall_title_2
+TEXT: Pokémon GO Mega Training! Stamp Rally – AEON MALL Okinawa Raikamu
 
-RESOURCE ID: rally_gowa_2025_title
-TEXT: GO Wild Area 2025 Stamp Rally
+RESOURCE ID: rally_jp_2025_aeon_mall_title_2_desc
+TEXT: Exclusive GO Stamp Rally available only at AEON MALL Okinawa Raikamu, Okinawa, Japan
 
-RESOURCE ID: rally_nagasaki_2025_desc
-TEXT: A GO Stamp Rally celebrating the city of Nagasaki
-
-RESOURCE ID: rally_nagasaki_2025_desc_detail
-TEXT: Collect stamps by visiting GO Stamp Rally PokéStops in Nagasaki City!
-
-RESOURCE ID: rally_nagasaki_2025_location
-TEXT: Nagasaki City, Nagasaki, Japan
-
-RESOURCE ID: rally_nagasaki_2025_rewards_desc
-TEXT: Encounter an Ampharos with a Nagasaki City Location Background at the end of this rally!
-
-RESOURCE ID: rally_nagasaki_2025_title
-TEXT: Nagasaki City Stamp Rally
-
-RESOURCE ID: rally_rewards_desc_general
-TEXT: Complete the stamp rally to earn encounters and rewards
-
-RESOURCE ID: rally_tw_2025_amusement_park_desc
-TEXT: Exclusive GO Stamp Rally available only at Taipei Children’s Amusement Park in Taipei, Taiwan.
-
-RESOURCE ID: rally_tw_2025_amusement_park_desc_detail
-TEXT: Lapras caught from reward encounters for visiting GO Stamp Rally PokéStops will have an exclusive Taipei Children’s Amusement Park Location Background.
-
-RESOURCE ID: rally_tw_2025_amusement_park_location
-TEXT: Taipei Children’s Amusement Park, Taipei, Taiwan
-
-RESOURCE ID: rally_tw_2025_amusement_park_title
-TEXT: Taipei Children’s Amusement Park Stamp Rally
-
-RESOURCE ID: ready_for_the_wild_tr_1
-TEXT: Ready for the Wild Premium Timed Research (1/5)
-
-RESOURCE ID: ready_for_the_wild_tr_2
-TEXT: Ready for the Wild Premium Timed Research (2/5)
-
-RESOURCE ID: ready_for_the_wild_tr_3
-TEXT: Ready for the Wild Premium Timed Research (3/5)
-
-RESOURCE ID: ready_for_the_wild_tr_4
-TEXT: Ready for the Wild Premium Timed Research (4/5)
-
-RESOURCE ID: ready_for_the_wild_tr_5
-TEXT: Ready for the Wild Premium Timed Research (5/5)
-
-RESOURCE ID: ready_for_the_wild_tr_title
-TEXT: Ready for the Wild
+RESOURCE ID: rally_jp_2025_aeon_mall_title_2_location
+TEXT: AEON MALL Okinawa Raikamu, Okinawa, Japan
 
 RESOURCE ID: rewarded_spend_helpshift_blog_url
-TEXT: https://pokemongo.com/news/go-pass-october-2025#rewardroad
+TEXT: https://pokemongo.com/reward-road
 
-RESOURCE ID: sableye_drop_mega_energy
-TEXT: Catching Sableye may award Sableye Mega Energy
-
-RESOURCE ID: season20_keldeo_story_dialogue_4_0
-TEXT: Hello again, %PLAYERNAME%! Remember when we discussed the true power waiting to be awakened within Keldeo? Through my research, I’ve discovered a little more about this power within our friend.
-
-RESOURCE ID: season20_keldeo_story_dialogue_4_1
-TEXT: When Keldeo strengthens its resolve for battle, it fills its body with power and changes into its Resolute Form.
-
-RESOURCE ID: season20_keldeo_story_dialogue_4_2
-TEXT: In this form, it becomes so swift that its jumps are too fast to follow!
-
-RESOURCE ID: season20_keldeo_story_dialogue_4_3
-TEXT: Keep pushing forward in your training, %PLAYERNAME%. You may be closer to witnessing this transformation than you think!
-
-RESOURCE ID: season20_keldeo_story_dialogue_5_0
-TEXT: %PLAYERNAME%, I’ve been reading more about Keldeo’s Resolute Form. It’s fascinating!
-
-RESOURCE ID: season20_keldeo_story_dialogue_5_1
-TEXT: The power that lay hidden in its body covers its horn, turning it into a sword that can slice through anything.
-
-RESOURCE ID: season20_keldeo_story_dialogue_5_2
-TEXT: With power like that, I’d say Keldeo’s really making the cut!
-
-RESOURCE ID: season20_keldeo_story_dialogue_5_3
-TEXT: I have a feeling that with your support, Keldeo will soon be ready to take this monumental step forward.
-
-RESOURCE ID: season_pass_base_track_title_halloween_2025
-TEXT: GO Pass: Halloween 2025
-
-RESOURCE ID: season_pass_details_link_halloween_2025
-TEXT: For more details, visit the <a href="https://pokemongo.com/news/go-pass-halloween-2025">website</a>.
-
-RESOURCE ID: season_pass_details_link_october2025
+RESOURCE ID: season_pass_details_link_november2025
 TEXT: For more details, visit the <a href="https://pokemongo.com/go-pass">website</a>.
 
-RESOURCE ID: season_pass_halloween_2025_event_duration
-TEXT: October 21 – November 2
+RESOURCE ID: season_pass_november2025_event_duration
+TEXT: November 4 – December 2
 
-RESOURCE ID: season_pass_halloween_2025_track_upgrade_header_description
-TEXT: Earn additional rewards and unlock the <b>Teatime Pose</b> at Rank 50!
+RESOURCE ID: season_pass_november2025_upgrade_description
+TEXT: Purchase GO Pass Deluxe: November to unlock the following rewards!
 
-RESOURCE ID: season_pass_halloween_2025_upgrade_description
-TEXT: Purchase GO Pass Deluxe: Halloween 2025 to unlock the following rewards!
-
-• Teatime Pose
-• Encounters with event-themed Pokémon
-• Rare Candy XL
-• And much more!
-
-RESOURCE ID: season_pass_october2025_event_duration
-TEXT: October 7 – November 4
-
-RESOURCE ID: season_pass_october2025_track_upgrade_header_description
-TEXT: Earn additional rewards and unlock <b>1,000 more PokéCoins</b>!
-
-RESOURCE ID: season_pass_october2025_upgrade_description
-TEXT: Purchase GO Pass Deluxe: October to unlock the following rewards!
-
-• An additional 1,000 PokéCoins
 • One Super Incubator
+• One <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/">Lucky Trinket</a>, which allows you to instantly become Lucky Friends with a friend of your choice
 • And much more!
-
-RESOURCE ID: season_pass_premium_track_plus_ten_ranks_title_halloween_2025
-TEXT: GO Pass Deluxe: Halloween 2025 + 10 Ranks
-
-RESOURCE ID: season_pass_premium_track_title_halloween_2025
-TEXT: GO Pass Deluxe: Halloween 2025
 
 RESOURCE ID: settings_special_egg_reminder
 TEXT: Daily Adventure Egg Reminder
@@ -2147,20 +2144,28 @@ TEXT: You got a Daily Adventure Egg!
 RESOURCE ID: special_egg_xp_description
 TEXT: Explore to hatch this Egg and earn {0} XP.
 
-RESOURCE ID: stamp_page_tutorial_page_4_header
-TEXT: Collect stamps and earn rewards!
+RESOURCE ID: stamp_progression
+TEXT: REWARD PROGRESS
 
-RESOURCE ID: tapubulu_special_move_bonus
-TEXT: Tapu Bulu caught during the event will know the Charged Attack Nature’s Madness
+RESOURCE ID: stamp_progression_temp
+TEXT: STAMP PROGRESS
 
-RESOURCE ID: tapufini_special_move_bonus
-TEXT: Tapu Fini caught during the event will know the Charged Attack Nature’s Madness
+RESOURCE ID: stamp_social_receive_tutorial_page_1_description
+TEXT: Your friend has shared a stamp with you! Join the Poké Lid Stamp Rally and start collecting Pokémon stamps together!
 
-RESOURCE ID: tapukoko_special_move_bonus
-TEXT: Tapu Koko caught during the event will know the Charged Attack Nature’s Madness
+RESOURCE ID: stamp_social_receive_tutorial_page_2_description
+TEXT: A stamp rally is an activity where you collect stamps at certain PokéStops or Gyms. During the Poké Lid Stamp Rally, you can work with friends to collect those stamps even if you’re unable to visit in person.
 
-RESOURCE ID: tapulele_special_move_bonus
-TEXT: Tapu Lele caught during the event will know the Charged Attack Nature’s Madness
+RESOURCE ID: stamp_social_receive_tutorial_page_3_description_temp
+TEXT: You can view the stamps you collect on the stamp rally page in your Scrapbook.
+
+In addition, certain stamp rallies let you send stamps to your friends along with a Gift. Stamps you get from Gifts will be collected in your Scrapbook, but they don’t count toward the reward track. Rewards can only be obtained when you visit the location and collect the stamps yourself.
+
+RESOURCE ID: stat_at_max
+TEXT: This stat cannot be trained any further.
+
+RESOURCE ID: tcg_mega_lucario_ex_release_celebration_event_name
+TEXT: Pokémon TCG: Mega Lucario ex Release Celebration
 
 RESOURCE ID: text_rewards_key_enchanted_hollow_nov25
 TEXT: <b>Included rewards:</b>
@@ -2172,13 +2177,29 @@ TEXT: <b>Included rewards:</b>
 
 Paras and Stantler found in reward encounters for this research and all other research tasks are more likely to be Shiny!
 
-RESOURCE ID: text_rewards_key_gmaxgarbodor25
-TEXT: <b>Includes:</b>
-• Collect up to an additional 4,000 Max Particles from Power Spots and exploration
-• 2× XP for successfully completing Max Battles
-• Timed Research that awards a Max Mushroom and 25,000 XP
-
 RESOURCE ID: text_rewards_key_gowa25
+TEXT: <b>Includes:</b>
+• An encounter with Grimmsnarl, the Bulk Up Pokémon
+• Up to six free Raid Passes each day from spinning Photo Discs at Gyms
+• Increased chance of receiving event 5 km Eggs from spinning PokéStops
+• Up to six Special Trades per day and reduced Stardust cost for trades
+• 1/2 Hatch Distance for Eggs placed in Incubators
+• 2× Candy for catching Pokémon
+• A higher chance to encounter Shiny Pokémon during the event
+
+<a href="https://pokemongo.com/gowildarea/global">Learn more about the ticket bonuses here</a>.
+
+RESOURCE ID: text_rewards_key_gowa25_leadup
+TEXT: <b>Includes:</b>
+• Encounters with Dynamax Ralts and Dynamax Sableye
+• 1 Max Mushroom
+• 5 Premium Battle Passes
+• 2 Incubators
+• 2 Lucky Eggs
+• 2 Star Pieces
+• And more!
+
+RESOURCE ID: text_rewards_key_gowa25_save
 TEXT: <b>Includes:</b>
 • An encounter with Grimmsnarl, the Bulk Up Pokémon
 • Up to six free Raid Passes each day from spinning Photo Discs at Gyms
@@ -2190,55 +2211,29 @@ TEXT: <b>Includes:</b>
 
 Learn more about the ticket bonuses <a href="https://pokemongo.com/gowildarea/global">here</a>.
 
-RESOURCE ID: text_rewards_key_megametagrossraidday
-TEXT: <b>Included bonuses:</b>
-• Eight additional Raid Passes from spinning Photo Discs at Gyms
-• Increased chance to receive Rare Candy XL from raids
-• Additional 5,000 XP awarded for successful raids
-• 2× Stardust awarded for successful raids
+RESOURCE ID: tr_jp2025_aeon_mall_header_00
+TEXT: Pokémon GO Mega Training! Timed Research (1/2)
 
-RESOURCE ID: text_rewards_key_megarayquazaraidday
-TEXT: <b>Included rewards:</b>
-• 1 Meteorite
-• 3 Revives
-• 5 Razz Berries
-• 20 Poké Balls
-• 1,000 XP
-• 1,000 Stardust
-<b>Included bonuses:</b>
-• 8 additional Raid Passes from spinning Photo Discs at Gyms
-• Increased chance to receive Rare Candy XL from raids
-• 50% more XP and 2× Stardust for successfully completing raids
+RESOURCE ID: tr_jp2025_aeon_mall_header_01
+TEXT: Pokémon GO Mega Training! Timed Research (2/2)
 
-RESOURCE ID: timed_research_event
-TEXT: Event-themed Timed Research is now available
+RESOURCE ID: tr_jp2025_aeon_mall_title
+TEXT: Pokémon GO Mega Training!
 
-RESOURCE ID: today_view_field_research_section_title
-TEXT: Field Research
+RESOURCE ID: tr_jp2025_aeon_mall_tr
+TEXT: Pokémon GO Mega Training! Timed Research
 
-RESOURCE ID: tr_apac2025_fullmoon_desc
-TEXT: Dancing in the Moonlight Timed Research
+RESOURCE ID: tr_sg2025_suntec_header_00
+TEXT: Catch the Holiday Magic Timed Research (1/2)
 
-RESOURCE ID: tr_apac2025_fullmoon_title_00
-TEXT: Dancing in the Moonlight Timed Research (1/2)
+RESOURCE ID: tr_sg2025_suntec_header_01
+TEXT: Catch the Holiday Magic Timed Research (2/2)
 
-RESOURCE ID: tr_apac2025_fullmoon_title_01
-TEXT: Dancing in the Moonlight Timed Research (2/2)
+RESOURCE ID: tr_sg2025_suntec_title
+TEXT: Catch the Holiday Magic
 
-RESOURCE ID: tr_tw2025_amusementpark_header_00
-TEXT: Taipei Children’s Amusement Park Stamp Rally Timed Research (1/3)
-
-RESOURCE ID: tr_tw2025_amusementpark_header_01
-TEXT: Taipei Children’s Amusement Park Stamp Rally Timed Research (2/3)
-
-RESOURCE ID: tr_tw2025_amusementpark_header_02
-TEXT: Taipei Children’s Amusement Park Stamp Rally Timed Research (3/3)
-
-RESOURCE ID: transfer_candy_xl_chance_double
-TEXT: 2× chance of receiving Candy XL from transferring Pokémon
-
-RESOURCE ID: transfer_candy_xl_chance_triple
-TEXT: 3× chance of receiving Candy XL from transferring Pokémon
+RESOURCE ID: tr_sg2025_suntec_tr_title
+TEXT: Catch the Holiday Magic Timed Research
 
 RESOURCE ID: tutorial_level_up_quests_0
 TEXT: Congratulations on your remarkable progress!
@@ -2246,62 +2241,11 @@ TEXT: Congratulations on your remarkable progress!
 RESOURCE ID: tutorial_level_up_quests_1
 TEXT: Now that you’ve reached level {0}, there are new challenges you’ll have to complete in order to progress to the next level.
 
-RESOURCE ID: tw2025_amusementpark_desc
-TEXT: Taipei Children’s Amusement Park Stamp Rally Timed Research
+RESOURCE ID: weekly_challenges_matchmaking_error_finding_group
+TEXT: Error Finding Group
 
-RESOURCE ID: weekly_challenges_add_friend_enable_body
-TEXT: Complete weekly challenges with friends to increase your Friendship level! You can change this later in Settings.
-
-RESOURCE ID: weekly_challenges_add_friend_enable_title
-TEXT: Allow Friend Requests from weekly challenge members?
-
-RESOURCE ID: weekly_challenges_add_friend_enabled_off_toast
-TEXT: Friend Requests from weekly challenge members not enabled.
-
-RESOURCE ID: weekly_challenges_add_friend_enabled_on_toast
-TEXT: Friend Requests from weekly challenge members enabled.
-
-RESOURCE ID: weekly_challenges_allow_friend_requests_toggle_tip
-TEXT: Complete weekly challenges with friends to increase your Friendship level.
-
-RESOURCE ID: weekly_challenges_allow_friend_requests_toggle_title
-TEXT: Weekly Challenge Members
-
-RESOURCE ID: weekly_challenges_canceled_invite_success_toast
-TEXT: {0}'s invite canceled
-
-RESOURCE ID: weekly_challenges_complete_share_message
-TEXT: We completed the weekly challenge! Join my team again next week!
-
-RESOURCE ID: weekly_challenges_error_sending_invitation
-TEXT: Error sending a weekly challenge invite. Please try again.
-
-RESOURCE ID: weekly_challenges_invite_reciever_limit_error
-TEXT: Trainer already reached the max number of invites this week.
-
-RESOURCE ID: weekly_challenges_matchmaking_tutorial_1_body
-TEXT: You can now join a group with three random Trainers and make new friends.
-
-RESOURCE ID: weekly_challenges_matchmaking_tutorial_1_title
-TEXT: Match with other Trainers!
-
-RESOURCE ID: weekly_challenges_player_already_in_challenge
-TEXT: Trainer is already in a weekly challenge.
-
-RESOURCE ID: weekly_challenges_sans_matchmaking_tutorial_2_body
-TEXT: Join or create a group to start the weekly challenge!
-
-RESOURCE ID: weekly_challenges_skip_button
-TEXT: Skip
-
-RESOURCE ID: weekly_challenges_today_view_pending_invite_multiple
-TEXT: {0} pending invites
-
-RESOURCE ID: weekly_challenges_today_view_pending_invite_single
-TEXT: 1 pending invite
-
-RESOURCE ID: weekly_challenges_today_view_pending_invite_title
-TEXT: New Weekly Challenge!
+RESOURCE ID: weekly_challenges_matchmaking_finding_group
+TEXT: Challenge will start once a trainer is found.
 
 RESOURCE ID: welcome_level_up_faster_desc
 TEXT: Better rewards, easier to level up, and more levels.
@@ -2320,22 +2264,4 @@ TEXT: Join Raids Remotely
 
 RESOURCE ID: yokohama_7a63
 TEXT: 
-
-RESOURCE ID: z_a_collab_event_research_title_00
-TEXT: Pokémon Legends: Z-A Timed Research (1/3)
-
-RESOURCE ID: z_a_collab_event_research_title_01
-TEXT: Pokémon Legends: Z-A Timed Research (2/3)
-
-RESOURCE ID: z_a_collab_event_research_title_02
-TEXT: Pokémon Legends: Z-A Timed Research (3/3)
-
-RESOURCE ID: z_a_collab_event_title_chikorita
-TEXT: Pokémon Legends: Z-A Celebration Event, Additional Bonus: Chikorita
-
-RESOURCE ID: z_a_collab_event_title_tepig
-TEXT: Pokémon Legends: Z-A Celebration Event, Additional Bonus: Tepig
-
-RESOURCE ID: z_a_collab_event_title_totodile
-TEXT: Pokémon Legends: Z-A Celebration Event, Additional Bonus: Totodile
 
