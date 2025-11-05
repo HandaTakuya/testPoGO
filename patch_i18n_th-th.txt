@@ -100,6 +100,9 @@ TEXT: +3 ลูกอม XL เมื่อตีบอสเสร็จสิ�
 RESOURCE ID: bonus_raid_6_candy_all_raids
 TEXT: +6 ลูกอมเมื่อตีบอสเสร็จสิ้น
 
+RESOURCE ID: bonus_supply_balloon
+TEXT: บอลลูนเสบียงที่มีซาฟารีบอล GO จะปรากฏขึ้นทุกชั่วโมง
+
 RESOURCE ID: city_manhole_1
 TEXT: โยโกฮามะ
 
@@ -2433,6 +2436,10 @@ RESOURCE ID: event_datetime_range_key_gowa25_leadup
 TEXT: 10 พฤศจิกายน -
 14 พฤศจิกายน
 
+RESOURCE ID: event_datetime_range_key_high_voltage_nov25
+TEXT: 18 พฤศจิกายน เวลา 10:00 น. ถึง
+22 พฤศจิกายน เวลา 20:00 น.
+
 RESOURCE ID: event_pass_gowa_2025_bonus_1
 TEXT: โบนัสบัตรผ่าน GO: สู่ธรรมชาติ Tier 1
 
@@ -2676,8 +2683,35 @@ TEXT: ร่วมมือกัน 4 คนทำคำท้ารายส�
 RESOURCE ID: feature_weekly_challenges_name
 TEXT: คำท้ารายสัปดาห์
 
+RESOURCE ID: form_gourgeist_average
+TEXT: พันธุ์กลาง
+
+RESOURCE ID: form_gourgeist_large
+TEXT: พันธุ์ใหญ่
+
+RESOURCE ID: form_gourgeist_small
+TEXT: พันธุ์เล็ก
+
+RESOURCE ID: form_gourgeist_super
+TEXT: พันธุ์ใหญ่ยักษ์
+
+RESOURCE ID: form_pumpkaboo_average
+TEXT: พันธุ์กลาง
+
+RESOURCE ID: form_pumpkaboo_large
+TEXT: พันธุ์ใหญ่
+
+RESOURCE ID: form_pumpkaboo_small
+TEXT: พันธุ์เล็ก
+
+RESOURCE ID: form_pumpkaboo_super
+TEXT: พันธุ์ใหญ่ยักษ์
+
 RESOURCE ID: general1.ticket._enchanted_hollow_nov25_title
 TEXT: ตั๋วงานวิจัยแบบจำกัดเวลาพรีเมียม: แช่กายในผืนป่า
+
+RESOURCE ID: general1.ticket._high_voltage_nov25_title
+TEXT: ตั๋วงานวิจัยแบบจำกัดเวลาพรีเมียม: Happy or Hangry
 
 RESOURCE ID: general2.ticket._gowa25_leadup_title
 TEXT: ตั๋วงานวิจัยแบบจำกัดเวลาพรีเมียม: คู่มือสู่ธรรมชาติ
@@ -2999,6 +3033,21 @@ TEXT: บอลลูนเสบียงที่ขนซาฟารีบ�
 RESOURCE ID: halloween_2025_pass_details_link
 TEXT: ตรวจสอบรายละเอียดได้ที่<a href="https://pokemongo.com/news/go-pass-halloween-2025">เว็บไซต์</a>นี้
 
+RESOURCE ID: high_voltage_event_nme
+TEXT: ไฟฟ้าแรงดันสูง
+
+RESOURCE ID: high_voltage_nov2025_cc_1
+TEXT: คำท้านักสะสมชาร์จไฟสุดคิวต์
+
+RESOURCE ID: high_voltage_prem_tr_name
+TEXT: งานวิจัยแบบจำกัดเวลาพรีเมียม: Happy or Hangry
+
+RESOURCE ID: high_voltage_prem_tr_name_0
+TEXT: งานวิจัยแบบจำกัดเวลาพรีเมียม: Happy or Hangry (1/2)
+
+RESOURCE ID: high_voltage_prem_tr_name_1
+TEXT: งานวิจัยแบบจำกัดเวลาพรีเมียม: Happy or Hangry (2/2)
+
 RESOURCE ID: incense_duration_two_hours
 TEXT: เครื่องหอมมีผล 2 ชม.
 
@@ -3016,9 +3065,19 @@ RESOURCE ID: item_event_ticket_evergreen_desc_enchanted_hollow_nov25
 TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยแบบจำกัดเวลาพรีเมียม: แช่กายในผืนป่า
 ถึงวันที่ 9 พฤศจิกายน 2025 เวลา 20:00 น. ตามเวลาท้องถิ่นทั่วโลก
 
+RESOURCE ID: item_event_ticket_evergreen_desc_high_voltage_nov25
+TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยแบบจำกัดเวลาพรีเมียม: Happy or Hangry
+ถึงวันที่ 22 พฤศจิกายน 2025 เวลา 20:00 น. ตามเวลาท้องถิ่นทั่วโลก
+
 RESOURCE ID: item_event_ticket_evergreen_details_enchanted_hollow_nov25
 TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยแบบจำกัดเวลาพรีเมียม: แช่กายในผืนป่า
 ในวันที่ 4 พฤศจิกายน
+คุณจะสามารถเข้าร่วมได้โดยอัตโนมัติ
+ตามเวลาท้องถิ่นทั่วโลก
+
+RESOURCE ID: item_event_ticket_evergreen_details_high_voltage_nov25
+TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยแบบจำกัดเวลาพรีเมียม: Happy or Hangry
+ในวันที่ 18 พฤศจิกายน
 คุณจะสามารถเข้าร่วมได้โดยอัตโนมัติ
 ตามเวลาท้องถิ่นทั่วโลก
 
@@ -3209,10 +3268,10 @@ RESOURCE ID: meetup_check_in_research_title_gowa2025
 TEXT: งานวิจัยแบบจำกัดเวลาเช็กอินงานพบปะ: GO ไวลด์แอเรีย
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2025-11-04T01:17:37.187351+00:00 for th-TH
-at SHA 0621ec152de
-Pipeline 3428244, job 48242731
-Patch from: 0.387.0-SHA-415ba74d-RC2, 0.385.1-SHA-705313b7-RC1
+TEXT: Built at 2025-11-05T01:52:06.852856+00:00 for th-TH
+at SHA e42f0bb5b5e
+Pipeline 3430069, job 48280936
+Patch from: 0.387.0-SHA-415ba74d-RC2, 0.385.1-SHA-a0c2d4c7-RC3
 
 RESOURCE ID: mighty_ftue_encounter_dialog_1
 TEXT: ที่เธอเจอคือโปเกมอนทรงพลัง!
@@ -3263,6 +3322,8 @@ TEXT: Poké Lids ที่อยู่ตามพื้นที่ต่าง
 เมื่อคุณแวะสถานที่แห่งนั้นและแตะที่เสาโปเกสต็อป "Poké Lids" จะได้รับแสตมป์ Poké Lids ที่มีดีไซน์เป็นเอกลักษณ์เฉพาะพื้นที่นั้น ๆ
 นอกจากนั้น ยังสามารถร่วมมือกับเพื่อนในการสะสมแสตมป์แรลลี GO นี้ได้อีกด้วย
 เมื่อส่งของขวัญที่ได้รับจากเสาโปเกสต็อป Poké Lids ให้เพื่อน เพื่อนคนดังกล่าวจะได้รับแสตมป์เดียวกัน ทำให้สามารถสนุกไปกับการเล่นแสตมป์แรลลีด้วยกันได้!
+
+แสตมป์ที่เพื่อนส่งมาให้ก็จะแสดงในสมุดภาพเช่นกัน แต่จะไม่ถูกนับในแทร็กรางวัล
 
 RESOURCE ID: pokelid_image_placeholder_text
 TEXT: เร็ว ๆ นี้
@@ -3371,7 +3432,7 @@ RESOURCE ID: quest_visit_gym_singular
 TEXT: แวะไปที่ยิม
 
 RESOURCE ID: quests_log_complete_weekly_challenge_quest
-TEXT: Completed weekly challenge: {0}
+TEXT: คำท้ารายสัปดาห์: "{0}" เสร็จสิ้น!
 
 RESOURCE ID: raid_win_plus5000_bonus
 TEXT: +5,000 XP เมื่อตีบอสเสร็จสิ้น
@@ -3599,10 +3660,13 @@ TEXT: เพื่อนของคุณได้แชร์แสตมป�
 RESOURCE ID: stamp_social_receive_tutorial_page_2_description
 TEXT: แสตมป์แรลลีคือกิจกรรมสะสมแสตมป์จากเสาโปเกสต็อปและยิมที่กำหนด ในระหว่าง "แสตมป์แรลลี Poké Lids" คุณสามารถร่วมมือกับเพื่อน ๆ ในการสะสมแสตมป์เหล่านั้นได้ โดยไม่จำเป็นต้องไปเยือนสถานที่ที่กำหนดด้วยตัวเอง
 
-RESOURCE ID: stamp_social_receive_tutorial_page_3_description_temp
+RESOURCE ID: stamp_social_receive_tutorial_page_3_description
 TEXT: คุณสามารถดูแสตมป์ที่สะสมได้จากหน้าแสตมป์แรลลีในสมุดภาพ
 
 (แสตมป์แรลลีบางส่วนสามารถส่งแสตมป์ไปพร้อมของขวัญให้เพื่อนเพื่อร่วมสนุกไปด้วยกันได้ แสตมป์ที่เพื่อนส่งมาให้ก็จะแสดงในสมุดภาพเช่นกัน แต่จะไม่ถูกนับในแทร็กรางวัล)
+
+RESOURCE ID: stamp_social_receive_tutorial_page_3_description_out
+TEXT: คุณสามารถดูแสตมป์ที่สะสมได้จากหน้าแสตมป์แรลลีในสมุดภาพ
 
 RESOURCE ID: stat_at_max
 TEXT: This stat cannot be trained any further.
@@ -3612,6 +3676,9 @@ TEXT: ตั๋ว Pokémon GO ไวลด์แอเรียนั้นม�
 
 RESOURCE ID: strong_encounter_tutorial_title
 TEXT: วิธีรับซาฟารีบอล GO เพิ่ม
+
+RESOURCE ID: supply_balloon_postcard
+TEXT: นำไปใช้ที่ Pokémon GO ไวลด์แอเรีย นะ!
 
 RESOURCE ID: tapubulu_special_move_bonus
 TEXT: คาปู บูลูลูที่ถูกจับในระหว่างอีเวนต์นี้จะรู้ท่าโจมตีชาร์จ "ธรรมชาติพิโรธ" ด้วย!
@@ -3672,6 +3739,18 @@ TEXT: <b>สิ่งที่จะได้รับ:</b>
 
 เรียนรู้เพิ่มเติมเกี่ยวกับโบนัสตั๋วได้<a href="https://pokemongo.com/gowildarea/global">ที่นี่</a>
 
+RESOURCE ID: text_rewards_key_high_voltage_nov25
+TEXT: <b>รางวัลที่จะได้รับ:</b>
+- การเผชิญหน้ากับเอมอนกา เดเด็นเนะ โทเกะเดมารุ และโมรุเปโกะ
+- อุปกรณ์ปล่อยลัวร์แม่เหล็ก 1 ชิ้น
+- บัตรแบตเทิลพรีเมียม 2 ใบ
+- TM ท่าชาร์จ 1 ชิ้น
+- TM ท่าชาร์จชั้นเลิศ 1 ชิ้น
+- 10,000 สตาร์ดัสต์
+- และอื่นๆ
+
+เอมอนกา เดเด็นเนะ โทเกะเดมารุ และโมรุเปโกะที่พบในรางวัลเผชิญหน้าจากงานวิจัยนี้และภารกิจงานวิจัยอื่น ๆ จะมีโอกาสเป็นโปเกมอนสีแตกต่างสูงขึ้น
+
 RESOURCE ID: today_view_field_research_section_title
 TEXT: งานวิจัยภาคสนาม
 
@@ -3723,8 +3802,11 @@ TEXT: ตอนนี้เธอก็ถึงเลเวล {0} แล้ว
 เพื่อที่จะเดินหน้าต่อไปยังเลเวล
 ถัดไปได้
 
+RESOURCE ID: visit_web_store_item_url_key
+TEXT: https://store.pokemongo.com/?utm_source=PGO&utm_medium=in-game-shop&utm_campaign=pgo_webstore_linkout&utm_content=sku_button&itemId={0}
+
 RESOURCE ID: weekly_challenges_matchmaking_error_finding_group
-TEXT: Error Finding Group
+TEXT: เกิดข้อผิดพลาดในการค้นหากลุ่ม
 
 RESOURCE ID: weekly_challenges_matchmaking_finding_group
 TEXT: Challenge will start once a trainer is found.
