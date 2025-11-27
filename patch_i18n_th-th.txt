@@ -1,6 +1,12 @@
 RESOURCE ID: additional_candy_raid_singular
 TEXT: +1 ลูกอมจากการตีบอส
 
+RESOURCE ID: additional_rewards_local_max_battles_bonus
+TEXT: รางวัลเพิ่มเติมเมื่อแบตเทิลแมกซ์ในพื้นที่เสร็จสิ้น
+
+RESOURCE ID: additional_rewards_local_raids_bonus
+TEXT: รางวัลเพิ่มเติมเมื่อตีบอสในพื้นที่เสร็จสิ้น
+
 RESOURCE ID: allow_stamp_from_gift_settings_desc
 TEXT: คุณจะไม่ได้รับแสตมป์ Poké Lids จากของขวัญอีกต่อไป
 
@@ -289,6 +295,9 @@ TEXT: ตรวจสอบและยืนยันการแลกเป�
 RESOURCE ID: details_link_key_cd_recap2025
 TEXT: ตรวจสอบรายละเอียดได้ที่<a href="https://pokemongolive.com/news">เว็บไซต์</a>นี้
 
+RESOURCE ID: details_link_key_gotour2026
+TEXT: ตรวจสอบรายละเอียดได้ที่<a href="https://pokemongo.com/gotour/global/">เว็บไซต์</a>นี้
+
 RESOURCE ID: dmax_eevee_max_battle_event_name
 TEXT: สุดสัปดาห์แห่งการแบตเทิลแมกซ์อีวุยไดแมกซ์
 
@@ -344,6 +353,10 @@ TEXT: 6 ธันวาคม เวลา 9:00 น. ถึง
 RESOURCE ID: event_datetime_range_key_finaljustice2025
 TEXT: 25 พฤศจิกายน เวลา 10:00 น. ถึง
 30 พฤศจิกายน เวลา 20:00 น.
+
+RESOURCE ID: event_datetime_range_key_gotour2026
+TEXT: 28 กุมภาพันธ์ -
+1 มีนาคม
 
 RESOURCE ID: event_datetime_range_key_gowa25_leadup
 TEXT: 10 พฤศจิกายน -
@@ -481,6 +494,9 @@ TEXT: ตั๋วงานวิจัยแบบจำกัดเวลา�
 
 RESOURCE ID: general_settings_allow_stamp_from_gifts
 TEXT: รับแสตมป์ Poké Lids จากของขวัญ
+
+RESOURCE ID: gotour_2026_ticket_title
+TEXT: ตั๋ว Pokémon GO Tour: คาลอส - ทั่วโลก
 
 RESOURCE ID: gowa_2025_deluxe_event_pass_track_unlock_plus_points_title
 TEXT: บัตรผ่าน GO Deluxe: สู่ธรรมชาติ + 10 ระดับ
@@ -909,6 +925,15 @@ TEXT: ตั๋วสำหรับเข้าร่วมงานวิจ�
 คุณจะสามารถเข้าร่วมได้โดยอัตโนมัติ
 ตามเวลาท้องถิ่นทั่วโลก
 
+RESOURCE ID: item_global_event_ticket_desc_gotour2026
+TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยและรับโบนัสของ "Pokémon GO Tour: คาลอส - ทั่วโลก" ในวันที่ 28 กุมภาพันธ์ และ 1 มีนาคม 2026 ตามเวลาท้องถิ่นทั่วโลก
+
+RESOURCE ID: item_global_event_ticket_details_gotour2026
+TEXT: ตั๋วสำหรับรับโบนัสพิเศษ
+ในวันที่ 28 กุมภาพันธ์
+คุณจะสามารถเข้าร่วมได้โดยอัตโนมัติ
+ตามเวลาท้องถิ่นทั่วโลก
+
 RESOURCE ID: journey_paldea_event_name
 TEXT: การเดินทางในภูมิภาคพัลเดีย
 
@@ -1096,13 +1121,13 @@ RESOURCE ID: meetup_check_in_research_title_community_recap_2
 TEXT: งานวิจัยแบบจำกัดเวลาเช็กอินงานพบปะ: คอมมิวนิตี้เดย์ (3/3)
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2025-11-26T02:21:59.924814+00:00 for th-TH
-at SHA 79c6dc0196b
-Pipeline 3453146, job 48842769
-Patch from: 0.389.0-SHA-1737211e-RC4, 0.387.1-SHA-d1abce9b-RC1, 0.391.0-SHA-386a01ae-RC1
+TEXT: Built at 2025-11-26T19:40:02.952766+00:00 for th-TH
+at SHA 391c5ef31d3
+Pipeline 3453905, job 48857808
+Patch from: 0.389.0-SHA-77adb879-RC3, 0.389.1-SHA-fb884504-RC1, 0.391.0-SHA-386a01ae-RC1
 
 RESOURCE ID: move_name_0489
-TEXT: ดาบศักดิ์สิทธิ์
+TEXT: ดาบลึกลับ
 
 RESOURCE ID: move_name_0490
 TEXT: จะงอยปากปืนใหญ่
@@ -1433,7 +1458,7 @@ RESOURCE ID: remote_trade_confirmation_dialog_info
 TEXT: {0} จะเลือกตัวสำหรับแลกเปลี่ยน 1 ตัวแล้วยืนยัน
 
 RESOURCE ID: remote_trade_confirmation_dialog_info_singular
-TEXT: {0} จะยืนยันการเลือก
+TEXT: {0} จะตรวจสอบการแลกเปลี่ยน
 
 RESOURCE ID: remote_trade_confirmation_dialog_singular
 TEXT: ยืนยันหรือไม่?
@@ -1448,7 +1473,7 @@ RESOURCE ID: remote_trade_decline_confirmation_toast
 TEXT: การแลกเปลี่ยนระยะไกลกับ {0} ถูกยกเลิกแล้ว
 
 RESOURCE ID: remote_trade_decline_modal_body
-TEXT: This trade will be canceled, but you can start a new one.
+TEXT: การแลกเปลี่ยนนี้จะถูกยกเลิก (สามารถเริ่มการแลกเปลี่ยนใหม่ได้)
 
 RESOURCE ID: remote_trade_decline_modal_title
 TEXT: คุณแน่ใจหรือไม่ว่าต้องการปฏิเสธการแลกเปลี่ยนระยะไกลกับ {0}?
@@ -1550,7 +1575,7 @@ RESOURCE ID: remote_trade_pokemon_selected_subtitle
 TEXT: {0} จะเลือก 1 ตัว
 
 RESOURCE ID: remote_trade_pokemon_selected_subtitle_singular
-TEXT: {0} will review the trade with you.
+TEXT: {0} จะตรวจสอบการแลกเปลี่ยน
 
 RESOURCE ID: remote_trade_pokemon_selected_title
 TEXT: คำขอของคุณ
@@ -1559,7 +1584,7 @@ RESOURCE ID: remote_trade_pokemon_tagged_for_trade
 TEXT: โปเกมอนที่ติดแท็กแลกเปลี่ยนระยะไกล
 
 RESOURCE ID: remote_trade_push_notification_reminder_body
-TEXT: Stay up to date with your Remote Trade and improve your gameplay experience.
+TEXT: เปิดการแจ้งเตือนเกี่ยวกับการแลกเปลี่ยนระยะไกล เพื่อให้การแลกเปลี่ยนเป็นไปอย่างราบรื่น
 
 RESOURCE ID: remote_trade_push_notification_reminder_title
 TEXT: เปิดรับแจ้งเตือน
@@ -1613,7 +1638,7 @@ RESOURCE ID: remote_trade_self_label
 TEXT: ฉัน
 
 RESOURCE ID: remote_trade_show_unregistered_pokemon_text
-TEXT: ดูโปเกมอนที่ยังไม่ได้บันทึกลงในโปเกเด็กซ์
+TEXT: ดูโปเกมอนที่ยังไม่ได้บันทึก
 
 RESOURCE ID: remote_trade_tag_details
 TEXT: เพื่อนแท้ตลอดไปสามารถมองเห็นได้
@@ -1814,6 +1839,22 @@ TEXT: เส้นทางล่าสมบัติ (10/12)
 
 RESOURCE ID: season_gbl_forecast_title_21
 TEXT: Pokémon GO: เส้นทางล่าสมบัติ
+
+RESOURCE ID: season_pass_december2025_event_duration
+TEXT: 2 ธันวาคม - 6 มกราคม
+
+RESOURCE ID: season_pass_december2025_track_upgrade_header_description
+TEXT: รับรางวัลเพิ่มเติมและปลดล็อก<b>เครื่องฟักไข่จำกัดเวลา</b>ที่ระดับ 20!
+
+RESOURCE ID: season_pass_december2025_upgrade_description
+TEXT: ซื้อบัตรผ่าน GO Deluxe: ธันวาคม เพื่อปลดล็อกรางวัลต่อไปนี้!
+
+- เครื่องฟักไข่ชั้นเยี่ยม 1 ชิ้น
+- <a href="https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2358-incubators-hatching-pokemon-eggs/">เครื่องฟักไข่จำกัดเวลา</a>ที่สามารถฟักไข่ได้ไม่จำกัดจำนวนครั้ง 1 ชิ้น
+- และอื่น ๆ
+
+RESOURCE ID: season_pass_details_link_december2025
+TEXT: ตรวจสอบรายละเอียดได้ที่<a href="https://pokemongo.com/go-pass">เว็บไซต์</a>นี้
 
 RESOURCE ID: season_pass_details_link_november2025
 TEXT: ตรวจสอบรายละเอียดได้ที่<a href="https://pokemongo.com/go-pass">เว็บไซต์</a>นี้
@@ -2103,6 +2144,17 @@ TEXT: <b>สิ่งที่จะได้รับ:</b>
 - ลูกอมประหลาด 9 เม็ด สำหรับเทรนเนอร์เลเวล 30 ลงไป
 - ไฮเปอร์บอล 90 ลูก, หินอิชชู 3 ชิ้น, ไดมัชรูม 1 ชิ้น, บัตรแบตเทิลพรีเมียม 1 ใบ, อุปกรณ์ปล่อยลัวร์ 1 ชิ้น, เครื่องหอม 1 ชิ้น และอื่น ๆ
 
+RESOURCE ID: text_rewards_key_gotour2026
+TEXT: <b>สิ่งที่จะได้รับ:</b>
+- เหรียญรางวัลเข้าร่วมอีเวนต์ X Version หรือ Y Version
+- งานวิจัยพิเศษที่จะนำไปสู่การเผชิญหน้ากับเซอเนียสหรืออีเวลทอล
+- งานวิจัยระยะยาวที่จะนำไปสู่การเผชิญหน้ากับดีแอนซีสีแตกต่าง
+- งานวิจัยแบบจำกัดเวลาที่สามารถเปลี่ยนร่างของทริมเมียนเป็นทรงแบบเฉพาะพื้นที่ที่เลือกได้ในช่วงอีเวนต์ (ทรงที่เลือกจะถูกคงไว้จนกว่าจะมีการเปลี่ยนใหม่อีกครั้ง)
+- โปเกมอนต่อไปนี้จะแย่งซีนถ่ายรูปในโกสแนปช็อต 1 ครั้ง: ลาทิอาส (วันเสาร์) และลาทิโอส (วันอาทิตย์)
+- เพิ่มโอกาสในการเผชิญหน้ากับโปเกมอนสีแตกต่าง
+- 2× ระยะเวลาเครื่องหอม
+- และอื่น ๆ
+
 RESOURCE ID: text_rewards_key_gowa25
 TEXT: <b>สิ่งที่จะได้รับ:</b>
 - การเผชิญหน้ากับโปเกมอนบิลด์อัป "โอลองเกะ"
@@ -2166,23 +2218,32 @@ RESOURCE ID: ticket_pikipek_cd
 TEXT: สามารถซื้อตั๋วสำหรับงานวิจัยพิเศษ "สึสึเคระคอมมิวนิตี้เดย์" ได้ที่ร้านค้า
 
 RESOURCE ID: tips_friends_tutorial_build_friendship_body
-TEXT: Your Friendship level will increase with each interaction, helping you unlock extra bonuses.
+TEXT: ระดับมิตรภาพจะเพิ่มขึ้นทุกครั้งที่มี
+การโต้ตอบกับเพื่อน และจะช่วยใน
+การปลดล็อกโบนัสพิเศษอีกด้วย
 
-You can raise your Friendship level with a Trainer every day, and when you do so, that Trainer’s portrait will have a blue glow.
+สามารถเพิ่มระดับมิตรภาพกับ
+เทรนเนอร์ได้วันละครั้ง รูปภาพของ
+เทรนเนอร์จะเรืองแสงสีฟ้าเมื่อระดับ
+เพิ่มขึ้น
 
 RESOURCE ID: tips_friends_tutorial_lucky_body_temp
-TEXT: For a chance to become Lucky Friends with a Trainer, become Best Friends with them and continue interacting with them.
-
-Trade with a Lucky Friend to receive a Lucky Pokémon! You can become Lucky Friends again later.
+TEXT: มีโอกาสที่จะได้เป็นเพื่อนนำโชค
+หากเพิ่มระดับเป็น "เพื่อนแท้" และโต้ตอบ
+กับเพื่อนทุกวันอยู่เสมอ
+แลกเปลี่ยนกับเพื่อนนำโชคเพื่อรับ
+โปเกมอนนำโชค! แม้ระบบนำโชคจะ
+ถูกรีเซ็ตแต่จะสามารถเป็นเพื่อนนำโชค
+ได้อีกครั้งในภายหลัง
 
 RESOURCE ID: tips_remote_trade_first_request_conversation_1
-TEXT: You started your first Remote Trade! You can check the trade status by coming back here. If your friend does not respond, the trade is canceled.
+TEXT: เริ่มการแลกเปลี่ยนระยะไกลครั้งแรกแล้ว! ตรวจสอบสถานะของการแลกเปลี่ยนได้ที่หน้าจอนี้ การแลกเปลี่ยนจะถูกยกเลิกหากเพื่อนของเธอไม่ตอบรับภายในเวลาที่กำหนด
 
 RESOURCE ID: tips_remote_trade_first_response_conversation_1
-TEXT: Good job! Next, your friend will review your trade. You can check the trade status by coming back here. If your friend does not respond, the trade is canceled.
+TEXT: เยี่ยมมาก! เพื่อนของเธอกำลังตรวจสอบการแลกเปลี่ยนอยู่ ตรวจสอบสถานะของการแลกเปลี่ยนได้ที่หน้าจอนี้ การแลกเปลี่ยนจะถูกยกเลิกหากเพื่อนของเธอไม่ตอบรับภายในเวลาที่กำหนด
 
 RESOURCE ID: tips_remote_trading_intro_conversation_1
-TEXT: Wow, you two must be excellent friends! You can now trade remotely with each other.
+TEXT: ทั้งสองคนเป็นเพื่อนที่สนิทกันมากเลยสินะ! ตอนนี้ทั้งสองคนสามารถแลกเปลี่ยนกันได้แบบระยะไกลแล้วนะ
 
 RESOURCE ID: tips_remote_trading_intro_conversation_2
 TEXT: การแลกเปลี่ยนระยะไกลจะแตกต่างจากปกติเล็กน้อย โดยจะต้องเริ่มจากการติดแท็ก "แลกเปลี่ยนระยะไกล" ให้กับโปเกมอนที่ต้องการเสนอแลกเปลี่ยนเสียก่อน
@@ -2191,7 +2252,7 @@ RESOURCE ID: tips_remote_trading_intro_conversation_3
 TEXT: เลือกโปเกมอนที่ต้องการจากในหมู่โปเกมอนที่ติดแท็กของอีกฝ่าย และอีกฝ่ายก็สามารถเลือกโปเกมอนที่ต้องการจากในหมู่โปเกมอนที่ติดแท็กของเราเช่นกัน
 
 RESOURCE ID: tips_remote_trading_intro_conversation_4
-TEXT: Don’t worry, you’ll both review the chosen Pokémon before finalizing the trade. Have fun!
+TEXT: และไม่ต้องห่วงไป พวกเธอจะได้ตรวจสอบโปเกมอนที่ถูกเลือกก่อนยืนยันการแลกเปลี่ยน!
 
 RESOURCE ID: tr_jp2025_aeon_mall_header_00
 TEXT: งานวิจัยแบบจำกัดเวลาการฝึกเมก้า Pokémon GO! (1/2)
@@ -2235,7 +2296,7 @@ RESOURCE ID: tutorial_bf+_trade_with_friends_body
 TEXT: เมื่อถึงเลเวล 10 จะสามารถแลกเปลี่ยนโปเกมอนกับเพื่อนเพื่อช่วยให้โปเกเด็กซ์สมบูรณ์ยิ่งขึ้นได้ คุณจะสามารถแลกเปลี่ยนกับเพื่อนที่อยู่ใกล้ ๆ ได้เท่านั้น และจะสามารถแลกเปลี่ยนระยะไกลกับเพื่อนที่เป็น "เพื่อนแท้ตลอดไป" ได้
 
 RESOURCE ID: tutorial_help_button_remote_trade_pop_up_body
-TEXT: Learn more about Remote Trades.
+TEXT: เรียนรู้เพิ่มเติมเกี่ยวกับการแลกเปลี่ยนระยะไกล
 
 RESOURCE ID: tutorial_remote_trade_candy_bonuses_body
 TEXT: เหมือนกับการแลกเปลี่ยนในพื้นที่ จำนวนลูกอมที่ได้รับจะแตกต่างกันไปตามระยะทางระหว่างสถานที่จับโปเกมอนที่แลกเปลี่ยนทั้ง 2 ตัว ยิ่งระยะไกล (ถึงราว 100 กม.) ยิ่งได้รับลูกอมเยอะขึ้น
@@ -2250,10 +2311,10 @@ RESOURCE ID: tutorial_remote_trade_icon_glossary_title
 TEXT: คำอธิบายไอคอน
 
 RESOURCE ID: tutorial_remote_trade_icon_glossary_top
-TEXT: Some Pokémon may have these icons by their name.
+TEXT: โปเกมอนบางตัวอาจมีไอคอนด้านล่างนี้ปรากฏอยู่
 
 RESOURCE ID: tutorial_remote_trade_icon_glossary_unregistered
-TEXT: You haven’t caught this Pokémon
+TEXT: โปเกมอนที่ยังไม่เคยจับ
 
 RESOURCE ID: tutorial_remote_trade_locked_pokemon_body
 TEXT: โปเกมอนที่พึ่งจับจะไม่สามารถแลกเปลี่ยนระยะไกลได้ในทันที
@@ -2291,6 +2352,8 @@ TEXT: แท็ก "แลกเปลี่ยนระยะไกล"
 RESOURCE ID: tutorial_remote_trade_with_stardust_body
 TEXT: เหมือนกับการแลกเปลี่ยนในพื้นที่ ปริมาณสตาร์ดัสต์ที่จำเป็นสำหรับการแลกเปลี่ยนจะแตกต่างกันไปตามแต่ละโปเกมอน
 
+การแลกเปลี่ยนระยะไกลจะไม่ถูกนับเป็นการแลกเปลี่ยนแบบพิเศษ
+
 RESOURCE ID: tutorial_tag_remote_trade_body
 TEXT: ในการแลกเปลี่ยนระยะไกล คุณจะต้องติดแท็ก "แลกเปลี่ยนระยะไกล" ที่โปเกมอนที่อนุญาตให้แลกเปลี่ยนระยะไกลได้เสียก่อน
 
@@ -2325,7 +2388,7 @@ RESOURCE ID: tutorial_tag_remote_trade_title
 TEXT: แท็กแลกเปลี่ยนระยะไกลคืออะไร?
 
 RESOURCE ID: tutorial_unregistered_remote_trade_pop_up_body
-TEXT: Find Pokémon you haven’t caught before.
+TEXT: ในกรณีที่อยากดูโปเกมอนที่ยังไม่เคยจับ
 
 RESOURCE ID: view_trade_pokemon
 TEXT: ดูโปเกมอนที่แลกเปลี่ยน
