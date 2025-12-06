@@ -1,3 +1,6 @@
+RESOURCE ID: _description_
+TEXT: 
+
 RESOURCE ID: additional_rewards_local_max_battles_bonus
 TEXT: รางวัลเพิ่มเติมเมื่อแบตเทิลแมกซ์ในพื้นที่เสร็จสิ้น
 
@@ -166,6 +169,24 @@ TEXT: Pokémon GO City Safari
 RESOURCE ID: battle_ruleset_error_pokemon
 TEXT: โปเกมอนที่ไม่สามารถใช้ได้
 
+RESOURCE ID: bestfriends_plus_timed_research_desc
+TEXT: งานวิจัยแบบจำกัดเวลาเพื่อนกันตลอดกาล
+
+RESOURCE ID: bestfriends_plus_timed_research_title
+TEXT: งานวิจัยแบบจำกัดเวลาเพื่อนกันตลอดกาล
+
+RESOURCE ID: bestfriends_plus_timed_research_title_00
+TEXT: งานวิจัยแบบจำกัดเวลาเพื่อนกันตลอดกาล (1/4)
+
+RESOURCE ID: bestfriends_plus_timed_research_title_01
+TEXT: งานวิจัยแบบจำกัดเวลาเพื่อนกันตลอดกาล (2/4)
+
+RESOURCE ID: bestfriends_plus_timed_research_title_02
+TEXT: งานวิจัยแบบจำกัดเวลาเพื่อนกันตลอดกาล (3/4)
+
+RESOURCE ID: bestfriends_plus_timed_research_title_03
+TEXT: งานวิจัยแบบจำกัดเวลาเพื่อนกันตลอดกาล (4/4)
+
 RESOURCE ID: block_remote_trade_bread
 TEXT: ไม่สามารถส่งโปเกมอนที่ติดแท็กแลกเปลี่ยนระยะไกลไปที่พาวเวอร์สป็อตได้
 
@@ -183,6 +204,15 @@ TEXT: ตีบอสระยะไกลได้เพิ่มสูงส�
 
 RESOURCE ID: bonus_today_tauros_standard_lure
 TEXT: เคนเทารอสถูกดึงดูดด้วยอุปกรณ์ปล่อยลัวร์มาตรฐานมากขึ้น
+
+RESOURCE ID: bread_battle_won_none
+TEXT: แบตเทิลแมกซ์ 0 ครั้ง
+
+RESOURCE ID: bread_battle_won_plural
+TEXT: ชนะแบตเทิลแมกซ์ {0} ครั้ง
+
+RESOURCE ID: bread_battle_won_singular
+TEXT: ชนะแบตเทิลแมกซ์
 
 RESOURCE ID: city_manhole_421
 TEXT: ชาตัน
@@ -949,9 +979,9 @@ RESOURCE ID: meetup_check_in_research_title_community_recap_2
 TEXT: งานวิจัยแบบจำกัดเวลาเช็กอินงานพบปะ: คอมมิวนิตี้เดย์ (3/3)
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2025-12-04T00:57:52.969204+00:00 for th-TH
-at SHA 35970e88d72
-Pipeline 3459494, job 48993681
+TEXT: Built at 2025-12-06T00:35:06.717081+00:00 for th-TH
+at SHA 864ecb6a59b
+Pipeline 3462379, job 49061846
 Patch from: 0.389.2-SHA-d7989dae-RC1, 0.391.0-SHA-386a01ae-RC1
 
 RESOURCE ID: move_name_0489
@@ -1044,6 +1074,9 @@ TEXT: เล่นกับโปเกมอนคู่หูรวม {0} ว
 
 RESOURCE ID: quest_catch_pikachu_singular
 TEXT: จับพิคาชู
+
+RESOURCE ID: quest_catch_scatterbug_singular
+TEXT: จับโคฟูคิมูชิ
 
 RESOURCE ID: quest_event_eevee_snapshot_buenosaires
 TEXT: ถ่ายภาพอีวุยของคุณในบัวโนสไอเรส
@@ -1746,7 +1779,7 @@ RESOURCE ID: shiny_keldeo_masterwork_sr_title_06
 TEXT: งานวิจัยระยะยาว: ตำนานแห่งความยุติธรรม (7/7)
 
 RESOURCE ID: shop_inventory_more_capacity
-TEXT: Not enough space in your bag!
+TEXT: Not enough space in your Item Bag!
 
 RESOURCE ID: spawn_pikipek
 TEXT: สึสึเคระปรากฏตัวออกมามากขึ้น!
