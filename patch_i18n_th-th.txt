@@ -7,6 +7,129 @@ TEXT: รางวัลเพิ่มเติมเมื่อแบตเ�
 RESOURCE ID: additional_rewards_local_raids_bonus
 TEXT: รางวัลเพิ่มเติมเมื่อตีบอสในพื้นที่เสร็จสิ้น
 
+RESOURCE ID: aps_first_time_tutorial_text
+TEXT: Take a photo with a person and the ground in view.
+
+RESOURCE ID: ar_photo_booth
+TEXT: GO Photo Booth
+
+RESOURCE ID: ar_photo_social_capture_helper
+TEXT: Take a photo to see {0}
+
+RESOURCE ID: ar_photo_social_capture_hint_no_depth
+TEXT: AR camera is warming up, please wait.
+
+RESOURCE ID: ar_photo_social_capture_hint_no_ground
+TEXT: Make sure the ground is in view.
+
+RESOURCE ID: ar_photo_social_capture_hint_no_person
+TEXT: Try taking a photo of a person!
+
+RESOURCE ID: ar_photo_social_capture_hint_ready
+TEXT: When you’re ready, take a photo!
+
+RESOURCE ID: ar_photo_social_capture_review_next_helper
+TEXT: Tap Next to see photos with {0}
+
+RESOURCE ID: ar_photo_social_confirm_title
+TEXT: Do you want a photo with {0}?
+
+RESOURCE ID: ar_photo_social_entry_button
+TEXT: Take a Photo
+
+RESOURCE ID: ar_photo_social_entry_label
+TEXT: Take a photo with a Pokémon!
+
+RESOURCE ID: ar_photo_social_failed_to_load
+TEXT: Failed to load
+
+RESOURCE ID: ar_photo_social_frame_tab_title
+TEXT: Frame
+
+RESOURCE ID: ar_photo_social_ftue_text_1
+TEXT: 1. Choose a Pokémon
+
+RESOURCE ID: ar_photo_social_ftue_text_2
+TEXT: 2. Take a photo
+
+RESOURCE ID: ar_photo_social_ftue_text_3
+TEXT: 3. Decorate and share
+
+RESOURCE ID: ar_photo_social_ftue_title
+TEXT: Pick a Pokémon to take a photo with!
+
+RESOURCE ID: ar_photo_social_hashtag
+TEXT: #PokemonGO
+
+RESOURCE ID: ar_photo_social_name_tag_friend_code
+TEXT: Trainer: {0}
+
+RESOURCE ID: ar_photo_social_new_photo_text
+TEXT: Take New Photo
+
+RESOURCE ID: ar_photo_social_photo_error_reason_general
+TEXT: Something went wrong. Please try again.
+
+RESOURCE ID: ar_photo_social_photo_error_reason_ground
+TEXT: Please try again with the ground in view.
+
+RESOURCE ID: ar_photo_social_photo_error_reason_person
+TEXT: Tip: Try including a person in the photo for the best results!
+
+RESOURCE ID: ar_photo_social_photo_error_title
+TEXT: Photo Tip
+
+RESOURCE ID: ar_photo_social_popular_title
+TEXT: Suggestions
+
+RESOURCE ID: ar_photo_social_review_confirm_exit_message
+TEXT: If you leave this page, these photos will be lost.
+
+RESOURCE ID: ar_photo_social_review_confirm_exit_title
+TEXT: Do you want to take a new photo?
+
+RESOURCE ID: ar_photo_social_share_default_referral_text
+TEXT: Take a photo with a Pokémon in Pokémon GO!
+
+RESOURCE ID: ar_photo_social_share_referral_text
+TEXT: Take a photo with a Pokémon in Pokémon GO!
+
+RESOURCE ID: ar_photo_social_summary_confirm_exit_message
+TEXT: Your photos will not be saved.
+
+RESOURCE ID: ar_photo_social_summary_confirm_exit_title
+TEXT: Do you want to exit?
+
+RESOURCE ID: ar_photo_social_summary_confirm_leave
+TEXT: Leave
+
+RESOURCE ID: ar_photo_social_summary_confirm_leave_title
+TEXT: Do you want to leave?
+
+RESOURCE ID: ar_photo_social_take_another_photo
+TEXT: Take another photo
+
+RESOURCE ID: ar_photo_social_timer_off_label
+TEXT: Timer Off
+
+RESOURCE ID: ar_photo_social_timer_on_label
+TEXT: Timer On
+
+RESOURCE ID: ar_photo_social_valid_pokemon_warning
+TEXT: Sorry, you can’t currently take a photo with {0}.
+
+RESOURCE ID: ar_plus_not_supported_desc
+TEXT: This feature is not supported on this device.
+
+RESOURCE ID: arphoto_social_take_new
+TEXT: Take New Photo
+
+RESOURCE ID: avatar_bag_charjabug
+TEXT: กระเป๋าเด็นจิมูชิ
+
+RESOURCE ID: avatar_hat_snom
+TEXT: หมวกไหมพรมยูกิฮามิ
+
 RESOURCE ID: avatar_n_shirt_shinykeldeotshirt
 TEXT: เสื้อยืดเคลดิโอ (สีแตกต่าง)
 
@@ -18,6 +141,12 @@ TEXT: ท่าโพสกรูชา
 
 RESOURCE ID: avatar_shirt_grusha
 TEXT: เสื้อกรูชา
+
+RESOURCE ID: avatar_shirt_sweatersudowoodo
+TEXT: เสื้อกันหนาวอุซกกี
+
+RESOURCE ID: avatar_shoes_blacephelon
+TEXT: รองเท้าบู๊ตซุกะโด้ง
 
 RESOURCE ID: avatar_shoes_grusha
 TEXT: รองเท้ากรูชา
@@ -40,8 +169,29 @@ TEXT: งานวิจัยพาร์ทเนอร์: SoftBank (3/4)
 RESOURCE ID: badge_event_0145_title_03
 TEXT: งานวิจัยพาร์ทเนอร์: SoftBank (4/4)
 
-RESOURCE ID: badge_safari_2025_buenosaires_add_on_hatch
+RESOURCE ID: badge_safari_2025_buenos_aires_add_on_hatch
 TEXT: บัวโนสไอเรส 2025
+
+RESOURCE ID: badge_safari_2025_buenos_aires_add_on_hatch_title
+TEXT: Pokémon GO City Safari - ฟักไข่ไม่หยุด
+
+RESOURCE ID: badge_safari_2025_buenos_aires_add_on_raid
+TEXT: บัวโนสไอเรส 2025
+
+RESOURCE ID: badge_safari_2025_buenos_aires_add_on_raid_title
+TEXT: Pokémon GO City Safari - ผู้หลงใหลการตีบอส
+
+RESOURCE ID: badge_safari_2025_buenos_aires_saturday
+TEXT: บัวโนสไอเรส, 13 ธันวาคม 2025
+
+RESOURCE ID: badge_safari_2025_buenos_aires_saturday_title
+TEXT: Pokémon GO City Safari
+
+RESOURCE ID: badge_safari_2025_buenos_aires_sunday
+TEXT: บัวโนสไอเรส, 14 ธันวาคม 2025
+
+RESOURCE ID: badge_safari_2025_buenos_aires_sunday_title
+TEXT: Pokémon GO City Safari
 
 RESOURCE ID: badge_safari_2025_buenosaires_add_on_hatch_test
 TEXT: บัวโนสไอเรส 2025
@@ -49,38 +199,14 @@ TEXT: บัวโนสไอเรส 2025
 RESOURCE ID: badge_safari_2025_buenosaires_add_on_hatch_test_title
 TEXT: Pokémon GO City Safari - ฟักไข่ไม่หยุด
 
-RESOURCE ID: badge_safari_2025_buenosaires_add_on_hatch_title
-TEXT: Pokémon GO City Safari - ฟักไข่ไม่หยุด
-
-RESOURCE ID: badge_safari_2025_buenosaires_add_on_raid
-TEXT: บัวโนสไอเรส 2025
-
 RESOURCE ID: badge_safari_2025_buenosaires_add_on_raid_test
 TEXT: บัวโนสไอเรส 2025
 
 RESOURCE ID: badge_safari_2025_buenosaires_add_on_raid_test_title
 TEXT: Pokémon GO City Safari - ผู้หลงใหลการตีบอส
 
-RESOURCE ID: badge_safari_2025_buenosaires_add_on_raid_title
-TEXT: Pokémon GO City Safari - ผู้หลงใหลการตีบอส
-
 RESOURCE ID: badge_safari_2025_buenosaires_day_00
 TEXT: บัวโนสไอเรส 2025
-
-RESOURCE ID: badge_safari_2025_buenosaires_day_00_title
-TEXT: Pokémon GO City Safari
-
-RESOURCE ID: badge_safari_2025_buenosaires_day_01
-TEXT: บัวโนสไอเรส, 13 ธันวาคม 2025
-
-RESOURCE ID: badge_safari_2025_buenosaires_day_01_title
-TEXT: Pokémon GO City Safari
-
-RESOURCE ID: badge_safari_2025_buenosaires_day_02
-TEXT: บัวโนสไอเรส, 14 ธันวาคม 2025
-
-RESOURCE ID: badge_safari_2025_buenosaires_day_02_title
-TEXT: Pokémon GO City Safari
 
 RESOURCE ID: badge_safari_2025_miami_add_on_hatch
 TEXT: ไมอามี 2025
@@ -109,19 +235,16 @@ TEXT: Pokémon GO City Safari - ผู้หลงใหลการตีบอ
 RESOURCE ID: badge_safari_2025_miami_day_00
 TEXT: ไมอามี 2025
 
-RESOURCE ID: badge_safari_2025_miami_day_00_title
-TEXT: Pokémon GO City Safari
-
-RESOURCE ID: badge_safari_2025_miami_day_01
+RESOURCE ID: badge_safari_2025_miami_saturday
 TEXT: ไมอามี, 13 ธันวาคม 2025
 
-RESOURCE ID: badge_safari_2025_miami_day_01_title
+RESOURCE ID: badge_safari_2025_miami_saturday_title
 TEXT: Pokémon GO City Safari
 
-RESOURCE ID: badge_safari_2025_miami_day_02
+RESOURCE ID: badge_safari_2025_miami_sunday
 TEXT: ไมอามี, 14 ธันวาคม 2025
 
-RESOURCE ID: badge_safari_2025_miami_day_02_title
+RESOURCE ID: badge_safari_2025_miami_sunday_title
 TEXT: Pokémon GO City Safari
 
 RESOURCE ID: badge_safari_2025_sydney_add_on_hatch
@@ -151,19 +274,16 @@ TEXT: Pokémon GO City Safari - ผู้หลงใหลการตีบอ
 RESOURCE ID: badge_safari_2025_sydney_day_00
 TEXT: ซิดนีย์ 2025
 
-RESOURCE ID: badge_safari_2025_sydney_day_00_title
-TEXT: Pokémon GO City Safari
-
-RESOURCE ID: badge_safari_2025_sydney_day_01
+RESOURCE ID: badge_safari_2025_sydney_saturday
 TEXT: ซิดนีย์, 13 ธันวาคม 2025
 
-RESOURCE ID: badge_safari_2025_sydney_day_01_title
+RESOURCE ID: badge_safari_2025_sydney_saturday_title
 TEXT: Pokémon GO City Safari
 
-RESOURCE ID: badge_safari_2025_sydney_day_02
+RESOURCE ID: badge_safari_2025_sydney_sunday
 TEXT: ซิดนีย์, 14 ธันวาคม 2025
 
-RESOURCE ID: badge_safari_2025_sydney_day_02_title
+RESOURCE ID: badge_safari_2025_sydney_sunday_title
 TEXT: Pokémon GO City Safari
 
 RESOURCE ID: battle_ruleset_error_pokemon
@@ -187,23 +307,14 @@ TEXT: งานวิจัยแบบจำกัดเวลาเพื่�
 RESOURCE ID: bestfriends_plus_timed_research_title_03
 TEXT: งานวิจัยแบบจำกัดเวลาเพื่อนกันตลอดกาล (4/4)
 
-RESOURCE ID: block_remote_trade_bread
-TEXT: ไม่สามารถส่งโปเกมอนที่ติดแท็กแลกเปลี่ยนระยะไกลไปที่พาวเวอร์สป็อตได้
+RESOURCE ID: bonus_cd_move_piplup
+TEXT: วิวัฒนาการโพจไทชิเป็นเอ็มเพลท์ที่รู้ท่าโจมตีชาร์จ "ไฮโดรแคนนอน"
 
-RESOURCE ID: block_remote_trade_gyms
-TEXT: ไม่สามารถส่งโปเกมอนที่ติดแท็กแลกเปลี่ยนระยะไกลไปที่ยิมได้
+RESOURCE ID: bonus_cd_move_swinub_cdc
+TEXT: วิวัฒนาการอิโนมูเป็นแมมมูที่รู้ท่าโจมตีชาร์จ "พลังดึกดำบรรพ์"
 
-RESOURCE ID: block_remote_trade_iris_toast_key
-TEXT: ไม่สามารถส่งโปเกมอนที่ติดแท็กแลกเปลี่ยนระยะไกลไปที่สนามเด็กเล่นโปเกมอนได้
-
-RESOURCE ID: bonus_cd_move_pikipek
-TEXT: วิวัฒนาการเครารัปปาเป็นโดเดคาบาชิที่รู้ท่าโจมตีชาร์จ "จะงอยปากปืนใหญ่"
-
-RESOURCE ID: bonus_rrp_limit_30
-TEXT: ตีบอสระยะไกลได้เพิ่มสูงสุดถึงวันละ 30 ครั้ง
-
-RESOURCE ID: bonus_today_tauros_standard_lure
-TEXT: เคนเทารอสถูกดึงดูดด้วยอุปกรณ์ปล่อยลัวร์มาตรฐานมากขึ้น
+RESOURCE ID: bonus_cd_move_zigzagoon
+TEXT: วิวัฒนาการมัสสึกุมะร่างกาลาร์เป็นทาจิฟุซะกุมะที่รู้ท่าโจมตีชาร์จ "บล็อกกิง"
 
 RESOURCE ID: bread_battle_won_none
 TEXT: แบตเทิลแมกซ์ 0 ครั้ง
@@ -214,41 +325,23 @@ TEXT: ชนะแบตเทิลแมกซ์ {0} ครั้ง
 RESOURCE ID: bread_battle_won_singular
 TEXT: ชนะแบตเทิลแมกซ์
 
-RESOURCE ID: city_manhole_421
-TEXT: ชาตัน
-
-RESOURCE ID: city_manhole_422
-TEXT: ซามามิ
-
-RESOURCE ID: city_manhole_423
-TEXT: โทกาชิกิ
-
-RESOURCE ID: city_manhole_424
-TEXT: คุเมจิมะ
-
-RESOURCE ID: city_manhole_426
-TEXT: ฮิงาชิโซโนงิ
-
-RESOURCE ID: city_manhole_iki
-TEXT: อิกิ
-
-RESOURCE ID: city_manhole_naha
+RESOURCE ID: city_manhole_441
 TEXT: นาฮะ
 
-RESOURCE ID: city_manhole_saza
+RESOURCE ID: city_manhole_444
+TEXT: อิกิ
+
+RESOURCE ID: city_manhole_445
 TEXT: ซาซะ
-
-RESOURCE ID: city_manhole_shimabara
-TEXT: ชิมาบาระ
-
-RESOURCE ID: city_manhole_togitsu
-TEXT: โทกิตสึ
 
 RESOURCE ID: city_miami
 TEXT: ไมอามี
 
 RESOURCE ID: combat_title_season_21
 TEXT: โกแบตเทิลลีก: เส้นทางล่าสมบัติ
+
+RESOURCE ID: community_celebration_today_view
+TEXT: เทศกาลเฉลิมฉลองคอมมิวนิตี้
 
 RESOURCE ID: community_day_dec2025_cc_day1
 TEXT: คำท้านักสะสมคอมมิวนิตี้เดย์ธันวาคม: วันที่ 1
@@ -262,32 +355,14 @@ TEXT: คอมมิวนิตี้เดย์ธันวาคม 2025
 RESOURCE ID: community_day_dec2025_weekend_event_name
 TEXT: คอมมิวนิตี้เดย์ธันวาคม 2025 - สุดสัปดาห์
 
-RESOURCE ID: community_day_pikipek_event_name
-TEXT: คอมมิวนิตี้เดย์: สึสึเคระ
-
-RESOURCE ID: complete_lucky_remote_trade_prompt
-TEXT: ตรวจสอบและยืนยันการแลกเปลี่ยนระยะไกลนำโชค
-
-RESOURCE ID: complete_remote_trade_prompt
-TEXT: ตรวจสอบและยืนยันการแลกเปลี่ยนระยะไกล
+RESOURCE ID: community_day_piplup_event_name_cdc
+TEXT: คอมมิวนิตี้เดย์ (รีเทิร์น): โพจจามะ
 
 RESOURCE ID: details_link_key_cd_recap2025
 TEXT: ตรวจสอบรายละเอียดได้ที่<a href="https://pokemongolive.com/news">เว็บไซต์</a>นี้
 
 RESOURCE ID: details_link_key_gotour2026
 TEXT: ตรวจสอบรายละเอียดได้ที่<a href="https://pokemongo.com/gotour/global/">เว็บไซต์</a>นี้
-
-RESOURCE ID: dmax_eevee_max_battle_event_name
-TEXT: สุดสัปดาห์แห่งการแบตเทิลแมกซ์อีวุยไดแมกซ์
-
-RESOURCE ID: dmax_eevee_max_battles
-TEXT: อีวุยไดแมกซ์ปรากฏตัวในแบตเทิลแมกซ์
-
-RESOURCE ID: dmax_eevee_weekend_nov2025_cc_eevee
-TEXT: คำท้านักสะสมเพื่อนขนปุย
-
-RESOURCE ID: dmax_eevee_weekend_nov2025_cc_evolutions
-TEXT: คำท้านักสะสมอุ้งเท้าแกร่ง
 
 RESOURCE ID: dmax_lugia_max_battle_event_name
 TEXT: สุดสัปดาห์แห่งการแบตเทิลแมกซ์ลูเกียไดแมกซ์
@@ -307,16 +382,12 @@ TEXT: นักสำรวจอีวุย - แสตมป์แรลล�
 RESOURCE ID: eevee_explorers_sydney_title
 TEXT: นักสำรวจอีวุย - แสตมป์แรลลีซิดนีย์
 
-RESOURCE ID: event_datetime_range_key_cd_pikipek25
-TEXT: 30 พฤศจิกายน เวลา 14:00-17:00 น.
-
 RESOURCE ID: event_datetime_range_key_cd_recap2025
 TEXT: 6 ธันวาคม เวลา 9:00 น. ถึง
 7 ธันวาคม เวลา 21:00 น.
 
-RESOURCE ID: event_datetime_range_key_finaljustice2025
-TEXT: 25 พฤศจิกายน เวลา 10:00 น. ถึง
-30 พฤศจิกายน เวลา 20:00 น.
+RESOURCE ID: event_datetime_range_key_cdc_piplup26
+TEXT: 4 มกราคม เวลา 14:00-17:00 น.
 
 RESOURCE ID: event_datetime_range_key_gmaxsnorlax_s21
 TEXT: 14 ธันวาคม เวลา 14:00-17:00 น.
@@ -333,47 +404,41 @@ RESOURCE ID: event_datetime_range_key_masterball25
 TEXT: 2 ธันวาคม เวลา 10:00 น. ถึง
 10 กุมภาพันธ์ เวลา 20:00 น.
 
+RESOURCE ID: event_datetime_range_key_sunmoon_researchtr2025
+TEXT: 20 ธันวาคม เวลา 14:00-17:00 น.
+
+RESOURCE ID: event_move_mamoswine_ancient_power
+TEXT: วิวัฒนาการอิโนมูเป็นแมมมูที่รู้ท่า "พลังดึกดำบรรพ์"
+
 RESOURCE ID: event_season21_name
 TEXT: ฤดูกาลปัจจุบัน: เส้นทางล่าสมบัติ
 
-RESOURCE ID: final_justice_catch_cc
-TEXT: ช่วงเวลาแห่งศึกชี้ชะตา: คำท้านักสะสมโรงฝึกศิลปะการต่อสู้
+RESOURCE ID: friendship_detail_gift
+TEXT: Gift
 
-RESOURCE ID: final_justice_event_name
-TEXT: ช่วงเวลาแห่งศึกชี้ชะตา
+RESOURCE ID: friendship_detail_item_bonus
+TEXT: Item bonus
 
-RESOURCE ID: final_justice_raid_cc
-TEXT: ช่วงเวลาแห่งศึกชี้ชะตา: คำท้านักสะสมแสนศักดิ์สิทธิ์
+RESOURCE ID: friendship_detail_item_plural
+TEXT: +{0} items
 
-RESOURCE ID: friend_wants_to_lucky_remote_trade_prompt
-TEXT: {0} ส่งคำขอแลกเปลี่ยนระยะไกลนำโชคมาให้คุณ
+RESOURCE ID: friendship_detail_item_singular
+TEXT: +{0} item
 
-RESOURCE ID: friend_wants_to_remote_trade_prompt
-TEXT: {0} ส่งคำขอแลกเปลี่ยนระยะไกลมาให้คุณ
-
-RESOURCE ID: friendship_detail_remote_trade
-TEXT: ปลดล็อกเมื่อสะสมแต้มมิตรภาพถึงที่กำหนด
-
-RESOURCE ID: friendship_detail_remote_trade_info
-TEXT: มีการจำกัดจำนวนครั้ง
-
-RESOURCE ID: friendship_detail_unlock_reqs_plural_temp
+RESOURCE ID: friendship_detail_unlock_reqs_plural
 TEXT: รับแต้มมิตรภาพอีก {0} แต้มเพื่อเป็น "{1}"!
 
-RESOURCE ID: friendship_detail_unlock_reqs_singular_temp
+RESOURCE ID: friendship_detail_unlock_reqs_plural_out
+TEXT: เล่นด้วยกันอีก {0} วันเพื่อเป็น{1}!
+
+RESOURCE ID: friendship_detail_unlock_reqs_singular
 TEXT: รับแต้มมิตรภาพอีก {0} แต้มเพื่อเป็น "{1}"!
 
-RESOURCE ID: friendship_level_5
-TEXT: เพื่อนแท้ตลอดไป
+RESOURCE ID: friendship_detail_unlock_reqs_singular_out
+TEXT: เล่นด้วยกันอีก {0} วันเพื่อเป็น{1}!
 
-RESOURCE ID: friendship_level_5_plural
-TEXT: เพื่อนแท้ตลอดไป
-
-RESOURCE ID: friendship_milestone_notification_toast_6
-TEXT: คุณกับ {0} เป็น "เพื่อนแท้ตลอดไป" กันแล้ว!
-
-RESOURCE ID: friendship_milestone_notification_trade
-TEXT: ปลดล็อกการแลกเปลี่ยนระยะไกลกับ {0} แล้ว!
+RESOURCE ID: general1.ticket.4_sunmoon_researchtr2025_title
+TEXT: ตั๋วงานวิจัยนภาไพศาล
 
 RESOURCE ID: general1.ticket.4_well_armed_dec2025_desc
 TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยแบบจำกัดเวลาพรีเมียม: ออกหมัดแล้วเตะ
@@ -403,11 +468,11 @@ TEXT: ตั๋วงานวิจัยแบบจำกัดเวลา�
 RESOURCE ID: general1.ticket.5_journeytpaldea25_title
 TEXT: ตั๋วงานวิจัยแบบจำกัดเวลาพรีเมียม: การเดินทางในภูมิภาคพัลเดีย
 
-RESOURCE ID: general1.ticket_cd_pikipek25_title
-TEXT: ตั๋วสึสึเคระคอมมิวนิตี้เดย์
-
 RESOURCE ID: general1.ticket_cd_recap2025_title
 TEXT: ตั๋วคอมมิวนิตี้เดย์ธันวาคม 2025
+
+RESOURCE ID: general1.ticket_cdc_piplup26_title
+TEXT: ตั๋ว "โพจจามะคอมมิวนิตี้เดย์ (รีเทิร์น)"
 
 RESOURCE ID: general2.ticket.6_gmaxsnorlax25_title
 TEXT: ตั๋ว "วันแบตเทิลแมกซ์คาบิกอนกิกะแมกซ์"
@@ -415,205 +480,35 @@ TEXT: ตั๋ว "วันแบตเทิลแมกซ์คาบิก
 RESOURCE ID: general2.ticket.7_masterball25_title
 TEXT: งานวิจัยระยะยาว: ฝากไว้กับบอลนี้
 
-RESOURCE ID: general2.ticket.8_finaljustice2025_title
-TEXT: งานวิจัยระยะยาว: ตำนานแห่งความยุติธรรม
+RESOURCE ID: general_download
+TEXT: Download
+
+RESOURCE ID: general_get_started
+TEXT: Get Started
+
+RESOURCE ID: general_pokemon_trainer
+TEXT: Pokémon Trainer
+
+RESOURCE ID: gift_additional_items
+TEXT: อาจพบไอเท็มเพิ่มเติมจากของขวัญ
+
+RESOURCE ID: gift_pokemon_wild
+TEXT: โปเกมอนป่าธีมอีเวนต์อาจถือไอเท็มเพิ่มเติมเมื่อจับได้
+
+RESOURCE ID: gift_xp_double
+TEXT: 2× XP จากการส่งของขวัญ
 
 RESOURCE ID: gotour_2026_ticket_title
 TEXT: ตั๋ว Pokémon GO Tour: คาลอส - ทั่วโลก
 
-RESOURCE ID: gowa_2025_global_sr_dark_3_0
-TEXT: ความมืดงั้นเหรอ? ต้องขอให้เธอช่วยแล้วล่ะ!
+RESOURCE ID: gstar_2024_evolve_move_bonus_blaziken
+TEXT: วิวัฒนาการวาคาชาโมเป็นบาชาโมที่รู้ท่าโจมตีชาร์จ "บลาสต์เบิร์น"
 
-RESOURCE ID: gowa_2025_global_sr_dark_3_1
-TEXT: อะแฮ่ม ถึงยังไงแผนซน ๆ ของเบโรบา
-ก็น่าทึ่งจริง ๆ นั่นแหละ แต่คราวหน้า
-ช่วยไปที่ห้องแล็บของคนอื่นทีเถอะ
+RESOURCE ID: gstar_2024_evolve_move_bonus_sceptile
+TEXT: วิวัฒนาการจุปไทล์เป็นจูไคน์ที่รู้ท่าโจมตีชาร์จ "ฮาร์ดแพลนท์"
 
-RESOURCE ID: gowa_2025_global_sr_dark_3_2
-TEXT: ขอบคุณที่ไปเอาบันทึกของฉันกลับมา
-จากเบโรบาให้นะ %PLAYERNAME%
-
-RESOURCE ID: gowa_2025_global_sr_dark_3_3
-TEXT: อยากเห็นแล้วสิว่าเธอจะสร้างผลงานยอดเยี่ยม
-แบบไหนอีก ออกไปสำรวจต่อเลย!
-
-RESOURCE ID: gowa_2025_global_sr_dark_4_0
-TEXT: ที่นี่ดูน่ากลัวยังไงก็ไม่รู้...
-
-RESOURCE ID: gowa_2025_global_sr_dark_4_1
-TEXT: แต่เราไม่มีเหตุผลอะไรให้ต้องกลัว
-โปเกมอนประเภทความมืด!
-
-RESOURCE ID: gowa_2025_global_sr_dark_4_2
-TEXT: ถึงไม่บอกเธอก็คงรู้อยู่แล้วใช่ไหมว่า
-พวกนั้นตามเธอไม่ห่างเลย! 
-
-RESOURCE ID: gowa_2025_global_sr_dark_4_3
-TEXT: ลองใช้เวลาร่วมกับพวกมันสิ
-อาจจะเรียนรู้อะไรใหม่ ๆ ก็ได้นะ?
-
-RESOURCE ID: gowa_2025_global_sr_dark_5_0
-TEXT: สำเร็จแล้วเหรอ! เธอนี่เป็นเทรนเนอร์
-ที่น่าสะพรึงกลัวมาก ...หมายถึงในทางที่ดีนะ!
-
-RESOURCE ID: gowa_2025_global_sr_dark_5_1
-TEXT: ได้เวลาทบทวนความรู้เกี่ยวกับเรื่องโปเกมอน
-ประเภทความมืดแล้ว จำได้ไหมว่าพวกมัน
-ชนะทางและแพ้ทางประเภทอะไร?
-
-RESOURCE ID: gowa_2025_global_sr_dark_5_2
-TEXT: ถูกต้อง! ประเภทความมืดชนะทางประเภท
-พลังจิตและผี แต่แพ้ทางประเภทต่อสู้ แมลง และแฟรี่
-
-RESOURCE ID: gowa_2025_global_sr_dark_5_3
-TEXT: ว่าแล้วก็ลองนำไปปฏิบัติจริงดูสิ!
-
-RESOURCE ID: gowa_2025_global_sr_dark_6_0
-TEXT: ระวังไว้ให้ดีล่ะ แถวนี้มันมืด ๆ
-พุ่มไม้ยิ่งเยอะอยู่ด้วย
-
-RESOURCE ID: gowa_2025_global_sr_dark_6_1
-TEXT: แก๊งโกร็อกเกตโผล่ออกมาแล้ว
-แปลว่าดาร์กไรชาโดว์และเครเซเลียชาโดว์
-ต้องการความช่วยเหลืออย่างแน่นอน!
-
-RESOURCE ID: gowa_2025_global_sr_dark_6_2
-TEXT: โชคดีที่เธอมาด้วยพอดี %PLAYERNAME%
-
-RESOURCE ID: gowa_2025_global_sr_dark_6_3
-TEXT: ดูเหมือนพวกแก๊งโกร็อกเกตก็อยาก
-เข้ามาหาเรื่องแล้ว
-ไปเป็นคู่มือให้พวกนั้นหน่อยแล้วกัน!
-
-RESOURCE ID: gowa_2025_global_sr_dark_7_0
-TEXT: แบบนั้นแหละ %PLAYERNAME%!
-มองจากเงายังรู้ว่าเธอจะต้องจัดการได้แน่!
-
-RESOURCE ID: gowa_2025_global_sr_dark_7_1
-TEXT: ไม่น่าเชื่อว่าการออกตามหาบันทึกของฉัน
-จะพาเราผจญภัยมาถึงขนาดนี้! และแน่นอนว่า
-การผจญภัยของเรายังไม่จบลงแค่นี้หรอกนะ
-
-RESOURCE ID: gowa_2025_global_sr_dark_7_2
-TEXT: อย่างที่เธอรู้ว่าโลกใบนี้ยังมีสิ่งที่รอให้เรา
-เรียนรู้อยู่อีกมาก
-
-RESOURCE ID: gowa_2025_global_sr_dark_7_3
-TEXT: เรื่องราวต่อจากนี้จะเป็นอย่างไรนะ
-ชักตื่นเต้นแล้วสิ ไว้เจอกันใหม่นะ %PLAYERNAME%!
-
-RESOURCE ID: gowa_2025_global_sr_fairy_3_0
-TEXT: แฟรี่งั้นเหรอ? เป็นตัวเลือกที่ดีนี่!
-
-RESOURCE ID: gowa_2025_global_sr_fairy_3_1
-TEXT: อะแฮ่ม ถึงยังไงแผนซน ๆ ของเบโรบา
-ก็น่าทึ่งจริง ๆ นั่นแหละ แต่คราวหน้า
-ช่วยไปที่ห้องแล็บของคนอื่นทีเถอะ
-
-RESOURCE ID: gowa_2025_global_sr_fairy_3_2
-TEXT: ขอบคุณที่ไปเอาบันทึกของฉันกลับมา
-จากเบโรบาให้นะ %PLAYERNAME%
-
-RESOURCE ID: gowa_2025_global_sr_fairy_3_3
-TEXT: ได้เวลาพบกับประสบการณ์อันน่าหลงใหล
-ไปกับการสำรวจโปเกมอนประเภทแฟรี่!
-นำทางไปเลย!
-
-RESOURCE ID: gowa_2025_global_sr_fairy_4_0
-TEXT: โปเกมอนประเภทแฟรี่พวกนี้
-มหัศจรรย์มากเลย ว่าไหม?
-
-RESOURCE ID: gowa_2025_global_sr_fairy_4_1
-TEXT: บางทีถ้าเราทำให้พวกมันพอใจได้ มันอาจจะ
-แอบทำให้คำขอของเราเป็นจริงก็ได้
-แค่คิดก็น่าสนุกแล้ว!
-
-RESOURCE ID: gowa_2025_global_sr_fairy_4_2
-TEXT: ถ้าเป็นเธอจะขออะไร? ส่วนฉันอยากขอให้
-ได้ลองสลับร่างกับเมลตันหนึ่งวัน!
-
-RESOURCE ID: gowa_2025_global_sr_fairy_4_3
-TEXT: เอาเป็นว่า ออกไปสำรวจรอบ ๆ ต่อกันเถอะ เผื่อจะพบอะไรใหม่ ๆ
-
-RESOURCE ID: gowa_2025_global_sr_fairy_5_0
-TEXT: เคยได้ยินเรื่องของเจ้าชายแฟรี่ที่ทำให้
-เหล่าโปเกมอนหลงใหลด้วยเสียงดนตรี
-ของเขาไหม? ไม่เคยงั้นเหรอ?
-ไม่ใช่ว่ามีนิทานที่เล่าถึงอยู่เหรอ...
-
-RESOURCE ID: gowa_2025_global_sr_fairy_5_1
-TEXT: เอาเป็นว่า ถึงแม้ฉันจะไม่ใช่เจ้าชายแฟรี่
-แต่ก็มีความรู้เกี่ยวกับประเภทแฟรี่นะ
-
-RESOURCE ID: gowa_2025_global_sr_fairy_5_2
-TEXT: พวกมันชนะทางโปเกมอนประเภทต่อสู้ มังกร
-และความมืด แต่แพ้ทางประเภทพิษและโลหะ
-
-RESOURCE ID: gowa_2025_global_sr_fairy_5_3
-TEXT: นอกจากนี้ เราอาจจะได้เรียนรู้สิ่งอื่น
-จากพวกมันอีกก็ได้
-
-RESOURCE ID: gowa_2025_global_sr_fairy_6_0
-TEXT: เฝ้าสังเกตไว้ให้ดีล่ะ แถวนี้พุ่มไม้ยิ่งเยอะอยู่ด้วย
-
-RESOURCE ID: gowa_2025_global_sr_fairy_6_1
-TEXT: แก๊งโกร็อกเกตโผล่ออกมาแล้ว
-แปลว่าดาร์กไรชาโดว์และเครเซเลียชาโดว์
-ต้องการความช่วยเหลืออย่างแน่นอน!
-
-RESOURCE ID: gowa_2025_global_sr_fairy_6_2
-TEXT: โชคดีที่เธอมาด้วยพอดี %PLAYERNAME%
-
-RESOURCE ID: gowa_2025_global_sr_fairy_6_3
-TEXT: ดูเหมือนพวกแก๊งโกร็อกเกตก็อยาก
-เข้ามาหาเรื่องแล้ว
-ไปเป็นคู่มือให้พวกนั้นหน่อยแล้วกัน!
-
-RESOURCE ID: gowa_2025_global_sr_fairy_7_0
-TEXT: แบบนั้นแหละ %PLAYERNAME%! ทำให้ฉันทึ่งได้เสมอเลยนะ
-
-RESOURCE ID: gowa_2025_global_sr_fairy_7_1
-TEXT: ไม่น่าเชื่อว่าการออกตามหาบันทึกของฉัน
-จะพาเราผจญภัยมาถึงขนาดนี้! และแน่นอนว่า
-การผจญภัยของเรายังไม่จบลงแค่นี้หรอกนะ
-
-RESOURCE ID: gowa_2025_global_sr_fairy_7_2
-TEXT: อย่างที่เธอรู้ว่าโลกใบนี้ยังมีสิ่งที่รอให้เรา
-เรียนรู้อยู่อีกมาก
-
-RESOURCE ID: gowa_2025_global_sr_fairy_7_3
-TEXT: เรื่องราวต่อจากนี้จะเป็นอย่างไรนะ
-ชักตื่นเต้นแล้วสิ ไว้เจอกันใหม่นะ %PLAYERNAME%!
-
-RESOURCE ID: gowa_2025_global_sr_intro_1_0
-TEXT: อยู่ไหนกันนะ!? อ๊ะ %PLAYERNAME%!
-
-RESOURCE ID: gowa_2025_global_sr_intro_1_1
-TEXT: เห็นบันทึกงานวิจัยของฉันบ้างหรือเปล่า?
-เหมือนบันทึกหายวับไปในอากาศเลย!
-
-RESOURCE ID: gowa_2025_global_sr_intro_1_2
-TEXT: ขอโทษที่ต้องมาเห็นฉันตอนวุ่น ๆ นะ ไปวางไว้ที่ไหนกัน...
-
-RESOURCE ID: gowa_2025_global_sr_intro_1_3
-TEXT: หือ? เห็นอะไรอยู่ทางนั้นงั้นเหรอ?
-
-RESOURCE ID: gowa_2025_global_sr_intro_2_0
-TEXT: ฮ้า! โปเกมอนเจ้าเล่ห์เบโรบานี่เอง
-ที่ขโมยบันทึกไป!
-
-RESOURCE ID: gowa_2025_global_sr_intro_2_1
-TEXT: เบโรบาชอบแอบเข้าไปในบ้านคนและขโมยของ
-และยังดูดเอาพลังงานลบ
-ของคนที่รู้สึกไม่สมหวังไปด้วยล่ะ
-
-RESOURCE ID: gowa_2025_global_sr_intro_2_2
-TEXT: แต่เบโรบาก็ทำให้พวกเราพบที่แห่งนี้!
-โปเกมอนประเภทแฟรี่และความมืด
-เต็มไปหมด!
-
-RESOURCE ID: gowa_2025_global_sr_intro_2_3
-TEXT: รู้สึกคึกขึ้นมาเลยใช่ไหม? ออกไปสำรวจกันเถอะ!
+RESOURCE ID: gstar_2024_evolve_move_bonus_swampert
+TEXT: วิวัฒนาการนูมาโครเป็นลากลาจที่รู้ท่าโจมตีชาร์จ "ไฮโดรแคนนอน"
 
 RESOURCE ID: in_techfest_2025_bonus
 TEXT: โบนัสอีเวนต์ Pokémon GO College Fest 2025
@@ -629,12 +524,6 @@ TEXT: วิวัฒนาการลิซาร์โดะเป็นล�
 
 RESOURCE ID: in_techfest_2025_evolve_move_bonus_venusaur
 TEXT: วิวัฒนาการฟุชิกิโซเป็นฟุชิกิบานะที่รู้ท่าโจมตีชาร์จ "ฮาร์ดแพลนท์"
-
-RESOURCE ID: in_techfest_2025_tag
-TEXT: Pokémon GO College Fest 2025
-
-RESOURCE ID: in_techfest_2025_title
-TEXT: Pokémon GO College Fest 2025
 
 RESOURCE ID: in_techfest_2025_tr_name
 TEXT: งานวิจัยแบบจำกัดเวลา Pokémon GO College Fest 2025
@@ -676,6 +565,16 @@ TEXT: ตั๋วสำหรับเข้าร่วมงานวิจ�
 หลังซื้อ คุณจำเป็นต้องเข้าเล่นเกมระหว่างวันที่ 2 ธันวาคม เวลา 10.00 น. ถึงวันที่ 10 กุมภาพันธ์ เวลา 20.00 น. (ตามเวลาท้องถิ่น) เพื่อรับงานวิจัยระยะยาวนี้
 เมื่อรับงานวิจัยระยะยาวแล้ว มันจะไม่หายไป
 
+RESOURCE ID: item_event_ticket_desc_sunmoon_researchtr2025
+TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยแบบจำกัดเวลาพรีเมียม: โซลร็อกและลูนาโทน
+ในวันที่ 20 ธันวาคม 2025 ตั้งแต่เวลา 14:00-17:00 น. ตามเวลาท้องถิ่น
+
+RESOURCE ID: item_event_ticket_details_sunmoon_researchtr2025
+TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยแบบจำกัดเวลาพรีเมียม: โซลร็อกและลูนาโทน
+ในวันที่ 20 ธันวาคม
+คุณจะสามารถเข้าร่วมได้โดยอัตโนมัติ
+ตามเวลาท้องถิ่นทั่วโลก
+
 RESOURCE ID: item_event_ticket_evergreen_desc_journeytpaldea25
 TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยแบบจำกัดเวลาพรีเมียม: การเดินทางในภูมิภาคพัลเดีย
 ถึงวันที่ 9 ธันวาคม 2025 เวลา 20:00 น. ตามเวลาท้องถิ่นทั่วโลก
@@ -686,37 +585,29 @@ TEXT: ตั๋วสำหรับเข้าร่วมงานวิจ�
 คุณจะสามารถเข้าร่วมได้โดยอัตโนมัติ
 ตามเวลาท้องถิ่นทั่วโลก
 
-RESOURCE ID: item_event_ticket_gray_desc_finaljustice2025
-TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยระยะยาว: ตำนานแห่งความยุติธรรม
-ตั้งแต่วันที่ 25 พฤศจิกายน เวลา 10:00 น. ถึงวันที่ 30 พฤศจิกายน 2025 เวลา 20:00 น. ตามเวลาท้องถิ่นไม่ว่าคุณจะอยู่ที่ใด
-
-RESOURCE ID: item_event_ticket_gray_details_finaljustice2025
-TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยระยะยาว: ตำนานแห่งความยุติธรรม ตั้งแต่วันที่ 25 พฤศจิกายน เวลา 10:00 น. ถึงวันที่ 30 พฤศจิกายน 2025 เวลา 20:00 น.
-คุณจะสามารถเข้าร่วมได้โดยอัตโนมัติ
-ตามเวลาท้องถิ่นทั่วโลก
-
-RESOURCE ID: item_event_ticket_pink_desc_cd_pikipek25
-TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยพิเศษ
-สึสึเคระคอมมิวนิตี้เดย์
-ในวันที่ 30 พฤศจิกายน 2025 14:00 น.
-ตามเวลาท้องถิ่นทั่วโลก
-
 RESOURCE ID: item_event_ticket_pink_desc_cd_recap2025
 TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยพิเศษ
 คอมมิวนิตี้เดย์ธันวาคม
 ในวันที่ 6 ธันวาคม 2025 9:00 น.
 ตามเวลาท้องถิ่นทั่วโลก
 
-RESOURCE ID: item_event_ticket_pink_details_cd_pikipek25
-TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยพิเศษ "ชนชั้นลำดับจิก"
-ในวันที่ 30 พฤศจิกายน
-คุณจะสามารถเข้าร่วมได้โดยอัตโนมัติ
+RESOURCE ID: item_event_ticket_pink_desc_cdc_piplup26
+TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยพิเศษ
+โพจจามะคอมมิวนิตี้เดย์ (รีเทิร์น)
+ในวันที่ 4 มกราคม 2026 14:00 น.
 ตามเวลาท้องถิ่นทั่วโลก
 
 RESOURCE ID: item_event_ticket_pink_details_cd_recap2025
 TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยพิเศษ
 คอมมิวนิตี้เดย์ธันวาคม
 ในวันที่ 6 ธันวาคม
+คุณจะสามารถเข้าร่วมได้โดยอัตโนมัติ
+ตามเวลาท้องถิ่นทั่วโลก
+
+RESOURCE ID: item_event_ticket_pink_details_cdc_piplup26
+TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยพิเศษ
+โพจจามะคอมมิวนิตี้เดย์ (รีเทิร์น)
+ในวันที่ 4 มกราคม
 คุณจะสามารถเข้าร่วมได้โดยอัตโนมัติ
 ตามเวลาท้องถิ่นทั่วโลก
 
@@ -883,7 +774,7 @@ TEXT: ยินดีด้วย %PLAYERNAME%!
 ของเคลดิโอแล้ว!
 
 RESOURCE ID: kr_festival_red_striped_basculin_bonus
-TEXT: Red-Striped Basculin may encountered while using lure or Incense near a river in the event area
+TEXT: Red-Striped Basculin will be attracted to Lure Modules or Incense near rivers in the Pyeongchang area
 
 RESOURCE ID: kr_lantern_festival_2025_bonus
 TEXT: โบนัสอีเวนต์เทศกาลโคมไฟโซล
@@ -928,10 +819,10 @@ RESOURCE ID: kr_lantern_festival_2025_tr_name_3
 TEXT: งานวิจัยแบบจำกัดเวลาคอยคิงบุก (3/3)
 
 RESOURCE ID: kr_winter_festival_2026_pyeongchang_bonus
-TEXT: Pyeongchang Winter Festival 2026 - Pyeongchang Bonus
+TEXT: Pyeongchang Winter Festival 2026 – Pyeongchang Bonus
 
 RESOURCE ID: kr_winter_festival_2026_riverside_bonus
-TEXT: Pyeongchang Winter Festival 2026 - Riverside Bonus
+TEXT: Pyeongchang Winter Festival 2026 – Riverside Bonus
 
 RESOURCE ID: kr_winter_festival_2026_tag
 TEXT: Pyeongchang Trout Festival
@@ -952,22 +843,16 @@ RESOURCE ID: kr_winter_festival_2026_tr_name_3
 TEXT: Pyeongchang Winter Festival Location Background Timed Research (3/3)
 
 RESOURCE ID: kr_winter_festival_location_background_in_wild
-TEXT: Pikachu wearing a Winter Beanie appearing in wild may have an exclusive location background in the event area
+TEXT: Pikachu wearing a snowflake beanie encountered in the wild may have a Pyeongchang Winter Festival Location Background
 
 RESOURCE ID: kr_winter_festival_raid_event_area
-TEXT: Event-exclusive raids featuring Pikachu wearing a Winter Beanie, Deerling(Witner Form) appearing in the event area
+TEXT: Event-exclusive raids featuring Pikachu wearing a snowflake beanie and Winter Form Deerling will take place in the Pyeongchang area
 
-RESOURCE ID: local_trade_action
-TEXT: แลกเปลี่ยนในพื้นที่
+RESOURCE ID: lucky_remote_trade_confirm_body
+TEXT: กรุณาเสร็จสิ้นการแลกเปลี่ยนระยะไกลนำโชคกับ {0}!
 
-RESOURCE ID: lucky_trade_confirm_extra_message
-TEXT: หลังจากเป็นเพื่อนนำโชค จะสามารถทำการแลกเปลี่ยนนำโชคได้ 1 ครั้ง
-
-RESOURCE ID: lucky_trade_confirm_title
-TEXT: คุณต้องการทำการแลกเปลี่ยนนำโชคหรือไม่?
-
-RESOURCE ID: lucky_trade_confirm_warning_message
-TEXT: โปเกมอนที่ถูกแลกเปลี่ยนจะกลายเป็นโปเกมอนนำโชค แต่คุณจะไม่เป็นเพื่อนนำโชคกับอีกฝ่ายอีกต่อไป
+RESOURCE ID: lucky_remote_trade_initiate_body
+TEXT: {0} ส่งคำขอแลกเปลี่ยนระยะไกลนำโชคมาให้คุณ!
 
 RESOURCE ID: meetup_check_in_research_title_community_recap_0
 TEXT: งานวิจัยแบบจำกัดเวลาเช็กอินงานพบปะ: คอมมิวนิตี้เดย์ (1/3)
@@ -979,19 +864,19 @@ RESOURCE ID: meetup_check_in_research_title_community_recap_2
 TEXT: งานวิจัยแบบจำกัดเวลาเช็กอินงานพบปะ: คอมมิวนิตี้เดย์ (3/3)
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2025-12-06T00:35:06.717081+00:00 for th-TH
-at SHA 864ecb6a59b
-Pipeline 3462379, job 49061846
-Patch from: 0.389.2-SHA-d7989dae-RC1, 0.391.0-SHA-386a01ae-RC1
+TEXT: Built at 2025-12-16T03:39:46.990767+00:00 for th-TH
+at SHA 23ed10cfad6
+Pipeline 3473146, job 49305673
+Patch from: 0.391.0-SHA-1e21c049-RC5, 0.393.0-SHA-e526fe9a-RC2
 
 RESOURCE ID: move_name_0489
 TEXT: ดาบลึกลับ
 
-RESOURCE ID: move_name_0490
-TEXT: จะงอยปากปืนใหญ่
+RESOURCE ID: photobomb_five_piplup
+TEXT: โพจจามะแย่งซีนถ่ายรูปในโกสแนปช็อต 5 ครั้ง
 
-RESOURCE ID: photobomb_five_pikipek
-TEXT: สึสึเคระแย่งซีนถ่ายรูปในโกสแนปช็อต 5 ครั้ง
+RESOURCE ID: pokedex_sort_size
+TEXT: Size
 
 RESOURCE ID: pokemon_desc_0647
 TEXT: เมื่อเตรียมใจได้แล้ว พลังจะเอ่อล้นทั่วกายจน
@@ -1002,78 +887,11 @@ RESOURCE ID: pokemon_desc_0647_0149
 TEXT: ร่ำเรียนการต่อสู้มาจากโคบัลออน เทราคิออน
 และวิริซิออน วิ่งทะยานไปทั่วโลกเพื่อฝึกตนต่อไป
 
-RESOURCE ID: pokemon_desc_0647_0150
-TEXT: เมื่อตัดสินใจอย่างแน่วแน่ที่จะต่อสู้ พลังจะเอ่อ
-ขึ้นทั่วกายและร่างของเคลดิโอจะเปลี่ยนไป
-
-RESOURCE ID: pokemon_evolution_not_enough_candy_toast
-TEXT: คุณมีลูกอมสำหรับวิวัฒนาการโปเกมอนไม่เพียงพอ
-
-RESOURCE ID: pokemon_for_trade
-TEXT: โปเกมอนที่แลกเปลี่ยนได้
-
 RESOURCE ID: pokemon_info_caught_quest_event_pass
 TEXT: จับจากบัตรผ่าน GO
 
-RESOURCE ID: pokemon_info_pending_remote_trade
-TEXT: รอดำเนินการแลกเปลี่ยนระยะไกล
-
-RESOURCE ID: pokemon_info_remote_trade_time_locked
-TEXT: สามารถแลกเปลี่ยนระยะไกลได้ในอีก {0} วัน
-
-RESOURCE ID: pokemon_info_remote_trade_time_locked_singular
-TEXT: สามารถแลกเปลี่ยนระยะไกลได้ในอีก 1 วัน
-
-RESOURCE ID: pokemon_no_longer_able_battle_powerspots
-TEXT: ไม่สามารถแบตเทิลที่พาวเวอร์สป็อตได้อีกต่อไป
-
-RESOURCE ID: pokemon_offered_remote_trade_toast
-TEXT: โปเกมอนที่กำลังรอแลกเปลี่ยนระยะไกล
-
-RESOURCE ID: pony_tales_masterwork_ticket_shop
-TEXT: สามารถซื้อตั๋วสำหรับงานวิจัยระยะยาว: ตำนานแห่งความยุติธรรมได้ที่ร้านค้า
-
-RESOURCE ID: ptc_auth_consent_needed
-TEXT: คุณต้องอนุญาตให้ Pokémon GO เข้าถึงบัญชี ศูนย์โปเกมอนเทรนเนอร์ ของคุณเพื่อเล่นต่อ
-
-RESOURCE ID: ptc_auth_consent_needed_out
-TEXT: คุณต้องอนุญาตให้ Pokémon GO เข้าถึงบัญชี Pokémon Trainer Club ของคุณเพื่อเล่นต่อ
-
-RESOURCE ID: ptc_auth_link_message
-TEXT: เชื่อมโยงบัญชี ศูนย์โปเกมอนเทรนเนอร์ เข้ากับบัญชี Pokémon GO ของคุณเพื่อรับ{0}
-
-RESOURCE ID: ptc_auth_link_message_out
-TEXT: เชื่อมโยงบัญชี Pokémon Trainer Club เข้ากับบัญชี Pokémon GO ของคุณเพื่อรับ{0}
-
-RESOURCE ID: ptc_claim_reward_msg
-TEXT: คุณเชื่อมต่อบัญชี ศูนย์โปเกมอนเทรนเนอร์ เรียบร้อย และได้รับเครื่องฟักไข่แล้ว
-
-RESOURCE ID: ptc_claim_reward_msg_out
-TEXT: คุณเชื่อมต่อบัญชี Pokémon Trainer Club เรียบร้อย และได้รับเครื่องฟักไข่แล้ว
-
-RESOURCE ID: ptc_login_button
-TEXT: ศูนย์โปเกมอนเทรนเนอร์
-
-RESOURCE ID: ptc_login_button_out
-TEXT: Pokémon Trainer Club
-
-RESOURCE ID: ptc_login_server_unreachable
-TEXT: ขณะนี้ ศูนย์โปเกมอนเทรนเนอร์ เกิดเหตุขัดข้อง ขออภัยในความไม่สะดวก
-
-RESOURCE ID: ptc_login_server_unreachable_out
-TEXT: ขณะนี้ Pokémon Trainer Club เกิดเหตุขัดข้อง ขออภัยในความไม่สะดวก
-
-RESOURCE ID: ptc_login_title
-TEXT: ศูนย์โปเกมอนเทรนเนอร์
-
-RESOURCE ID: ptc_login_title_out
-TEXT: Pokémon Trainer Club
-
 RESOURCE ID: quest_buddy_play_days_plural
 TEXT: เล่นกับโปเกมอนคู่หูรวม {0} วัน
-
-RESOURCE ID: quest_catch_pikachu_singular
-TEXT: จับพิคาชู
 
 RESOURCE ID: quest_catch_scatterbug_singular
 TEXT: จับโคฟูคิมูชิ
@@ -1096,14 +914,8 @@ TEXT: หมุนเสาโปเกสต็อปหรือยิมใ�
 RESOURCE ID: quest_event_spin_sydney
 TEXT: หมุนเสาโปเกสต็อปหรือยิมในซิดนีย์
 
-RESOURCE ID: quest_medal_gen5_platinum
-TEXT: ได้รับเหรียญรางวัล "อิชชู" แพลทินัม
-
-RESOURCE ID: quest_pikipek_catch_b
-TEXT: จับสึสึเคระ {0} ตัว
-
-RESOURCE ID: quest_snapshot_wild_water_fighting_unique_plural
-TEXT: ถ่ายภาพโปเกมอนป่าประเภทน้ำหรือต่อสู้ที่แตกต่างกัน {0} สายพันธุ์
+RESOURCE ID: quest_piplup_catch_b
+TEXT: จับโพจจามะ {0} ตัว
 
 RESOURCE ID: quest_title_master_ball_sr_25_1
 TEXT: งานวิจัยระยะยาว: ฝากไว้กับบอลนี้
@@ -1120,17 +932,20 @@ TEXT: งานวิจัยระยะยาว: ฝากไว้กับ
 RESOURCE ID: quest_title_master_ball_sr_25_5
 TEXT: งานวิจัยระยะยาว: ฝากไว้กับบอลนี้ (4/4)
 
-RESOURCE ID: quest_title_pikipek
-TEXT: ชนชั้นลำดับจิก
+RESOURCE ID: quest_title_piplup
+TEXT: ขบวนโพจจามะ
 
-RESOURCE ID: quest_title_pikipek_0
-TEXT: ชนชั้นลำดับจิก (1/3)
+RESOURCE ID: quest_title_piplup_0
+TEXT: ขบวนโพจจามะ (1/3)
 
-RESOURCE ID: quest_title_pikipek_1
-TEXT: ชนชั้นลำดับจิก (2/3)
+RESOURCE ID: quest_title_piplup_1
+TEXT: ขบวนโพจจามะ (2/3)
 
-RESOURCE ID: quest_title_pikipek_2
-TEXT: ชนชั้นลำดับจิก (3/3)
+RESOURCE ID: quest_title_piplup_2
+TEXT: ขบวนโพจจามะ (3/3)
+
+RESOURCE ID: raid_hour_raids_five_outside_stadium
+TEXT: เพิ่มจำนวนตีบอสห้าดาวนอกสเตเดียม
 
 RESOURCE ID: rally_city_safari_2025_buenosaires_desc
 TEXT: ยินดีต้อนรับสู่ City Safari: บัวโนสไอเรส!
@@ -1168,116 +983,34 @@ TEXT: ซิดนีย์, ออสเตรเลีย
 RESOURCE ID: rally_city_safari_2025_sydney_rewards_desc_general
 TEXT: เผชิญหน้ากับอีวุย (อีวุยสวมหมวกซาฟารี) ที่มีพื้นหลังสถานที่พิเศษเฉพาะซิดนีย์
 
-RESOURCE ID: remote_trade_action
-TEXT: แลกเปลี่ยนระยะไกล
-
-RESOURCE ID: remote_trade_active_remote_trade
-TEXT: กำลังแลกเปลี่ยนระยะไกล
-
-RESOURCE ID: remote_trade_auto_cancel_message
-TEXT: โปเกมอนที่ยื่นเรื่องขอไม่สามารถแลกเปลี่ยนระยะไกลได้
-
-RESOURCE ID: remote_trade_cancel_confirmation_toast
-TEXT: ยกเลิก
-
-RESOURCE ID: remote_trade_cancel_modal_title
-TEXT: คุณแน่ใจหรือไม่ว่าต้องการยกเลิกการแลกเปลี่ยนระยะไกลกับ {0}?
-
-RESOURCE ID: remote_trade_cancel_offer_title
-TEXT: รายละเอียดการแลกเปลี่ยนระยะไกล
-
-RESOURCE ID: remote_trade_cancel_offer_tooltip
-TEXT: รอเพื่อนตรวจสอบและยืนยันการแลกเปลี่ยน
-
-RESOURCE ID: remote_trade_cancel_offered_header
-TEXT: โปเกมอนที่เสนอแลกเปลี่ยน
-
-RESOURCE ID: remote_trade_cancel_requested_header
-TEXT: โปเกมอนที่ยื่นเรื่องขอจาก {0}
-
-RESOURCE ID: remote_trade_cancel_requested_title
-TEXT: เริ่มแลกเปลี่ยนระยะไกล
-
-RESOURCE ID: remote_trade_cancel_requested_tooltip
-TEXT: รอการตอบรับจากเพื่อน
-
-RESOURCE ID: remote_trade_cancel_trade
-TEXT: ยกเลิกการแลกเปลี่ยน
-
-RESOURCE ID: remote_trade_cancelled_body
-TEXT: การแลกเปลี่ยนระยะไกลกับ {0} ถูกยกเลิกแล้ว
-
-RESOURCE ID: remote_trade_completion_overlay_message
-TEXT: {0} เสร็จสิ้นการแลกเปลี่ยนระยะไกล!
-
-RESOURCE ID: remote_trade_confirm_body
-TEXT: กรุณาเสร็จสิ้นการแลกเปลี่ยนระยะไกลกับ {0}!
-
-RESOURCE ID: remote_trade_confirm_stardust_help
-TEXT: นี่เป็นค่าประมาณของปริมาณสตาร์ดัสต์ที่ใช้ในการแลกเปลี่ยน เนื่องจากระบบจะสำรองปริมาณสูงสุดไว้ สตาร์ดัสต์ที่ไม่ได้ใช้จริงจะถูกคืนให้ภายหลัง
-
-RESOURCE ID: remote_trade_confirmation_dialog
-TEXT: ยืนยันหรือไม่?
-
-RESOURCE ID: remote_trade_confirmation_dialog_info
-TEXT: {0} จะเลือกตัวสำหรับแลกเปลี่ยน 1 ตัวแล้วยืนยัน
-
 RESOURCE ID: remote_trade_confirmation_dialog_info_singular
 TEXT: {0} จะตรวจสอบการแลกเปลี่ยน
 
-RESOURCE ID: remote_trade_confirmation_dialog_singular
-TEXT: ยืนยันหรือไม่?
-
 RESOURCE ID: remote_trade_daily_limit
-TEXT: วันนี้คุณแลกเปลี่ยนระยะไกลไปแล้ว
-
-RESOURCE ID: remote_trade_daily_limit_temp
 TEXT: จำนวนครั้งการแลกเปลี่ยนระยะไกลประจำวันของคุณถึงขีดจำกัดแล้ว ({0} ครั้งต่อวัน)
 
-RESOURCE ID: remote_trade_decline_confirmation_toast
-TEXT: การแลกเปลี่ยนระยะไกลกับ {0} ถูกยกเลิกแล้ว
+RESOURCE ID: remote_trade_daily_limit_out
+TEXT: วันนี้คุณแลกเปลี่ยนระยะไกลไปแล้ว
 
 RESOURCE ID: remote_trade_decline_modal_body
 TEXT: การแลกเปลี่ยนนี้จะถูกยกเลิก (สามารถเริ่มการแลกเปลี่ยนใหม่ได้)
 
-RESOURCE ID: remote_trade_decline_modal_title
-TEXT: คุณแน่ใจหรือไม่ว่าต้องการปฏิเสธการแลกเปลี่ยนระยะไกลกับ {0}?
+RESOURCE ID: remote_trade_first_time_body
+TEXT: Your friend has some time to respond to your trade request.
 
-RESOURCE ID: remote_trade_escrowed_pokemon_message
-TEXT: ลบแท็กของโปเกมอนนอกเหนือจากโปเกมอนที่กำลังรอแลกเปลี่ยนระยะไกล
+If a trade expires, the request will be canceled but you won’t lose your opportunity to remote trade with this friend.
 
-RESOURCE ID: remote_trade_escrowed_pokemon_title
-TEXT: ไม่สามารถลบแท็กได้
+RESOURCE ID: remote_trade_first_time_title
+TEXT: Come back later!
 
-RESOURCE ID: remote_trade_exit_warning_message_continue
-TEXT: สามารถยืนยันการแลกเปลี่ยนระยะไกลได้ตลอดเวลา ก่อนคำขอหมดอายุ
-
-RESOURCE ID: remote_trade_exit_warning_message_later
-TEXT: สามารถแลกเปลี่ยนระยะไกลได้ในภายหลัง
-
-RESOURCE ID: remote_trade_exit_warning_title
-TEXT: คุณแน่ใจหรือไม่ว่าต้องการออกจากการแลกเปลี่ยนระยะไกลกับ {0}?
-
-RESOURCE ID: remote_trade_expire_body
-TEXT: การแลกเปลี่ยนระยะไกลกับ {0} หมดอายุแล้ว
-
-RESOURCE ID: remote_trade_expire_soon_body
-TEXT: การแลกเปลี่ยนระยะไกลกับ {0} ใกล้หมดอายุแล้ว
+RESOURCE ID: remote_trade_friend_all_time_locked_pokemon_message
+TEXT: Your friend’s Pokémon aren’t ready to be traded remotely.
 
 RESOURCE ID: remote_trade_friend_daily_limit
-TEXT: วันนี้เพื่อนของคุณแลกเปลี่ยนระยะไกลไปแล้ว
-
-RESOURCE ID: remote_trade_friend_daily_limit_temp
 TEXT: จำนวนครั้งการแลกเปลี่ยนระยะไกลประจำวันของเพื่อนถึงขีดจำกัดแล้ว ({0} ครั้งต่อวัน)
 
-RESOURCE ID: remote_trade_friend_in_remote_trade
-TEXT: เพื่อนกำลังแลกเปลี่ยนระยะไกล
-
-RESOURCE ID: remote_trade_friend_no_tagged_pokemon_message
-TEXT: เพื่อนของคุณไม่มีโปเกมอนที่ติดแท็กแลกเปลี่ยนระยะไกล
-
-RESOURCE ID: remote_trade_friend_no_tagged_pokemon_title
-TEXT: ไม่มีโปเกมอนที่ติดแท็ก
+RESOURCE ID: remote_trade_friend_daily_limit_out
+TEXT: วันนี้เพื่อนของคุณแลกเปลี่ยนระยะไกลไปแล้ว
 
 RESOURCE ID: remote_trade_friend_pokemon_title
 TEXT: โปเกมอนของ {0}
@@ -1285,50 +1018,11 @@ TEXT: โปเกมอนของ {0}
 RESOURCE ID: remote_trade_header_text
 TEXT: โปเกมอนของ {0}
 
-RESOURCE ID: remote_trade_initiate_body
-TEXT: {0} เริ่มการแลกเปลี่ยนระยะไกลแล้ว!
-
-RESOURCE ID: remote_trade_locked
-TEXT: รับแต้มมิตรภาพ {0} แต้ม เพื่อปลดล็อกการแลกเปลี่ยนระยะไกล
-
-RESOURCE ID: remote_trade_locked_singular
-TEXT: รับแต้มมิตรภาพ 1 แต้ม เพื่อปลดล็อกการแลกเปลี่ยนระยะไกล
-
-RESOURCE ID: remote_trade_no_tagged_pokemon
-TEXT: ติดแท็กโปเกมอนที่อนุญาตให้แลกเปลี่ยนระยะไกลกับเพื่อนแท้ตลอดไป การแลกเปลี่ยนจริงจะดำเนินการหลังยืนยัน
-
-RESOURCE ID: remote_trade_notif_action_button
-TEXT: ตรวจสอบ
-
-RESOURCE ID: remote_trade_offer_selection_header
-TEXT: คำขอของ {0}
-
-RESOURCE ID: remote_trade_offer_selection_title
-TEXT: เลือกโปเกมอนที่ต้องการเสนอแลกเปลี่ยน
+RESOURCE ID: remote_trade_inventory_select_error_toast
+TEXT: Select 1–3 Pokémon to trade with your friend.
 
 RESOURCE ID: remote_trade_offer_selection_title_singular
 TEXT: เลือกโปเกมอนที่ต้องการเสนอแลกเปลี่ยน
-
-RESOURCE ID: remote_trade_offer_selection_tooltip
-TEXT: โปเกมอนที่เสนอแลกเปลี่ยนจะถูกพักไว้จนกว่าการแลกเปลี่ยนจะเสร็จสมบูรณ์
-
-RESOURCE ID: remote_trade_overlay_complete
-TEXT: ตรวจสอบและยืนยันคำขอแลกเปลี่ยนระยะไกล
-
-RESOURCE ID: remote_trade_overlay_respond
-TEXT: ตรวจสอบคำขอแลกเปลี่ยนระยะไกล
-
-RESOURCE ID: remote_trade_player_no_tagged_pokemon_confirm
-TEXT: ไปที่หน้าจอติดแท็ก
-
-RESOURCE ID: remote_trade_player_no_tagged_pokemon_message
-TEXT: ไปที่หน้าจอติดแท็กแลกเปลี่ยนระยะไกล เพื่อติดแท็กโปเกมอนที่จะให้เพื่อนเลือก
-
-RESOURCE ID: remote_trade_player_no_tagged_pokemon_title
-TEXT: ก่อนเริ่ม
-
-RESOURCE ID: remote_trade_player_not_enough_stardust
-TEXT: คุณมีสตาร์ดัสต์ไม่เพียงพอ
 
 RESOURCE ID: remote_trade_player_pokemon_title
 TEXT: โปเกมอนของ {0}
@@ -1336,26 +1030,14 @@ TEXT: โปเกมอนของ {0}
 RESOURCE ID: remote_trade_player_tagged_pokemon_unavailable_message
 TEXT: โปเกมอนที่ติดแท็กยังไม่สามารถแลกเปลี่ยนระยะไกลได้ โปรดเลือกโปเกมอนอื่นเพื่อติดแท็ก
 
-RESOURCE ID: remote_trade_pokemon_selected_subtitle
-TEXT: {0} จะเลือก 1 ตัว
-
 RESOURCE ID: remote_trade_pokemon_selected_subtitle_singular
 TEXT: {0} จะตรวจสอบการแลกเปลี่ยน
-
-RESOURCE ID: remote_trade_pokemon_selected_title
-TEXT: คำขอของคุณ
-
-RESOURCE ID: remote_trade_pokemon_tagged_for_trade
-TEXT: โปเกมอนที่ติดแท็กแลกเปลี่ยนระยะไกล
 
 RESOURCE ID: remote_trade_push_notification_reminder_body
 TEXT: เปิดการแจ้งเตือนเกี่ยวกับการแลกเปลี่ยนระยะไกล เพื่อให้การแลกเปลี่ยนเป็นไปอย่างราบรื่น
 
 RESOURCE ID: remote_trade_push_notification_reminder_title
 TEXT: เปิดรับแจ้งเตือน
-
-RESOURCE ID: remote_trade_push_notification_setting
-TEXT: คำขอแลกเปลี่ยนระยะไกล
 
 RESOURCE ID: remote_trade_push_notification_step_1
 TEXT: 1. ไปที่ "การตั้งค่า" > "Pokémon GO"
@@ -1366,74 +1048,20 @@ TEXT: 2. เลือก “การแจ้งเตือน”
 RESOURCE ID: remote_trade_push_notification_step_3
 TEXT: 3. เปิดการแจ้งเตือน
 
-RESOURCE ID: remote_trade_receive_offer_subtitle
-TEXT: ตรวจสอบโปเกมอนที่ {0} เลือก เพื่อยืนยันการแลกเปลี่ยน
-
-RESOURCE ID: remote_trade_receive_request_cancel
-TEXT: ไม่แลกเปลี่ยน
-
-RESOURCE ID: remote_trade_receive_request_confirm
-TEXT: เริ่ม
-
-RESOURCE ID: remote_trade_receive_request_pokemon_header
-TEXT: {0} ต้องการหนึ่งในต่อไปนี้
-
 RESOURCE ID: remote_trade_receive_request_pokemon_header_singular
 TEXT: {0} ต้องการโปเกมอนดังต่อไปนี้: 
 
-RESOURCE ID: remote_trade_receive_request_subtitle
-TEXT: ตรวจสอบโปเกมอนที่ {0} ยื่นเรื่องขอเพื่อดำเนินการต่อ
-
-RESOURCE ID: remote_trade_receive_request_title
-TEXT: ตรวจสอบการแลกเปลี่ยนระยะไกล
-
-RESOURCE ID: remote_trade_remove_tag_warning_message
-TEXT: นำคู่หูใหม่ออกจากรายชื่อแลกเปลี่ยนระยะไกล
-
-RESOURCE ID: remote_trade_remove_tag_warning_title
-TEXT: ลบแท็กแลกเปลี่ยนระยะไกลหรือไม่?
-
-RESOURCE ID: remote_trade_request_sent_toast
-TEXT: ส่งคำขอแลกเปลี่ยนระยะไกลให้ {0} แล้ว
-
-RESOURCE ID: remote_trade_select_text
-TEXT: เลือกโปเกมอนที่ต้องการ (1-3 ตัว)
-
-RESOURCE ID: remote_trade_self_label
-TEXT: ฉัน
+RESOURCE ID: remote_trade_select_offer_error_toast
+TEXT: Select one Pokémon to trade with your friend.
 
 RESOURCE ID: remote_trade_show_unregistered_pokemon_text
 TEXT: ดูโปเกมอนที่ยังไม่ได้บันทึก
-
-RESOURCE ID: remote_trade_tag_details
-TEXT: เพื่อนแท้ตลอดไปสามารถมองเห็นได้
 
 RESOURCE ID: remote_trade_tag_reminder_body
 TEXT: ติดแท็ก "แลกเปลี่ยนระยะไกล" ให้กับโปเกมอนที่จะให้เพื่อนเลือก
 
 RESOURCE ID: remote_trade_tag_reminder_title
 TEXT: ก่อนแลกเปลี่ยนระยะไกล
-
-RESOURCE ID: remote_trade_time_locked_message
-TEXT: สามารถเสนอโปเกมอนในการแลกเปลี่ยนระยะไกล {0} วันหลังจับ หากติดแท็กแลกเปลี่ยนระยะไกลไว้ จะอยู่ในสภาพติดแท็กต่อไป
-
-RESOURCE ID: remote_trade_time_locked_message_singular
-TEXT: สามารถเสนอโปเกมอนตัวนี้ในการแลกเปลี่ยนระยะไกลได้ในอีก {0} วัน (อยู่ในสภาพติดแท็กแลกเปลี่ยนระยะไกลต่อไป)
-
-RESOURCE ID: remote_trade_time_locked_message_singular_day
-TEXT: สามารถเสนอโปเกมอนตัวนี้ในการแลกเปลี่ยนระยะไกลได้ในอีก {0} วัน (อยู่ในสภาพติดแท็กแลกเปลี่ยนระยะไกลต่อไป)
-
-RESOURCE ID: remote_trade_time_locked_pokemon_singular_toast
-TEXT: โปเกมอนตัวนี้สามารถแลกเปลี่ยนได้ในอีก 1 วัน
-
-RESOURCE ID: remote_trade_time_locked_pokemon_toast
-TEXT: โปเกมอนตัวนี้สามารถแลกเปลี่ยนได้ในอีก {0} วัน
-
-RESOURCE ID: remote_trade_time_locked_title
-TEXT: ไม่สามารถแลกเปลี่ยนระยะไกลโปเกมอนที่พึ่งจับมาได้
-
-RESOURCE ID: remote_trade_unlock_bf+
-TEXT: เป็น "เพื่อนแท้ตลอดไป" เพื่อปลดล็อกการแลกเปลี่ยนระยะไกล
 
 RESOURCE ID: remote_trade_unlock_body
 TEXT: สามารถแลกเปลี่ยนกับเพื่อนที่เป็น "เพื่อนแท้ตลอดไป" ได้จากทุกที่ทั่วโลกแล้ว
@@ -1443,17 +1071,23 @@ TEXT: สามารถแลกเปลี่ยนกับเพื่อ�
 RESOURCE ID: remote_trade_unlock_title
 TEXT: ปลดล็อกการแลกเปลี่ยนระยะไกล
 
-RESOURCE ID: remote_trade_view_friend_pokemon_none
-TEXT: ไม่มีโปเกมอนที่ติดแท็กสำหรับแลกเปลี่ยนระยะไกล
+RESOURCE ID: repeatable_friendship_detail_unlock_reqs_plural
+TEXT: Play together to earn {0} more friendship points and get additional bonuses.
 
-RESOURCE ID: remote_trade_view_pokemon_locked
-TEXT: ปลดล็อกเมื่อเป็น "เพื่อนแท้ตลอดไป"
+RESOURCE ID: repeatable_friendship_detail_unlock_reqs_singular
+TEXT: Play together to earn {0} more friendship point and get additional bonuses.
 
-RESOURCE ID: remote_trade_waiting_for_response
-TEXT: กำลังรอการตอบรับการแลกเปลี่ยนระยะไกล
+RESOURCE ID: research_day_sun_moon_tr_name_lunatone
+TEXT: งานวิจัยแบบจำกัดเวลาพรีเมียม: ลูนาโทน
+
+RESOURCE ID: research_day_sun_moon_tr_name_solrock
+TEXT: งานวิจัยแบบจำกัดเวลาพรีเมียม: โซลร็อก
 
 RESOURCE ID: research_masterball_precious_paths
 TEXT: รับมาสเตอร์บอลได้จากงานวิจัยระยะยาว: ฝากไว้กับบอลนี้
+
+RESOURCE ID: retake_button
+TEXT: Retake Photo
 
 RESOURCE ID: safari_city_2025_buenosaires_title
 TEXT: City Safari: บัวโนสไอเรส 2025
@@ -1490,6 +1124,9 @@ TEXT: City Safari: ซิดนีย์ 2025 (2/3)
 
 RESOURCE ID: safari_city_2025_sydney_title_02
 TEXT: City Safari: ซิดนีย์ 2025 (3/3)
+
+RESOURCE ID: search_name_and_num_label
+TEXT: Search name or number
 
 RESOURCE ID: season20_keldeo_story_dialogue_6_0
 TEXT: ดีจริง ๆ ที่ได้เจอเธอกับเคลดิโออีก %PLAYERNAME%
@@ -1560,6 +1197,41 @@ RESOURCE ID: season21_precious_paths_sr_1_3
 TEXT: ไม่แน่ว่าเราทั้งคู่อาจได้เรียนรู้สิ่งใหม่ ๆ ที่น่าทึ่ง
 เกี่ยวกับตัวเองหรือโปเกมอนของเราก็ได้!
 
+RESOURCE ID: season21_precious_paths_sr_2_0
+TEXT: เตรียมตัวให้พร้อม %PLAYERNAME%!
+ถ้าพูดถึงวิธีสานสัมพันธ์กับโปเกมอน
+ย่อมต้องหมายถึงการแบตเทิล
+
+RESOURCE ID: season21_precious_paths_sr_2_1
+TEXT: การแบตเทิลไม่ได้ดูเพียงว่าใครแข็งแกร่งที่สุด
+เสมอไป แบตเทิลช่วยให้เราก้าวข้ามขีดจำกัด
+ของตัวเอง และสื่อใจกับโปเกมอนของตัวเอง
+ได้ดียิ่งขึ้น ไม่ว่าจะแพ้หรือชนะก็ตาม
+
+RESOURCE ID: season21_precious_paths_sr_2_2
+TEXT: ฉันอยากให้เธอไปลองสู้ในแบตเทิลหลาย ๆ แบบ
+แล้วเก็บบทเรียนที่ได้จากแบตเทิลเหล่านั้นไว้ในใจ
+
+RESOURCE ID: season21_precious_paths_sr_2_3
+TEXT: จำไว้นะ สิ่งสำคัญที่สุดคือสนุกให้เต็มที่!
+แค่ยึดข้อนี้ไว้ เธอก็จะเป็นแชมป์ในใจฉันเสมอ!
+
+RESOURCE ID: season21_precious_paths_sr_3_0
+TEXT: สุดยอดไปเลย %PLAYERNAME%!
+การได้เห็นเธอสู้ผ่านช่วงเวลายาก ๆ แบบนั้น
+ชวนให้รู้สึกประทับใจมากเลย!
+
+RESOURCE ID: season21_precious_paths_sr_3_1
+TEXT: เส้นทางสู่การเชี่ยวชาญกลยุทธ์ด้านแบตเทิล
+นั้นไม่ง่ายเลย แต่เธอกำลังทำได้ดีมากแล้ว
+
+RESOURCE ID: season21_precious_paths_sr_3_2
+TEXT: ลองผลักดันตัวเองต่อไป แล้วดูว่าเธอกับ
+โปเกมอนสามารถไปได้ไกลแค่ไหน
+
+RESOURCE ID: season21_precious_paths_sr_3_3
+TEXT: อีกไม่นานเราคงได้พบกันใหม่ จำไว้ล่ะว่า ฉันคอยเชียร์เธออยู่เสมอนะ!
+
 RESOURCE ID: season21_precious_paths_title
 TEXT: เส้นทางล่าสมบัติ
 
@@ -1602,6 +1274,9 @@ TEXT: เส้นทางล่าสมบัติ (10/12)
 RESOURCE ID: season_gbl_forecast_title_21
 TEXT: Pokémon GO: เส้นทางล่าสมบัติ
 
+RESOURCE ID: season_pass_base_track_title_winter_holidays_2025
+TEXT: บัตรผ่าน GO: วินเทอร์ฮอลิเดย์ 2025
+
 RESOURCE ID: season_pass_december2025_event_duration
 TEXT: 2 ธันวาคม - 6 มกราคม
 
@@ -1618,8 +1293,28 @@ TEXT: ซื้อบัตรผ่าน GO Deluxe: ธันวาคม เ�
 RESOURCE ID: season_pass_details_link_december2025
 TEXT: ตรวจสอบรายละเอียดได้ที่<a href="https://pokemongo.com/go-pass">เว็บไซต์</a>นี้
 
-RESOURCE ID: selection_disabled_pokemon_toast
-TEXT: โปเกมอนตัวนี้กำลังเฝ้ายิมอยู่
+RESOURCE ID: season_pass_details_link_winter_holidays_2025
+TEXT: ตรวจสอบรายละเอียดได้ที่<a href="https://pokemongo.com/news/go-pass-winter_holidays-2025">เว็บไซต์</a>นี้
+
+RESOURCE ID: season_pass_premium_track_plus_ten_ranks_title_winter_holidays_2025
+TEXT: บัตรผ่าน GO Deluxe: วินเทอร์ฮอลิเดย์ 2025 + 10 ระดับ
+
+RESOURCE ID: season_pass_premium_track_title_winter_holidays_2025
+TEXT: บัตรผ่าน GO Deluxe: วินเทอร์ฮอลิเดย์ 2025
+
+RESOURCE ID: season_pass_winter_holidays_2025_event_duration
+TEXT: 18 ธันวาคม - 29 ธันวาคม
+
+RESOURCE ID: season_pass_winter_holidays_2025_track_upgrade_header_description
+TEXT: รับรางวัลเพิ่มเติมและปลดล็อก<b>หมวกไหมพรมยูกิฮามิ</b>ที่ระดับ 50!
+
+RESOURCE ID: season_pass_winter_holidays_2025_upgrade_description
+TEXT: ซื้อบัตรผ่าน GO Deluxe: วินเทอร์ฮอลิเดย์ 2025 เพื่อปลดล็อกรางวัลต่อไปนี้!
+
+- ไอเท็มอวาตาร์หมวกไหมพรมยูกิฮามิ
+- การเผชิญหน้ากับโปเกมอนธีมอีเวนต์
+- ลูกอมประหลาด XL
+- และอื่น ๆ
 
 RESOURCE ID: shiny_keldeo_masterwork_sr_dialogue_00_00
 TEXT: ไง %PLAYERNAME%! ดีใจที่ได้เจอนะ
@@ -1754,102 +1449,26 @@ RESOURCE ID: shiny_keldeo_masterwork_sr_dialogue_06_03
 TEXT: วันนี้เธอน่าทึ่งมากเลย %PLAYERNAME%
 ครั้งหน้าเธอจะทำเรื่องน่าทึ่งแบบไหนอีกนะ!
 
-RESOURCE ID: shiny_keldeo_masterwork_sr_title
-TEXT: งานวิจัยระยะยาว: ตำนานแห่งความยุติธรรม
-
-RESOURCE ID: shiny_keldeo_masterwork_sr_title_00
-TEXT: งานวิจัยระยะยาว: ตำนานแห่งความยุติธรรม (1/7)
-
-RESOURCE ID: shiny_keldeo_masterwork_sr_title_01
-TEXT: งานวิจัยระยะยาว: ตำนานแห่งความยุติธรรม (2/7)
-
-RESOURCE ID: shiny_keldeo_masterwork_sr_title_02
-TEXT: งานวิจัยระยะยาว: ตำนานแห่งความยุติธรรม (3/7)
-
-RESOURCE ID: shiny_keldeo_masterwork_sr_title_03
-TEXT: งานวิจัยระยะยาว: ตำนานแห่งความยุติธรรม (4/7)
-
-RESOURCE ID: shiny_keldeo_masterwork_sr_title_04
-TEXT: งานวิจัยระยะยาว: ตำนานแห่งความยุติธรรม (5/7)
-
-RESOURCE ID: shiny_keldeo_masterwork_sr_title_05
-TEXT: งานวิจัยระยะยาว: ตำนานแห่งความยุติธรรม (6/7)
-
-RESOURCE ID: shiny_keldeo_masterwork_sr_title_06
-TEXT: งานวิจัยระยะยาว: ตำนานแห่งความยุติธรรม (7/7)
-
 RESOURCE ID: shop_inventory_more_capacity
-TEXT: Not enough space in your Item Bag!
+TEXT: กระเป๋าเก็บไอเท็มของคุณเต็มแล้ว!
 
-RESOURCE ID: spawn_pikipek
-TEXT: สึสึเคระปรากฏตัวออกมามากขึ้น!
+RESOURCE ID: spawn_piplup
+TEXT: โพจจามะปรากฏตัวออกมามากขึ้น!
 
-RESOURCE ID: stat_at_max
-TEXT: ค่าพลังนี้ไม่สามารถพัฒนาได้มากกว่านี้แล้ว
+RESOURCE ID: sticker_count_format
+TEXT: ×{0}
 
-RESOURCE ID: story_quest_keldeo_story_title
-TEXT: เรื่องเล่าแห่งการแปรเปลี่ยน
+RESOURCE ID: sticker_photo_remove_stickers
+TEXT: Remove Stickers
 
-RESOURCE ID: story_quest_keldeo_story_title_0
-TEXT: เรื่องเล่าแห่งการแปรเปลี่ยน (1/8)
+RESOURCE ID: sticker_photo_save_stickers
+TEXT: Save Stickers
 
-RESOURCE ID: story_quest_keldeo_story_title_1
-TEXT: เรื่องเล่าแห่งการแปรเปลี่ยน (2/8)
+RESOURCE ID: sticker_photo_save_warning
+TEXT: You can’t edit or remove stickers after you save.
 
-RESOURCE ID: story_quest_keldeo_story_title_2
-TEXT: เรื่องเล่าแห่งการแปรเปลี่ยน (3/8)
-
-RESOURCE ID: story_quest_keldeo_story_title_3
-TEXT: เรื่องเล่าแห่งการแปรเปลี่ยน (4/8)
-
-RESOURCE ID: story_quest_keldeo_story_title_4
-TEXT: เรื่องเล่าแห่งการแปรเปลี่ยน (5/8)
-
-RESOURCE ID: story_quest_keldeo_story_title_5
-TEXT: เรื่องเล่าแห่งการแปรเปลี่ยน (6/8)
-
-RESOURCE ID: story_quest_keldeo_story_title_6
-TEXT: เรื่องเล่าแห่งการแปรเปลี่ยน (7/8)
-
-RESOURCE ID: story_quest_keldeo_story_title_7
-TEXT: เรื่องเล่าแห่งการแปรเปลี่ยน (8/8)
-
-RESOURCE ID: tag_remote_trade_warning_bullet_1
-TEXT: โปเกมอนที่เคยแลกเปลี่ยนแล้ว
-
-RESOURCE ID: tag_remote_trade_warning_bullet_2
-TEXT: โปเกมอนชาโดว์
-
-RESOURCE ID: tag_remote_trade_warning_bullet_3
-TEXT: โปเกมอนมายา
-
-RESOURCE ID: tag_remote_trade_warning_bullet_4
-TEXT: โปเกมอนคู่หูปัจจุบัน
-
-RESOURCE ID: tag_remote_trade_warning_bullet_5
-TEXT: โปเกมอนอยู่ที่ยิม
-
-RESOURCE ID: tag_remote_trade_warning_bullet_6
-TEXT: โปเกมอนอยู่ที่พาวเวอร์สป็อต
-
-RESOURCE ID: tag_remote_trade_warning_bullet_7
-TEXT: โปเกมอนอยู่ที่สนามเด็กเล่นโปเกมอน
-
-RESOURCE ID: tag_remote_trade_warning_message
-TEXT: มีโปเกมอนที่ไม่สามารถแลกเปลี่ยนได้ (ไม่สามารถติดแท็กได้): 
-
-RESOURCE ID: tag_remote_trade_warning_title
-TEXT: โปเกมอนที่ไม่สามารถแลกเปลี่ยนได้
-
-RESOURCE ID: tagging_remote_trade_title
-TEXT: แลกเปลี่ยนระยะไกล
-
-RESOURCE ID: text_rewards_key_cd_pikipek25
-TEXT: <b>รางวัลที่จะได้รับ:</b>
-- ไอเท็มภายในเกม เช่น บัตรแบตเทิลพรีเมียม
-TM ท่าชาร์จ และลูกอมประหลาด
-- การเผชิญหน้ากับสึสึเคระที่มีพื้นหลังพิเศษ
-และอื่น ๆ
+RESOURCE ID: sun_moon_research_day_event_name
+TEXT: งานวิจัยนภาไพศาล
 
 RESOURCE ID: text_rewards_key_cd_recap2025
 TEXT: <b>รางวัลที่จะได้รับ:</b>
@@ -1858,15 +1477,12 @@ TM ชั้นเลิศ และอื่น ๆ
 - เผชิญหน้ากับโปเกมอนคอมมิวนิตี้เดย์
 และคอมมิวนิตี้เดย์ (รีเทิร์น) ปี 2025
 
-RESOURCE ID: text_rewards_key_finaljustice2025
-TEXT: <b>สิ่งที่จะได้รับ:</b>
-- การเผชิญหน้ากับเคลดิโอสีแตกต่าง (ร่างปกติ)
-- ไอเท็มอวาตาร์เสื้อยืดเคลดิโอ (สีแตกต่าง)
-- ลูกอมโคบัลออน 25 เม็ด, ลูกอมเทราคิออน 25 เม็ด, ลูกอมวิริซิออน 25 เม็ด, ลูกอมสึทาจะ 15 เม็ด, ลูกอมโพคาบู 15 เม็ด, ลูกอมมิจูมารุ 15 เม็ด, ลูกอมดารุมักกะ 10 เม็ด และอื่น ๆ
-- 10,352 XP และ 6,470 สตาร์ดัสต์
-- ลูกอมประหลาด XL 3 เม็ด และลูกอมประหลาด 6 เม็ด สำหรับเทรนเนอร์เลเวล 31 ขึ้นไป
-- ลูกอมประหลาด 9 เม็ด สำหรับเทรนเนอร์เลเวล 30 ลงไป
-- ไฮเปอร์บอล 90 ลูก, หินอิชชู 3 ชิ้น, ไดมัชรูม 1 ชิ้น, บัตรแบตเทิลพรีเมียม 1 ใบ, อุปกรณ์ปล่อยลัวร์ 1 ชิ้น, เครื่องหอม 1 ชิ้น และอื่น ๆ
+RESOURCE ID: text_rewards_key_cdc_piplup26
+TEXT: <b>รางวัลที่จะได้รับ:</b>
+- ไอเท็มภายในเกม เช่น บัตรแบตเทิลพรีเมียม
+TM ท่าชาร์จ และลูกอมประหลาด
+- การเผชิญหน้ากับโพจจามะที่มีพื้นหลังพิเศษ
+และอื่น ๆ
 
 RESOURCE ID: text_rewards_key_gotour2026
 TEXT: <b>สิ่งที่จะได้รับ:</b>
@@ -1879,16 +1495,6 @@ TEXT: <b>สิ่งที่จะได้รับ:</b>
 - 2× ระยะเวลาเครื่องหอม
 - และอื่น ๆ
 
-RESOURCE ID: text_rewards_key_gowa25_leadup
-TEXT: <b>รางวัลที่จะได้รับ:</b>
-- การเผชิญหน้ากับราลทซ์ไดแมกซ์และยามิรามิไดแมกซ์
-- ไดมัชรูม 1 ชิ้น
-- บัตรแบตเทิลพรีเมียม 5 ใบ
-เครื่องฟักไข่ 4 ชิ้น
-- ไข่แห่งความสุข 2 ชิ้น
-- สะเก็ดดาว 2 ชิ้น
-- และอื่น ๆ
-
 RESOURCE ID: text_rewards_key_journeytpaldea25
 TEXT: <b>รางวัลที่จะได้รับ:</b>
 - การเผชิญหน้ากับโยกิราส ทัทซึเบ และโคจีโอ
@@ -1899,11 +1505,19 @@ RESOURCE ID: text_rewards_key_masterball25
 TEXT: <b>รางวัลที่จะได้รับ:</b>
 - มาสเตอร์บอล 1 ลูก และอื่น ๆ
 
+RESOURCE ID: text_rewards_key_sunmoon_researchtr2025
+TEXT: งานวิจัยแบบจำกัดเวลาที่จะท้าทายให้คุณทำภารกิจงานวิจัยภาคสนามซึ่งจะนำไปสู่การเผชิญหน้ากับโซลร็อกและลูนาโทน
+
+โปเกมอนที่เผชิญหน้าในงานวิจัยแบบจำกัดเวลานี้จะมีโอกาสเป็นโปเกมอนสีแตกต่างเท่ากับโปเกมอนที่สามารถเจอได้จากภารกิจงานวิจัยภาคสนาม
+
+งานวิจัยแบบจำกัดเวลานี้จะใช้งานได้
+ในวันที่ 20 ธันวาคม 2025 เวลา 14:00-17:00 น. ตามเวลาท้องถิ่น
+
 RESOURCE ID: ticket_dec2025
 TEXT: สามารถซื้อตั๋วสำหรับงานวิจัยพิเศษ "คอมมิวนิตี้เดย์ธันวาคม" ได้ที่ร้านค้า
 
-RESOURCE ID: ticket_pikipek_cd
-TEXT: สามารถซื้อตั๋วสำหรับงานวิจัยพิเศษ "สึสึเคระคอมมิวนิตี้เดย์" ได้ที่ร้านค้า
+RESOURCE ID: ticket_piplup_cdc
+TEXT: สามารถซื้อตั๋วสำหรับงานวิจัยพิเศษ "โพจจามะคอมมิวนิตี้เดย์ (รีเทิร์น)" ได้ที่ร้านค้า
 
 RESOURCE ID: tips_friends_tutorial_build_friendship_body
 TEXT: ระดับมิตรภาพจะเพิ่มขึ้นทุกครั้งที่มี
@@ -1915,11 +1529,20 @@ TEXT: ระดับมิตรภาพจะเพิ่มขึ้นท�
 เทรนเนอร์จะเรืองแสงสีฟ้าเมื่อระดับ
 เพิ่มขึ้น
 
-RESOURCE ID: tips_friends_tutorial_lucky_body_temp
+RESOURCE ID: tips_friends_tutorial_lucky_body
 TEXT: มีโอกาสที่จะได้เป็นเพื่อนนำโชค
 หากเพิ่มระดับเป็น "เพื่อนแท้" และโต้ตอบ
 กับเพื่อนอยู่เสมอ
 
+แลกเปลี่ยนกับเพื่อนนำโชคเพื่อรับ
+โปเกมอนนำโชค! แม้ระบบนำโชคจะ
+ถูกรีเซ็ตแต่จะสามารถเป็นเพื่อนนำโชค
+ได้อีกครั้งในภายหลัง
+
+RESOURCE ID: tips_friends_tutorial_lucky_body_out
+TEXT: มีโอกาสที่จะได้เป็นเพื่อนนำโชคหาก
+เพิ่มระดับเป็น "เพื่อนแท้" และโต้ตอบ
+กับเพื่อนทุกวัน
 แลกเปลี่ยนกับเพื่อนนำโชคเพื่อรับ
 โปเกมอนนำโชค! แม้ระบบนำโชคจะ
 ถูกรีเซ็ตแต่จะสามารถเป็นเพื่อนนำโชค
@@ -1961,28 +1584,59 @@ TEXT: และไม่ต้องกังวลไป พวกเธอจ�
 ตรวจสอบโปเกมอนที่ถูกเลือก
 ก่อนยืนยันการแลกเปลี่ยน!
 
-RESOURCE ID: tutorial_bf+_new_friendship_level_body
-TEXT: เป็น "เพื่อนแท้ตลอดไป" เพื่อปลดล็อกฟังก์ชันแลกเปลี่ยนระยะไกล!
+RESOURCE ID: tr_hut_hut_desc_00
+TEXT: เฟิสต์ดาวน์...
 
-เล่นกับเพื่อนที่กลายเป็น "เพื่อนแท้ตลอดไป" ต่อไปเรื่อย ๆ เพื่อรับโบนัสอย่างจำนวนครั้งแลกเปลี่ยนระยะไกล และอื่น ๆ
+RESOURCE ID: tr_hut_hut_desc_01
+TEXT: เซกคันด์ดาวน์...
 
-RESOURCE ID: tutorial_bf+_new_friendship_level_title
-TEXT: ระดับมิตรภาพใหม่: เพื่อนแท้ตลอดไป
+RESOURCE ID: tr_hut_hut_desc_02
+TEXT: เธิร์ดดาวน์...
 
-RESOURCE ID: tutorial_bf+_remote_trading_body
-TEXT: เมื่อเป็น "เพื่อนแท้ตลอดไป" จะสามารถดูโปเกมอนที่ติดแท็ก "แลกเปลี่ยนระยะไกล" รวมถึงจะสามารถแลกเปลี่ยนระยะไกลได้
+RESOURCE ID: tr_hut_hut_desc_03
+TEXT: ทัชดาวน์!
 
-RESOURCE ID: tutorial_bf+_remote_trading_title
-TEXT: ปลดล็อกเมื่อเป็น "เพื่อนแท้ตลอดไป"
+RESOURCE ID: tr_hut_hut_title
+TEXT: งานวิจัยแบบจำกัดเวลาโบนัสฮัท-ฮัท-ไฮค์!
 
-RESOURCE ID: tutorial_bf+_trade_with_friends_body
-TEXT: เมื่อถึงเลเวล 10 จะสามารถแลกเปลี่ยนโปเกมอนกับเพื่อนเพื่อช่วยให้โปเกเด็กซ์สมบูรณ์ยิ่งขึ้นได้ คุณจะสามารถแลกเปลี่ยนกับเพื่อนที่อยู่ใกล้ ๆ ได้เท่านั้น และจะสามารถแลกเปลี่ยนระยะไกลกับเพื่อนที่เป็น "เพื่อนแท้ตลอดไป" ได้
+RESOURCE ID: tr_hut_hut_title_00
+TEXT: งานวิจัยแบบจำกัดเวลาโบนัสฮัท-ฮัท-ไฮค์! (1/4)
+
+RESOURCE ID: tr_hut_hut_title_01
+TEXT: งานวิจัยแบบจำกัดเวลาโบนัสฮัท-ฮัท-ไฮค์! (2/4)
+
+RESOURCE ID: tr_hut_hut_title_02
+TEXT: งานวิจัยแบบจำกัดเวลาโบนัสฮัท-ฮัท-ไฮค์! (3/4)
+
+RESOURCE ID: tr_hut_hut_title_03
+TEXT: งานวิจัยแบบจำกัดเวลาโบนัสฮัท-ฮัท-ไฮค์! (4/4)
+
+RESOURCE ID: trade_warning_bullet_background_location
+TEXT: Pokémon has a Location Background
+
+RESOURCE ID: trade_warning_bullet_background_special
+TEXT: Pokémon has a Special Background
+
+RESOURCE ID: trade_warning_bullet_battle_party
+TEXT: Pokémon will be removed from battle party
+
+RESOURCE ID: trade_warning_bullet_buddy
+TEXT: Buddy Level will be reset
+
+RESOURCE ID: trade_warning_bullet_hyper_training
+TEXT: Pokémon’s stats will change
+
+RESOURCE ID: trade_warning_bullet_max
+TEXT: Max Move levels will be reset
+
+RESOURCE ID: trade_warning_bullet_mega
+TEXT: Mega Level will be reset
+
+RESOURCE ID: trade_warning_bullet_primal
+TEXT: Primal Level will be reset
 
 RESOURCE ID: tutorial_help_button_remote_trade_pop_up_body
 TEXT: เรียนรู้เพิ่มเติมเกี่ยวกับการแลกเปลี่ยนระยะไกล
-
-RESOURCE ID: tutorial_remote_trade_candy_bonuses_body
-TEXT: เหมือนกับการแลกเปลี่ยนในพื้นที่ จำนวนลูกอมที่ได้รับจะแตกต่างกันไปตามระยะทางระหว่างสถานที่จับโปเกมอนที่แลกเปลี่ยนทั้ง 2 ตัว ยิ่งระยะไกล (ถึงราว 100 กม.) ยิ่งได้รับลูกอมเยอะขึ้น
 
 RESOURCE ID: tutorial_remote_trade_icon_glossary_location_bg
 TEXT: โปเกมอนที่มีพื้นหลังสถานที่
@@ -1999,88 +1653,13 @@ TEXT: โปเกมอนบางตัวอาจมีไอคอนด�
 RESOURCE ID: tutorial_remote_trade_icon_glossary_unregistered
 TEXT: โปเกมอนที่ยังไม่เคยจับ
 
-RESOURCE ID: tutorial_remote_trade_locked_pokemon_body
-TEXT: โปเกมอนที่พึ่งจับจะไม่สามารถแลกเปลี่ยนระยะไกลได้ในทันที
-
-แต่สามารถแลกเปลี่ยนในพื้นที่ได้
-
-RESOURCE ID: tutorial_remote_trade_locked_pokemon_title
-TEXT: โปเกมอนที่ยังไม่พร้อมแลกเปลี่ยนระยะไกล
-
-RESOURCE ID: tutorial_remote_trade_pokemon_body
-TEXT: คุณและเพื่อนของคุณต้องเลือกโปเกมอนจากในคำขอ จากนั้นจึงตรวจสอบและยืนยันการแลกเปลี่ยน
-
-RESOURCE ID: tutorial_remote_trade_pokemon_title
-TEXT: เลือกโปเกมอน 1 ตัว
-
-RESOURCE ID: tutorial_remote_trade_selection_body
-TEXT: เลือกโปเกมอนที่ต้องการ 1-3 ตัวจากในรายชื่อโปเกมอนที่ติดแท็ก "แลกเปลี่ยนระยะไกล" ของเพื่อน
-
-เพื่อนก็จะเลือกโปเกมอนของคุณที่ติดแท็กเช่นเดียวกัน
-
-RESOURCE ID: tutorial_remote_trade_selection_title
-TEXT: เลือกโปเกมอนที่ต้องการจากในรายชื่อของเพื่อน
-
-RESOURCE ID: tutorial_remote_trade_tag_unlocked_body
-TEXT: หากสะสมแต้มมิตรภาพเพิ่มอีกเพียงไม่กี่แต้ม จะสามารถทำการแลกเปลี่ยนระยะไกลกับ "เพื่อนแท้ตลอดไป" ครั้งแรกได้!
-
-ในการแลกเปลี่ยนระยะไกล คุณจะต้องติดแท็ก "แลกเปลี่ยนระยะไกล" ให้กับโปเกมอนที่ต้องการอนุญาตให้เพื่อนยื่นเรื่องขอได้
-
-RESOURCE ID: tutorial_remote_trade_tag_unlocked_confirm
-TEXT: ไปที่แท็ก
-
-RESOURCE ID: tutorial_remote_trade_tag_unlocked_title
-TEXT: แท็ก "แลกเปลี่ยนระยะไกล"
-
 RESOURCE ID: tutorial_remote_trade_with_stardust_body
 TEXT: เหมือนกับการแลกเปลี่ยนในพื้นที่ ปริมาณสตาร์ดัสต์ที่จำเป็นสำหรับการแลกเปลี่ยนจะแตกต่างกันไปตามแต่ละโปเกมอน
 
 การแลกเปลี่ยนระยะไกลจะไม่ถูกนับเป็นการแลกเปลี่ยนแบบพิเศษ
 
-RESOURCE ID: tutorial_tag_remote_trade_body
-TEXT: ในการแลกเปลี่ยนระยะไกล คุณจะต้องติดแท็ก "แลกเปลี่ยนระยะไกล" ที่โปเกมอนที่อนุญาตให้แลกเปลี่ยนระยะไกลได้เสียก่อน
-
-RESOURCE ID: tutorial_tag_remote_trade_learn_pokemon_body
-TEXT: กดค้างที่โปเกมอนของเพื่อน เพื่อดูรายละเอียดของโปเกมอนตัวนั้น สามารถดูตัวอย่างได้ว่าโปเกมอนมีพื้นหลังหายากหรือไม่
-
-RESOURCE ID: tutorial_tag_remote_trade_learn_pokemon_title
-TEXT: รายละเอียดของโปเกมอน
-
-RESOURCE ID: tutorial_tag_remote_trade_long_press
-TEXT: กดค้างที่โปเกมอนเพื่อดูรายละเอียด
-
-RESOURCE ID: tutorial_tag_remote_trade_pokemon_details_body
-TEXT: เพื่อนแท้ตลอดไปทุกคนสามารถตรวจสอบรายละเอียดต่าง ๆ รวมถึงสถานที่และวันที่จับของโปเกมอนที่ติดแท็กแลกเปลี่ยนระยะไกลได้
-
-RESOURCE ID: tutorial_tag_remote_trade_pokemon_details_body_1
-TEXT: เพื่อนสามารถเลือกโปเกมอนที่ต้องการได้จากโปเกมอนที่คุณติดแท็ก "แลกเปลี่ยนระยะไกล" ไว้เท่านั้น เมื่อเพื่อนเลือกโปเกมอนเสร็จ คุณจะสามารถตรวจสอบก่อนที่จะยืนยันการแลกเปลี่ยนได้
-
-RESOURCE ID: tutorial_tag_remote_trade_pokemon_details_title
-TEXT: รายละเอียดโปเกมอนที่แชร์
-
-RESOURCE ID: tutorial_tag_remote_trade_pokemon_details_title_1
-TEXT: วิธีใช้แท็ก
-
-RESOURCE ID: tutorial_tag_remote_trade_pop_up_body
-TEXT: ติดแท็กโปเกมอนที่อนุญาตให้แลกเปลี่ยนระยะไกลกับเพื่อนแท้ตลอดไป การแลกเปลี่ยนจริงจะดำเนินการหลังยืนยัน
-
-RESOURCE ID: tutorial_tag_remote_trade_pop_up_title
-TEXT: แท็กแลกเปลี่ยนระยะไกล
-
-RESOURCE ID: tutorial_tag_remote_trade_title
-TEXT: แท็กแลกเปลี่ยนระยะไกลคืออะไร?
-
 RESOURCE ID: tutorial_unregistered_remote_trade_pop_up_body
 TEXT: ในกรณีที่อยากดูโปเกมอนที่ยังไม่เคยจับ
-
-RESOURCE ID: view_trade_pokemon
-TEXT: ดูโปเกมอนที่แลกเปลี่ยน
-
-RESOURCE ID: web_store_homepage_url_key
-TEXT: https://store.pokemongo.com/?utm_source=PGO&utm_medium=in-game-shop&utm_campaign=pgo_webstore_linkout&utm_content=webstore_icon
-
-RESOURCE ID: weekly_challenges_matchmaking_finding_group
-TEXT: จะเริ่มคำท้าเมื่อพบผู้เข้าร่วมอีกคน
 
 RESOURCE ID: well_armed_dec25_event_name
 TEXT: ออกหมัดแล้วเตะ
@@ -2088,6 +1667,24 @@ TEXT: ออกหมัดแล้วเตะ
 RESOURCE ID: well_armed_dec25_paid_tr_name
 TEXT: งานวิจัยแบบจำกัดเวลาพรีเมียม: ออกหมัดแล้วเตะ
 
+RESOURCE ID: winter_holidays_2025_part_1_event_name
+TEXT: วินเทอร์ฮอลิเดย์ 2025 - 1
+
+RESOURCE ID: winter_holidays_2025_part_2_event_name
+TEXT: วินเทอร์ฮอลิเดย์ 2025 - 2
+
 RESOURCE ID: winter_weekend_event_name
 TEXT: สุดสัปดาห์ฤดูหนาว
+
+RESOURCE ID: winter_weekend_tr_name
+TEXT: งานวิจัยแบบจำกัดเวลาสุดสัปดาห์ฤดูหนาว
+
+RESOURCE ID: winter_weekend_tr_name_1
+TEXT: งานวิจัยแบบจำกัดเวลาสุดสัปดาห์ฤดูหนาว (1/2)
+
+RESOURCE ID: winter_weekend_tr_name_2
+TEXT: งานวิจัยแบบจำกัดเวลาสุดสัปดาห์ฤดูหนาว (2/2)
+
+RESOURCE ID: yokohama
+TEXT: 
 
