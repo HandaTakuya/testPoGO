@@ -7,6 +7,9 @@ TEXT: รางวัลเพิ่มเติมเมื่อแบตเ�
 RESOURCE ID: additional_rewards_local_raids_bonus
 TEXT: รางวัลเพิ่มเติมเมื่อตีบอสในพื้นที่เสร็จสิ้น
 
+RESOURCE ID: aps_choose_a_form_key
+TEXT: Choose a form:
+
 RESOURCE ID: aps_first_time_tutorial_text
 TEXT: Take a photo with a person and the ground in view.
 
@@ -53,13 +56,16 @@ RESOURCE ID: ar_photo_social_ftue_text_2
 TEXT: 2. Take a photo
 
 RESOURCE ID: ar_photo_social_ftue_text_3
-TEXT: 3. Decorate and share
+TEXT: 3. Decorate & share
 
 RESOURCE ID: ar_photo_social_ftue_title
 TEXT: Pick a Pokémon to take a photo with!
 
 RESOURCE ID: ar_photo_social_hashtag
 TEXT: #PokemonGO
+
+RESOURCE ID: ar_photo_social_horizontal_mode_hint
+TEXT: Rotate phone to portrait mode for best results
 
 RESOURCE ID: ar_photo_social_name_tag_friend_code
 TEXT: Trainer: {0}
@@ -78,6 +84,15 @@ TEXT: Tip: Try including a person in the photo for the best results!
 
 RESOURCE ID: ar_photo_social_photo_error_title
 TEXT: Photo Tip
+
+RESOURCE ID: ar_photo_social_pokemon_catch_and_collect
+TEXT: Catch and collect Pokémon in Pokémon GO!
+
+RESOURCE ID: ar_photo_social_pokemon_name_prompt
+TEXT: Find {0} and other Pokémon in Pokémon GO!
+
+RESOURCE ID: ar_photo_social_pokemon_selection_prompt
+TEXT: Pick a Pokémon to take a photo with!
 
 RESOURCE ID: ar_photo_social_popular_title
 TEXT: Suggestions
@@ -106,8 +121,14 @@ TEXT: Leave
 RESOURCE ID: ar_photo_social_summary_confirm_leave_title
 TEXT: Do you want to leave?
 
+RESOURCE ID: ar_photo_social_surprise_string
+TEXT: SURPRISE!
+
 RESOURCE ID: ar_photo_social_take_another_photo
 TEXT: Take another photo
+
+RESOURCE ID: ar_photo_social_take_photo_prompt
+TEXT: Take a photo to see {0}
 
 RESOURCE ID: ar_photo_social_timer_off_label
 TEXT: Timer Off
@@ -307,6 +328,9 @@ TEXT: งานวิจัยแบบจำกัดเวลาเพื่�
 RESOURCE ID: bestfriends_plus_timed_research_title_03
 TEXT: งานวิจัยแบบจำกัดเวลาเพื่อนกันตลอดกาล (4/4)
 
+RESOURCE ID: bonus_cd_move_grookey
+TEXT: Evolve Thwackey to get a Rillaboom that knows the Charged Attack Frenzy Plant!
+
 RESOURCE ID: bonus_cd_move_piplup
 TEXT: วิวัฒนาการโพจไทชิเป็นเอ็มเพลท์ที่รู้ท่าโจมตีชาร์จ "ไฮโดรแคนนอน"
 
@@ -355,6 +379,12 @@ TEXT: คอมมิวนิตี้เดย์ธันวาคม 2025
 RESOURCE ID: community_day_dec2025_weekend_event_name
 TEXT: คอมมิวนิตี้เดย์ธันวาคม 2025 - สุดสัปดาห์
 
+RESOURCE ID: community_day_grookey_event_name
+TEXT: Community Day: Grookey
+
+RESOURCE ID: community_day_piplup_details_link
+TEXT: ตรวจสอบรายละเอียดได้ที่<a href="https://pokemongolive.com/post/communitydayclassic-piplup-jan-2026">เว็บไซต์</a>นี้
+
 RESOURCE ID: community_day_piplup_event_name_cdc
 TEXT: คอมมิวนิตี้เดย์ (รีเทิร์น): โพจจามะ
 
@@ -363,6 +393,12 @@ TEXT: ตรวจสอบรายละเอียดได้ที่<a hr
 
 RESOURCE ID: details_link_key_gotour2026
 TEXT: ตรวจสอบรายละเอียดได้ที่<a href="https://pokemongo.com/gotour/global/">เว็บไซต์</a>นี้
+
+RESOURCE ID: details_link_key_new_year_jan2026
+TEXT: ตรวจสอบรายละเอียดได้ที่<a href="https://pokemongolive.com/post/new-years-2026">เว็บไซต์</a>นี้
+
+RESOURCE ID: details_link_key_pinch_perfect_event_name_jan2026
+TEXT: ตรวจสอบรายละเอียดได้ที่<a href="https://pokemongo.com/news/pinch-perfect-2026">เว็บไซต์</a>นี้
 
 RESOURCE ID: dmax_lugia_max_battle_event_name
 TEXT: สุดสัปดาห์แห่งการแบตเทิลแมกซ์ลูเกียไดแมกซ์
@@ -373,6 +409,12 @@ TEXT: ลูเกียไดแมกซ์ปรากฏตัวในแ�
 RESOURCE ID: dmax_lugia_weekend_timed_research
 TEXT: งานวิจัยแบบจำกัดเวลา: สุดสัปดาห์แห่งการแบตเทิลแมกซ์ลูเกียไดแมกซ์
 
+RESOURCE ID: downloading_avatar_assets_warning_body
+TEXT: There was an issue downloading assets. Please ensure you have stable network access and restart the game.
+
+RESOURCE ID: downloading_avatar_assets_warning_title
+TEXT: Cannot Download Assets
+
 RESOURCE ID: eevee_explorers_buenosaires_title
 TEXT: นักสำรวจอีวุย - แสตมป์แรลลีบัวโนสไอเรส
 
@@ -381,6 +423,9 @@ TEXT: นักสำรวจอีวุย - แสตมป์แรลล�
 
 RESOURCE ID: eevee_explorers_sydney_title
 TEXT: นักสำรวจอีวุย - แสตมป์แรลลีซิดนีย์
+
+RESOURCE ID: event_datetime_range_key_cd_grookey25
+TEXT: January 18, 2:00 p.m. – 5:00 p.m.
 
 RESOURCE ID: event_datetime_range_key_cd_recap2025
 TEXT: 6 ธันวาคม เวลา 9:00 น. ถึง
@@ -468,6 +513,9 @@ TEXT: ตั๋วงานวิจัยแบบจำกัดเวลา�
 RESOURCE ID: general1.ticket.5_journeytpaldea25_title
 TEXT: ตั๋วงานวิจัยแบบจำกัดเวลาพรีเมียม: การเดินทางในภูมิภาคพัลเดีย
 
+RESOURCE ID: general1.ticket_cd_grookey25_title
+TEXT: Grookey Community Day Ticket
+
 RESOURCE ID: general1.ticket_cd_recap2025_title
 TEXT: ตั๋วคอมมิวนิตี้เดย์ธันวาคม 2025
 
@@ -509,6 +557,22 @@ TEXT: วิวัฒนาการจุปไทล์เป็นจูไ�
 
 RESOURCE ID: gstar_2024_evolve_move_bonus_swampert
 TEXT: วิวัฒนาการนูมาโครเป็นลากลาจที่รู้ท่าโจมตีชาร์จ "ไฮโดรแคนนอน"
+
+RESOURCE ID: id2026_car_free_day_title
+TEXT: Car Free Day
+
+RESOURCE ID: id2026_car_free_day_tv_event_desc
+TEXT: Car Free Day is live! You can find Pikachu wearing a red party hat with a Location Background via Field and Timed Research—don’t miss out!
+
+RESOURCE ID: id2026_car_free_day_tv_event_title
+TEXT: You’re at Car Free Day!
+
+RESOURCE ID: id2026_car_free_day_tv_id_desc
+TEXT: Come celebrate Indonesia Car Free Day in Jakarta every Sunday from 6:00 a.m. to 9:45 a.m.
+Complete Field Research or Timed Research to encounter Pikachu wearing a red party hat with a Location Background.
+
+RESOURCE ID: id2026_car_free_day_tv_id_title
+TEXT: Join Car Free Day!
 
 RESOURCE ID: in_techfest_2025_bonus
 TEXT: โบนัสอีเวนต์ Pokémon GO College Fest 2025
@@ -585,6 +649,9 @@ TEXT: ตั๋วสำหรับเข้าร่วมงานวิจ�
 คุณจะสามารถเข้าร่วมได้โดยอัตโนมัติ
 ตามเวลาท้องถิ่นทั่วโลก
 
+RESOURCE ID: item_event_ticket_pink_desc_cd_grookey25
+TEXT: A ticket to access the Grookey Community Day Special Research starting January 18 at 2:00 p.m. local time, wherever you are.
+
 RESOURCE ID: item_event_ticket_pink_desc_cd_recap2025
 TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยพิเศษ
 คอมมิวนิตี้เดย์ธันวาคม
@@ -596,6 +663,9 @@ TEXT: ตั๋วสำหรับเข้าร่วมงานวิจ�
 โพจจามะคอมมิวนิตี้เดย์ (รีเทิร์น)
 ในวันที่ 4 มกราคม 2026 14:00 น.
 ตามเวลาท้องถิ่นทั่วโลก
+
+RESOURCE ID: item_event_ticket_pink_details_cd_grookey25
+TEXT: This ticket will automatically activate on January 18 to give you access to the Special Research Grooving with Grookey, wherever you are.
 
 RESOURCE ID: item_event_ticket_pink_details_cd_recap2025
 TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยพิเศษ
@@ -774,7 +844,7 @@ TEXT: ยินดีด้วย %PLAYERNAME%!
 ของเคลดิโอแล้ว!
 
 RESOURCE ID: kr_festival_red_striped_basculin_bonus
-TEXT: Red-Striped Basculin will be attracted to Lure Modules or Incense near rivers in the Pyeongchang area
+TEXT: บาสราโอ (ร่างแถบสีแดง) จะถูกดึงดูดด้วยอุปกรณ์ปล่อยลัวร์หรือเครื่องหอมใกล้แม่น้ำในพย็องชัง
 
 RESOURCE ID: kr_lantern_festival_2025_bonus
 TEXT: โบนัสอีเวนต์เทศกาลโคมไฟโซล
@@ -819,34 +889,34 @@ RESOURCE ID: kr_lantern_festival_2025_tr_name_3
 TEXT: งานวิจัยแบบจำกัดเวลาคอยคิงบุก (3/3)
 
 RESOURCE ID: kr_winter_festival_2026_pyeongchang_bonus
-TEXT: Pyeongchang Winter Festival 2026 – Pyeongchang Bonus
+TEXT: เทศกาลฤดูหนาวพย็องชัง 2026 - โบนัสพย็องชัง
 
 RESOURCE ID: kr_winter_festival_2026_riverside_bonus
-TEXT: Pyeongchang Winter Festival 2026 – Riverside Bonus
+TEXT: เทศกาลฤดูหนาวพย็องชัง 2026 - โบนัสริมน้ำ
 
 RESOURCE ID: kr_winter_festival_2026_tag
-TEXT: Pyeongchang Trout Festival
+TEXT: เทศกาลปลาเทราต์พย็องชัง
 
 RESOURCE ID: kr_winter_festival_2026_title
-TEXT: Pyeongchang Winter Festival 2026
+TEXT: เทศกาลฤดูหนาวพย็องชัง 2026
 
 RESOURCE ID: kr_winter_festival_2026_tr_name
-TEXT: Pyeongchang Winter Festival Location Background Timed Research
+TEXT: งานวิจัยแบบจำกัดเวลาพื้นหลังสถานที่เทศกาลฤดูหนาวพย็องชัง
 
 RESOURCE ID: kr_winter_festival_2026_tr_name_1
-TEXT: Pyeongchang Winter Festival Location Background Timed Research (1/3)
+TEXT: งานวิจัยแบบจำกัดเวลาพื้นหลังสถานที่เทศกาลฤดูหนาวพย็องชัง (1/3)
 
 RESOURCE ID: kr_winter_festival_2026_tr_name_2
-TEXT: Pyeongchang Winter Festival Location Background Timed Research (2/3)
+TEXT: งานวิจัยแบบจำกัดเวลาพื้นหลังสถานที่เทศกาลฤดูหนาวพย็องชัง (2/3)
 
 RESOURCE ID: kr_winter_festival_2026_tr_name_3
-TEXT: Pyeongchang Winter Festival Location Background Timed Research (3/3)
+TEXT: งานวิจัยแบบจำกัดเวลาพื้นหลังสถานที่เทศกาลฤดูหนาวพย็องชัง (3/3)
 
 RESOURCE ID: kr_winter_festival_location_background_in_wild
-TEXT: Pikachu wearing a snowflake beanie encountered in the wild may have a Pyeongchang Winter Festival Location Background
+TEXT: พิคาชูสวมหมวกไหมพรมเกล็ดหิมะที่เผชิญหน้าในธรรมชาติอาจมีพื้นหลังสถานที่รูปเทศกาลฤดูหนาวพย็องชัง
 
 RESOURCE ID: kr_winter_festival_raid_event_area
-TEXT: Event-exclusive raids featuring Pikachu wearing a snowflake beanie and Winter Form Deerling will take place in the Pyeongchang area
+TEXT: พิคาชูสวมหมวกไหมพรมเกล็ดหิมะและชิคิจิกะ (ร่างฤดูหนาว) จะปรากฏตัวที่ตีบอสเฉพาะอีเวนต์ในพย็องชัง
 
 RESOURCE ID: lucky_remote_trade_confirm_body
 TEXT: กรุณาเสร็จสิ้นการแลกเปลี่ยนระยะไกลนำโชคกับ {0}!
@@ -864,13 +934,16 @@ RESOURCE ID: meetup_check_in_research_title_community_recap_2
 TEXT: งานวิจัยแบบจำกัดเวลาเช็กอินงานพบปะ: คอมมิวนิตี้เดย์ (3/3)
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2025-12-16T03:39:46.990767+00:00 for th-TH
+TEXT: Built at 2025-12-20T03:51:44.449347+00:00 for th-TH
 at SHA 23ed10cfad6
-Pipeline 3473146, job 49305673
-Patch from: 0.391.0-SHA-1e21c049-RC5, 0.393.0-SHA-e526fe9a-RC2
+Pipeline 3479419, job 49439158
+Patch from: 0.393.0-SHA-e526fe9a-RC2, 0.391.1-SHA-2a6aec88-RC1
 
 RESOURCE ID: move_name_0489
 TEXT: ดาบลึกลับ
+
+RESOURCE ID: photobomb_five_grookey
+TEXT: 5 surprise encounters with Grookey in GO Snapshot
 
 RESOURCE ID: photobomb_five_piplup
 TEXT: โพจจามะแย่งซีนถ่ายรูปในโกสแนปช็อต 5 ครั้ง
@@ -889,6 +962,45 @@ TEXT: ร่ำเรียนการต่อสู้มาจากโค�
 
 RESOURCE ID: pokemon_info_caught_quest_event_pass
 TEXT: จับจากบัตรผ่าน GO
+
+RESOURCE ID: pokemon_name_1009
+TEXT: Walking Wake
+
+RESOURCE ID: pokemon_name_1010
+TEXT: Iron Leaves
+
+RESOURCE ID: pokemon_name_1014
+TEXT: Okidogi
+
+RESOURCE ID: pokemon_name_1015
+TEXT: Munkidori
+
+RESOURCE ID: pokemon_name_1016
+TEXT: Fezandipiti
+
+RESOURCE ID: pokemon_name_1017
+TEXT: Ogerpon
+
+RESOURCE ID: pokemon_name_1018
+TEXT: Archaludon
+
+RESOURCE ID: pokemon_name_1020
+TEXT: Gouging Fire
+
+RESOURCE ID: pokemon_name_1021
+TEXT: Raging Bolt
+
+RESOURCE ID: pokemon_name_1022
+TEXT: Iron Boulder
+
+RESOURCE ID: pokemon_name_1023
+TEXT: Iron Crown
+
+RESOURCE ID: pokemon_name_1024
+TEXT: Terapagos
+
+RESOURCE ID: pokemon_name_1025
+TEXT: Pecharunt
 
 RESOURCE ID: quest_buddy_play_days_plural
 TEXT: เล่นกับโปเกมอนคู่หูรวม {0} วัน
@@ -914,8 +1026,23 @@ TEXT: หมุนเสาโปเกสต็อปหรือยิมใ�
 RESOURCE ID: quest_event_spin_sydney
 TEXT: หมุนเสาโปเกสต็อปหรือยิมในซิดนีย์
 
+RESOURCE ID: quest_grookey_catch_b
+TEXT: Catch {0} Grookey
+
 RESOURCE ID: quest_piplup_catch_b
 TEXT: จับโพจจามะ {0} ตัว
+
+RESOURCE ID: quest_title_grookey
+TEXT: Grooving with Grookey
+
+RESOURCE ID: quest_title_grookey_0
+TEXT: Grooving with Grookey (1/3)
+
+RESOURCE ID: quest_title_grookey_1
+TEXT: Grooving with Grookey (2/3)
+
+RESOURCE ID: quest_title_grookey_2
+TEXT: Grooving with Grookey (3/3)
 
 RESOURCE ID: quest_title_master_ball_sr_25_1
 TEXT: งานวิจัยระยะยาว: ฝากไว้กับบอลนี้
@@ -1025,7 +1152,7 @@ RESOURCE ID: remote_trade_offer_selection_title_singular
 TEXT: เลือกโปเกมอนที่ต้องการเสนอแลกเปลี่ยน
 
 RESOURCE ID: remote_trade_player_pokemon_title
-TEXT: โปเกมอนของ {0}
+TEXT: โปเกมอนของคุณ
 
 RESOURCE ID: remote_trade_player_tagged_pokemon_unavailable_message
 TEXT: โปเกมอนที่ติดแท็กยังไม่สามารถแลกเปลี่ยนระยะไกลได้ โปรดเลือกโปเกมอนอื่นเพื่อติดแท็ก
@@ -1124,6 +1251,9 @@ TEXT: City Safari: ซิดนีย์ 2025 (2/3)
 
 RESOURCE ID: safari_city_2025_sydney_title_02
 TEXT: City Safari: ซิดนีย์ 2025 (3/3)
+
+RESOURCE ID: search_favorite_added
+TEXT: Search term added to Favorites
 
 RESOURCE ID: search_name_and_num_label
 TEXT: Search name or number
@@ -1293,6 +1423,9 @@ TEXT: ซื้อบัตรผ่าน GO Deluxe: ธันวาคม เ�
 RESOURCE ID: season_pass_details_link_december2025
 TEXT: ตรวจสอบรายละเอียดได้ที่<a href="https://pokemongo.com/go-pass">เว็บไซต์</a>นี้
 
+RESOURCE ID: season_pass_details_link_january2026
+TEXT: ตรวจสอบรายละเอียดได้ที่<a href="https://pokemongo.com/news/go-pass-january-2026">เว็บไซต์</a>นี้
+
 RESOURCE ID: season_pass_details_link_winter_holidays_2025
 TEXT: ตรวจสอบรายละเอียดได้ที่<a href="https://pokemongo.com/news/go-pass-winter_holidays-2025">เว็บไซต์</a>นี้
 
@@ -1452,6 +1585,9 @@ TEXT: วันนี้เธอน่าทึ่งมากเลย %PLAYER
 RESOURCE ID: shop_inventory_more_capacity
 TEXT: กระเป๋าเก็บไอเท็มของคุณเต็มแล้ว!
 
+RESOURCE ID: spawn_grookey
+TEXT: More Grookey are appearing in the wild!
+
 RESOURCE ID: spawn_piplup
 TEXT: โพจจามะปรากฏตัวออกมามากขึ้น!
 
@@ -1469,6 +1605,12 @@ TEXT: You can’t edit or remove stickers after you save.
 
 RESOURCE ID: sun_moon_research_day_event_name
 TEXT: งานวิจัยนภาไพศาล
+
+RESOURCE ID: text_rewards_key_cd_grookey25
+TEXT: <b>Included rewards:</b>
+• Premium in-game items, such as a Premium Battle Pass, a Charged TM, and Rare Candy
+• Encounters with Grookey with a Special Background
+• And more!
 
 RESOURCE ID: text_rewards_key_cd_recap2025
 TEXT: <b>รางวัลที่จะได้รับ:</b>
@@ -1515,6 +1657,9 @@ TEXT: งานวิจัยแบบจำกัดเวลาที่จ�
 
 RESOURCE ID: ticket_dec2025
 TEXT: สามารถซื้อตั๋วสำหรับงานวิจัยพิเศษ "คอมมิวนิตี้เดย์ธันวาคม" ได้ที่ร้านค้า
+
+RESOURCE ID: ticket_grookey_cd
+TEXT: Ticket for the Grookey Community Day Special Research available in the shop
 
 RESOURCE ID: ticket_piplup_cdc
 TEXT: สามารถซื้อตั๋วสำหรับงานวิจัยพิเศษ "โพจจามะคอมมิวนิตี้เดย์ (รีเทิร์น)" ได้ที่ร้านค้า
@@ -1611,6 +1756,15 @@ TEXT: งานวิจัยแบบจำกัดเวลาโบนั�
 RESOURCE ID: tr_hut_hut_title_03
 TEXT: งานวิจัยแบบจำกัดเวลาโบนัสฮัท-ฮัท-ไฮค์! (4/4)
 
+RESOURCE ID: tr_id2026_car_free_day
+TEXT: Car Free Day Timed Research
+
+RESOURCE ID: tr_id2026_car_free_day_00
+TEXT: Car Free Day Timed Research (1/2)
+
+RESOURCE ID: tr_id2026_car_free_day_01
+TEXT: Car Free Day Timed Research (2/2)
+
 RESOURCE ID: trade_warning_bullet_background_location
 TEXT: Pokémon has a Location Background
 
@@ -1621,7 +1775,7 @@ RESOURCE ID: trade_warning_bullet_battle_party
 TEXT: Pokémon will be removed from battle party
 
 RESOURCE ID: trade_warning_bullet_buddy
-TEXT: Buddy Level will be reset
+TEXT: ระดับความสนิทกับคู่หูจะถูกรีเซ็ต
 
 RESOURCE ID: trade_warning_bullet_hyper_training
 TEXT: Pokémon’s stats will change
@@ -1630,10 +1784,10 @@ RESOURCE ID: trade_warning_bullet_max
 TEXT: Max Move levels will be reset
 
 RESOURCE ID: trade_warning_bullet_mega
-TEXT: Mega Level will be reset
+TEXT: ระดับเมก้าจะถูกรีเซ็ต
 
 RESOURCE ID: trade_warning_bullet_primal
-TEXT: Primal Level will be reset
+TEXT: ระดับต้นกำเนิดจะถูกรีเซ็ต
 
 RESOURCE ID: tutorial_help_button_remote_trade_pop_up_body
 TEXT: เรียนรู้เพิ่มเติมเกี่ยวกับการแลกเปลี่ยนระยะไกล
