@@ -65,7 +65,7 @@ RESOURCE ID: ar_photo_social_hashtag
 TEXT: #PokemonGO
 
 RESOURCE ID: ar_photo_social_horizontal_mode_hint
-TEXT: Rotate phone to portrait mode for best results
+TEXT: Rotate phone to portrait mode for best results.
 
 RESOURCE ID: ar_photo_social_name_tag_friend_code
 TEXT: Trainer: {0}
@@ -476,6 +476,12 @@ TEXT: 2× XP from sending Gifts
 RESOURCE ID: gotour_2026_ticket_title
 TEXT: Pokémon GO Tour: Kalos – Global Ticket
 
+RESOURCE ID: hide_bonus_ranks_earn_additional_rewards
+TEXT: Earn additional rewards!
+
+RESOURCE ID: hide_bonus_ranks_header
+TEXT: Complete the Pass to Unlock Bonus Ranks
+
 RESOURCE ID: id2026_car_free_day_title
 TEXT: Car Free Day
 
@@ -491,6 +497,30 @@ Complete Field Research or Timed Research to encounter Pikachu wearing a red par
 
 RESOURCE ID: id2026_car_free_day_tv_id_title
 TEXT: Join Car Free Day!
+
+RESOURCE ID: in_techfest_2025_bonus
+TEXT: Pokémon GO College Fest 2026 Event Bonus
+
+RESOURCE ID: in_techfest_2025_evolve_bonus
+TEXT: Pokémon GO College Fest 2026 Evolution Bonus
+
+RESOURCE ID: in_techfest_2025_tag
+TEXT: Pokémon GO College Fest 2026
+
+RESOURCE ID: in_techfest_2025_title
+TEXT: Pokémon GO College Fest 2026
+
+RESOURCE ID: in_techfest_2025_tr_name
+TEXT: Pokémon GO College Fest 2026 Timed Research
+
+RESOURCE ID: in_techfest_2025_tr_name_1
+TEXT: Pokémon GO College Fest 2026 Timed Research (1/3)
+
+RESOURCE ID: in_techfest_2025_tr_name_2
+TEXT: Pokémon GO College Fest 2026 Timed Research (2/3)
+
+RESOURCE ID: in_techfest_2025_tr_name_3
+TEXT: Pokémon GO College Fest 2026 Timed Research (3/3)
 
 RESOURCE ID: increased_max_battle_candy_bonus
 TEXT: Additional Candy for completing Max Battles
@@ -636,10 +666,10 @@ RESOURCE ID: meetup_check_in_research_title_community_recap_2
 TEXT: Meetup Check-In Timed Research: Community Day (3/3)
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2025-12-23T23:36:43.514121+00:00 for en-US
-at SHA c5b706ebf4f
-Pipeline 3481684, job 49477190
-Patch from: 0.393.0-SHA-f1a16bcf-RC5, 0.395.0-SHA-482ca764-RC1, 0.391.1-SHA-2a6aec88-RC1
+TEXT: Built at 2026-01-08T02:06:40.485764+00:00 for en-US
+at SHA 4bb1b1305c4
+Pipeline 3489470, job 49597240
+Patch from: 0.393.0-SHA-e526fe9a-RC2, 0.395.0-SHA-482ca764-RC1, 0.391.1-SHA-2a6aec88-RC1
 
 RESOURCE ID: move_name_0491
 TEXT: Mind Blown
@@ -983,6 +1013,9 @@ TEXT: Purchase GO Pass Deluxe: Winter Holiday 2025 to unlock the following rewar
 • Rare Candy XL
 • And much more!
 
+RESOURCE ID: see_bonus_ranks_button
+TEXT: SEE BONUS RANKS
+
 RESOURCE ID: shiny_keldeo_masterwork_sr_dialogue_00_00
 TEXT: Ah, %PLAYERNAME%! It’s wonderful to see you again. Tell me, do you ever take a moment to reflect on what you’ve accomplished so far?
 
@@ -1293,7 +1326,4 @@ TEXT: Winter Weekend Timed Research (1/2)
 
 RESOURCE ID: winter_weekend_tr_name_2
 TEXT: Winter Weekend Timed Research (2/2)
-
-RESOURCE ID: yokohama
-TEXT: 
 
