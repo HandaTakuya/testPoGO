@@ -172,8 +172,275 @@ TEXT: หมวกแก๊ปผู้แทนชุมชน
 RESOURCE ID: avatar_n_pose_communityambassador
 TEXT: ท่าโพสผู้แทนชุมชน
 
+RESOURCE ID: avatar_pose_carnival
+TEXT: ท่าโพสคาร์นิวัล
+
 RESOURCE ID: avatar_pose_heart
 TEXT: ท่าโพสหัวใจ
+
+RESOURCE ID: badge_go_tour_2026_global
+TEXT: February – March, 2026
+
+RESOURCE ID: badge_go_tour_2026_global_test
+TEXT: February – March, 2026
+
+RESOURCE ID: badge_go_tour_2026_global_test_title
+TEXT: GO Tour: Kalos – Global (Test)
+
+RESOURCE ID: badge_go_tour_2026_global_title
+TEXT: GO Tour: Kalos – Global
+
+RESOURCE ID: badge_go_tour_2026_global_x_version
+TEXT: February – March, 2026
+
+RESOURCE ID: badge_go_tour_2026_global_x_version_title
+TEXT: GO Tour: Kalos – X Version
+
+RESOURCE ID: badge_go_tour_2026_global_y_version
+TEXT: February – March, 2026
+
+RESOURCE ID: badge_go_tour_2026_global_y_version_title
+TEXT: GO Tour: Kalos – Y Version
+
+RESOURCE ID: badge_go_tour_2026_los_angeles_add_on_hatch
+TEXT: February 20–22, 2026
+
+RESOURCE ID: badge_go_tour_2026_los_angeles_add_on_hatch_test
+TEXT: February 2026
+
+RESOURCE ID: badge_go_tour_2026_los_angeles_add_on_hatch_test_title
+TEXT: GO Tour: Kalos – Los Angeles, Egg-thusiast (Test)
+
+RESOURCE ID: badge_go_tour_2026_los_angeles_add_on_hatch_title
+TEXT: GO Tour: Kalos – Los Angeles, Egg-thusiast
+
+RESOURCE ID: badge_go_tour_2026_los_angeles_add_on_raid
+TEXT: February 20–22, 2026
+
+RESOURCE ID: badge_go_tour_2026_los_angeles_add_on_raid_test
+TEXT: February 2026
+
+RESOURCE ID: badge_go_tour_2026_los_angeles_add_on_raid_test_title
+TEXT: GO Tour: Kalos – Los Angeles, Raid Lover (Test)
+
+RESOURCE ID: badge_go_tour_2026_los_angeles_add_on_raid_title
+TEXT: GO Tour: Kalos – Los Angeles, Raid Lover
+
+RESOURCE ID: badge_go_tour_2026_los_angeles_friday_all_day_bonuses
+TEXT: February 20, 2026
+
+RESOURCE ID: badge_go_tour_2026_los_angeles_friday_all_day_bonuses_title
+TEXT: GO Tour: Kalos – Los Angeles, Extended Bonuses
+
+RESOURCE ID: badge_go_tour_2026_los_angeles_friday_city
+TEXT: February 20, 2026
+
+RESOURCE ID: badge_go_tour_2026_los_angeles_friday_city_title
+TEXT: GO Tour: Kalos – Los Angeles, City Experience
+
+RESOURCE ID: badge_go_tour_2026_los_angeles_friday_mega_night
+TEXT: February 20, 2026
+
+RESOURCE ID: badge_go_tour_2026_los_angeles_friday_mega_night_title
+TEXT: GO Tour: Kalos – Los Angeles, Mega Night
+
+RESOURCE ID: badge_go_tour_2026_los_angeles_friday_park
+TEXT: February 20, 2026
+
+RESOURCE ID: badge_go_tour_2026_los_angeles_friday_park_title
+TEXT: GO Tour: Kalos – Los Angeles, Park Experience
+
+RESOURCE ID: badge_go_tour_2026_los_angeles_saturday_all_day_bonuses
+TEXT: February 21, 2026
+
+RESOURCE ID: badge_go_tour_2026_los_angeles_saturday_all_day_bonuses_title
+TEXT: GO Tour: Kalos – Los Angeles, Extended Bonuses
+
+RESOURCE ID: badge_go_tour_2026_los_angeles_saturday_city
+TEXT: February 21, 2026
+
+RESOURCE ID: badge_go_tour_2026_los_angeles_saturday_city_title
+TEXT: GO Tour: Kalos – Los Angeles, City Experience
+
+RESOURCE ID: badge_go_tour_2026_los_angeles_saturday_mega_night
+TEXT: February 21, 2026
+
+RESOURCE ID: badge_go_tour_2026_los_angeles_saturday_mega_night_title
+TEXT: GO Tour: Kalos – Los Angeles, Mega Night
+
+RESOURCE ID: badge_go_tour_2026_los_angeles_saturday_park
+TEXT: February 21, 2026
+
+RESOURCE ID: badge_go_tour_2026_los_angeles_saturday_park_title
+TEXT: GO Tour: Kalos – Los Angeles, Park Experience
+
+RESOURCE ID: badge_go_tour_2026_los_angeles_sunday_all_day_bonuses
+TEXT: February 22, 2026
+
+RESOURCE ID: badge_go_tour_2026_los_angeles_sunday_all_day_bonuses_title
+TEXT: GO Tour: Kalos – Los Angeles, Extended Bonuses
+
+RESOURCE ID: badge_go_tour_2026_los_angeles_sunday_city
+TEXT: February 22, 2026
+
+RESOURCE ID: badge_go_tour_2026_los_angeles_sunday_city_title
+TEXT: GO Tour: Kalos – Los Angeles, City Experience
+
+RESOURCE ID: badge_go_tour_2026_los_angeles_sunday_mega_night
+TEXT: February 22, 2026
+
+RESOURCE ID: badge_go_tour_2026_los_angeles_sunday_mega_night_title
+TEXT: GO Tour: Kalos – Los Angeles, Mega Night
+
+RESOURCE ID: badge_go_tour_2026_los_angeles_sunday_park
+TEXT: February 22, 2026
+
+RESOURCE ID: badge_go_tour_2026_los_angeles_sunday_park_title
+TEXT: GO Tour: Kalos – Los Angeles, Park Experience
+
+RESOURCE ID: badge_go_tour_2026_los_angeles_test_all_day_bonuses
+TEXT: February 2026
+
+RESOURCE ID: badge_go_tour_2026_los_angeles_test_all_day_bonuses_title
+TEXT: GO Tour: Kalos – Los Angeles, Extended Bonuses (Test)
+
+RESOURCE ID: badge_go_tour_2026_los_angeles_test_city
+TEXT: February 2026
+
+RESOURCE ID: badge_go_tour_2026_los_angeles_test_city_title
+TEXT: GO Tour: Kalos – Los Angeles, City Experience (Test)
+
+RESOURCE ID: badge_go_tour_2026_los_angeles_test_park
+TEXT: February 2026
+
+RESOURCE ID: badge_go_tour_2026_los_angeles_test_park_title
+TEXT: GO Tour: Kalos – Los Angeles, Park Experience (Test)
+
+RESOURCE ID: badge_go_tour_2026_los_angeles_vip
+TEXT: February 20–22, 2026
+
+RESOURCE ID: badge_go_tour_2026_los_angeles_vip_title
+TEXT: GO Tour: Kalos – Los Angeles, VIP
+
+RESOURCE ID: badge_go_tour_2026_tainan_add_on_hatch
+TEXT: February 20–22, 2026
+
+RESOURCE ID: badge_go_tour_2026_tainan_add_on_hatch_test
+TEXT: February 2026
+
+RESOURCE ID: badge_go_tour_2026_tainan_add_on_hatch_test_title
+TEXT: GO Tour: Kalos – Tainan, Egg-thusiast (Test)
+
+RESOURCE ID: badge_go_tour_2026_tainan_add_on_hatch_title
+TEXT: GO Tour: Kalos – Tainan, Egg-thusiast
+
+RESOURCE ID: badge_go_tour_2026_tainan_add_on_raid
+TEXT: February 20–22, 2026
+
+RESOURCE ID: badge_go_tour_2026_tainan_add_on_raid_test
+TEXT: February 2026
+
+RESOURCE ID: badge_go_tour_2026_tainan_add_on_raid_test_title
+TEXT: GO Tour: Kalos – Tainan, Raid Lover (Test)
+
+RESOURCE ID: badge_go_tour_2026_tainan_add_on_raid_title
+TEXT: GO Tour: Kalos – Tainan, Raid Lover
+
+RESOURCE ID: badge_go_tour_2026_tainan_friday_all_day_bonuses
+TEXT: February 20, 2026
+
+RESOURCE ID: badge_go_tour_2026_tainan_friday_all_day_bonuses_title
+TEXT: GO Tour: Kalos – Tainan, Extended Bonuses
+
+RESOURCE ID: badge_go_tour_2026_tainan_friday_city
+TEXT: February 20, 2026
+
+RESOURCE ID: badge_go_tour_2026_tainan_friday_city_title
+TEXT: GO Tour: Kalos – Tainan, City Experience
+
+RESOURCE ID: badge_go_tour_2026_tainan_friday_mega_night
+TEXT: February 20, 2026
+
+RESOURCE ID: badge_go_tour_2026_tainan_friday_mega_night_title
+TEXT: GO Tour: Kalos – Tainan, Mega Night
+
+RESOURCE ID: badge_go_tour_2026_tainan_friday_park
+TEXT: February 20, 2026
+
+RESOURCE ID: badge_go_tour_2026_tainan_friday_park_title
+TEXT: GO Tour: Kalos – Tainan, Park Experience
+
+RESOURCE ID: badge_go_tour_2026_tainan_saturday_all_day_bonuses
+TEXT: February 21, 2026
+
+RESOURCE ID: badge_go_tour_2026_tainan_saturday_all_day_bonuses_title
+TEXT: GO Tour: Kalos – Tainan, Extended Bonuses
+
+RESOURCE ID: badge_go_tour_2026_tainan_saturday_city
+TEXT: February 21, 2026
+
+RESOURCE ID: badge_go_tour_2026_tainan_saturday_city_title
+TEXT: GO Tour: Kalos – Tainan, City Experience
+
+RESOURCE ID: badge_go_tour_2026_tainan_saturday_mega_night
+TEXT: February 21, 2026
+
+RESOURCE ID: badge_go_tour_2026_tainan_saturday_mega_night_title
+TEXT: GO Tour: Kalos – Tainan, Mega Night
+
+RESOURCE ID: badge_go_tour_2026_tainan_saturday_park
+TEXT: February 21, 2026
+
+RESOURCE ID: badge_go_tour_2026_tainan_saturday_park_title
+TEXT: GO Tour: Kalos – Tainan, Park Experience
+
+RESOURCE ID: badge_go_tour_2026_tainan_sunday_all_day_bonuses
+TEXT: February 22, 2026
+
+RESOURCE ID: badge_go_tour_2026_tainan_sunday_all_day_bonuses_title
+TEXT: GO Tour: Kalos – Tainan, Extended Bonuses
+
+RESOURCE ID: badge_go_tour_2026_tainan_sunday_city
+TEXT: February 22, 2026
+
+RESOURCE ID: badge_go_tour_2026_tainan_sunday_city_title
+TEXT: GO Tour: Kalos – Tainan, City Experience
+
+RESOURCE ID: badge_go_tour_2026_tainan_sunday_mega_night
+TEXT: February 22, 2026
+
+RESOURCE ID: badge_go_tour_2026_tainan_sunday_mega_night_title
+TEXT: GO Tour: Kalos – Tainan, Mega Night
+
+RESOURCE ID: badge_go_tour_2026_tainan_sunday_park
+TEXT: February 22, 2026
+
+RESOURCE ID: badge_go_tour_2026_tainan_sunday_park_title
+TEXT: GO Tour: Kalos – Tainan, Park Experience
+
+RESOURCE ID: badge_go_tour_2026_tainan_test_all_day_bonuses
+TEXT: February 2026
+
+RESOURCE ID: badge_go_tour_2026_tainan_test_all_day_bonuses_title
+TEXT: GO Tour: Kalos – Tainan, Extended Bonuses (Test)
+
+RESOURCE ID: badge_go_tour_2026_tainan_test_city
+TEXT: February 2026
+
+RESOURCE ID: badge_go_tour_2026_tainan_test_city_title
+TEXT: GO Tour: Kalos – Tainan, City Experience (Test)
+
+RESOURCE ID: badge_go_tour_2026_tainan_test_park
+TEXT: February 2026
+
+RESOURCE ID: badge_go_tour_2026_tainan_test_park_title
+TEXT: GO Tour: Kalos – Tainan, Park Experience (Test)
+
+RESOURCE ID: badge_go_tour_2026_tainan_vip
+TEXT: February 20–22, 2026
+
+RESOURCE ID: badge_go_tour_2026_tainan_vip_title
+TEXT: GO Tour: Kalos – Tainan, VIP
 
 RESOURCE ID: battle_condition_mega_enrage
 TEXT: {0} is protecting itself with Mega Energy
@@ -197,10 +464,10 @@ RESOURCE ID: blog_link_wattsup_jan2026
 TEXT: ตรวจสอบรายละเอียดได้ที่<a href="https://pokemongolive.com/post/high-zaptitude-2026">เว็บไซต์</a>นี้
 
 RESOURCE ID: bonus_candy_raids_t5_plus_mega
-TEXT: One additional Candy from catching Pokémon in five-star and Mega raids
+TEXT: One additional Candy from catching Pokémon in five-star and Mega Raids
 
 RESOURCE ID: bonus_candy_xl_raids_t5_plus_mega
-TEXT: One additional Candy XL from catching Pokémon in five-star and Mega raids
+TEXT: One additional Candy XL from catching Pokémon in five-star and Mega Raids
 
 RESOURCE ID: bonus_cd_move_alolan_vulpix
 TEXT: วิวัฒนาการโรคอน (ร่างอโลลา) เป็นคิวคอน (ร่างอโลลา) ที่รู้ท่าโจมตีชาร์จ "น้ำเย็น"
@@ -233,7 +500,7 @@ RESOURCE ID: bonus_incense_costume_pikachu
 TEXT: Incense may attract costumed Pikachu
 
 RESOURCE ID: bonus_mateo_encounter_daily_25
-TEXT: Trade gifts with Mateo on up to 25 Routes per day
+TEXT: Exchange Gifts with Mateo on up to 25 Routes per day
 
 RESOURCE ID: bonus_mega_cp_boost
 TEXT: Boosted CP for all Mega-Evolved Pokémon
@@ -266,7 +533,7 @@ RESOURCE ID: bonus_raid_6_candy_t5_and_mega
 TEXT: Six additional Candy for successful five-star raids and Mega Raids
 
 RESOURCE ID: bonus_routes_flabebe
-TEXT: Increased chance of Flabébé appearing along Routes
+TEXT: Increased chance of Flabébé appearing on Routes
 
 RESOURCE ID: bonus_routes_flabebe_los_angeles
 TEXT: Increased chance of encountering White Flower Flabébé, Orange Flower Flabébé, and Yellow Flower Flabébé on Routes
@@ -275,10 +542,10 @@ RESOURCE ID: bonus_routes_flabebe_tainan
 TEXT: Increased chance of encountering White Flower Flabébé, Orange Flower Flabébé, and Blue Flower Flabébé on Routes
 
 RESOURCE ID: bonus_scatterbug_pin_3_temp
-TEXT: Scatterbug appear 3x more quickly based on pinned Postcards
+TEXT: Increased Scatterbug sub-medal progress for each pinned Postcard
 
 RESOURCE ID: bonus_scatterbug_pin_6
-TEXT: Scatterbug appear 6x more quickly based on pinned Postcards
+TEXT: Significantly increased Scatterbug sub-medal progress for each pinned Postcard
 
 RESOURCE ID: bonus_special_background_t5_and_mega_raid
 TEXT: Pokémon caught from five-star raids and Mega Raids may have a Special Background
@@ -290,7 +557,7 @@ RESOURCE ID: bonus_today_event_sr
 TEXT: Event-exclusive Special Research now available
 
 RESOURCE ID: bonus_zygarde_cell_daily_25
-TEXT: Chance of finding Zygarde Cells on up to 25 Routes per day
+TEXT: Chance to discover Zygarde Cells on up to 25 Routes per day
 
 RESOURCE ID: buddy_event_collection_challenge_1
 TEXT: คำท้านักสะสมสหายแสนรัก: เพื่อนเหนียวนุ่ม
@@ -331,188 +598,206 @@ TEXT: รับหัวใจจากคู่หูเพิ่มเติ�
 RESOURCE ID: campfire_meetup_go_tour_2026
 TEXT: Meetup Check-In Timed Research: GO Tour 2026
 
+RESOURCE ID: carnival_flamigo_event_name
+TEXT: เทศกาลคลามิงโก้
+
+RESOURCE ID: carnival_flamigo_flamigo_collection_challenge
+TEXT: คำท้านักสะสมเทศกาลคลามิงโก้: เฮฮา
+
+RESOURCE ID: carnival_flamigo_free_tr_name
+TEXT: งานวิจัยแบบจำกัดเวลาเทศกาลคลามิงโก้
+
+RESOURCE ID: carnival_flamigo_paid_tr_name
+TEXT: งานวิจัยแบบจำกัดเวลาพรีเมียม: เทศกาลคลามิงโก้
+
+RESOURCE ID: carnival_flamigo_spritzee_collection_challenge
+TEXT: คำท้านักสะสมเทศกาลคลามิงโก้: ครึกครื้น
+
+RESOURCE ID: carnival_flamigo_website_link
+TEXT: ตรวจสอบรายละเอียดได้ที่<a href="https://pokemongolive.com/post/carnival-of-flamigo-2026">เว็บไซต์</a>นี้
+
 RESOURCE ID: city_manhole_382
-TEXT: Kuwana
+TEXT: คุวานะ
 
 RESOURCE ID: city_manhole_383
-TEXT: Komono
+TEXT: โคโมโนะ
 
 RESOURCE ID: city_manhole_384
-TEXT: Taiki
+TEXT: ไทกิ
 
 RESOURCE ID: city_manhole_385
-TEXT: Inabe
+TEXT: อินาเบะ
 
 RESOURCE ID: city_manhole_386
-TEXT: Owase
+TEXT: โอวาเสะ
 
 RESOURCE ID: city_manhole_387
-TEXT: Otsuki
+TEXT: โอสึกิ
 
 RESOURCE ID: city_manhole_388
-TEXT: Mihara
+TEXT: มิฮาระ
 
 RESOURCE ID: city_manhole_389
-TEXT: Otoyo
+TEXT: โอโตโยะ
 
 RESOURCE ID: city_manhole_390
-TEXT: Tsuno
+TEXT: สึโนะ
 
 RESOURCE ID: city_manhole_391
-TEXT: Hidaka
+TEXT: ฮิดากะ
 
 RESOURCE ID: city_manhole_392
-TEXT: Kihoku
+TEXT: คิโฮกุ
 
 RESOURCE ID: city_manhole_393
-TEXT: Mihama
+TEXT: มิฮามะ
 
 RESOURCE ID: city_manhole_394
-TEXT: Nahari
+TEXT: นาฮาริ
 
 RESOURCE ID: city_manhole_395
-TEXT: Kami
+TEXT: คามิ
 
 RESOURCE ID: city_manhole_396
-TEXT: Kitakami
+TEXT: คิตากามิ
 
 RESOURCE ID: city_manhole_397
-TEXT: Morioka
+TEXT: โมริโอกะ
 
 RESOURCE ID: city_manhole_398
-TEXT: Yamagata
+TEXT: ยามางาตะ
 
 RESOURCE ID: city_manhole_399
-TEXT: Sagae
+TEXT: ซางาเอะ
 
 RESOURCE ID: city_manhole_400
-TEXT: Okura
+TEXT: โอกุระ
 
 RESOURCE ID: city_manhole_401
-TEXT: Nagoya
+TEXT: นาโกยะ
 
 RESOURCE ID: city_manhole_402
-TEXT: Seto
+TEXT: เซโตะ
 
 RESOURCE ID: city_manhole_403
-TEXT: Tokoname
+TEXT: โทโกนาเมะ
 
 RESOURCE ID: city_manhole_404
-TEXT: Oguni
+TEXT: โองุนิ
 
 RESOURCE ID: city_manhole_405
-TEXT: Tsuruoka
+TEXT: สึรุโอกะ
 
 RESOURCE ID: city_manhole_406
-TEXT: Kariya
+TEXT: คาริยะ
 
 RESOURCE ID: city_manhole_407
-TEXT: Nishio
+TEXT: นิชิโอะ
 
 RESOURCE ID: city_manhole_408
-TEXT: Mito
+TEXT: มิโตะ
 
 RESOURCE ID: city_manhole_409
-TEXT: Hitachiota
+TEXT: ฮิตาจิโอตะ
 
 RESOURCE ID: city_manhole_410
-TEXT: Suzuka
+TEXT: สุซุกะ
 
 RESOURCE ID: city_manhole_411
-TEXT: Toba
+TEXT: โทบะ
 
 RESOURCE ID: city_manhole_412
-TEXT: Tsukuba
+TEXT: สึกุบะ
 
 RESOURCE ID: city_manhole_413
-TEXT: Kamisu
+TEXT: คามิสุ
 
 RESOURCE ID: city_manhole_414
-TEXT: Chikusei
+TEXT: จิกุเซ
 
 RESOURCE ID: city_manhole_415
-TEXT: Fukui
+TEXT: ฟุกุอิ
 
 RESOURCE ID: city_manhole_416
-TEXT: Sabae
+TEXT: ซาบาเอะ
 
 RESOURCE ID: city_manhole_417
-TEXT: Sakai
+TEXT: ซากาอิ
 
 RESOURCE ID: city_manhole_418
-TEXT: Echizen-cho
+TEXT: เอจิเซนโจ
 
 RESOURCE ID: city_manhole_419
-TEXT: Wakasa
+TEXT: วากาสะ
 
 RESOURCE ID: city_manhole_420
-TEXT: Ohi
+TEXT: โอฮิ
 
 RESOURCE ID: city_manhole_425
-TEXT: Kuzumaki
+TEXT: คุซุมากิ
 
 RESOURCE ID: city_manhole_427
-TEXT: Muroto
+TEXT: มุโรโตะ
 
 RESOURCE ID: city_manhole_428
-TEXT: Konan
+TEXT: โคนัน
 
 RESOURCE ID: city_manhole_429
-TEXT: Sukumo
+TEXT: สุกุโมะ
 
 RESOURCE ID: city_manhole_430
-TEXT: Sunagawa
+TEXT: สุนางาวะ
 
 RESOURCE ID: city_manhole_431
-TEXT: Yubetsu
+TEXT: ยูเบตสึ
 
 RESOURCE ID: city_manhole_432
-TEXT: Betsukai
+TEXT: เบตสิไค
 
 RESOURCE ID: city_manhole_433
-TEXT: Aki
+TEXT: อากิ
 
 RESOURCE ID: city_manhole_434
-TEXT: Susaki
+TEXT: สุซากิ
 
 RESOURCE ID: city_manhole_435
-TEXT: Toyo
+TEXT: โทโย
 
 RESOURCE ID: city_manhole_437
-TEXT: Kasenuma Park
+TEXT: สวนคาเสนุมะ
 
 RESOURCE ID: city_manhole_439
-TEXT: Assabu
+TEXT: อัสซาบุ
 
 RESOURCE ID: city_manhole_440
-TEXT: Yuni
+TEXT: ยูนิ
 
 RESOURCE ID: city_manhole_442
-TEXT: Tsubetsu
+TEXT: สึเบตสึ
 
 RESOURCE ID: city_manhole_443
-TEXT: Sapporo
+TEXT: ซัปโปโระ
 
 RESOURCE ID: city_manhole_446
 TEXT: Inagi
 
 RESOURCE ID: city_manhole_fudai
-TEXT: Fudai
+TEXT: ฟุได
 
 RESOURCE ID: city_manhole_horonobe
-TEXT: Horonobe
+TEXT: โฮโรโนเบะ
 
 RESOURCE ID: city_manhole_kamaishi
-TEXT: Kamaishi
+TEXT: คามาอิชิ
 
 RESOURCE ID: city_manhole_kuji
-TEXT: Kuji
+TEXT: คุจิ
 
 RESOURCE ID: city_manhole_miyako
-TEXT: Miyako
+TEXT: มิยาโกะ
 
 RESOURCE ID: city_manhole_yamada
-TEXT: Yamada
+TEXT: ยามาดะ
 
 RESOURCE ID: combat_move_entering_busted_form
 TEXT: Mimikyu’s disguise is busted!
@@ -532,8 +817,8 @@ RESOURCE ID: community_day_vulpix_event_name
 TEXT: คอมมิวนิตี้เดย์: โรคอนและโรคอน (ร่างอโลลา)
 
 RESOURCE ID: datetime_range_format
-TEXT: {0}, {1} –
-{2}, {3}
+TEXT: {0} {1} น. ถึง
+{2} {3} น.
 
 RESOURCE ID: desc_unown_o_clock
 TEXT: At the top of each hour, Unown will appear in large numbers!
@@ -556,27 +841,96 @@ TEXT: พบปัญหาในการดาวน์โหลดทรั�
 RESOURCE ID: downloading_avatar_assets_warning_title
 TEXT: ไม่สามารถดาวน์โหลดทรัพยากรได้
 
+RESOURCE ID: em_carnival_2026_rally_cologne_desc
+TEXT: ยินดีต้อนรับสู่เทศกาลคลามิงโก้!
+
+RESOURCE ID: em_carnival_2026_rally_cologne_desc_detail
+TEXT: เมื่อเคลียร์แสตมป์แรลลี GO นี้ จะได้เผชิญหน้ากับคลามิงโก้และได้รับลูกอมคลามิงโก้!
+
+RESOURCE ID: em_carnival_2026_rally_cologne_location
+TEXT: โคโลญ, เยอรมัน
+
+RESOURCE ID: em_carnival_2026_rally_cologne_rewards_desc_general
+TEXT: แสตมป์แรลลี GO ที่สามารถเผชิญหน้ากับคลามิงโก้ที่มีพื้นหลังสถานที่เฉพาะโคโลญ!
+
+RESOURCE ID: em_carnival_2026_rally_cologne_title
+TEXT: เทศกาลคลามิงโก้ - แสตมป์แรลลีโคโลญ
+
+RESOURCE ID: em_carnival_2026_rally_rio_desc
+TEXT: ยินดีต้อนรับสู่เทศกาลคลามิงโก้!
+
+RESOURCE ID: em_carnival_2026_rally_rio_desc_detail
+TEXT: เมื่อเคลียร์แสตมป์แรลลี GO นี้ จะได้เผชิญหน้ากับคลามิงโก้และได้รับลูกอมคลามิงโก้!
+
+RESOURCE ID: em_carnival_2026_rally_rio_location
+TEXT: รีโอเดจาเนโร, บราซิล
+
+RESOURCE ID: em_carnival_2026_rally_rio_rewards_desc_general
+TEXT: แสตมป์แรลลี GO ที่สามารถเผชิญหน้ากับคลามิงโก้ที่มีพื้นหลังสถานที่เฉพาะรีโอเดจาเนโร!
+
+RESOURCE ID: em_carnival_2026_rally_rio_title
+TEXT: เทศกาลคลามิงโก้ - แสตมป์แรลลีรีโอเดจาเนโร
+
+RESOURCE ID: em_carnival_2026_regional_event_title
+TEXT: เทศกาลคลามิงโก้: ภูมิภาค
+
+RESOURCE ID: em_carnival_2026_regional_tr_desc_title_00
+TEXT: งานวิจัยแบบจำกัดเวลาเทศกาลคลามิงโก้: ภูมิภาค (1/4)
+
+RESOURCE ID: em_carnival_2026_regional_tr_desc_title_01
+TEXT: งานวิจัยแบบจำกัดเวลาเทศกาลคลามิงโก้: ภูมิภาค (2/4)
+
+RESOURCE ID: em_carnival_2026_regional_tr_desc_title_02
+TEXT: งานวิจัยแบบจำกัดเวลาเทศกาลคลามิงโก้: ภูมิภาค (3/4)
+
+RESOURCE ID: em_carnival_2026_regional_tr_desc_title_03
+TEXT: งานวิจัยแบบจำกัดเวลาเทศกาลคลามิงโก้: ภูมิภาค (4/4)
+
+RESOURCE ID: em_carnival_2026_regional_tr_title
+TEXT: งานวิจัยแบบจำกัดเวลาเทศกาลคลามิงโก้: ภูมิภาค
+
+RESOURCE ID: em_carnival_2026_tr_dialog_00
+TEXT: ไง %PLAYERNAME%!
+มีแผนจะฉลองเทศกาลอย่างไรบ้างล่ะ?
+เลือกวิธีฉลองที่ชอบเพื่อร่วมสนุกเลย!
+
+RESOURCE ID: em_carnival_2026_tr_path_a
+TEXT: เลือกเต้น
+
+RESOURCE ID: em_carnival_2026_tr_path_a_desc
+TEXT: เมื่อเลือกเส้นทางนี้ จะได้เผชิญหน้า
+กับปิปปี, การะการะ (ร่างอโลลา) และแคว็กซ์
+และรับรางวัล เช่น เครื่องหอมและสติกเกอร์
+
+RESOURCE ID: em_carnival_2026_tr_path_b
+TEXT: เลือกเพลง
+
+RESOURCE ID: em_carnival_2026_tr_path_b_desc
+TEXT: เมื่อเลือกเส้นทางนี้ จะได้เผชิญหน้า
+กับพูริน, รุนปัปปา และโคโรโบชิ
+และรับรางวัล เช่น เครื่องหอมและสติกเกอร์
+
 RESOURCE ID: enhanced_currency_abbreviated
 TEXT: LC
 
 RESOURCE ID: enhanced_currency_ftue_body
-TEXT: Link Charges can be used to enter Mega Raids in place of Raid passes. Link Charges are required to enter Mega Raids Remotely.
+TEXT: Link Charges can be used to join Mega Raids in place of Raid Passes. Link Charges are required to join Mega Raids remotely.
 
-Earn Link Charges from activities such as Weekly Challenges, Campfire Check-Ins, and opening Gifts.
+You can earn Link Charges from activities such as weekly challenges, Campfire check-ins, and opening Gifts.
 
 RESOURCE ID: enhanced_currency_ftue_title
-TEXT: Use Link Charges to Enter Mega Raids
+TEXT: Use Link Charges to Join Mega Raids
 
 RESOURCE ID: enhanced_currency_maxed_out_warning
 TEXT: You have reached the max number of Link Charges ({0}). Please try again when you have fewer Link Charges.
 
 RESOURCE ID: enhanced_mega_raid_tutorial_body_1
-TEXT: Battle with 8 or more Trainers to take down challenging Mega Pokémon and earn extra Mega Energy to power up your Pokemon!
+TEXT: Battle with eight or more Trainers to take down challenging Mega-Evolved Pokémon. You can earn extra Mega Energy to power up your Pokémon!
 
 RESOURCE ID: enhanced_mega_raid_tutorial_body_2
-TEXT: The raid boss will shield itself in battle and take less damage.
+TEXT: The Raid Boss will shield itself in battle and take less damage.
 
-You can break one shield using a Charged Attack from your Mega Pokémon. Work together with other Trainers’ Mega Pokémon to take down the boss’s defenses!
+You can break one shield using a Charged Attack from your Mega-Evolved Pokémon. Work together to take down the boss’s defenses!
 
 RESOURCE ID: enhanced_mega_raid_tutorial_title_1
 TEXT: New Super Mega Raid!
@@ -587,6 +941,10 @@ TEXT: Mega Evolve to Power Up Your Attacks!
 RESOURCE ID: event_datetime_range_key_buddy_event
 TEXT: 20 มกราคม 10:00 น. ถึง
 25 มกราคม 19:59 น.
+
+RESOURCE ID: event_datetime_range_key_carnivaloflamigo26
+TEXT: 3 กุมภาพันธ์ 10:00 น. ถึง
+8 กุมภาพันธ์ 20:00 น.
 
 RESOURCE ID: event_datetime_range_key_cd_grookey25
 TEXT: 18 มกราคม เวลา 14:00-17:00 น.
@@ -647,8 +1005,17 @@ TEXT: +{0}
 RESOURCE ID: friendship_detail_item_singular
 TEXT: +{0}
 
+RESOURCE ID: fusion_unfuse_description_kyurem_black
+TEXT: แบล็กคิวเรมจะแยกออกมาเป็นเซครอมและคิวเรม ต้องใช้พลังงานรวมร่างหากต้องการรวมร่างอีกครั้ง
+
+RESOURCE ID: fusion_unfuse_description_kyurem_white
+TEXT: ไวท์คิวเรมจะแยกออกมาเป็นเรชิรัมและคิวเรม ต้องใช้พลังงานรวมร่างหากต้องการรวมร่างอีกครั้ง
+
 RESOURCE ID: general1.ticket.5_buddy_event_title
 TEXT: ตั๋วงานวิจัยแบบจำกัดเวลาพรีเมียม: สหายแสนรัก
+
+RESOURCE ID: general1.ticket.5_carnivaloflamigo26_title
+TEXT: ตั๋วงานวิจัยแบบจำกัดเวลาพรีเมียม: เทศกาลคลามิงโก้
 
 RESOURCE ID: general1.ticket.5_intotdepths26_title
 TEXT: ตั๋วงานวิจัยแบบจำกัดเวลาพรีเมียม: ลึกไปในถ้ำ
@@ -680,6 +1047,129 @@ TEXT: เริ่ม
 RESOURCE ID: general_pokemon_trainer
 TEXT: โปเกมอนเทรนเนอร์
 
+RESOURCE ID: go_tour_2026_masterwork_sr_dialog_00_00
+TEXT: %PLAYERNAME%! Excuse the mess, I'm looking for some notes.
+
+RESOURCE ID: go_tour_2026_masterwork_sr_dialog_00_01
+TEXT: I recieved a report of a rather interesting Pokémon today. It was only a glimpse, but from the description it could be something special.
+
+RESOURCE ID: go_tour_2026_masterwork_sr_dialog_00_02
+TEXT: Maybe it's a Pokémon originally found in the Kalos region?
+
+RESOURCE ID: go_tour_2026_masterwork_sr_dialog_00_03
+TEXT: I'm trying to dig up my old research to corrobate my hunch.. without much success. Would you like to help? Don't worry, I'll handle the sorting!
+
+RESOURCE ID: go_tour_2026_masterwork_sr_dialog_00_04
+TEXT: Can you brush up on Pokémon from the Kalos region while I try to find a diamond in this rough!
+
+RESOURCE ID: go_tour_2026_masterwork_sr_dialog_01_00
+TEXT: I knew you'd handle the task like a star!
+
+RESOURCE ID: go_tour_2026_masterwork_sr_dialog_01_01
+TEXT: As for me, I've managed to organize my notes but it will take more time to find what I'm looking for.
+
+RESOURCE ID: go_tour_2026_masterwork_sr_dialog_01_02
+TEXT: It's so easy to stop looking at the clock when pouring over old research.
+
+RESOURCE ID: go_tour_2026_masterwork_sr_dialog_01_03
+TEXT: Why don't you spend some more time in the field while I dig a little deeper?
+
+RESOURCE ID: go_tour_2026_masterwork_sr_dialog_02_00
+TEXT: Alright, I've got my notes in order! Now let's see.
+
+RESOURCE ID: go_tour_2026_masterwork_sr_dialog_02_01
+TEXT: The report mentioned this Pokémon reminded them of jewels. Could it be a Carbink?
+
+RESOURCE ID: go_tour_2026_masterwork_sr_dialog_02_02
+TEXT: I wonder if we should start searching for a Fairy-type then. What do you think?
+
+RESOURCE ID: go_tour_2026_masterwork_sr_dialog_02_03
+TEXT: You've got that sparkle in your eye that says you're up for the challenge!
+
+RESOURCE ID: go_tour_2026_masterwork_sr_dialog_03_00
+TEXT: %PLAYERNAME%, I'm stuck between a Rock-type and a Fairy-type place.
+
+RESOURCE ID: go_tour_2026_masterwork_sr_dialog_03_01
+TEXT: I was reviewing my notes on Fairy-type Pokémon from the Kalos region, but none of them quite fit the description.
+
+RESOURCE ID: go_tour_2026_masterwork_sr_dialog_03_02
+TEXT: Jewels are also reminscient of rocks so what if it's a Rock-type?
+
+RESOURCE ID: go_tour_2026_masterwork_sr_dialog_03_03
+TEXT: Let's study Rock-type Pokémon next! We're so close to crystallizing this information. I can feel it!
+
+RESOURCE ID: go_tour_2026_masterwork_sr_dialog_04_00
+TEXT: Astounding work out there! I think we're truly onto something now.
+
+RESOURCE ID: go_tour_2026_masterwork_sr_dialog_04_01
+TEXT: Both Fairy-type and Rock-type are plausible at this point. Which could it be?
+
+RESOURCE ID: go_tour_2026_masterwork_sr_dialog_04_02
+TEXT: Perhaps we should keep learning more about both kinds of Pokémon! Then the answer will be crystal clear.
+
+RESOURCE ID: go_tour_2026_masterwork_sr_dialog_04_03
+TEXT: The pressure is on! But I know you can handle it, %PLAYERNAME%.
+
+RESOURCE ID: go_tour_2026_masterwork_sr_dialog_05_00
+TEXT: You've been putting your all into this research, %PLAYERNAME%, but I think we may have hit a wall.
+
+RESOURCE ID: go_tour_2026_masterwork_sr_dialog_05_01
+TEXT: Why don't we take a break and relax for a bit? Maybe you'll run into our elusive Pokémon.
+
+RESOURCE ID: go_tour_2026_masterwork_sr_dialog_05_02
+TEXT: Meltan and I will take a walk and ponder this before we continue.
+
+RESOURCE ID: go_tour_2026_masterwork_sr_dialog_05_03
+TEXT: I'm sure your Pokémon would love to spend time with you, too!
+
+RESOURCE ID: go_tour_2026_masterwork_sr_dialog_06_00
+TEXT: I see you've found a Carbink! However, on a closer look I don't think this is the Pokémon from the reports.
+
+RESOURCE ID: go_tour_2026_masterwork_sr_dialog_06_01
+TEXT: %PLAYERNAME%, what if we have been searching for the Mythical Pokémon Diancie this whole time?
+
+RESOURCE ID: go_tour_2026_masterwork_sr_dialog_06_02
+TEXT: It is speculated Diancie is a result of a Carbink suddenly transforming which explains the similarities.
+
+RESOURCE ID: go_tour_2026_masterwork_sr_dialog_06_03
+TEXT: This treasure hunt is not over yet!
+
+RESOURCE ID: go_tour_2026_masterwork_sr_dialog_07_00
+TEXT: %PLAYERNAME%, exciting news!
+
+RESOURCE ID: go_tour_2026_masterwork_sr_dialog_07_01
+TEXT: I just caught a glimpse of what I'm sure is Diancie! The coloring seemed to be different though so I'll need to take a closer look.
+
+RESOURCE ID: go_tour_2026_masterwork_sr_dialog_07_02
+TEXT: This is quite the dazzling opportunity! I knew if we kept mining for answers we'd strike it big.
+
+RESOURCE ID: go_tour_2026_masterwork_sr_dialog_07_03
+TEXT: Let's get back out there and see what we can find.
+
+RESOURCE ID: go_tour_2026_masterwork_sr_dialog_08_00
+TEXT: You've done it, %PLAYERNAME%! And what a unique color! Incredible!
+
+RESOURCE ID: go_tour_2026_masterwork_sr_dialog_08_01
+TEXT: Did you know Diancie can instantly create many diamonds by compressing the carbon in the air between its hands?
+
+RESOURCE ID: go_tour_2026_masterwork_sr_dialog_08_02
+TEXT: There's still so much to learn about Diancie.
+
+RESOURCE ID: go_tour_2026_masterwork_sr_dialog_08_03
+TEXT: And you're the best possible Trainer to help it reach its full potential.
+
+RESOURCE ID: go_tour_2026_masterwork_sr_dialog_09_00
+TEXT: I think Diancie has taken quite a shine to you! In fact, it looks ready to Mega Evolve into Mega Diancie!
+
+RESOURCE ID: go_tour_2026_masterwork_sr_dialog_09_01
+TEXT: I've recently heard Mega Diancie is also known as the Royal Pink Princess. The dazzling, sparkling diamond on its forehead is a whopping 2,000 carats!
+
+RESOURCE ID: go_tour_2026_masterwork_sr_dialog_09_02
+TEXT: Let me get my sunglasses because this Mega Evolution is going to be so bright!
+
+RESOURCE ID: go_tour_2026_masterwork_sr_dialog_09_03
+TEXT: Thank you for all your efforts, %PLAYERNAME%. Keep that sparkle alive, wherever your journey takes you!
+
 RESOURCE ID: go_tour_ep_bonus_title_deluxe_00
 TEXT: Tier 1 GO Pass Deluxe: Road to Kalos Bonuses
 
@@ -688,6 +1178,183 @@ TEXT: Tier 2 GO Pass Deluxe: Road to Kalos Bonuses
 
 RESOURCE ID: go_tour_ep_bonus_title_deluxe_02
 TEXT: Tier 3 GO Pass Deluxe: Road to Kalos Bonuses
+
+RESOURCE ID: go_tour_kalos_global_sr_dialog_02_00
+TEXT: %PLAYERNAME%, did you know that just Mega Energy isn't enough to Mega Evolve a Pokémon. To Mega Evolve, a Pokémon also needs a strong bond with its Trainer.
+
+RESOURCE ID: go_tour_kalos_global_sr_dialog_02_01
+TEXT: So you see, this story isn't just about the distant past. It's about you and your Pokémon, too!
+
+RESOURCE ID: go_tour_kalos_global_sr_dialog_02_02
+TEXT: As the hero of this tale, which Pokémon will you train? If it's a Pokémon like Charizard, will it become Mega Charizard X or Mega Charizard Y?
+
+RESOURCE ID: go_tour_kalos_global_sr_dialog_02_03
+TEXT: Let's prepare to Mega Evolve, %PLAYERNAME%, and get ready to choose your own adventure!
+
+RESOURCE ID: go_tour_kalos_global_sr_dialog_03_00
+TEXT: Even the strongest protagonists needs support. For example, I have assistance with my research from other professors across the world.
+
+RESOURCE ID: go_tour_kalos_global_sr_dialog_03_01
+TEXT: It might seem strange to have friends in these far-flung places, but friendship is like a Scatterbug: it can thrive in any climate or region.
+
+RESOURCE ID: go_tour_kalos_global_sr_dialog_03_02
+TEXT: %PLAYERNAME%, why don't you reach out to the ones who've helped you on your journeys?
+
+RESOURCE ID: go_tour_kalos_global_sr_dialog_03_03
+TEXT: Gifts as simple as a Sticker and a Postcard can let people know that you appreciate them.
+
+RESOURCE ID: go_tour_kalos_global_sr_intro_dialog_00_00
+TEXT: Ahh, Kalos, a region of patisserie, high fashion, and fascinating Pokémon! If you only know it from pictures, you'll appreciate its beauty even more in three dimensions!
+
+RESOURCE ID: go_tour_kalos_global_sr_intro_dialog_00_01
+TEXT: I'd like to tell you a story about a Legendary Pokémon originally discovered in Kalos..
+
+RESOURCE ID: go_tour_kalos_global_sr_xerneas_dialog_01_00
+TEXT: Are you familiar with the legend of Xerneas? Also known as the Life Pokémon, Xerneas is the subject of many stories.
+
+RESOURCE ID: go_tour_kalos_global_sr_xerneas_dialog_01_01
+TEXT: In some legends, Xerneas's horns shine seven different colors when it shares life energy. In others, Xerneas slumbers in the form of a great tree.
+
+RESOURCE ID: go_tour_kalos_global_sr_xerneas_dialog_01_02
+TEXT: All these tales are evidence of how deeply Xerneas changed the Kalos region.
+
+RESOURCE ID: go_tour_kalos_global_sr_xerneas_dialog_01_03
+TEXT: If you study Kalos more, you'll see just how great of an impact it had!
+
+RESOURCE ID: go_tour_kalos_global_sr_xerneas_dialog_04_00
+TEXT: Here comes a plot twist: Xerneas has a counterpart.
+
+RESOURCE ID: go_tour_kalos_global_sr_xerneas_dialog_04_01
+TEXT: Where Xerneas is the Life Pokémon, Yveltal is the Destruction Pokémon. While one shares life energy, the other absorbs it.
+
+RESOURCE ID: go_tour_kalos_global_sr_xerneas_dialog_04_02
+TEXT: I wonder how the two feel about each other. Are they enemies? Or collaborators?
+
+RESOURCE ID: go_tour_kalos_global_sr_xerneas_dialog_04_03
+TEXT: Maybe you'll find the answer to these questions as you train and learn more about these Pokémon.
+
+RESOURCE ID: go_tour_kalos_global_sr_xerneas_dialog_05_00
+TEXT: The climax is approaching, %PLAYERNAME%.
+
+RESOURCE ID: go_tour_kalos_global_sr_xerneas_dialog_05_01
+TEXT: You witnessed the beauty of Pokémon first discovered in the Kalos region.
+
+RESOURCE ID: go_tour_kalos_global_sr_xerneas_dialog_05_02
+TEXT: You rallied your friends and brought out your Pokémon's inner strength.
+
+RESOURCE ID: go_tour_kalos_global_sr_xerneas_dialog_05_03
+TEXT: Though we are nearing the end of this story, there is always something new around the corner.
+
+RESOURCE ID: go_tour_kalos_global_sr_xerneas_dialog_05_04
+TEXT: Now the time has come to face Xerneas! Good luck, %PLAYERNAME%!
+
+RESOURCE ID: go_tour_kalos_global_sr_yveltal_dialog_01_00
+TEXT: Are you familar with the legend of Yveltal? Also known as the Destruction Pokémon, Yveltal is the subject of many stories.
+
+RESOURCE ID: go_tour_kalos_global_sr_yveltal_dialog_01_01
+TEXT: In some legends, Yveltal's wings and tail glow red when it absorbs life energy. In others, Yveltal slumbers in the form of a great cocoon.
+
+RESOURCE ID: go_tour_kalos_global_sr_yveltal_dialog_01_02
+TEXT: All these tales are evidence of how deeply Yveltal changed the Kalos region.
+
+RESOURCE ID: go_tour_kalos_global_sr_yveltal_dialog_01_03
+TEXT: If you study Kalos more, you'll see just how great of an impact it had!
+
+RESOURCE ID: go_tour_kalos_global_sr_yveltal_dialog_04_00
+TEXT: Here comes a plot twist: Yveltal has a counterpart.
+
+RESOURCE ID: go_tour_kalos_global_sr_yveltal_dialog_04_01
+TEXT: Where Yveltal is the Destruction Pokémon, Xerneas is the Life Pokémon. While one absorbs life energy, the other shares it.
+
+RESOURCE ID: go_tour_kalos_global_sr_yveltal_dialog_04_02
+TEXT: I wonder how the two feel about each other. Are they enemies? Or collaborators?
+
+RESOURCE ID: go_tour_kalos_global_sr_yveltal_dialog_04_03
+TEXT: Maybe you'll find the answer to these questions as you train and learn more about these Pokémon.
+
+RESOURCE ID: go_tour_kalos_global_sr_yveltal_dialog_05_00
+TEXT: The climax is approaching, %PLAYERNAME%.
+
+RESOURCE ID: go_tour_kalos_global_sr_yveltal_dialog_05_01
+TEXT: You witnessed the beauty of Pokémon first discovered in the Kalos region.
+
+RESOURCE ID: go_tour_kalos_global_sr_yveltal_dialog_05_02
+TEXT: You rallied your friends and brought out your Pokémon's inner strength.
+
+RESOURCE ID: go_tour_kalos_global_sr_yveltal_dialog_05_03
+TEXT: Though we are nearing the end of this story, there is always something new around the corner.
+
+RESOURCE ID: go_tour_kalos_global_sr_yveltal_dialog_05_04
+TEXT: Now the time has come to face Yveltal Good luck, %PLAYERNAME%!
+
+RESOURCE ID: go_tour_kalos_irl_sr_branch_dialog_01_00
+TEXT: Which would you rather research: the Life Pokémon, Xerneas, or the Destruction Pokémon, Yveltal?
+
+RESOURCE ID: go_tour_kalos_irl_sr_dialog_00_00
+TEXT: Hey, %PLAYERNAME%! Many Pokémon originally discovered in the Kalos region are out and about today.
+
+RESOURCE ID: go_tour_kalos_irl_sr_dialog_00_01
+TEXT: And for any adventure to do with Kalos, you'll need a strong Mega-Evolved Pokémon by your side!
+
+RESOURCE ID: go_tour_kalos_irl_sr_dialog_00_02
+TEXT: Most Trainers remember their first Mega Evolution fondly, whether it was a Bug type like Beedrill or a Fighting type like Lucario.
+
+RESOURCE ID: go_tour_kalos_irl_sr_dialog_00_03
+TEXT: Whether or not you have a Pokémon like that, sometimes the best way to forge new memories is to revisit an old one!
+
+RESOURCE ID: go_tour_kalos_irl_sr_xerneas_dialog_02_00
+TEXT: Now that Xernas is here, I am sure a Mega-Evolved Pokémon will be helpful!
+
+RESOURCE ID: go_tour_kalos_irl_sr_xerneas_dialog_02_01
+TEXT: Look out for a colorful light while you're exploring. When the horns on its head shine in seven colors, it is said to be sharing everlasting life.
+
+RESOURCE ID: go_tour_kalos_irl_sr_xerneas_dialog_02_02
+TEXT: That sounds invigorating, but forever is a long time!
+
+RESOURCE ID: go_tour_kalos_irl_sr_xerneas_dialog_02_03
+TEXT: You might also want to keep an eye out for a strange tree. Supposedly Xerneas slept for a thousand years in the form of a tree before its revival.
+
+RESOURCE ID: go_tour_kalos_irl_sr_xerneas_dialog_02_04
+TEXT: Those are all the signs of Xerneas that I know, %PLAYERNAME%. But who knows? You might be the one to discover more!
+
+RESOURCE ID: go_tour_kalos_irl_sr_xerneas_dialog_03_00
+TEXT: The world is so full of life, %PLAYERNAME%. No matter if I turn left or right, I see people and Pokémon on the horizon.
+
+RESOURCE ID: go_tour_kalos_irl_sr_xerneas_dialog_03_01
+TEXT: Isn't it special that we all share the same plane of existence?
+
+RESOURCE ID: go_tour_kalos_irl_sr_xerneas_dialog_03_02
+TEXT: Perhaps the reason why Xernas shares life also lies within that answer.
+
+RESOURCE ID: go_tour_kalos_irl_sr_xerneas_dialog_03_03
+TEXT: Use that knowledge — and the power of Mega-Evolution — to prevail in your next encounter!
+
+RESOURCE ID: go_tour_kalos_irl_sr_yveltal_dialog_02_00
+TEXT: Now that Yveltal is here, I am sure a Mega-Evolved Pokémon will be helpful!
+
+RESOURCE ID: go_tour_kalos_irl_sr_yveltal_dialog_02_01
+TEXT: Look out for a red light while you're exploring. Yveltal's wings and tail are said to glow that color when it absorbs the life force of those around it.
+
+RESOURCE ID: go_tour_kalos_irl_sr_yveltal_dialog_02_02
+TEXT: How frightening! Maybe I should get a little distance from here...
+
+RESOURCE ID: go_tour_kalos_irl_sr_yveltal_dialog_02_03
+TEXT: You might also want to keep an eye out for a strange cocoon. It could be Yveltal!
+
+RESOURCE ID: go_tour_kalos_irl_sr_yveltal_dialog_02_04
+TEXT: Those are all the signs of Yveltal that I know, %PLAYERNAME%. But who knows? You might be the one to discover more!
+
+RESOURCE ID: go_tour_kalos_irl_sr_yveltal_dialog_03_00
+TEXT: Do you ever wonder what it'd be like to fly? Imagine soaring up and down through a whole new plane of movement!
+
+RESOURCE ID: go_tour_kalos_irl_sr_yveltal_dialog_03_01
+TEXT: The sky might seem empty of life, but the clouds and wind have an energy of their own.
+
+RESOURCE ID: go_tour_kalos_irl_sr_yveltal_dialog_03_02
+TEXT: Perhaps a Flying-type Pokémon like Yveltal understands that. I hope that by researching it, you've learned more about its perspective.
+
+RESOURCE ID: go_tour_kalos_irl_sr_yveltal_dialog_03_03
+TEXT: Use that knowledge — and the power of Mega-Evolution — to prevail in your next encounter!
 
 RESOURCE ID: gotour2026_boqus_header_daily
 TEXT: Road to Kalos: Daily Bonus Tasks
@@ -716,11 +1383,17 @@ TEXT: A Beautiful Day to Celebrate! Timed Research (1/1)
 RESOURCE ID: gotour_2026_event_duration
 TEXT: February 23 – March 1
 
+RESOURCE ID: gotour_2026_event_pass_deluxe_title
+TEXT: GO Pass: Road to Kalos Deluxe
+
 RESOURCE ID: gotour_2026_event_pass_details_link
 TEXT: For more details, visit the <a href="https://pokemongo.com/post/road-to-kalos-event/">website</a>.
 
 RESOURCE ID: gotour_2026_event_pass_title
 TEXT: Pokémon GO Tour: Kalos
+
+RESOURCE ID: gotour_2026_pass_track_upgrade_header_description
+TEXT: Earn additional rewards and instantly unlock an <b>encounter with Hoopa Unbound</b>!
 
 RESOURCE ID: gotour_2026_upgrade_description
 TEXT: Purchase GO Pass Deluxe: Road to Kalos to unlock the following rewards!
@@ -816,11 +1489,11 @@ RESOURCE ID: into_depths_website_link
 TEXT: ตรวจสอบรายละเอียดได้ที่<a href="https://pokemongolive.com/post/into-the-depths-2026">เว็บไซต์</a>นี้
 
 RESOURCE ID: item_enhanced_currency_holder_desc
-TEXT: A container that holds Link Charges. It can hold up to {0} Charges at a time.
+TEXT: A container that holds Link Charges. It can hold up to {0} charges at a time.
 
 RESOURCE ID: item_enhanced_currency_holder_desc_count
-TEXT: A container that holds Link Charges. Used to enter Mega Raids.
-Gather Charges from activities like Weekly Challenges, Campfire check-ins, and opening Gifts from friends.
+TEXT: A container that holds Link Charges, which are used to join Mega Raids.
+Gather charges from activities like weekly challenges, Campfire check-ins, and opening Gifts from friends.
 
 RESOURCE ID: item_enhanced_currency_holder_name
 TEXT: Link Holder
@@ -844,6 +1517,10 @@ TEXT: ตั๋วสำหรับรับโบนัสพิเศษ
 คุณจะสามารถเข้าร่วมได้โดยอัตโนมัติ
 ตามเวลาท้องถิ่นทั่วโลก
 
+RESOURCE ID: item_event_ticket_evergreen_desc_carnivaloflamigo26
+TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยแบบจำกัดเวลาพรีเมียม: เทศกาลคลามิงโก้
+ถึงวันที่ 8 กุมภาพันธ์ 2026 เวลา 20:00 น. ตามเวลาท้องถิ่นทั่วโลก
+
 RESOURCE ID: item_event_ticket_evergreen_desc_intotdepths26
 TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยแบบจำกัดเวลาพรีเมียม: ลึกไปในถ้ำ
 ถึงวันที่ 1 กุมภาพันธ์ 2026 เวลา 20:00 น. ตามเวลาท้องถิ่นทั่วโลก
@@ -855,6 +1532,12 @@ TEXT: ตั๋วสำหรับเข้าร่วมงานวิจ�
 RESOURCE ID: item_event_ticket_evergreen_desc_wattsup_jan2026
 TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยแบบจำกัดเวลาพรีเมียม: กำลังไฟสูง
 ตั้งแต่วันที่ 13 มกราคม เวลา 10:00 น. ถึงวันที่ 18 มกราคม 2026 เวลา 20:00 น. ตามเวลาท้องถิ่นไม่ว่าคุณจะอยู่ที่ใด
+
+RESOURCE ID: item_event_ticket_evergreen_details_carnivaloflamigo26
+TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยแบบจำกัดเวลาพรีเมียม: เทศกาลคลามิงโก้
+ในวันที่ 3 กุมภาพันธ์
+คุณจะสามารถเข้าร่วมได้โดยอัตโนมัติ
+ตามเวลาท้องถิ่นทั่วโลก
 
 RESOURCE ID: item_event_ticket_evergreen_details_intotdepths26
 TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยแบบจำกัดเวลาพรีเมียม: ลึกไปในถ้ำ
@@ -932,13 +1615,13 @@ RESOURCE ID: lobby_group_size_warning
 TEXT: Suggested group size of this raid is {0} players.
 
 RESOURCE ID: lobby_mega_count_plural
-TEXT: {0} Mega Pokemon in Lobby
+TEXT: {0} Mega-Evolved Pokémon in Lobby
 
 RESOURCE ID: lobby_mega_count_singular
 TEXT: {0} Mega-Evolved Pokémon in lobby
 
 RESOURCE ID: lobby_mega_count_zero
-TEXT: {0} Mega Pokemon in Lobby
+TEXT: {0} Mega-Evolved Pokémon in Lobby
 
 RESOURCE ID: max_battle_day_dmax_ho_oh_ticketed
 TEXT: โบนัสตั๋ว "สุดสัปดาห์แห่งการแบตเทิลแมกซ์โฮโอไดแมกซ์"
@@ -980,7 +1663,7 @@ RESOURCE ID: mega2026_ftue_desc_1_title
 TEXT: Learn how to Mega Evolve your Pokémon!
 
 RESOURCE ID: mega2026_ftue_desc_1_title_temp
-TEXT: Catch a Pokémon and learn how to Mega Evolve them!
+TEXT: Catch a Pokémon and learn how to Mega Evolve it!
 
 RESOURCE ID: mega2026_ftue_lets_do_it_button
 TEXT: LET’S DO IT!
@@ -1016,10 +1699,10 @@ TEXT: {0}
 Bonus XP
 
 RESOURCE ID: mega_daily_point_bonus_30
-TEXT: Earn up to 30 points towards increasing any Pokémon's Mega level daily
+TEXT: Earn up to 30 points daily toward increasing any Pokémon’s Mega Level
 
 RESOURCE ID: mega_daily_point_bonus_6
-TEXT: Earn up to 6 points towards increasing any Pokémon's Mega level daily
+TEXT: Earn up to 6 points daily toward increasing any Pokémon’s Mega Level
 
 RESOURCE ID: mega_hud_border_text_1
 TEXT: CANDY BOOST TYPES
@@ -1027,14 +1710,17 @@ TEXT: CANDY BOOST TYPES
 RESOURCE ID: mega_hud_border_text_2
 TEXT: BONUSES EARNED
 
+RESOURCE ID: mega_level_3
+TEXT: ระดับแมกซ์
+
 RESOURCE ID: mega_level_4
 TEXT: Super Max Level
 
 RESOURCE ID: mega_level_4_ftue_body_details_prompt
-TEXT: This Pokémon can now reach Super Max Level and earn even stronger bonuses. Learn more on the Mega detail page.
+TEXT: This Pokémon can now reach Super Max Level and earn even stronger bonuses. Learn more on the Mega Level page.
 
 RESOURCE ID: mega_level_4_ftue_body_evolve_prompt
-TEXT: This Pokémon can now reach Super Max Level. Mega evolve this Pokemon to earn bonuses and learn more.
+TEXT: This Pokémon can now reach Super Max Level. Mega Evolve this Pokémon to earn bonuses and learn more.
 
 RESOURCE ID: mega_level_4_ftue_title
 TEXT: New Mega Level available!
@@ -1108,10 +1794,10 @@ RESOURCE ID: mega_level_up_unlock_title
 TEXT: MEGA LEVEL UP
 
 RESOURCE ID: mega_perk_candy_bonus_excellentplus
-TEXT: Greatly Enhanced Catch Candy bonus
+TEXT: Greatly enhanced Catch Candy bonus
 
 RESOURCE ID: mega_perk_catch_xp_bonus_excellentplus
-TEXT: Greatly Enhanced Catch XP Bonus
+TEXT: Greatly enhanced Catch XP bonus
 
 RESOURCE ID: mega_perk_cp_boost
 TEXT: Enhanced CP
@@ -1119,11 +1805,20 @@ TEXT: Enhanced CP
 RESOURCE ID: mega_perk_cp_boost_excellentplus
 TEXT: Greatly Enhanced CP
 
+RESOURCE ID: message_camera_permission_required
+TEXT: To take photos, open your phone settings and give Pokémon GO access to the camera.
+
+RESOURCE ID: message_gallery_permission_required:
+TEXT: To download photos, open your phone settings and give Pokémon GO access to photos.
+
+RESOURCE ID: message_open_settings
+TEXT: ไปที่การตั้งค่า
+
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-01-24T00:21:53.492182+00:00 for th-TH
-at SHA 59b95516a4a
-Pipeline 3510607, job 50034904
-Patch from: 0.395.1-SHA-ef2086b7-RC2, 0.397.0-SHA-5a918511-RC2
+TEXT: Built at 2026-01-29T18:27:22.382672+00:00 for th-TH
+at SHA fe8c8716451
+Pipeline 3517972, job 50223251
+Patch from: 0.395.1-SHA-2504d2e4-RC1, 0.397.0-SHA-5a918511-RC2
 
 RESOURCE ID: move_name_0491
 TEXT: ตกตะลึง
@@ -1166,6 +1861,14 @@ TEXT: หนีบด้วยก้าม
 
 RESOURCE ID: pokedex_sort_size
 TEXT: ขนาด
+
+RESOURCE ID: pokelid_details_description
+TEXT: "Poké Lids" ที่อยู่ตามพื้นที่ต่าง ๆ ในญี่ปุ่น จะปรากฏเป็นเสาโปเกสต็อปใน Pokémon GO
+เมื่อคุณแวะสถานที่แห่งนั้นและแตะที่เสาโปเกสต็อป "Poké Lids" จะได้รับแสตมป์ Poké Lids ที่มีดีไซน์เป็นเอกลักษณ์เฉพาะของพื้นที่นั้น ๆ
+นอกจากนี้ ยังสามารถร่วมมือกับเพื่อนในการสะสมแสตมป์แรลลี GO นี้ได้อีกด้วย
+เมื่อส่งของขวัญที่ได้รับจากเสาโปเกสต็อป Poké Lids ให้เพื่อน เพื่อนคนดังกล่าวจะได้รับแสตมป์เดียวกัน ทำให้สามารถสนุกไปกับการเล่นแสตมป์แรลลีด้วยกันได้!
+
+แสตมป์ที่เพื่อนส่งมาให้ก็จะแสดงในสมุดภาพเช่นกัน แต่จะไม่ถูกนับในแทร็กรางวัล สามารถรับรางวัลได้ตอนที่แวะสถานที่แห่งนั้นจริงและรวมรวบแสตมป์เท่านั้น
 
 RESOURCE ID: pokemon_desc_tmpevo_0036_0001
 TEXT: It flies by using the power of moonlight to control gravity within a radius of over 32 feet around it.
@@ -1241,6 +1944,18 @@ TEXT: Drampa’s cells have been invigorated, allowing it to regain its youth. I
 
 RESOURCE ID: pokemon_desc_tmpevo_0870_0001
 TEXT: Mega Falinks has taken on the ultimate battle formation, which can be achieved only if the troopers and brass have the strongest of bonds.
+
+RESOURCE ID: pokemon_ibfc_desc_0778
+TEXT: Once per battle, the shroud that covers the Pokémon can protect it from a Charged Attack. The Pokémon’s Defense will be lowered until the end of battle.
+
+RESOURCE ID: pokemon_ibfc_desc_header_0778
+TEXT: BATTLE-ONLY FORM: BUSTED FORM
+
+RESOURCE ID: pokemon_ibfc_desc_header_form_info
+TEXT: BATTLE-ONLY FORM: {0}
+
+RESOURCE ID: pokemon_ibfc_name_0778
+TEXT: Busted Form
 
 RESOURCE ID: pokemon_name_0036_0001
 TEXT: Mega Clefable
@@ -1356,20 +2071,14 @@ TEXT: เทราปากอส
 RESOURCE ID: pokemon_name_1025
 TEXT: โมโมวาโร่
 
-RESOURCE ID: pokémon_ibfc_desc_0778
-TEXT: Once per battle, the shroud that covers the Pokémon can protect it from a Charged Attack. The Pokémon’s Defense will be lowered until the end of battle.
-
-RESOURCE ID: pokémon_ibfc_desc_header_0778
-TEXT: BATTLE-ONLY FORM: BUSTED FORM
-
 RESOURCE ID: primal_level_bottom_section
-TEXT: Revert to Primal form for bonus candy and increased CP
+TEXT: Revert to its primal form to get bonus Candy and increase CP
 
 RESOURCE ID: primal_perk_candy_bonus_excellentplus
-TEXT: Greatly Enhanced Catch Candy bonus
+TEXT: Greatly enhanced Catch Candy bonus
 
 RESOURCE ID: primal_perk_catch_xp_bonus_excellentplus
-TEXT: Greatly Enhanced Catch XP Bonus
+TEXT: Greatly enhanced Catch XP bonus
 
 RESOURCE ID: primal_perk_cp_boost
 TEXT: Enhanced CP
@@ -1708,6 +2417,9 @@ TEXT: วันตีบอสชาโดว์ไรโค
 RESOURCE ID: shadow_raikou_website_link
 TEXT: ตรวจสอบรายละเอียดได้ที่<a href="https://pokemongo.com/post/shadow-raikou-raid-day-2026">เว็บไซต์</a>นี้
 
+RESOURCE ID: share_referral_link_default
+TEXT: ใช้ Pokémon GO ถ่ายภาพกับโปเกมอนกันเลย!
+
 RESOURCE ID: spawn_grookey
 TEXT: ซารุโนริปรากฏตัวออกมามากขึ้น!
 
@@ -1745,7 +2457,7 @@ RESOURCE ID: sr_go_tour_2026_irl_title_02
 TEXT: GO Tour 2026: A Balancing Act (3/3)
 
 RESOURCE ID: stamp_rally_missed_prefecture_reward_toast
-TEXT: To claim this reward, tap the stamp button while at one of the Poké Lid Stamp Rally locations in this prefecture.
+TEXT: แตะปุ่มแสตมป์เมื่ออยู่ที่สถานที่ที่กำหนดของแสตมป์แรลลี Poké Lids ในจังหวัดนั้น ๆ เพื่อรับรางวัล
 
 RESOURCE ID: sticker_photo_remove_stickers
 TEXT: ลบสติกเกอร์
@@ -1777,6 +2489,15 @@ TEXT: <b>รางวัลที่จะได้รับ:</b>
 - โปฟฟิน 1 ชิ้น
 - ท่าโพสหัวใจ
 
+RESOURCE ID: text_rewards_key_carnivaloflamigo26
+TEXT: <b>รางวัลที่จะได้รับ:</b>
+- การเผชิญหน้ากับฮาซึโบ, ชูชูป, สึสึเคระ และคลามิงโก้
+- ไอเท็มอวาตาร์ท่าโพสคาร์นิวัล
+- สะเก็ดดาว 1 ชิ้น
+ไฮเปอร์บอล 10 ลูก
+- ผลไพน์ 10 ผล
+- 3,000 สตาร์ดัสต์
+
 RESOURCE ID: text_rewards_key_cd_grookey25
 TEXT: <b>รางวัลที่จะได้รับ:</b>
 - ไอเท็มภายในเกม เช่น บัตรแบตเทิลพรีเมียม
@@ -1795,7 +2516,7 @@ RESOURCE ID: text_rewards_key_dmaxhooh26
 TEXT: <b>สิ่งที่จะได้รับ:</b>
 - 2× XP เมื่อแบตเทิลแมกซ์เสร็จสิ้น
 - ลูกอมและลูกอม XL เพิ่มขึ้นจากแบตเทิลแมกซ์ห้าดาว
-- งานวิจัยแบบจำกัดเวลาที่มีรางวัลเป็น 25,000 XP และ 50,000 สตาร์ดัสต์
+- งานวิจัยแบบจำกัดเวลาที่มีรางวัลเป็น 25,000 XP และ 6,400 อนุภาคแมกซ์
 
 RESOURCE ID: text_rewards_key_dmaxhooh26_out
 TEXT: <b>สิ่งที่จะได้รับ:</b>
@@ -1855,8 +2576,14 @@ TEXT: GO Tour: Kalos – Egg-thusiast
 RESOURCE ID: title_addon_kalos_raid
 TEXT: GO Tour: Kalos – Raid Lover
 
+RESOURCE ID: title_camera_permission_required
+TEXT: Allow Pokémon GO to Access the Camera
+
+RESOURCE ID: title_gallery_permission_required
+TEXT: Allow Pokémon GO to Access Photos
+
 RESOURCE ID: title_hoopa_hoopla
-TEXT: Hoopa Hoopla
+TEXT: Hoopa Hoopla!
 
 RESOURCE ID: title_unown_o_clock
 TEXT: Unown O’Clock
@@ -2015,16 +2742,16 @@ RESOURCE ID: tutorial_need_mega_title
 TEXT: Mega Evolve to Ready Up
 
 RESOURCE ID: tv_title_go_tour_2026_global
-TEXT: GO Tour: Kalos - Global
+TEXT: GO Tour: Kalos – Global
 
 RESOURCE ID: tv_title_go_tour_2026_global_extended
-TEXT: GO Tour: Kalos - Global, Extended Bonuses
+TEXT: GO Tour: Kalos – Global, Extended Bonuses
 
 RESOURCE ID: tv_title_go_tour_2026_global_extended_ticket
-TEXT: GO Tour: Kalos - Global, Ticketed Extended Bonuses
+TEXT: GO Tour: Kalos – Global, Ticket Extended Bonuses
 
 RESOURCE ID: tv_title_go_tour_2026_global_ticket
-TEXT: GO Tour: Kalos - Global, Ticketed Bonuses
+TEXT: GO Tour: Kalos – Global, Ticket Bonuses
 
 RESOURCE ID: tv_title_go_tour_2026_la
 TEXT: GO Tour: Kalos – Los Angeles
