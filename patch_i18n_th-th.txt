@@ -519,6 +519,13 @@ TEXT: ไม่มีรางวัลที่สามารถรับจ�
 RESOURCE ID: claim_all_rewards_confirmation
 TEXT: ต้องการรับรางวัลทั้งหมดหรือไม่?
 
+RESOURCE ID: combat_move_entering_busted_form
+TEXT: การอำพรางกายของมิมิคคิวถูกเปิดเผย!
+
+RESOURCE ID: combat_move_transformed_blocked
+TEXT: แปลงร่างแล้ว!
+กันไว้!
+
 RESOURCE ID: combat_title_season_22
 TEXT: โกแบตเทิลลีก: ความทรงจำพรั่งพรู
 
@@ -566,6 +573,44 @@ TEXT: วันอาทิตย์ลัวร์เท่าตัว
 
 RESOURCE ID: double_time_sunday_lure_one_hour
 TEXT: ระยะเวลาอุปกรณ์ปล่อยลัวร์ 1 ชั่วโมง (ยกเว้นอุปกรณ์ปล่อยลัวร์สีทอง)
+
+RESOURCE ID: em_holi_2026_collection_challenge_1
+TEXT: คำท้านักสะสมเทศกาลแห่งสีสัน 2026
+
+RESOURCE ID: em_holi_2026_collection_challenge_2
+TEXT: คำท้านักสะสมเทศกาลแห่งสีสัน 2026
+
+RESOURCE ID: em_holi_2026_event_title
+TEXT: เทศกาลแห่งสีสัน 2026
+
+RESOURCE ID: em_holi_2026_tr_desc_title_00
+TEXT: งานวิจัยแบบจำกัดเวลาเทศกาลแห่งสีสัน 2026 (1/3)
+
+RESOURCE ID: em_holi_2026_tr_desc_title_01
+TEXT: งานวิจัยแบบจำกัดเวลาเทศกาลแห่งสีสัน 2026 (2/3)
+
+RESOURCE ID: em_holi_2026_tr_desc_title_02
+TEXT: งานวิจัยแบบจำกัดเวลาเทศกาลแห่งสีสัน 2026 (3/3)
+
+RESOURCE ID: em_holi_2026_tr_path_a_desc
+TEXT: เมื่อเลือกเส้นทางนี้ จะได้เผชิญหน้า
+กับพิคาชูสวมชุดกูรตะ และรับรางวัล
+เช่น สติกเกอร์และไข่แห่งความสุข
+
+RESOURCE ID: em_holi_2026_tr_path_b_desc
+TEXT: เมื่อเลือกเส้นทางนี้ จะได้เผชิญหน้า
+กับพิคาชูสวมชุดส่าหรี และรับรางวัล
+เช่น สติกเกอร์และไข่แห่งความสุข
+
+RESOURCE ID: em_holi_2026_tr_title
+TEXT: งานวิจัยแบบจำกัดเวลาเทศกาลแห่งสีสัน 2026
+
+RESOURCE ID: em_holi_2026_tv_desc
+TEXT: ระหว่างช่วงอีเวนต์ โปเกมอนสีสันสดใสจะปรากฏตัวทุกวันเวลา 10:00 น., 13:00 น. และ 19:00 น.
+อ่านรายละเอียดเพิ่มเติมเกี่ยวกับอีเวนต์ได้ที่บล็อก
+
+RESOURCE ID: em_holi_2026_tv_title
+TEXT: โปเกมอนสีสันสดใสปรากฏตัว
 
 RESOURCE ID: em_mall_pkmn_day_event_title
 TEXT: เทศกาลเฉลิมฉลอง Pokémon Day: บราซิล
@@ -1658,7 +1703,7 @@ RESOURCE ID: lunar_new_year_feb26_collection
 TEXT: คำท้านักสะสมอีเวนต์ตรุษจีน 2026
 
 RESOURCE ID: make_good_akari_pikachu_desc
-TEXT: GO Tour Encounter: Pikachu
+TEXT: GO Tour เผชิญหน้า: พิคาชู
 
 RESOURCE ID: masterwork_shiny_diancie_title
 TEXT: งานวิจัยระยะยาว: รัศมีอันยิ่งใหญ่
@@ -1701,6 +1746,12 @@ TEXT: โบนัสตั๋ว "วันแบตเทิลแมกซ์
 
 RESOURCE ID: max_monday
 TEXT: วันจันทร์สุดแมกซ์
+
+RESOURCE ID: meetup_check_in_research_title_friendship_fridays
+TEXT: Meetup Check-In Timed Research: Friendship Fridays
+
+RESOURCE ID: meetup_check_in_research_title_super_mega_raids
+TEXT: Meetup Check-In Timed Research: Super Mega Raids
 
 RESOURCE ID: mega2026_ditto_cant_break_shields
 TEXT: เมตามอนไม่สามารถทำลายโล่ป้องกันได้แม้จะแปลงร่าง
@@ -1931,10 +1982,10 @@ RESOURCE ID: message_gallery_permission_required
 TEXT: หากต้องการดาวน์โหลดรูปภาพ ต้องอนุญาตให้ Pokémon GO เข้าถึงรูปภาพจากหน้าจอการตั้งค่าของอุปกรณ์เสียก่อน
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-02-28T09:53:45.866120+00:00 for th-TH
-at SHA 9da78b730d8
-Pipeline 3563758, job 52033285
-Patch from: 0.399.1-SHA-8ecc6639-RC1, 0.401.0-SHA-0fb0c533-RC3, 0.403.0-SHA-47e90574-RC1
+TEXT: Built at 2026-03-04T01:24:57.990395+00:00 for th-TH
+at SHA 994dd7c7ba8
+Pipeline 3569369, job 52345862
+Patch from: 0.401.0-SHA-0fb0c533-RC3, 0.399.1-SHA-853bae10-RC2, 0.403.0-SHA-47e90574-RC1
 
 RESOURCE ID: more_power_spots_active
 TEXT: พาวเวอร์สป็อตจะเพิ่มขึ้น
@@ -1986,6 +2037,11 @@ TEXT: Pokémon Day
 RESOURCE ID: pokemon_day_night_info_transfer_to_professor_confirmation
 TEXT: คุณแน่ใจใช่ไหมว่าต้องการถ่ายโอน
 โปเกมอนที่มีภาพเหมือน?
+
+RESOURCE ID: pokemon_desc_0778_busted
+TEXT: เศร้าที่ตัวตนที่แท้จริงของมันอาจถูกเปิดเผย
+มันจะไม่มีวันให้อภัยฝ่ายตรงข้ามที่หักส่วนคอ
+ของมันอย่างเด็ดขาดและเฝ้ารอล้างแค้น
 
 RESOURCE ID: pokemon_desc_tmpevo_0036_0001
 TEXT: ใช้พลังจากแสงจันทร์ควบคุมแรงโน้มถ่วง
@@ -2108,8 +2164,14 @@ TEXT: เป็นกระบวนทัพขั้นสุดยอดซ�
 RESOURCE ID: pokemon_ibfc_desc_0778
 TEXT: Once per battle, the shroud that covers the Pokémon can protect it from a Charged Attack, after which Mimikyu’s Defense will be lowered until the end of battle.
 
+RESOURCE ID: pokemon_ibfc_desc_header_0778
+TEXT: ฟอร์มสำหรับแบตเทิล: ร่างที่ถูกเปิดเผย
+
 RESOURCE ID: pokemon_ibfc_desc_header_form_info
 TEXT: ฟอร์มสำหรับแบตเทิล: {0}
+
+RESOURCE ID: pokemon_ibfc_name_0778
+TEXT: ร่างที่ถูกเปิดเผย
 
 RESOURCE ID: pokemon_name_0036_0001
 TEXT: เมก้าปิคซี
@@ -2479,6 +2541,9 @@ TEXT: กระโดดโลดเต้นไม่รู้จบ (2/3)
 
 RESOURCE ID: quest_title_scorbunny_2
 TEXT: กระโดดโลดเต้นไม่รู้จบ (3/3)
+
+RESOURCE ID: quest_win_super_mega_raid_plural
+TEXT: Win {0} Super Mega Raids
 
 RESOURCE ID: quests_claim_field_book_quest_encounter_first
 TEXT: ยังมีโปเกมอนที่จับไม่ได้!
@@ -3220,13 +3285,13 @@ RESOURCE ID: tr_oricorio_mastery_paid_feb2026_header_9
 TEXT: งานวิจัยแบบจำกัดเวลาพรีเมียมผู้เชี่ยวชาญการจับ: โอโดริโดริ (10/10)
 
 RESOURCE ID: tr_ppk_raid_lc_makegood_articuno_header_0
-TEXT: PokéPark KANTO Raid: Articuno
+TEXT: ตีบอส PokéPark KANTO: ฟรีเซอร์
 
 RESOURCE ID: tr_ppk_raid_lc_makegood_moltres_header_0
-TEXT: PokéPark KANTO Raid: Moltres
+TEXT: ตีบอส PokéPark KANTO: ไฟเยอร์
 
 RESOURCE ID: tr_ppk_raid_lc_makegood_zapdos_header_0
-TEXT: PokéPark KANTO Raid: Zapdos
+TEXT: ตีบอส PokéPark KANTO: ธันเดอร์
 
 RESOURCE ID: tutorial_need_mega_body
 TEXT: จำเป็นต้องใช้โปเกมอนที่วิวัฒนาการเมก้า
@@ -3299,6 +3364,9 @@ TEXT: แลกเปลี่ยนแบบพิเศษได้รวม 7
 
 RESOURCE ID: up_to_8_special_trades_per_day
 TEXT: แลกเปลี่ยนแบบพิเศษได้รวม 8 ครั้งต่อวัน
+
+RESOURCE ID: upmgmt_summary_success_points
+TEXT: เพิ่มแต้มทั้งหมด {0} แต้มให้เสาโปเกสต็อปและยิมแล้ว
 
 RESOURCE ID: use_raid_ticket_confirmation_buy_currency
 TEXT: เติม {0}
