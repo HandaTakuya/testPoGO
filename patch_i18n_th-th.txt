@@ -519,6 +519,15 @@ TEXT: ไม่มีรางวัลที่สามารถรับจ�
 RESOURCE ID: claim_all_rewards_confirmation
 TEXT: ต้องการรับรางวัลทั้งหมดหรือไม่?
 
+RESOURCE ID: clamperl_paid_tr_name
+TEXT: งานวิจัยแบบจำกัดเวลาพรีเมียม: ปาลูลุ
+
+RESOURCE ID: combat_defense_warning
+TEXT: เตรียมพร้อม!
+
+RESOURCE ID: combat_defense_warning_out
+TEXT: การโจมตีกำลังมา!
+
 RESOURCE ID: combat_move_entering_busted_form
 TEXT: การอำพรางกายของมิมิคคิวถูกเปิดเผย!
 
@@ -564,6 +573,27 @@ TEXT: ตรวจสอบรายละเอียดได้ที่<a hr
 
 RESOURCE ID: details_link_key_oricorio_mastery_feb2026
 TEXT: ตรวจสอบรายละเอียดได้ที่<a href="https://pokemongolive.com/post/catch-mastery-oricorio-2026">เว็บไซต์</a>นี้
+
+RESOURCE ID: details_link_key_replay_water_research
+TEXT: ตรวจสอบรายละเอียดได้ที่<a href="https://pokemongolive.com/news/replay-water-research-day-2026">เว็บไซต์</a>นี้
+
+RESOURCE ID: ditto_collab_1_cc
+TEXT: คำท้านักสะสม Pokémon Pokopia 1
+
+RESOURCE ID: ditto_collab_2026_event_title
+TEXT: อีเวนต์คอลแลป Pokémon Pokopia
+
+RESOURCE ID: ditto_collab_2026_tr
+TEXT: งานวิจัยแบบจำกัดเวลา Pokémon Pokopia
+
+RESOURCE ID: ditto_collab_2_cc
+TEXT: คำท้านักสะสม Pokémon Pokopia 2
+
+RESOURCE ID: ditto_collab_today_view_bonus
+TEXT: เมตามอนในชุดคอสตูมแปลงร่างเป็นโปเกมอนป่าอยู่
+
+RESOURCE ID: ditto_collab_wild_sb_bonus
+TEXT: เมตามอนที่จับในธรรมชาติอาจมีพื้นหลังพิเศษตามธีมอีเวนต์
 
 RESOURCE ID: dn_poi_tutorial_nearby
 TEXT: เมื่อจับโปเกมอนที่มีไอคอนเหล่านี้จะได้รับโปเกมอนที่มีภาพเหมือน!
@@ -628,7 +658,7 @@ RESOURCE ID: encounter_score_daily_bonus
 TEXT: โบนัสบันทึกภาคสนามประจำวัน
 
 RESOURCE ID: enhanced_currency_ftue_body
-TEXT: สามารถใช้ลิงก์ชาร์จแทนบัตรตีบอสเพื่อเข้าร่วมตีบอสเมก้าได้ และจำเป็นต้องใช้ลิงก์ชาร์จในกรณีที่เข้าร่วมตีตีบอสซูเปอร์เมก้าจากระยะไกล
+TEXT: สามารถใช้ลิงก์ชาร์จแทนบัตรตีบอสเพื่อเข้าร่วมตีบอสเมก้าได้ และจำเป็นต้องใช้ลิงก์ชาร์จในกรณีที่เข้าร่วมตีบอสซูเปอร์เมก้าจากระยะไกล
 
 สามารถสะสมลิงก์ชาร์จได้จากกิจกรรมต่าง ๆ เช่น คำท้ารายสัปดาห์, การเช็กอิน Campfire และการเปิดของขวัญ เป็นต้น
 
@@ -697,6 +727,9 @@ RESOURCE ID: event_datetime_range_key_lunarny0226
 TEXT: 17 กุมภาพันธ์ 10:00 น. ถึง
 21 กุมภาพันธ์ 20:00 น.
 
+RESOURCE ID: event_datetime_range_key_waterrrd26
+TEXT: วันที่ 21 มีนาคม เวลา 14:00-17:00 น.
+
 RESOURCE ID: event_legendary_incense
 TEXT: โปเกมอนในตำนานอาจถูกดึงดูดด้วยเครื่องหอม
 
@@ -742,6 +775,9 @@ TEXT: พบเสาโปเกสต็อปพิเศษแล้วส�
 
 RESOURCE ID: feature_first_fieldbook_ftue_conv_1
 TEXT: เก็บบันทึกภาคสนามหน้าแรกเสร็จสมบูรณ์แล้วสินะ ขอบคุณมาก สิ่งนี้จะช่วยในการวิจัยต่อจากนี้นะ รับไปสิ
+
+RESOURCE ID: feebas_paid_tr_name
+TEXT: งานวิจัยแบบจำกัดเวลาพรีเมียม: ฮินบาส
 
 RESOURCE ID: field_book_apr_2026
 TEXT: เมษายน
@@ -978,6 +1014,9 @@ TEXT: รางวัลสตาร์ดัสต์จากการชน�
 
 RESOURCE ID: gbl_sets_extra_ten_total_no_stack
 TEXT: แบตเทิลในโกแบตเทิลลีกได้สูงสุด 10 เซ็ต
+
+RESOURCE ID: general1.ticket.2_waterrrd26_title
+TEXT: ตั๋วงานวิจัยแบบจำกัดเวลาพรีเมียม รีเพลย์: วันวิจัยประเภทน้ำ
 
 RESOURCE ID: general1.ticket.4_gmaxmeowth26_title
 TEXT: ตั๋ว "วันแบตเทิลแมกซ์เนียสกิกะแมกซ์"
@@ -1584,7 +1623,7 @@ RESOURCE ID: increased_gift_rare_candy
 TEXT: เพิ่มโอกาสได้รับลูกอมประหลาดจากการเปิดของขวัญ
 
 RESOURCE ID: increased_mega_level_caught_desc
-TEXT: เมื่อจับโปเกมอนจากตีบอสซูเปอร์เมก้าหรืองานวิจัย มันอาจเป็นโปเกมอนที่มีระดับเมก้า 1 ขึ้นไป
+TEXT: เมื่อจับโปเกมอนจากงานวิจัย มันอาจเป็นโปเกมอนที่มีระดับเมก้า 1 ขึ้นไป
 
 RESOURCE ID: increased_mega_level_caught_desc_temp
 TEXT: เมื่อจับโปเกมอนจากตีบอสซูเปอร์เมก้าหรืองานวิจัย มันอาจเป็นโปเกมอนที่มีระดับเมก้า 1 ขึ้นไป
@@ -1605,7 +1644,7 @@ RESOURCE ID: item_bugoutbuddies2026_milestone_name
 TEXT: เผชิญหน้ากับเลโดมุชิ
 
 RESOURCE ID: item_enhanced_currency_desc
-TEXT: สามารถใช้ลิงก์ชาร์จแทนบัตรตีบอสเพื่อเข้าร่วมตีบอสเมก้าได้ และจำเป็นต้องใช้ลิงก์ชาร์จในกรณีที่เข้าร่วมตีตีบอสซูเปอร์เมก้าจากระยะไกล
+TEXT: สามารถใช้ลิงก์ชาร์จแทนบัตรตีบอสเพื่อเข้าร่วมตีบอสเมก้าได้ และจำเป็นต้องใช้ลิงก์ชาร์จในกรณีที่เข้าร่วมตีบอสซูเปอร์เมก้าจากระยะไกล
 
 สามารถสะสมลิงก์ชาร์จได้จากกิจกรรมต่าง ๆ เช่น คำท้ารายสัปดาห์, การเช็กอิน Campfire และการเปิดของขวัญ เป็นต้น
 
@@ -1624,6 +1663,30 @@ TEXT: ลิงก์ชาร์จ
 
 RESOURCE ID: item_enhanced_currency_name_plural
 TEXT: ลิงก์ชาร์จ
+
+RESOURCE ID: item_event_pass_point_live_ops_05_name
+TEXT: Pass Points
+
+RESOURCE ID: item_event_pass_point_live_ops_06_name
+TEXT: Pass Points
+
+RESOURCE ID: item_event_pass_point_live_ops_07_name
+TEXT: Pass Points
+
+RESOURCE ID: item_event_pass_point_live_ops_08_name
+TEXT: Pass Points
+
+RESOURCE ID: item_event_pass_point_monthly_01_name
+TEXT: Pass Points
+
+RESOURCE ID: item_event_pass_point_monthly_02_name
+TEXT: Pass Points
+
+RESOURCE ID: item_event_pass_point_monthly_03_name
+TEXT: Pass Points
+
+RESOURCE ID: item_event_pass_point_monthly_04_name
+TEXT: Pass Points
 
 RESOURCE ID: item_event_ticket_02_desc_catch_mastery_oricorio
 TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยแบบจำกัดเวลาพรีเมียมผู้เชี่ยวชาญการจับ: โอโดริโดริ
@@ -1672,9 +1735,19 @@ TEXT: ตั๋วสำหรับเข้าร่วมงานวิจ�
 ในวันที่ 14 มีนาคม เวลา 14:00 น.
 ตามเวลาท้องถิ่นทั่วโลก
 
+RESOURCE ID: item_event_ticket_pink_desc_waterrrd26
+TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยแบบจำกัดเวลาพรีเมียม รีเพลย์: วันวิจัยประเภทน้ำ
+ในวันที่ 21 มีนาคม 2026 ตั้งแต่เวลา 14:00-17:00 น. ตามเวลาท้องถิ่น
+
 RESOURCE ID: item_event_ticket_pink_details_cd_scorbunny26
 TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยพิเศษ "กระโดดโลดเต้นไม่รู้จบ"
 ในวันที่ 14 มีนาคม
+คุณจะสามารถเข้าร่วมได้โดยอัตโนมัติ
+ตามเวลาท้องถิ่นทั่วโลก
+
+RESOURCE ID: item_event_ticket_pink_details_waterrrd26
+TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยแบบจำกัดเวลา: วันวิจัยฮาซึโบ, ฮินบาสและปาลูลุ 3 ชิ้น
+ในวันที่ 21 มีนาคม
 คุณจะสามารถเข้าร่วมได้โดยอัตโนมัติ
 ตามเวลาท้องถิ่นทั่วโลก
 
@@ -1695,6 +1768,9 @@ TEXT: จำนวนโปเกมอนที่วิวัฒนากา�
 
 RESOURCE ID: lobby_mega_count_zero
 TEXT: จำนวนโปเกมอนที่วิวัฒนาการเมก้า: {0}
+
+RESOURCE ID: lotad_paid_tr_name
+TEXT: งานวิจัยแบบจำกัดเวลาพรีเมียม: ฮาซึโบ
 
 RESOURCE ID: lunar_new_year_feb2026
 TEXT: อีเวนต์ตรุษจีน 2026
@@ -1748,7 +1824,7 @@ RESOURCE ID: max_monday
 TEXT: วันจันทร์สุดแมกซ์
 
 RESOURCE ID: meetup_check_in_research_title_friendship_fridays
-TEXT: Meetup Check-In Timed Research: Friendship Fridays
+TEXT: Meetup Check-In Timed Research: Friendship Friday
 
 RESOURCE ID: meetup_check_in_research_title_super_mega_raids
 TEXT: Meetup Check-In Timed Research: Super Mega Raids
@@ -1955,13 +2031,13 @@ RESOURCE ID: mega_perk_cp_boost_excellentplus
 TEXT: เพิ่ม CP อย่างมาก
 
 RESOURCE ID: mega_perk_xl_bonus_excellent
-TEXT: เพิ่มโอกาสรับลูกอม XL อย่างมาก
+TEXT: เพิ่มโอกาสรับลูกอม XL อย่างมากตามระดับเมก้า
 
 RESOURCE ID: mega_perk_xl_bonus_excellent_temp
 TEXT: เพิ่มโอกาสรับลูกอม XL อย่างมาก
 
 RESOURCE ID: mega_perk_xl_bonus_great
-TEXT: เพิ่มโอกาสรับลูกอม XL
+TEXT: เพิ่มโอกาสรับลูกอม XL ตามระดับเมก้า
 
 RESOURCE ID: mega_perk_xl_bonus_great_temp
 TEXT: เพิ่มโอกาสรับลูกอม XL
@@ -1982,10 +2058,10 @@ RESOURCE ID: message_gallery_permission_required
 TEXT: หากต้องการดาวน์โหลดรูปภาพ ต้องอนุญาตให้ Pokémon GO เข้าถึงรูปภาพจากหน้าจอการตั้งค่าของอุปกรณ์เสียก่อน
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-03-04T01:24:57.990395+00:00 for th-TH
-at SHA 994dd7c7ba8
-Pipeline 3569369, job 52345862
-Patch from: 0.401.0-SHA-0fb0c533-RC3, 0.399.1-SHA-853bae10-RC2, 0.403.0-SHA-47e90574-RC1
+TEXT: Built at 2026-03-05T01:20:39.458076+00:00 for th-TH
+at SHA 22c1e85faf0
+Pipeline 3571376, job 52446418
+Patch from: 0.399.1-SHA-853bae10-RC2, 0.401.0-SHA-1d3c71a6-RC1, 0.403.0-SHA-47e90574-RC1
 
 RESOURCE ID: more_power_spots_active
 TEXT: พาวเวอร์สป็อตจะเพิ่มขึ้น
@@ -1998,6 +2074,9 @@ TEXT: กลางวัน
 
 RESOURCE ID: natural_art_night
 TEXT: กลางคืน
+
+RESOURCE ID: no_claimable_rewards
+TEXT: No claimable rewards.
 
 RESOURCE ID: oricorio_mastery_feb2026
 TEXT: ผู้เชี่ยวชาญการจับ: โอโดริโดริ
@@ -2162,7 +2241,9 @@ TEXT: เป็นกระบวนทัพขั้นสุดยอดซ�
 สายสัมพันธ์อันแข็งแกร่งเท่านั้นที่ทำให้เกิดขึ้นได้
 
 RESOURCE ID: pokemon_ibfc_desc_0778
-TEXT: Once per battle, the shroud that covers the Pokémon can protect it from a Charged Attack, after which Mimikyu’s Defense will be lowered until the end of battle.
+TEXT: ช่วยป้องกันโปเกมอนจากท่าโจมตีชาร์จ
+1 ครั้งเท่านั้นในขณะแบตเทิล พลังป้องกัน
+ของมิมิคคิวจะลดลงจนถึงจบแบตเทิล
 
 RESOURCE ID: pokemon_ibfc_desc_header_0778
 TEXT: ฟอร์มสำหรับแบตเทิล: ร่างที่ถูกเปิดเผย
@@ -2568,6 +2649,9 @@ TEXT: วันนี้สามารถเข้าร่วมตีบอ�
 RESOURCE ID: raid_approach_multiple_remote_usage_singular
 TEXT: วันนี้สามารถเข้าร่วมตีบอสระยะไกลได้อีก 1 ครั้ง
 
+RESOURCE ID: raid_bonus_event_sb
+TEXT: โปเกมอนตามธีมอีเวนต์ที่ถูกจับจากตีบอสห้าดาวอาจมีพื้นหลังพิเศษ
+
 RESOURCE ID: raid_message_heal_pokemon
 TEXT: ฟื้นฟูโปเกมอน
 
@@ -2579,6 +2663,9 @@ TEXT: อัปเดตบัตรผ่าน GO แล้ว
 
 RESOURCE ID: remote_raid_battle_helptext_nc
 TEXT: ใช้ลิงก์ชาร์จกับบัตรตีบอสระยะไกล
+
+RESOURCE ID: replay_water_research_day_event_name
+TEXT: รีเพลย์: วันวิจัยประเภทน้ำ
 
 RESOURCE ID: return_to_map_day_night_tutorial_body_text
 TEXT: โปเกมอนเหล่านี้มีภาพเหมือนซึ่งแสดงทิวทัศน์ของสถานที่ที่ถูกจับ
@@ -2775,6 +2862,12 @@ TEXT: คุณไม่มีบัตรตีบอสระยะไกล!
 
 RESOURCE ID: showcase_tuesday
 TEXT: วันอังคารงานโชว์ตัว
+
+RESOURCE ID: showing_all_ranks
+TEXT: Showing All Ranks
+
+RESOURCE ID: showing_claimable_rewards
+TEXT: Showing Claimable Rewards
 
 RESOURCE ID: sign_in_bonus_key
 TEXT: ลงชื่อเข้าใช้หรือสร้างบัญชีเพื่อรับโบนัส!
@@ -3034,6 +3127,14 @@ TEXT: <b>รางวัลที่จะได้รับ:</b>
 - 3,000 สตาร์ดัสต์
 - ไข่แห่งความสุข 2 ชิ้น
 - เครื่องหอม 1 ชิ้น
+
+RESOURCE ID: text_rewards_key_waterrrd26
+TEXT: งานวิจัยแบบจำกัดเวลาเหล่านี้จะท้าทายให้คุณทำภารกิจงานวิจัยภาคสนามซึ่งจะนำไปสู่การเผชิญหน้ากับโปเกมอนเด่นดังต่อไปนี้: ฮาซึโบ, ฮินบาสและปาลูลุ
+
+โปเกมอนที่เผชิญหน้าในงานวิจัยแบบจำกัดเวลานี้จะมีโอกาสเป็นโปเกมอนสีแตกต่างเท่ากับโปเกมอนที่สามารถเจอได้จากภารกิจงานวิจัยภาคสนาม
+
+งานวิจัยแบบจำกัดเวลานี้จะใช้งานได้
+ในวันที่ 21 มีนาคม 2026 เวลา 14:00-17:00 น. ตามเวลาท้องถิ่น
 
 RESOURCE ID: ticket_scorbunny_cd
 TEXT: สามารถซื้อตั๋วสำหรับงานวิจัยพิเศษ "ฮิบานีคอมมิวนิตี้เดย์" ได้ที่ร้านค้า
