@@ -13,12 +13,6 @@ TEXT: โบนัส:
 RESOURCE ID: ar_photo_social_bonus_text
 TEXT: โบนัส
 
-RESOURCE ID: ar_photo_social_entry_label
-TEXT: ถ่ายภาพกับโปเกมอนโปรดของคุณ!
-
-RESOURCE ID: ar_photo_social_hashtag
-TEXT: #Pokemon30
-
 RESOURCE ID: ar_photo_social_message_save_disabled
 TEXT: หากต้องการบันทึกรูปภาพ ต้องอนุญาตให้ Pokémon GO เข้าถึงรูปภาพจากหน้าจอการตั้งค่าของอุปกรณ์เสียก่อน
 
@@ -31,281 +25,26 @@ TEXT: แชร์รูปภาพแล้ว
 RESOURCE ID: ar_photo_social_review_confirm_exit_message
 TEXT: หากออกจากหน้าจอนี้ ภาพที่ยังไม่ได้บันทึกจะหายไป
 
-RESOURCE ID: ar_photo_social_share_default_referral_text
-TEXT: ใช้ Pokémon GO ถ่ายภาพกับโปเกมอนโปรดกันเลย! https://pokemongo.com/
-
-RESOURCE ID: ar_photo_social_share_more_photos
-TEXT: ดูภาพ
-
-RESOURCE ID: ar_photo_social_share_more_photos_prompt
-TEXT: อยากดูภาพที่ถ่ายกับ{0}อีกไหม?
-
-RESOURCE ID: ar_photo_social_share_prompt
-TEXT: แชร์ภาพที่ถ่ายมาจนถึงตอนนี้กันเลย!
-
-RESOURCE ID: ar_photo_social_share_referral_text
-TEXT: ใช้ Pokémon GO ถ่ายภาพกับโปเกมอนโปรดกันเลย! {0}
-
 RESOURCE ID: ar_photo_social_share_sign_in
 TEXT: เริ่มเล่น Pokémon GO
 
 RESOURCE ID: ar_photo_social_title_save_disabled
 TEXT: อนุญาตให้ Pokémon GO บันทึกรูปภาพหรือไม่?
 
+RESOURCE ID: ar_photo_social_try_it_button_text
+TEXT: ถ่ายภาพ
+
+RESOURCE ID: ar_photo_social_try_it_button_text_temp
+TEXT: ลองดู
+
 RESOURCE ID: avatar_generic_name
-TEXT:  
+TEXT: 
 
-RESOURCE ID: avatar_hat_xerneas
-TEXT: หมวกเซอเนียส
-
-RESOURCE ID: avatar_shirt_gotour_black
-TEXT: เสื้อยืด GO Tour 2026 (สีดำ)
-
-RESOURCE ID: avatar_shirt_gotour_grey
-TEXT: เสื้อยืด GO Tour 2026 (สีเทา)
-
-RESOURCE ID: avatar_shirt_shinydiancie
-TEXT: เสื้อยืดดีแอนซี (สีแตกต่าง)
-
-RESOURCE ID: avatar_shirt_yveltal
-TEXT: เสื้อโค้ทอีเวลทอล
-
-RESOURCE ID: avatar_shirt_zygarde
-TEXT: เสื้อแจ็กเก็ตซีการ์ด
-
-RESOURCE ID: badge_go_tour_2026_global
-TEXT: กุมภาพันธ์ - มีนาคม 2026
-
-RESOURCE ID: badge_go_tour_2026_global_title
-TEXT: GO Tour: คาลอส - ทั่วโลก
-
-RESOURCE ID: badge_go_tour_2026_global_x_version
-TEXT: กุมภาพันธ์ - มีนาคม 2026
-
-RESOURCE ID: badge_go_tour_2026_global_x_version_title
-TEXT: GO Tour: คาลอส - X Version
-
-RESOURCE ID: badge_go_tour_2026_global_y_version
-TEXT: กุมภาพันธ์ - มีนาคม 2026
-
-RESOURCE ID: badge_go_tour_2026_global_y_version_title
-TEXT: GO Tour: คาลอส - Y Version
-
-RESOURCE ID: badge_go_tour_2026_los_angeles_add_on_hatch
-TEXT: 20-22 กุมภาพันธ์ 2026
-
-RESOURCE ID: badge_go_tour_2026_los_angeles_add_on_hatch_title
-TEXT: GO Tour: คาลอส - ลอสแอนเจลิส, ฟักไข่ไม่หยุด
-
-RESOURCE ID: badge_go_tour_2026_los_angeles_add_on_raid
-TEXT: 20-22 กุมภาพันธ์ 2026
-
-RESOURCE ID: badge_go_tour_2026_los_angeles_add_on_raid_title
-TEXT: GO Tour: คาลอส - ลอสแอนเจลิส, ผู้หลงใหลการตีบอส
-
-RESOURCE ID: badge_go_tour_2026_los_angeles_friday_all_day_bonuses
-TEXT: 20 กุมภาพันธ์ 2026
-
-RESOURCE ID: badge_go_tour_2026_los_angeles_friday_all_day_bonuses_title
-TEXT: GO Tour: คาลอส - ลอสแอนเจลิส, โบนัสเพิ่มเติม
-
-RESOURCE ID: badge_go_tour_2026_los_angeles_friday_city
-TEXT: 20 กุมภาพันธ์ 2026
-
-RESOURCE ID: badge_go_tour_2026_los_angeles_friday_city_title
-TEXT: GO Tour: คาลอส - ลอสแอนเจลิส, รอบเมือง
-
-RESOURCE ID: badge_go_tour_2026_los_angeles_friday_mega_night
-TEXT: 20 กุมภาพันธ์ 2026
-
-RESOURCE ID: badge_go_tour_2026_los_angeles_friday_mega_night_title
-TEXT: GO Tour: คาลอส - ลอสแอนเจลิส, เมก้าไนท์
-
-RESOURCE ID: badge_go_tour_2026_los_angeles_friday_park
-TEXT: 20 กุมภาพันธ์ 2026
-
-RESOURCE ID: badge_go_tour_2026_los_angeles_friday_park_title
-TEXT: GO Tour: คาลอส - ลอสแอนเจลิส, รอบสวน
-
-RESOURCE ID: badge_go_tour_2026_los_angeles_saturday_all_day_bonuses
-TEXT: 21 กุมภาพันธ์ 2026
-
-RESOURCE ID: badge_go_tour_2026_los_angeles_saturday_all_day_bonuses_title
-TEXT: GO Tour: คาลอส - ลอสแอนเจลิส, โบนัสเพิ่มเติม
-
-RESOURCE ID: badge_go_tour_2026_los_angeles_saturday_city
-TEXT: 21 กุมภาพันธ์ 2026
-
-RESOURCE ID: badge_go_tour_2026_los_angeles_saturday_city_title
-TEXT: GO Tour: คาลอส - ลอสแอนเจลิส, รอบเมือง
-
-RESOURCE ID: badge_go_tour_2026_los_angeles_saturday_mega_night
-TEXT: 21 กุมภาพันธ์ 2026
-
-RESOURCE ID: badge_go_tour_2026_los_angeles_saturday_mega_night_title
-TEXT: GO Tour: คาลอส - ลอสแอนเจลิส, เมก้าไนท์
-
-RESOURCE ID: badge_go_tour_2026_los_angeles_saturday_park
-TEXT: 21 กุมภาพันธ์ 2026
-
-RESOURCE ID: badge_go_tour_2026_los_angeles_saturday_park_title
-TEXT: GO Tour: คาลอส - ลอสแอนเจลิส, รอบสวน
-
-RESOURCE ID: badge_go_tour_2026_los_angeles_sunday_all_day_bonuses
-TEXT: 22 กุมภาพันธ์ 2026
-
-RESOURCE ID: badge_go_tour_2026_los_angeles_sunday_all_day_bonuses_title
-TEXT: GO Tour: คาลอส - ลอสแอนเจลิส, โบนัสเพิ่มเติม
-
-RESOURCE ID: badge_go_tour_2026_los_angeles_sunday_city
-TEXT: 22 กุมภาพันธ์ 2026
-
-RESOURCE ID: badge_go_tour_2026_los_angeles_sunday_city_title
-TEXT: GO Tour: คาลอส - ลอสแอนเจลิส, รอบเมือง
-
-RESOURCE ID: badge_go_tour_2026_los_angeles_sunday_mega_night
-TEXT: 22 กุมภาพันธ์ 2026
-
-RESOURCE ID: badge_go_tour_2026_los_angeles_sunday_mega_night_title
-TEXT: GO Tour: คาลอส - ลอสแอนเจลิส, เมก้าไนท์
-
-RESOURCE ID: badge_go_tour_2026_los_angeles_sunday_park
-TEXT: 22 กุมภาพันธ์ 2026
-
-RESOURCE ID: badge_go_tour_2026_los_angeles_sunday_park_title
-TEXT: GO Tour: คาลอส - ลอสแอนเจลิส, รอบสวน
-
-RESOURCE ID: badge_go_tour_2026_los_angeles_vip
-TEXT: 20-22 กุมภาพันธ์ 2026
-
-RESOURCE ID: badge_go_tour_2026_los_angeles_vip_title
-TEXT: GO Tour: คาลอส - ลอสแอนเจลิส, VIP
-
-RESOURCE ID: badge_go_tour_2026_tainan_add_on_hatch
-TEXT: 20-22 กุมภาพันธ์ 2026
-
-RESOURCE ID: badge_go_tour_2026_tainan_add_on_hatch_title
-TEXT: GO Tour: คาลอส - ไถหนาน, ฟักไข่ไม่หยุด
-
-RESOURCE ID: badge_go_tour_2026_tainan_add_on_raid
-TEXT: 20-22 กุมภาพันธ์ 2026
-
-RESOURCE ID: badge_go_tour_2026_tainan_add_on_raid_title
-TEXT: GO Tour: คาลอส - ไถหนาน, ผู้หลงใหลการตีบอส
-
-RESOURCE ID: badge_go_tour_2026_tainan_friday_all_day_bonuses
-TEXT: 20 กุมภาพันธ์ 2026
-
-RESOURCE ID: badge_go_tour_2026_tainan_friday_all_day_bonuses_title
-TEXT: GO Tour: คาลอส - ไถหนาน, โบนัสเพิ่มเติม
-
-RESOURCE ID: badge_go_tour_2026_tainan_friday_city
-TEXT: 20 กุมภาพันธ์ 2026
-
-RESOURCE ID: badge_go_tour_2026_tainan_friday_city_title
-TEXT: GO Tour: คาลอส - ไถหนาน, รอบเมือง
-
-RESOURCE ID: badge_go_tour_2026_tainan_friday_mega_night
-TEXT: 20 กุมภาพันธ์ 2026
-
-RESOURCE ID: badge_go_tour_2026_tainan_friday_mega_night_title
-TEXT: GO Tour: คาลอส - ไถหนาน, เมก้าไนท์
-
-RESOURCE ID: badge_go_tour_2026_tainan_friday_park
-TEXT: 20 กุมภาพันธ์ 2026
-
-RESOURCE ID: badge_go_tour_2026_tainan_friday_park_title
-TEXT: GO Tour: คาลอส - ไถหนาน, รอบสวน
-
-RESOURCE ID: badge_go_tour_2026_tainan_saturday_all_day_bonuses
-TEXT: 21 กุมภาพันธ์ 2026
-
-RESOURCE ID: badge_go_tour_2026_tainan_saturday_all_day_bonuses_title
-TEXT: GO Tour: คาลอส - ไถหนาน, โบนัสเพิ่มเติม
-
-RESOURCE ID: badge_go_tour_2026_tainan_saturday_city
-TEXT: 21 กุมภาพันธ์ 2026
-
-RESOURCE ID: badge_go_tour_2026_tainan_saturday_city_title
-TEXT: GO Tour: คาลอส - ไถหนาน, รอบเมือง
-
-RESOURCE ID: badge_go_tour_2026_tainan_saturday_mega_night
-TEXT: 21 กุมภาพันธ์ 2026
-
-RESOURCE ID: badge_go_tour_2026_tainan_saturday_mega_night_title
-TEXT: GO Tour: คาลอส - ไถหนาน, เมก้าไนท์
-
-RESOURCE ID: badge_go_tour_2026_tainan_saturday_park
-TEXT: 21 กุมภาพันธ์ 2026
-
-RESOURCE ID: badge_go_tour_2026_tainan_saturday_park_title
-TEXT: GO Tour: คาลอส - ไถหนาน, รอบสวน
-
-RESOURCE ID: badge_go_tour_2026_tainan_sunday_all_day_bonuses
-TEXT: 22 กุมภาพันธ์ 2026
-
-RESOURCE ID: badge_go_tour_2026_tainan_sunday_all_day_bonuses_title
-TEXT: GO Tour: คาลอส - ไถหนาน, โบนัสเพิ่มเติม
-
-RESOURCE ID: badge_go_tour_2026_tainan_sunday_city
-TEXT: 22 กุมภาพันธ์ 2026
-
-RESOURCE ID: badge_go_tour_2026_tainan_sunday_city_title
-TEXT: GO Tour: คาลอส - ไถหนาน, รอบเมือง
-
-RESOURCE ID: badge_go_tour_2026_tainan_sunday_mega_night
-TEXT: 22 กุมภาพันธ์ 2026
-
-RESOURCE ID: badge_go_tour_2026_tainan_sunday_mega_night_title
-TEXT: GO Tour: คาลอส - ไถหนาน, เมก้าไนท์
-
-RESOURCE ID: badge_go_tour_2026_tainan_sunday_park
-TEXT: 22 กุมภาพันธ์ 2026
-
-RESOURCE ID: badge_go_tour_2026_tainan_sunday_park_title
-TEXT: GO Tour: คาลอส - ไถหนาน, รอบสวน
-
-RESOURCE ID: badge_go_tour_2026_tainan_vip
-TEXT: 20-22 กุมภาพันธ์ 2026
-
-RESOURCE ID: badge_go_tour_2026_tainan_vip_title
-TEXT: GO Tour: คาลอส - ไถหนาน, VIP
-
-RESOURCE ID: batch_transfer_unique_day_night_level_pokemon
-TEXT: โปเกมอนที่มีภาพเหมือน {0} ตัว
-
-RESOURCE ID: battle_condition_mega_enrage
-TEXT: {0}กำลังปกป้องตัวเองด้วยโล่ยักษ์
-
-RESOURCE ID: battle_mega_impact_callout
-TEXT: ท่าโจมตีชาร์จของ{0}ทะลวงผ่านโล่!
-
-RESOURCE ID: battle_mega_shields_broken
-TEXT: โล่ถูกทำลายหมดแล้ว!
-
-RESOURCE ID: battle_mega_swap_fainted_mega
-TEXT: ฟื้นฟูโปเกมอนที่วิวัฒนาการเมก้าเพื่อทำลายโล่!
-
-RESOURCE ID: battle_mega_swap_no_mega
-TEXT: ถ้าเป็นโปเกมอนวิวัฒนาการเมก้าจะทำลายโล่ได้!
-
-RESOURCE ID: battle_mega_swap_ready
-TEXT: ตอบโต้ด้วยโปเกมอนที่วิวัฒนาการเมก้า!
-
-RESOURCE ID: bonus_candy_raids_t5_plus_mega
-TEXT: +1 ลูกอมจากการจับโปเกมอนในตีบอสห้าดาวและตีบอสเมก้า
-
-RESOURCE ID: bonus_candy_xl_raids_t5_plus_mega
-TEXT: +1 ลูกอม XL จากการจับโปเกมอนในตีบอสห้าดาวและตีบอสเมก้า
+RESOURCE ID: avatar_glasses_ditto
+TEXT: ผ้าปิดตาเมตามอน
 
 RESOURCE ID: bonus_cd_move_scorbunny
 TEXT: วิวัฒนาการแรบบิฟุตเป็นเอสเบิร์นที่รู้ท่าโจมตีชาร์จ "บลาสต์เบิร์น"
-
-RESOURCE ID: bonus_extra_carbink_diancie_energy
-TEXT: เมเลซีป่าอาจมีพลังงานเมก้าของดีแอนซี
-
-RESOURCE ID: bonus_extra_carbink_global_masterwork
-TEXT: โบนัสงานวิจัยระยะยาวสำหรับผู้มีตั๋ว GO Tour (เข้าร่วม ณ สถานที่จริง)
 
 RESOURCE ID: bonus_gift_inventory_40
 TEXT: จำนวนของขวัญที่เก็บไว้ได้เพิ่มเป็น 40 ชิ้น
@@ -352,32 +91,8 @@ TEXT: พบซีการ์ดเซลล์บนหลายเส้น�
 RESOURCE ID: bonus_incense_costume_pikachu
 TEXT: เครื่องหอมอาจดึงดูดพิคาชูในชุดคอสตูม
 
-RESOURCE ID: bonus_incense_hisui_costume_pikachu
-TEXT: เครื่องหอมอาจดึงดูด "พิคาชูสวมหมวกแก๊ปฮิซุย" หรือ "พิคาชูสวมผ้าโพกหัวฮิซุย"
-
-RESOURCE ID: bonus_incense_johto_costume_pikachu
-TEXT: เครื่องหอมอาจดึงดูด "พิคาชูสวมหมวกฮิบิกิ" หรือ "พิคาชูสวมหมวกโคโตเนะ"
-
-RESOURCE ID: bonus_incense_kanto_costume_pikachu
-TEXT: เครื่องหอมอาจดึงดูด "พิคาชูสวมหมวกลีฟ" หรือ "พิคาชูสวมหมวกเรด"
-
-RESOURCE ID: bonus_incense_sinnoh_costume_pikachu
-TEXT: เครื่องหอมอาจดึงดูด "พิคาชูสวมหมวกแก๊ปชินโอ" หรือ "พิคาชูสวมหมวกชินโอ"
-
-RESOURCE ID: bonus_incense_unova_a_costume_pikachu
-TEXT: เครื่องหอมอาจดึงดูด "พิคาชูสวมหมวกโทยะ" หรือ "พิคาชูสวมหมวกโทโกะ"
-
-RESOURCE ID: bonus_incense_unova_b_costume_pikachu
-TEXT: เครื่องหอมอาจดึงดูด "พิคาชูสวมหมวกกันแดดเคียวเฮ" หรือ "พิคาชูสวมหมวกกันแดดเม"
-
-RESOURCE ID: bonus_mateo_encounter_daily_25
-TEXT: แลกของขวัญผ่านมาเตโอได้ถึง 25 เส้นทางต่อวัน
-
 RESOURCE ID: bonus_mega_cp_boost
 TEXT: เพิ่ม CP สำหรับโปเกมอนที่วิวัฒนาการเมก้าทั้งหมด
-
-RESOURCE ID: bonus_mega_energy_spin_chance
-TEXT: โอกาสได้รับพลังงานเมก้าจากการหมุนเสาโปเกสต็อปหรือยิม
 
 RESOURCE ID: bonus_premier_ball_catch_rate_boost_high
 TEXT: พรีเมียร์บอลมีโอกาสในการจับติดสูงขึ้นอย่างมหาศาล
@@ -388,20 +103,11 @@ TEXT: พรีเมียร์บอลมีโอกาสในการ�
 RESOURCE ID: bonus_premier_ball_catch_rate_boost_small
 TEXT: พรีเมียร์บอลมีโอกาสในการจับติดสูงขึ้น
 
-RESOURCE ID: bonus_raid_3_xl_candy_t5_and_mega
-TEXT: +3 ลูกอม XL จากการชนะตีบอสห้าดาวและตีบอสเมก้า
-
-RESOURCE ID: bonus_raid_5k_xp_mega
-TEXT: +5,000 XP เมื่อตีบอสเมก้าเสร็จสิ้น
-
 RESOURCE ID: bonus_raid_6_candy_t5_and_mega
 TEXT: +6 ลูกอมเมื่อชนะตีบอสห้าดาวและตีบอสเมก้า
 
 RESOURCE ID: bonus_raid_6_xl_candy_t5_and_mega
 TEXT: +6 ลูกอม XL เมื่อชนะตีบอสห้าดาวและตีบอสเมก้า
-
-RESOURCE ID: bonus_routes_flabebe
-TEXT: เพิ่มโอกาสพบฟลาเบเบบนเส้นทาง
 
 RESOURCE ID: bonus_routes_flabebe_los_angeles
 TEXT: เพิ่มโอกาสเผชิญหน้ากับฟลาเบเบร่างดอกไม้ขาว/ดอกไม้ส้ม/ดอกไม้เหลืองบนเส้นทาง
@@ -409,17 +115,8 @@ TEXT: เพิ่มโอกาสเผชิญหน้ากับฟล�
 RESOURCE ID: bonus_routes_flabebe_tainan
 TEXT: เพิ่มโอกาสเผชิญหน้ากับฟลาเบเบร่างดอกไม้ขาว/ดอกไม้ส้ม/ดอกไม้น้ำเงินบนเส้นทาง
 
-RESOURCE ID: bonus_scatterbug_pin_1
-TEXT: เผชิญหน้ากับโคฟูคิมูชิทุกครั้งที่ปักหมุดของขวัญ (ของภูมิภาคนั้น) 1 ชิ้น
-
 RESOURCE ID: bonus_scatterbug_pin_3
 TEXT: เพิ่มความคืบหน้าเหรียญรางวัลย่อยโคฟูคิมูชิสำหรับแต่ละโปสการ์ดที่ปักหมุด
-
-RESOURCE ID: bonus_scatterbug_pin_6
-TEXT: เพิ่มความคืบหน้าเหรียญรางวัลย่อยโคฟูคิมูชิอย่างมากสำหรับแต่ละโปสการ์ดที่ปักหมุด
-
-RESOURCE ID: bonus_special_background_t1_t5_raid
-TEXT: โปเกมอนที่ถูกจับจากตีบอสหนึ่งดาวหรือห้าดาวอาจมีพื้นหลังพิเศษ
 
 RESOURCE ID: bonus_special_background_t5_and_mega_raid
 TEXT: โปเกมอนที่ถูกจับจากตีบอสห้าดาวและตีบอสเมก้าอาจมีพื้นหลังพิเศษ
@@ -433,32 +130,8 @@ TEXT: มิทซึฮันนีถูกดึงดูดด้วยอ�
 RESOURCE ID: bonus_today_cutiefly_standard_lure
 TEXT: อบูรีถูกดึงดูดด้วยอุปกรณ์ปล่อยลัวร์มาตรฐาน
 
-RESOURCE ID: bonus_today_event_sr
-TEXT: งานวิจัยพิเศษเฉพาะอีเวนต์ใช้งานได้แล้ว
-
-RESOURCE ID: bonus_today_hoenn_spawn
-TEXT: โปเกมอนจากภูมิภาคโฮเอ็นกำลังปรากฏตัวในธรรมชาติ
-
-RESOURCE ID: bonus_today_johto_spawn
-TEXT: โปเกมอนจากภูมิภาคโจโตะกำลังปรากฏตัวในธรรมชาติ
-
-RESOURCE ID: bonus_today_kanto_spawn
-TEXT: โปเกมอนจากภูมิภาคคันโตกำลังปรากฏตัวในธรรมชาติ
-
 RESOURCE ID: bonus_today_paras_standard_lure
 TEXT: พารัสถูกดึงดูดด้วยอุปกรณ์ปล่อยลัวร์มาตรฐาน
-
-RESOURCE ID: bonus_today_sinnoh_spawn
-TEXT: โปเกมอนจากภูมิภาคชินโอกำลังปรากฏตัวในธรรมชาติ
-
-RESOURCE ID: bonus_today_unova_spawn
-TEXT: โปเกมอนจากภูมิภาคอิชชูกำลังปรากฏตัวในธรรมชาติ
-
-RESOURCE ID: bonus_today_zygarde_cell
-TEXT: อาจพบซีการ์ดเซลล์ที่จุดสิ้นสุดเส้นทาง รวม 5 เส้นทาง (ต่อ 1 วัน)
-
-RESOURCE ID: bonus_zygarde_cell_daily_25
-TEXT: พบซีการ์ดเซลล์ได้ถึง 25 เส้นทางต่อ 1 วัน
 
 RESOURCE ID: bug_out_buddies2026_combee
 TEXT: ฝูงแมลงบุก: อุปกรณ์ปล่อยลัวร์ดึงดูดมิทซึฮันนี
@@ -469,17 +142,11 @@ TEXT: ฝูงแมลงบุก: อุปกรณ์ปล่อยลั
 RESOURCE ID: bug_out_buddies2026_paras
 TEXT: ฝูงแมลงบุก: อุปกรณ์ปล่อยลัวร์ดึงดูดพารัส
 
-RESOURCE ID: campfire_meetup_go_tour_2026
-TEXT: งานวิจัยแบบจำกัดเวลาเช็กอินงานพบปะ: GO Tour 2026
+RESOURCE ID: bundle.night.treats.incense_title
+TEXT: กล่องเครื่องหอมเลี้ยงฉลองยามค่ำคืน
 
-RESOURCE ID: check_out_field_book
-TEXT: ตรวจสอบบันทึกภาคสนาม!
-
-RESOURCE ID: city_manhole_432
-TEXT: เบตสึไค
-
-RESOURCE ID: city_manhole_437
-TEXT: สวนคาเซนุมะ
+RESOURCE ID: bundle.night.treats.raid_title
+TEXT: กล่องตีบอสเลี้ยงฉลองยามค่ำคืน
 
 RESOURCE ID: claim_all_a_pokemon_has_appeared
 TEXT: พบโปเกมอน!
@@ -499,9 +166,6 @@ TEXT: เหลือโปเกมอนให้จับ: {0} ตัว
 RESOURCE ID: claim_all_pokemon_left_to_catch_singular
 TEXT: เหลือโปเกมอนให้จับ: 1 ตัว
 
-RESOURCE ID: claim_all_quest_rewards_btn
-TEXT: รับทั้งหมด
-
 RESOURCE ID: claim_all_quests_confirmation_modal_message
 TEXT: ไอเท็มที่ได้รับทั้งหมด: {0}
 
@@ -510,29 +174,26 @@ TEXT: ไอเท็มที่ได้รับทั้งหมด: {0}
 RESOURCE ID: claim_all_quests_confirmation_modal_title
 TEXT: ต้องการรับรางวัลทั้งหมดหรือไม่?
 
-RESOURCE ID: claim_all_quests_partial_success_message
-TEXT: มีรางวัลที่ไม่สามารถรับพร้อมกับรางวัลอื่นได้
-
-RESOURCE ID: claim_all_quests_validation_failed_message
-TEXT: ไม่มีรางวัลที่สามารถรับจากการ "รับทั้งหมด" ได้ หากยังมีรางวัลเหลืออยู่ โปรดกดรับต่างหาก
-
 RESOURCE ID: claim_all_rewards_confirmation
 TEXT: ต้องการรับรางวัลทั้งหมดหรือไม่?
 
 RESOURCE ID: clamperl_paid_tr_name
 TEXT: งานวิจัยแบบจำกัดเวลาพรีเมียม: ปาลูลุ
 
-RESOURCE ID: combat_defense_warning
-TEXT: เตรียมพร้อม!
+RESOURCE ID: collection_challenge_night_treats
+TEXT: คำท้านักสะสมเลี้ยงฉลองยามค่ำคืน
+
+RESOURCE ID: combat_challenge_error_993_2
+TEXT: Friend unavailable for combat.
 
 RESOURCE ID: combat_defense_warning_out
-TEXT: การโจมตีกำลังมา!
+TEXT: เตรียมพร้อม!
 
 RESOURCE ID: combat_move_entering_busted_form
 TEXT: การอำพรางกายของมิมิคคิวถูกเปิดเผย!
 
 RESOURCE ID: combat_move_transformed_blocked
-TEXT: แปลงร่างแล้ว!
+TEXT: เปลี่ยนร่างแล้ว!
 กันไว้!
 
 RESOURCE ID: combat_title_season_22
@@ -540,6 +201,9 @@ TEXT: โกแบตเทิลลีก: ความทรงจำพรั
 
 RESOURCE ID: community_ambassador_tr_title
 TEXT: งานวิจัยแบบจำกัดเวลาโบนัสผู้นำชุมชน
+
+RESOURCE ID: community_day_dec2024_event_name
+TEXT: คอมมิวนิตี้เดย์ธันวาคม 2024
 
 RESOURCE ID: community_day_scorbunny_event_name
 TEXT: คอมมิวนิตี้เดย์: ฮิบานี
@@ -550,29 +214,14 @@ TEXT: ค้นพบรายวัน
 RESOURCE ID: daily_discovery_singular
 TEXT: ค้นพบรายวัน
 
-RESOURCE ID: day_and_night_pokemon_ftue_1_body_text_key
-TEXT: โปเกมอนที่มีไอคอนเหล่านี้จะมีภาพเหมือนที่แสดงสถานที่และวันเวลาที่ถูกจับ
-
-RESOURCE ID: day_and_night_pokemon_ftue_2_secondary_body_text_key
-TEXT: สามารถพบได้ที่เสาโปเกสต็อปพิเศษ
-
-RESOURCE ID: day_and_night_pokemon_text_key
-TEXT: พบได้ที่เสาโปเกสต็อป
-
-RESOURCE ID: day_night_encounter_ftue_1_secondary_body_text_key
-TEXT: โปเกมอนที่มีไอคอนเหล่านี้จะมีภาพเหมือนที่แสดงสถานที่และวันเวลาที่ถูกจับ
-
-RESOURCE ID: day_night_tutorial_detail_page
-TEXT: ภาพเหมือนของโปเกมอนตัวนี้แสดงตำแหน่งที่ถูกจับ
+RESOURCE ID: december_cd_event_ticket
+TEXT: ตั๋วคอมมิวนิตี้เดย์ธันวาคม
 
 RESOURCE ID: desc_unown_o_clock
 TEXT: อันโนนจะปรากฏตัวจำนวนมากในทุกต้นชั่วโมง!
 
-RESOURCE ID: details_link_key_lunar_new_year_feb2026
-TEXT: ตรวจสอบรายละเอียดได้ที่<a href="https://pokemongo.com/news/lunar-new-year-event-2026">เว็บไซต์</a>นี้
-
-RESOURCE ID: details_link_key_oricorio_mastery_feb2026
-TEXT: ตรวจสอบรายละเอียดได้ที่<a href="https://pokemongolive.com/post/catch-mastery-oricorio-2026">เว็บไซต์</a>นี้
+RESOURCE ID: details_link_key_gmax_pikachu_max_battle
+TEXT: ตรวจสอบรายละเอียดได้ที่<a href="https://pokemongo.com/news/gigantamax-pikachu-max-battle-day-2026">เว็บไซต์</a>นี้
 
 RESOURCE ID: details_link_key_replay_water_research
 TEXT: ตรวจสอบรายละเอียดได้ที่<a href="https://pokemongolive.com/news/replay-water-research-day-2026">เว็บไซต์</a>นี้
@@ -595,14 +244,35 @@ TEXT: เมตามอนในชุดคอสตูมแปลงร่�
 RESOURCE ID: ditto_collab_wild_sb_bonus
 TEXT: เมตามอนที่จับในธรรมชาติอาจมีพื้นหลังพิเศษตามธีมอีเวนต์
 
-RESOURCE ID: dn_poi_tutorial_nearby
-TEXT: เมื่อจับโปเกมอนที่มีไอคอนเหล่านี้จะได้รับโปเกมอนที่มีภาพเหมือน!
-
 RESOURCE ID: double_time_sunday
 TEXT: วันอาทิตย์ลัวร์เท่าตัว
 
 RESOURCE ID: double_time_sunday_lure_one_hour
 TEXT: ระยะเวลาอุปกรณ์ปล่อยลัวร์ 1 ชั่วโมง (ยกเว้นอุปกรณ์ปล่อยลัวร์สีทอง)
+
+RESOURCE ID: em2026_night_treats_oclock_desc
+TEXT: ในช่วงอีเวนต์ โปเกมอนเด่นรวมถึงพิคาชูสวมหมวกเค้กจะปรากฏตัวตอน 19:00 น. ทุกวัน!
+
+RESOURCE ID: em2026_night_treats_oclock_live
+TEXT: ถึงเวลาต้นชั่วโมงเลี้ยงฉลองยามค่ำคืน! ห้ามพลาด พิคาชูสวมหมวกเค้กปรากฏตัว!
+
+RESOURCE ID: em2026_night_treats_oclock_title
+TEXT: ได้เวลาเลี้ยงฉลองยามค่ำคืน!
+
+RESOURCE ID: em2026_night_treats_title
+TEXT: เลี้ยงฉลองยามค่ำคืน
+
+RESOURCE ID: em2026_night_treats_tr_header_0
+TEXT: งานวิจัยแบบจำกัดเวลาเลี้ยงฉลองยามค่ำคืน: อาหารเรียกน้ำย่อย (1/3)
+
+RESOURCE ID: em2026_night_treats_tr_header_1
+TEXT: งานวิจัยแบบจำกัดเวลาเลี้ยงฉลองยามค่ำคืน: อาหารจานหลัก (2/3)
+
+RESOURCE ID: em2026_night_treats_tr_header_2
+TEXT: งานวิจัยแบบจำกัดเวลาเลี้ยงฉลองยามค่ำคืน: ของหวานปิดท้าย (3/3)
+
+RESOURCE ID: em2026_night_treats_tr_title
+TEXT: งานวิจัยแบบจำกัดเวลาเลี้ยงฉลองยามค่ำคืน
 
 RESOURCE ID: em_holi_2026_collection_challenge_1
 TEXT: คำท้านักสะสมเทศกาลแห่งสีสัน 2026
@@ -645,96 +315,417 @@ TEXT: โปเกมอนสีสันสดใสปรากฏตัว
 RESOURCE ID: em_mall_pkmn_day_event_title
 TEXT: เทศกาลเฉลิมฉลอง Pokémon Day: บราซิล
 
-RESOURCE ID: enamorus_therian_paid_tr_name
-TEXT: งานวิจัยแบบจำกัดเวลาพรีเมียม: วันตีบอสเลิฟโทลอส (ฟอร์มสัตว์ศักดิ์สิทธิ์)
-
-RESOURCE ID: enamorus_therian_raid_day_event_name
-TEXT: วันตีบอส: เลิฟโทลอส (ฟอร์มสัตว์ศักดิ์สิทธิ์)
-
-RESOURCE ID: enamorus_therian_website_link
-TEXT: ตรวจสอบรายละเอียดได้ที่<a href="https://pokemongo.com/news/enamorus-therian-raid-day-2026">เว็บไซต์</a>นี้
-
-RESOURCE ID: encounter_score_daily_bonus
-TEXT: โบนัสบันทึกภาคสนามประจำวัน
-
 RESOURCE ID: enhanced_currency_ftue_body
 TEXT: สามารถใช้ลิงก์ชาร์จแทนบัตรตีบอสเพื่อเข้าร่วมตีบอสเมก้าได้ และจำเป็นต้องใช้ลิงก์ชาร์จในกรณีที่เข้าร่วมตีบอสซูเปอร์เมก้าจากระยะไกล
 
 สามารถสะสมลิงก์ชาร์จได้จากกิจกรรมต่าง ๆ เช่น คำท้ารายสัปดาห์, การเช็กอิน Campfire และการเปิดของขวัญ เป็นต้น
-
-RESOURCE ID: enhanced_currency_ftue_title
-TEXT: ใช้เพื่อเข้าร่วมตีบอสเมก้า
-
-RESOURCE ID: enhanced_currency_large_3rrp_title
-TEXT: 600 ลิงก์ชาร์จ + 3 บัตรตีบอสระยะไกล
-
-RESOURCE ID: enhanced_currency_large_description
-TEXT: ชุดเติมลิงก์ชาร์จที่จำเป็นสำหรับการเข้าร่วมตีบอสเมก้าจำนวน 600 ลิงก์ชาร์จ
-
-RESOURCE ID: enhanced_currency_large_rrp_title
-TEXT: 600 ลิงก์ชาร์จ + 1 บัตรตีบอสระยะไกล
-
-RESOURCE ID: enhanced_currency_large_title
-TEXT: 600 ลิงก์ชาร์จ
-
-RESOURCE ID: enhanced_currency_maxed_out_warning
-TEXT: คุณมีลิงก์ชาร์จถึงจำนวนสูงสุด {0} แล้ว โปรดลองอีกครั้งหลังใช้
-
-RESOURCE ID: enhanced_currency_medium_description
-TEXT: ชุดเติมลิงก์ชาร์จที่จำเป็นสำหรับการเข้าร่วมตีบอสเมก้าจำนวน 200 ลิงก์ชาร์จ
-
-RESOURCE ID: enhanced_currency_medium_rrp_title
-TEXT: 200 ลิงก์ชาร์จ + 1 บัตรตีบอสระยะไกล
-
-RESOURCE ID: enhanced_currency_medium_title
-TEXT: 200 ลิงก์ชาร์จ
-
-RESOURCE ID: enhanced_currency_rrp_title
-TEXT: 50 ลิงก์ชาร์จ + 1 บัตรตีบอสระยะไกล
-
-RESOURCE ID: enhanced_currency_title
-TEXT: 50 ลิงก์ชาร์จ
-
-RESOURCE ID: enhanced_mega_raid_tutorial_body_1
-TEXT: ตีบอสโปเกมอนวิวัฒนาการเมก้าสุดแกร่ง แบตเทิลโดยร่วมมือกันกับเทรนเนอร์ 8 คนขึ้นไป
-หากตีบอสได้สำเร็จ จะได้รับพลังงานเมก้าจำนวนมาก
 
 RESOURCE ID: enhanced_mega_raid_tutorial_body_2
 TEXT: บอสโปเกมอนจะต่อสู้โดยใช้โล่สำหรับลดแดเมจจากการโจมตี
 
 สามารถทำลายโล่นี้ได้ด้วยท่าโจมตีชาร์จของโปเกมอนที่วิวัฒนาการเมก้า ร่วมมือกับผู้เข้าร่วมอื่นแล้วจัดการบอสโปเกมอนเลย
 
-RESOURCE ID: enhanced_mega_raid_tutorial_title_1
-TEXT: ตีบอสซูเปอร์เมก้า!
+RESOURCE ID: event_datetime_range_key_adventuretry2024
+TEXT: 2 สิงหาคม 10:00 น.
+ถึง12 สิงหาคม 23:59 น. 
 
-RESOURCE ID: enhanced_mega_raid_tutorial_title_2
-TEXT: วิวัฒนาการเมก้าแล้วโจมตี!
+RESOURCE ID: event_datetime_range_key_adventurewk0729
+TEXT: 29 กรกฎาคม 10:00 น.
+ถึง 3 สิงหาคม 20:00 น.
+
+RESOURCE ID: event_datetime_range_key_aspiringtr2024
+TEXT: 7 ธันวาคม 2024 14:00-17:00 น.
+
+RESOURCE ID: event_datetime_range_key_augmonthly2025
+TEXT: 3 สิงหาคม 10:00 น. ถึง
+3 กันยายน 10:00 น. 
+
+RESOURCE ID: event_datetime_range_key_bagoncdc
+TEXT: 7 เมษายน 2024 14:00-17:00 น.
+
+RESOURCE ID: event_datetime_range_key_beldumcdc24
+TEXT: 18 สิงหาคม 2024  14:00-17:00 น.
+
+RESOURCE ID: event_datetime_range_key_bellsproutcd2024
+TEXT: 20 เมษายน 2024 14:00-17:00 น.
+
+RESOURCE ID: event_datetime_range_key_bounsweetcd2024
+TEXT: 19 พฤษภาคม 2024 14:00-17:00 น.
+
+RESOURCE ID: event_datetime_range_key_catch_mastery_archen
+TEXT: 16 มีนาคม 10:00-20:00 น.
 
 RESOURCE ID: event_datetime_range_key_catch_mastery_oricorio
-TEXT: วันที่ 7 กุมภาพันธ์ เวลา 10:00-20:00 น.
+TEXT: 7 กุมภาพันธ์ 10:00-20:00 น.
+
+RESOURCE ID: event_datetime_range_key_cd_flabebe25
+TEXT: 14 กันยายน 14:00-17:00 น.
+
+RESOURCE ID: event_datetime_range_key_cd_fuecoco25
+TEXT: 8 มีนาคม 2025 14:00-17:00 น.
+
+RESOURCE ID: event_datetime_range_key_cd_grookey25
+TEXT: 18 มกราคม 14:00-17:00 น.
+
+RESOURCE ID: event_datetime_range_key_cd_jangmo_o25
+TEXT: 21 มิถุนายน 2025 14:00-17:00 น.
+
+RESOURCE ID: event_datetime_range_key_cd_pawmi25
+TEXT: 11 พฤษภาคม 2025 14:00-17:00 น.
+
+RESOURCE ID: event_datetime_range_key_cd_pikipek25
+TEXT: 30 พฤศจิกายน 14:00-17:00 น.
+
+RESOURCE ID: event_datetime_range_key_cd_quaxly25
+TEXT: 20 กรกฎาคม 14:00-17:00 น. ตามเวลาท้องถิ่น
+
+RESOURCE ID: event_datetime_range_key_cd_recap2024
+TEXT: 21 ธันวาคม 9:00 น. ถึง
+22 ธันวาคม 21:00 น.
+
+RESOURCE ID: event_datetime_range_key_cd_recap2025
+TEXT: 6 ธันวาคม 9:00 น. ถึง
+7 ธันวาคม 21:00 น.
+
+RESOURCE ID: event_datetime_range_key_cd_rookidee25
+TEXT: 30 สิงหาคม 14:00-17:00 น.
 
 RESOURCE ID: event_datetime_range_key_cd_scorbunny26
-TEXT: วันที่ 14 มีนาคม เวลา 14:00-17:00 น.
+TEXT: 14 มีนาคม 14:00-17:00 น.
+
+RESOURCE ID: event_datetime_range_key_cd_shelmetkarrablast25
+TEXT: 9 กุมภาพันธ์ 2025 14:00-17:00 น.
+
+RESOURCE ID: event_datetime_range_key_cd_solosis25
+TEXT: 12 ตุลาคม 14:00-17:00 น.
+
+RESOURCE ID: event_datetime_range_key_cd_sprigatito2025
+TEXT: 5 มกราคม 2025 เวลา 14:00-17:00 น.
+
+RESOURCE ID: event_datetime_range_key_cd_vanillite25
+TEXT: 27 เมษายน 2025 14:00-17:00 น.
+
+RESOURCE ID: event_datetime_range_key_cd_vulpix26
+TEXT: 1 กุมภาพันธ์ 14:00-17:00 น.
+
+RESOURCE ID: event_datetime_range_key_cdc_machop25
+TEXT: 24 พฤษภาคม 2025 14:00-17:00 น.
+
+RESOURCE ID: event_datetime_range_key_cdc_piplup26
+TEXT: 4 มกราคม 14:00-17:00 น.
+
+RESOURCE ID: event_datetime_range_key_cdc_ralts25
+TEXT: 25 มกราคม 2025 14:00-17:00 น.
+
+RESOURCE ID: event_datetime_range_key_cdc_totodile25
+TEXT: 22 มีนาคม 2025 14:00-17:00 น.
+
+RESOURCE ID: event_datetime_range_key_chargedembers1224
+TEXT: 29 ธันวาคม 2024 14:00-17:00 น.
+
+RESOURCE ID: event_datetime_range_key_chargedtr2024
+TEXT: 3 มีนาคม 2024 14:00-17:00 น.
+
+RESOURCE ID: event_datetime_range_key_cleffahatchday2024
+TEXT: 28 เมษายน 2024 14:00-17:00 น.
+
+RESOURCE ID: event_datetime_range_key_completelynormal_sep25
+TEXT: 23 กันยายน 10:00 น. ถึง
+27 กันยายน 20:00 น.
+
+RESOURCE ID: event_datetime_range_key_conciergecb0925
+TEXT: 9 กันยายน 10:00 น. ถึง
+14 กันยายน 20:00 น.
+
+RESOURCE ID: event_datetime_range_key_cyndaquilcdc2024
+TEXT: 22 มิถุนายน 2024 14:00-17:00 น.
+
+RESOURCE ID: event_datetime_range_key_decmonthly2024
+TEXT: 3 ธันวาคม 10:00 น. ถึง
+31 ธันวาคม 20:00 น.
 
 RESOURCE ID: event_datetime_range_key_enamorustherianraidday
-TEXT: 14 กุมภาพันธ์ เวลา 14:00-17:00 น.
+TEXT: 14 กุมภาพันธ์ 14:00-17:00 น.
 
-RESOURCE ID: event_datetime_range_key_gmaxmeowth26
-TEXT: 15 กุมภาพันธ์ 14:00 น. ถึง
-15 กุมภาพันธ์ 17:00 น.
+RESOURCE ID: event_datetime_range_key_enchanted_hollow_nov25
+TEXT: 4 พฤศจิกายน 10:00 น. ถึง
+9 พฤศจิกายน 20:00 น.
 
-RESOURCE ID: event_datetime_range_key_lunarny0226
-TEXT: 17 กุมภาพันธ์ 10:00 น. ถึง
-21 กุมภาพันธ์ 20:00 น.
+RESOURCE ID: event_datetime_range_key_falinksraidday
+TEXT: 8 กันยายน 2024 14:00-22:00 น.
+
+RESOURCE ID: event_datetime_range_key_finaljustice2025
+TEXT: 25 พฤศจิกายน 10:00 น. ถึง
+30 พฤศจิกายน 20:00 น.
+
+RESOURCE ID: event_datetime_range_key_flocktr24
+TEXT: 11 พฤษภาคม 2024 14:00-17:00 น.
+
+RESOURCE ID: event_datetime_range_key_fossil_researchtr2025
+TEXT: 2 สิงหาคม 14:00-17:00 น.
+
+RESOURCE ID: event_datetime_range_key_fuzzyrd2024
+TEXT: 29 มีนาคม 2025 14:00-17:00 น.
+
+RESOURCE ID: event_datetime_range_key_gblaug24
+TEXT: 16 สิงหาคม 10:00 น.
+ถึง20 สิงหาคม 20:00 น.
+
+RESOURCE ID: event_datetime_range_key_gbw_wcs_aug25
+TEXT: 15 สิงหาคม 10:00 น.
+ถึง 17 สิงหาคม 20:00 น.
+
+RESOURCE ID: event_datetime_range_key_gmax_pikachu_max_battle
+TEXT: 28 มีนาคม 14:00-17:00 น.
+
+RESOURCE ID: event_datetime_range_key_gmaxbutterfree25
+TEXT: 3 สิงหาคม 14:00-17:00 น.
+
+RESOURCE ID: event_datetime_range_key_gmaxgarbodor25
+TEXT: 1 พฤศจิกายน 14:00-17:00 น.
+
+RESOURCE ID: event_datetime_range_key_gmaxkingler25
+TEXT: 1 กุมภาพันธ์ 2025 14:00-17:00 น.
+
+RESOURCE ID: event_datetime_range_key_gmaxlapras24
+TEXT: 8 ธันวาคม 2024 14:00-17:00 น.
+
+RESOURCE ID: event_datetime_range_key_gmaxlapras25
+TEXT: 19 กรกฎาคม 14:00-17:00 น.
+
+RESOURCE ID: event_datetime_range_key_gmaxmachamp25
+TEXT: 25 พฤษภาคม 2025 14:00-17:00 น.
+
+RESOURCE ID: event_datetime_range_key_gmaxsnorlax25
+TEXT: 19 เมษายน 2025 14:00-17:00 น.
+
+RESOURCE ID: event_datetime_range_key_gmaxsnorlax_s21
+TEXT: 14 ธันวาคม 14:00-17:00 น.
+
+RESOURCE ID: event_datetime_range_key_gobattlenov2024
+TEXT: 2 พฤศจิกายน 00:00 น. ถึง
+3 พฤศจิกายน 23:59 น.
+
+RESOURCE ID: event_datetime_range_key_goomycd2024
+TEXT: 9 มิถุนายน 2024 14:00-17:00 น.
+
+RESOURCE ID: event_datetime_range_key_growtogether24
+TEXT: 17 กรกฎาคม 10:00 น. ถึง
+3 กันยายน 10:00 น. 
+
+RESOURCE ID: event_datetime_range_key_halloween1tr24
+TEXT: 22 ตุลาคม 10:00 น. ถึง
+3 พฤศจิกายน 20:00 น.
+
+RESOURCE ID: event_datetime_range_key_halloween2tr24
+TEXT: 22 ตุลาคม 10:00 น. ถึง
+3 พฤศจิกายน 20:00 น.
+
+RESOURCE ID: event_datetime_range_key_harvest1124
+TEXT: 7 พฤศจิกายน 10:00 น. ถึง
+12 พฤศจิกายน 20:00 น.
+
+RESOURCE ID: event_datetime_range_key_harvestfestival_oct25
+TEXT: 10 ตุลาคม 10:00 น. ถึง
+16 ตุลาคม 20:00 น.
+
+RESOURCE ID: event_datetime_range_key_hemisphereholidays1224
+TEXT: 17 ธันวาคม 10:00 น. ถึง
+22 ธันวาคม 10:00 น.
+
+RESOURCE ID: event_datetime_range_key_high_voltage_nov25
+TEXT: 18 พฤศจิกายน 10:00 น. ถึง
+22 พฤศจิกายน 20:00 น.
+
+RESOURCE ID: event_datetime_range_key_hisuidecidueye2024
+TEXT: 11 กุมภาพันธ์ 14:00-22:00 น. ตามเวลาท้องถิ่น
+
+RESOURCE ID: event_datetime_range_key_hoopaunboundraidday
+TEXT: 15 กุมภาพันธ์ 2025 14:00-17:00 น.
+
+RESOURCE ID: event_datetime_range_key_journeytpaldea25
+TEXT: 2 ธันวาคม 10:00 น. ถึง
+9 ธันวาคม 20:00 น.
+
+RESOURCE ID: event_datetime_range_key_julymonthly2025
+TEXT: 3 กรกฎาคม 10:00 น.
+ถึง 3 สิงหาคม 10:00 น. 
+
+RESOURCE ID: event_datetime_range_key_kanto_celebrationsep25
+TEXT: 2 กันยายน 10:00 น. ถึง
+7 กันยายน 20:00 น.
+
+RESOURCE ID: event_datetime_range_key_kyuremfusionraidday
+TEXT: 10 มกราคม 14:00-17:00 น.
+
+RESOURCE ID: event_datetime_range_key_littencd2024
+TEXT: 16 มีนาคม 2024 14:00-17:00 น.
+
+RESOURCE ID: event_datetime_range_key_mankeycd24
+TEXT: 10 พฤศจิกายน 2024 14:00-17:00 น.
+
+RESOURCE ID: event_datetime_range_key_masterball24
+TEXT: 4 ตุลาคม 10:00 น. ถึง
+11 ตุลาคม 20:00 น.
+
+RESOURCE ID: event_datetime_range_key_masterball25
+TEXT: 2 ธันวาคม 10:00 น. ถึง
+10 กุมภาพันธ์ 20:00 น.
+
+RESOURCE ID: event_datetime_range_key_mawileraidday
+TEXT: 12 ตุลาคม 2024 14:00-22:00 น.
+
+RESOURCE ID: event_datetime_range_key_maxoutfinale1124
+TEXT: 27 พฤศจิกายน 10:00 น. ถึง
+1 ธันวาคม 20:00 น.
+
+RESOURCE ID: event_datetime_range_key_maxoutfinaleraids1124
+TEXT: 27 พฤศจิกายน 10:00 น. ถึง
+1 ธันวาคม 20:00 น.
+
+RESOURCE ID: event_datetime_range_key_megaabsolraidday
+TEXT: 23 มีนาคม 2025 14:00-17:00 น.
+
+RESOURCE ID: event_datetime_range_key_megaaudinoraidday
+TEXT: 5 เมษายน 2025 14:00-17:00 น.
+
+RESOURCE ID: event_datetime_range_key_megacameruptraidday
+TEXT: 28 กันยายน 14:00-17:00 น.
+
+RESOURCE ID: event_datetime_range_key_megagalladeraidday
+TEXT: 11 มกราคม 2024 เวลา 14:00-17:00 น.
+
+RESOURCE ID: event_datetime_range_key_megagyaradosraidday
+TEXT: 31 สิงหาคม 14:00-17:00 น.
+
+RESOURCE ID: event_datetime_range_key_megaheracrossraidday
+TEXT: 13 เมษายน 2024 14:00-22:00 น.
+
+RESOURCE ID: event_datetime_range_key_megakangaskhanraidday
+TEXT: 3 พฤษภาคม 2025 14:00-17:00 น.
+
+RESOURCE ID: event_datetime_range_key_megalucarioraidday24
+TEXT:  27 กรกฎาคม 2024 11:00-22:00 น.
+
+RESOURCE ID: event_datetime_range_key_megametagrossraidday
+TEXT: 4 ตุลาคม 14:00-17:00 น.
+
+RESOURCE ID: event_datetime_range_key_megarayquazaraidday
+TEXT: 18 ตุลาคม 14:00-17:00 น.
+
+RESOURCE ID: event_datetime_range_key_megasharpedoraidday
+TEXT: 7 กันยายน 14:00-17:00 น.
+
+RESOURCE ID: event_datetime_range_key_monochromeholidaysdec2024
+TEXT: 22 ธันวาคม 10:00 น. ถึง
+27 ธันวาคม 20:00 น.
+
+RESOURCE ID: event_datetime_range_key_monthlyticketnov24
+TEXT: 3 พฤศจิกายน 00:00 น. ถึง
+2 ธันวาคม 23:59 น.
+
+RESOURCE ID: event_datetime_range_key_monthlyticketoct24
+TEXT: 3 ตุลาคม 00:00 น. ถึง
+2 พฤศจิกายน 23:59 น.
+
+RESOURCE ID: event_datetime_range_key_monthlyticketsept24
+TEXT: 3 กันยายน 00:00 น. ถึง
+2 ตุลาคม 23:59 น.
+
+RESOURCE ID: event_datetime_range_key_munchlax0825
+TEXT: 9 สิงหาคม 11:00-17:00 น.
+
+RESOURCE ID: event_datetime_range_key_necrozmafusionraidday
+TEXT: 14 ธันวาคม 2024 14:00-17:00 น.
+
+RESOURCE ID: event_datetime_range_key_nye012026
+TEXT: 31 ธันวาคม 10:00 น. ถึง
+4 มกราคม 20:00 น.
+
+RESOURCE ID: event_datetime_range_key_nye12302025
+TEXT: 30 ธันวาคม 10:00 น. ถึง
+1 มกราคม 20:00 น.
+
+RESOURCE ID: event_datetime_range_key_originraidday
+TEXT: 10 สิงหาคม 11:00-17:00 น.
+
+RESOURCE ID: event_datetime_range_key_ponytacd24
+TEXT: 14 กันยายน 2024 14:00-17:00 น.
+
+RESOURCE ID: event_datetime_range_key_poppliocd24_title
+TEXT: 31 สิงหาคม 2024 14:00-17:00 น.
+
+RESOURCE ID: event_datetime_range_key_primalgroudonraidday
+TEXT: 23 มีนาคม 2024 14:00-22:00 น.
+
+RESOURCE ID: event_datetime_range_key_primalkyogreraidday
+TEXT: 17 มีนาคม 2024 14:00-22:00 น.
+
+RESOURCE ID: event_datetime_range_key_psychicspectgr
+TEXT: 16 กันยายน 12:00 น. ถึง
+21 กันยายน 23:59 น.
+
+RESOURCE ID: event_datetime_range_key_psychspec24
+TEXT: 18 กันยายน 10:00 น. ถึง
+22 กันยายน 20:00 น.
+
+RESOURCE ID: event_datetime_range_key_raikoushadowraidday
+TEXT: 24 มกราคม 14:00-17:00 น.
+
+RESOURCE ID: event_datetime_range_key_researchdaysept24
+TEXT: 22 กันยายน 2024 14:00-17:00 น.
+
+RESOURCE ID: event_datetime_range_key_sewaddlecd24
+TEXT: 5 ตุลาคม 2024 14:00-17:00 น.
+
+RESOURCE ID: event_datetime_range_key_shadowgroudonraidweekend
+TEXT: 20 กันยายน 6:00 น. ถึง
+21 กันยายน 22:00 น.
+
+RESOURCE ID: event_datetime_range_key_shadowhoohraidday
+TEXT: 19 มกราคม 2025 14:00-17:00 น.
+
+RESOURCE ID: event_datetime_range_key_shadowregigigasraidday
+TEXT: 17 พฤษภาคม 2025 14:00-17:00 น.
+
+RESOURCE ID: event_datetime_range_key_sparringpartnersraidday
+TEXT: 13 เมษายน 2025 14:00-17:00 น.
+
+RESOURCE ID: event_datetime_range_key_steelskyline0925
+TEXT: 30 กันยายน 10:00 น. ถึง
+7 ตุลาคม 20:00 น.
+
+RESOURCE ID: event_datetime_range_key_sunkissedctr0825
+TEXT: 25 สิงหาคม 10:00 น.
+ถึง 31 สิงหาคม 20:00 น.
+
+RESOURCE ID: event_datetime_range_key_sunkissedetr0825
+TEXT: 25 สิงหาคม 10:00 น.
+ถึง 31 สิงหาคม 20:00 น.
+
+RESOURCE ID: event_datetime_range_key_sunmoon_researchtr2025
+TEXT: 20 ธันวาคม 14:00-17:00 น.
+
+RESOURCE ID: event_datetime_range_key_tynamocd24
+TEXT: 21 กรกฎาคม 2024 14:00-17:00 น.
+
+RESOURCE ID: event_datetime_range_key_tyrogue0425
+TEXT: 6 เมษายน 2025 14:00-17:00 น.
 
 RESOURCE ID: event_datetime_range_key_waterrrd26
-TEXT: วันที่ 21 มีนาคม เวลา 14:00-17:00 น.
+TEXT: 21 มีนาคม 14:00-17:00 น.
+
+RESOURCE ID: event_datetime_range_key_yamasktr24
+TEXT: 19 ตุลาคม 2024 14:00-17:00 น.
 
 RESOURCE ID: event_legendary_incense
 TEXT: โปเกมอนในตำนานอาจถูกดึงดูดด้วยเครื่องหอม
 
 RESOURCE ID: event_legendary_spawn
 TEXT: โปเกมอนในตำนานอาจปรากฏตัวในธรรมชาติ
+
+RESOURCE ID: event_pass_plus_points_6_ranks_description
+TEXT: รับรางวัลเพิ่มเติมในแต่ละระดับ และระดับเพิ่มขึ้น 6 ระดับทันที
 
 RESOURCE ID: event_pass_premium_reward_banner_bottom_text_30anniv_2026
 TEXT: ได้รับเมื่อถึงระดับ 79
@@ -744,9 +735,6 @@ TEXT: ได้รับเมื่อถึงระดับ 30
 
 RESOURCE ID: event_season22_name
 TEXT: ฤดูกาลปัจจุบัน: ความทรงจำพรั่งพรู
-
-RESOURCE ID: event_tag_mega_night
-TEXT: GO Tour: เมก้าไนท์
 
 RESOURCE ID: event_ticket_date_time_range_days
 TEXT: {startDay} {startMonth} {startTime24H} น. ถึง
@@ -764,229 +752,38 @@ TEXT:
 RESOURCE ID: event_ticket_time_article_singular
 TEXT: 
 
-RESOURCE ID: extra_guaranteed_xl_candy_mega_five_star_raids
-TEXT: การันตี +1 ลูกอม XL จากตีบอสเมก้าและตีบอสห้าดาว
-
 RESOURCE ID: fast_track_monday
 TEXT: วันจันทร์แต้มด่วน
 
-RESOURCE ID: feature_dbs_pokestop_ftue_conv_1
-TEXT: พบเสาโปเกสต็อปพิเศษแล้วสินะ! ใกล้ ๆ นี้มีโปเกมอนตัวไหนอยู่กันแน่? ลองไปจับกันเถอะ!
-
-RESOURCE ID: feature_first_fieldbook_ftue_conv_1
-TEXT: เก็บบันทึกภาคสนามหน้าแรกเสร็จสมบูรณ์แล้วสินะ ขอบคุณมาก สิ่งนี้จะช่วยในการวิจัยต่อจากนี้นะ รับไปสิ
-
 RESOURCE ID: feebas_paid_tr_name
 TEXT: งานวิจัยแบบจำกัดเวลาพรีเมียม: ฮินบาส
-
-RESOURCE ID: field_book_apr_2026
-TEXT: เมษายน
-
-RESOURCE ID: field_book_apr_2026_sub0
-TEXT: เมษายน: 1
-
-RESOURCE ID: field_book_apr_2026_sub1
-TEXT: เมษายน: 2
-
-RESOURCE ID: field_book_apr_2026_sub2
-TEXT: เมษายน: 3
-
-RESOURCE ID: field_book_apr_2026_sub3
-TEXT: เมษายน: 4
-
-RESOURCE ID: field_book_apr_2026_sub4
-TEXT: เมษายน: 5
-
-RESOURCE ID: field_book_apr_2026_sub5
-TEXT: เมษายน: 6
-
-RESOURCE ID: field_book_apr_2026_sub6
-TEXT: เมษายน: 7
-
-RESOURCE ID: field_book_apr_2026_sub7
-TEXT: เมษายน: 8
-
-RESOURCE ID: field_book_apr_2026_sub8
-TEXT: เมษายน: 9
-
-RESOURCE ID: field_book_apr_2026_sub9
-TEXT: เมษายน: 10
-
-RESOURCE ID: field_book_entry_caught_by_in
-TEXT: จับใกล้ ๆ {0} ใน {1}
-
-RESOURCE ID: field_book_entry_caught_in
-TEXT: จับใน {0}
-
-RESOURCE ID: field_book_entry_hint_day
-TEXT: พบได้ตอนกลางวัน
 
 RESOURCE ID: field_book_entry_hint_night
 TEXT: พบได้ตอนกลางคืน
 
 RESOURCE ID: field_book_find_nearby_button
-TEXT: ดูว่าอยู่ใกล้ ๆ หรือไม่
-
-RESOURCE ID: field_book_mar_2026
-TEXT: มีนาคม
-
-RESOURCE ID: field_book_mar_2026_sub0
-TEXT: มีนาคม: 1
-
-RESOURCE ID: field_book_mar_2026_sub1
-TEXT: มีนาคม: 2
-
-RESOURCE ID: field_book_mar_2026_sub2
-TEXT: มีนาคม: 3
-
-RESOURCE ID: field_book_mar_2026_sub3
-TEXT: มีนาคม: 4
-
-RESOURCE ID: field_book_mar_2026_sub4
-TEXT: มีนาคม: 5
-
-RESOURCE ID: field_book_mar_2026_sub5
-TEXT: มีนาคม: 6
-
-RESOURCE ID: field_book_mar_2026_sub6
-TEXT: มีนาคม: 7
-
-RESOURCE ID: field_book_mar_2026_sub7
-TEXT: มีนาคม: 8
-
-RESOURCE ID: field_book_mar_2026_sub8
-TEXT: มีนาคม: 9
-
-RESOURCE ID: field_book_mar_2026_sub9
-TEXT: มีนาคม: 10
-
-RESOURCE ID: field_book_may_2026
-TEXT: พฤษภาคม
-
-RESOURCE ID: field_book_may_2026_sub0
-TEXT: พฤษภาคม: 1
-
-RESOURCE ID: field_book_may_2026_sub1
-TEXT: พฤษภาคม: 2
-
-RESOURCE ID: field_book_may_2026_sub2
-TEXT: พฤษภาคม: 3
-
-RESOURCE ID: field_book_may_2026_sub3
-TEXT: พฤษภาคม: 4
-
-RESOURCE ID: field_book_may_2026_sub4
-TEXT: พฤษภาคม: 5
-
-RESOURCE ID: field_book_may_2026_sub5
-TEXT: พฤษภาคม: 6
-
-RESOURCE ID: field_book_may_2026_sub6
-TEXT: พฤษภาคม: 7
-
-RESOURCE ID: field_book_may_2026_sub7
-TEXT: พฤษภาคม: 8
-
-RESOURCE ID: field_book_may_2026_sub8
-TEXT: พฤษภาคม: 9
-
-RESOURCE ID: field_book_may_2026_sub9
-TEXT: พฤษภาคม: 10
-
-RESOURCE ID: field_book_new_entry_screen_title
-TEXT: เพิ่มในบันทึกภาคสนามแล้ว!
-
-RESOURCE ID: field_book_page_complete
-TEXT: หน้าของบันทึกภาคสนามเสร็จสมบูรณ์แล้ว!
-
-RESOURCE ID: field_book_page_completed
-TEXT: เสร็จสิ้น!
-
-RESOURCE ID: field_book_summary_entry_callout_firstregister
-TEXT: บันทึกในโปเกเด็กซ์แล้ว!
-
-RESOURCE ID: field_book_summary_entry_callout_shiny
-TEXT: โปเกมอนสีแตกต่าง!
-
-RESOURCE ID: field_book_summary_entry_callout_xxl
-TEXT: โปเกมอน XXL
-
-RESOURCE ID: field_book_summary_entry_callout_xxs
-TEXT: โปเกมอน XXS
-
-RESOURCE ID: field_book_summary_stat_day_night_pokemon_caught
-TEXT: โปเกมอนที่มีภาพเหมือน
-
-RESOURCE ID: field_book_text_key
-TEXT: บันทึกภาคสนาม
-
-RESOURCE ID: field_book_view_pokemon_button
-TEXT: ดูโปเกมอน
-
-RESOURCE ID: fieldbook_daily_challenge_header
-TEXT: วันนี้
-
-RESOURCE ID: fieldbook_daily_challenge_message
-TEXT: จับโปเกมอนที่มีภาพเหมือนกลางวันและกลางคืน!
-
-RESOURCE ID: fieldbook_header_message
-TEXT: จับโปเกมอนที่มีภาพเหมือนเพื่อตกแต่งบันทึกภาคสนามกันเถอะ!
-
-RESOURCE ID: fieldbook_page_card_details_button
-TEXT: รายละเอียด
-
-RESOURCE ID: fieldbook_pages_section_header
-TEXT: หน้าของบันทึกภาคสนาม
-
-RESOURCE ID: fieldbook_post_catch_ftue_conversation_0
-TEXT: วิเศษไปเลย!
-
-RESOURCE ID: fieldbook_post_catch_ftue_conversation_1
-TEXT: โปเกมอนพวกนี้พอเอามาเรียบเรียงลงบันทึกภาคสนามแล้วสนุกมากเลย แถมยังเป็นประโยชน์ต่องานวิจัยด้วย หาพวกมันเพิ่มได้ไหม?
-
-RESOURCE ID: fieldbook_summary_all_caught_flavor_text
-TEXT: เสร็จสมบูรณ์!
-
-RESOURCE ID: fieldbook_summary_few_caught_flavor_text
-TEXT: เยี่ยม!
-
-RESOURCE ID: fieldbook_summary_several_caught_flavor_text
-TEXT: ว้าว!
-
-RESOURCE ID: fieldbook_summary_species_caught_text
-TEXT: จับโปเกมอนที่มีภาพเหมือนที่แตกต่างกัน {0} สายพันธุ์!
+TEXT: ดูแผนที่
 
 RESOURCE ID: fieldbook_summary_species_caught_text_singular
 TEXT: คุณจับโปเกมอนที่มีภาพเหมือนได้ 1 ตัว!
 
-RESOURCE ID: fieldbook_tab_ftue_1_body_text_key
-TEXT: โปเกมอนที่แสดงในบันทึกภาคสนามคือโปเกมอนที่มีภาพเหมือนซึ่งแสดงสถานที่ที่ถูกจับ
-
-รวบรวมให้เต็มหน้า แล้วทำให้บันทึกภาคสนามเสร็จสมบูรณ์กัน!
-
-RESOURCE ID: fieldbook_tab_ftue_2_secondary_body_text_key
-TEXT: สามารถพบได้ที่เสาโปเกสต็อปพิเศษ
-
-RESOURCE ID: fieldbook_tab_ftue_conversation_0
-TEXT: โปเกมอนที่เธอจับมาให้นี่น่าสนใจดี ลงในบันทึกภาคสนามไว้แล้วกัน
-
 RESOURCE ID: fifty_percent_stardust_cost_trade_reduced_bonus
 TEXT: สตาร์ดัสต์ที่ใช้แลกเปลี่ยนลดสูงสุด 50%
 
-RESOURCE ID: filter_key_day
-TEXT: กลางวัน
+RESOURCE ID: form_artisan
+TEXT: ร่างของแพง
 
-RESOURCE ID: filter_key_night
-TEXT: กลางคืน
+RESOURCE ID: form_floette_eternal
+TEXT: Eternal Flower
 
-RESOURCE ID: filter_label_day_night_pokemon
-TEXT: ภาพเหมือน
+RESOURCE ID: form_gimmighoul_chest
+TEXT: Chest Form
 
-RESOURCE ID: first_catch_bonus_desc
-TEXT: โปเกมอนที่มีภาพเหมือนตัวแรกที่จับได้ในแต่ละวันจะให้ XP, ลูกอม และสตาร์ดัสต์เพิ่ม
+RESOURCE ID: form_gimmighoul_roaming
+TEXT: Roaming Form
 
-RESOURCE ID: first_catch_bonus_title
-TEXT: จับตัวแรก
+RESOURCE ID: form_masterpiece
+TEXT: ร่างชิ้นเอก
 
 RESOURCE ID: friendship_friday
 TEXT: วันศุกร์มิตรภาพ
@@ -1015,35 +812,39 @@ TEXT: รางวัลสตาร์ดัสต์จากการชน�
 RESOURCE ID: gbl_sets_extra_ten_total_no_stack
 TEXT: แบตเทิลในโกแบตเทิลลีกได้สูงสุด 10 เซ็ต
 
+RESOURCE ID: general1.ticket.2_larvitarcdc1_description
+TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยพิเศษ
+โยกิราสคอมมิวนิตี้เดย์ (รีเทิร์น)
+ตามเวลาท้องถิ่น
+สามารถดูรายละเอียดได้ที่ข่าวสารในเกม
+
+คุณต้องเล่นเกมในช่วงเวลาที่กำหนด
+เพื่อรับโบนัสทั้งหมดจากอีเวนต์พิเศษ
+
 RESOURCE ID: general1.ticket.2_waterrrd26_title
 TEXT: ตั๋วงานวิจัยแบบจำกัดเวลาพรีเมียม รีเพลย์: วันวิจัยประเภทน้ำ
 
-RESOURCE ID: general1.ticket.4_gmaxmeowth26_title
-TEXT: ตั๋ว "วันแบตเทิลแมกซ์เนียสกิกะแมกซ์"
-
-RESOURCE ID: general1.ticket._lunarny0226_title
-TEXT: ตั๋วงานวิจัยแบบจำกัดเวลาพรีเมียม: อีเวนต์ตรุษจีน 2026
+RESOURCE ID: general1.ticket.4_well_armed_dec2025_event_datetime_range_key
+TEXT: 11 ธันวาคม 10:00 น. ถึง
+16 ธันวาคม 20:00 น.
 
 RESOURCE ID: general1.ticket_cd_scorbunny26_title
 TEXT: ตั๋วฮิบานีคอมมิวนิตี้เดย์
 
-RESOURCE ID: general2.ticket.6_enamorustherianraidday_title
-TEXT: ตั๋ว "วันตีบอสเลิฟโทลอส (ฟอร์มสัตว์ศักดิ์สิทธิ์)"
-
-RESOURCE ID: general2.ticket2.catch_mastery_oricorio
-TEXT: ตั๋วงานวิจัยแบบจำกัดเวลาพรีเมียมผู้เชี่ยวชาญการจับ: โอโดริโดริ
+RESOURCE ID: general2.ticket5.gmax_pikachu_max_battle
+TEXT: ตั๋ว "วันแบตเทิลแมกซ์พิคาชูกิกะแมกซ์"
 
 RESOURCE ID: generic_track_upgrade_header_description
 TEXT: รับรางวัลเพิ่มเติมและปลดล็อก<b>การเผชิญหน้ากับเลโดมุชิ</b>ที่ระดับ 30!
 
-RESOURCE ID: gmax_meowth_lead_up_timed_research
-TEXT: งานวิจัยแบบจำกัดเวลาเตรียมตัวสู่ "วันแบตเทิลแมกซ์เนียสกิกะแมกซ์"
+RESOURCE ID: gmax_pikachu_max_battle
+TEXT: วันแบตเทิลแมกซ์พิคาชูกิกะแมกซ์
 
-RESOURCE ID: gmax_meowth_max_battles
-TEXT: เนียสกิกะแมกซ์ปรากฏตัวในแบตเทิลแมกซ์
+RESOURCE ID: gmax_pikachu_max_battle_ticketed
+TEXT: โบนัสตั๋ว "วันแบตเทิลแมกซ์พิคาชูกิกะแมกซ์"
 
-RESOURCE ID: gmax_meowth_website_link
-TEXT: ตรวจสอบรายละเอียดได้ที่<a href="https://pokemongo.com/news/gigantamax-meowth-max-battle-day-2026">เว็บไซต์</a>นี้
+RESOURCE ID: gmax_pikachu_max_battles
+TEXT: พิคาชูกิกะแมกซ์ปรากฏตัวในแบตเทิลแมกซ์
 
 RESOURCE ID: go_battle_thursday
 TEXT: วันพฤหัสบดีโกแบตเทิล
@@ -1226,15 +1027,6 @@ RESOURCE ID: go_tour_2026_masterwork_sr_dialog_09_03
 TEXT: ขอบคุณมากจริง ๆ นะ %PLAYERNAME%
 ขอให้เธอเป็นเทรนเนอร์ที่ส่องประกายตลอดไปนะ!
 
-RESOURCE ID: go_tour_ep_bonus_title_deluxe_00
-TEXT: โบนัส Deluxe Tier 1
-
-RESOURCE ID: go_tour_ep_bonus_title_deluxe_01
-TEXT: โบนัส Deluxe Tier 2
-
-RESOURCE ID: go_tour_ep_bonus_title_deluxe_02
-TEXT: โบนัส Deluxe Tier 3
-
 RESOURCE ID: go_tour_kalos_furfrou_branch_tr_dialog_00_00
 TEXT: แฟชั่นเปลี่ยนแปลงอยู่เรื่อยไป ทรงขนของทริมเมียนก็เช่นกัน!
 
@@ -1409,129 +1201,8 @@ RESOURCE ID: go_tour_kalos_global_sr_yveltal_dialog_05_04
 TEXT: ได้เวลาเผชิญหน้ากับอีเวลทอลแล้ว!
 โชคดีนะ %PLAYERNAME%!
 
-RESOURCE ID: go_tour_kalos_irl_sr_branch_dialog_01_00
-TEXT: สนใจจะวิจัยอะไรล่ะ
-ระหว่างโปเกมอนแห่งชีวิต เซอเนียส
-กับโปเกมอนแห่งการทำลาย อีเวลทอล
-
-RESOURCE ID: go_tour_kalos_irl_sr_dialog_00_00
-TEXT: สวัสดี %PLAYERNAME%! วันนี้เป็นวันที่
-เจอโปเกมอนที่ถูกค้นพบครั้งแรกใน
-ภูมิภาคคาลอสบ่อยเลย ได้สังเกตมั้ย
-
-RESOURCE ID: go_tour_kalos_irl_sr_dialog_00_01
-TEXT: พูดถึงคาลอสก็ต้องพูดถึงวิวัฒนาการเมก้า!
-หากอยากไปท้าทายแบบพร้อมสุด ๆ ละก็
-ลองเช็กดูว่ามีโปเกมอนที่วิวัฒนาการเมก้า
-ได้อยู่มั้ย
-
-RESOURCE ID: go_tour_kalos_irl_sr_dialog_00_02
-TEXT: ยังจำตอนที่ทำให้โปเกมอนวิวัฒนาการเมก้า
-ครั้งแรกได้อยู่มั้ย น่าจะเป็นสเปียร์ ไม่ก็ลูคาริโอ...
-
-RESOURCE ID: go_tour_kalos_irl_sr_dialog_00_03
-TEXT: แต่แล้วก็มาถึงวันนี้ มาทำให้เป็นวันพิเศษ
-วันแห่งก้าวแรกของการผจญภัยครั้งใหม่
-กันเถอะ!
-
-RESOURCE ID: go_tour_kalos_irl_sr_xerneas_dialog_02_00
-TEXT: เซอเนียสงั้นเหรอ
-ถ้ามีโปเกมอนที่วิวัฒนาการเมก้าได้อยู่ด้วยนี่
-ค่อนข้างน่าอุ่นใจเลยนะ!
-
-RESOURCE ID: go_tour_kalos_irl_sr_xerneas_dialog_02_01
-TEXT: สำรวจรอบ ๆ โดยพยายามมองหา
-แสงสีรุ้งนะ ว่ากันว่าเซอเนียสผู้แบ่งชีวิต
-อันเป็นนิรันดร์นั้น เขาบนหัวจะเปล่งแสงสีรุ้ง
-
-RESOURCE ID: go_tour_kalos_irl_sr_xerneas_dialog_02_02
-TEXT: "แบ่งชีวิตอันเป็นนิรันดร์" ฟังดูยิ่งใหญ่มากเลยใช่มั้ย!
-
-RESOURCE ID: go_tour_kalos_irl_sr_xerneas_dialog_02_03
-TEXT: อีกทั้ง บ้างก็ว่ามันหลับอยู่ในร่างต้นไม้
-นาน 1000 ปีด้วยเช่นกัน
-อย่างไรก็ลองดูพวกต้นไม้ด้วย
-
-RESOURCE ID: go_tour_kalos_irl_sr_xerneas_dialog_02_04
-TEXT: เท่าที่รู้ก็ประมาณนี้ละ %PLAYERNAME%
-หากพบอะไรที่น่าจะเป็นคำใบ้อื่นเพิ่มเติม
-อย่าลืมบอกกันด้วยนะ!
-
-RESOURCE ID: go_tour_kalos_irl_sr_xerneas_dialog_03_00
-TEXT: ในโลกเรานั้นเต็มไปด้วยชีวิตมากมาย
-ไม่ว่าจะมองทอดไปบนท้องฟ้า ใต้ผืนดิน
-และเส้นสุดขอบฟ้า ก็เห็นได้ว่าทุก ๆ ที่
-มีโปเกมอนและมนุษย์อยู่มากมาย
-
-RESOURCE ID: go_tour_kalos_irl_sr_xerneas_dialog_03_01
-TEXT: รู้สึกพิเศษที่ได้แบ่งปันเวลาและพื้นที่ร่วมกัน ว่ามั้ย
-
-RESOURCE ID: go_tour_kalos_irl_sr_xerneas_dialog_03_02
-TEXT: ที่เซอเนียสแบ่งปันชีวิต ก็อาจจะเป็น
-ความรู้สึกแบบนั้นก็เป็นได้
-
-RESOURCE ID: go_tour_kalos_irl_sr_xerneas_dialog_03_03
-TEXT: จำเรื่องนี้เอาไว้ให้ดี แล้วออกสำรวจต่อไป
-โดยเชื่อมั่นในพลังของวิวัฒนาการเมก้า!
-
-RESOURCE ID: go_tour_kalos_irl_sr_yveltal_dialog_02_00
-TEXT: อีเวลทอลงั้นเหรอ ถ้ามีโปเกมอนที่วิวัฒนาการเมก้าได้อยู่ด้วยก็จะค่อนข้างน่าอุ่นใจเลยนะ!
-
-RESOURCE ID: go_tour_kalos_irl_sr_yveltal_dialog_02_01
-TEXT: สำรวจรอบ ๆ โดยพยายามมองหา
-แสงสีแดงนะ ว่ากันว่าเมื่อปีกและขนหาง
-สยายออกกว้างแล้วเปล่งเป็นประกายสีแดง
-จะสูบพลังชีวิตจากสิ่งมีชีวิตต่าง ๆ
-
-RESOURCE ID: go_tour_kalos_irl_sr_yveltal_dialog_02_02
-TEXT: อ้าว! แบบนี้ถ้าค้นพบแล้วเข้าใกล้เกินไป
-ก็คงอันตรายน่าดู...
-
-RESOURCE ID: go_tour_kalos_irl_sr_yveltal_dialog_02_03
-TEXT: แล้วก็ บ้างก็ว่ามันจะกลายเป็นดักแด้หลังได้
-สูบพลังชีวิต ลองหาพวกดักแด้ดูก็เป็นอีกวิธีนะ
-
-RESOURCE ID: go_tour_kalos_irl_sr_yveltal_dialog_02_04
-TEXT: เท่าที่รู้ก็ประมาณนี้ละ %PLAYERNAME%
-หากพบอะไรที่น่าจะเป็นคำใบ้อื่นเพิ่มเติม
-อย่าลืมบอกกันด้วยนะ!
-
-RESOURCE ID: go_tour_kalos_irl_sr_yveltal_dialog_03_00
-TEXT: หากบินไปบนท้องฟ้ากว้างใหญ่
-ได้อย่างอิสระแล้วละก็...
-หากสามารถโฉบผ่านก้อนเมฆและสายลม
-ได้อย่างอิสระแล้วละก็...
-
-RESOURCE ID: go_tour_kalos_irl_sr_yveltal_dialog_03_01
-TEXT: เพียงแค่ลองจินตนาการดู ก็รู้สึกได้รับพลัง
-ทำให้รู้สึกมั่นใจมากขึ้นทันทีเลยนะ
-
-RESOURCE ID: go_tour_kalos_irl_sr_yveltal_dialog_03_02
-TEXT: หากไม่ทำความเข้าใจมุมมองของมันให้ดี
-ก็จะไม่สามารถหาโปเกมอนในตำนาน
-อย่างอีเวลทอลเจอแน่นอน
-
-RESOURCE ID: go_tour_kalos_irl_sr_yveltal_dialog_03_03
-TEXT: จำเรื่องนี้เอาไว้ให้ดี แล้วออกสำรวจต่อไป
-โดยเชื่อมั่นในพลังของวิวัฒนาการเมก้า!
-
 RESOURCE ID: go_tour_kalos_portals_intro_tr_dialog_00_00
 TEXT: รูปลักษณ์ของโปเกมอนทรงพลังพวกนี้ทำให้ฉันทึ่งมาก หรือว่าพวกมันจะถูกฮูปาใช้แหวนเรียกมา... มีเพียงหนทางเดียวที่จะไขปริศนานี้ได้!
-
-RESOURCE ID: gofest_welcome_generic
-TEXT: ยินดีต้อนรับสู่ Pokémon GO Fest: ทั่วโลก!
-
-RESOURCE ID: gotour2026_boqus_header_daily
-TEXT: เส้นทางสู่คาลอส: ภารกิจรายวัน
-
-RESOURCE ID: gotour2026_boqus_header_daily_prem
-TEXT: เส้นทางสู่คาลอส: ภารกิจรายวัน Deluxe
-
-RESOURCE ID: gotour2026_boqus_header_hourly
-TEXT: เส้นทางสู่คาลอส: ภารกิจรายชั่วโมง
-
-RESOURCE ID: gotour2026_irl_boqus_header_hourly
-TEXT: เส้นทางสู่คาลอส: ภารกิจรายชั่วโมง
 
 RESOURCE ID: gotour2026_welcome
 TEXT: Pokémon GO Tour: คาลอส
@@ -1551,17 +1222,11 @@ TEXT: งานวิจัยแบบจำกัดเวลาวันแ�
 RESOURCE ID: gotour_2026_event_duration
 TEXT: 23 กุมภาพันธ์ - 1 มีนาคม
 
-RESOURCE ID: gotour_2026_event_pass_deluxe_title
-TEXT: บัตรผ่าน GO Deluxe: เส้นทางสู่คาลอส
-
 RESOURCE ID: gotour_2026_event_pass_details_link
 TEXT: ตรวจสอบรายละเอียดได้ที่<a href="https://pokemongo.com/post/road-to-kalos-event/">เว็บไซต์</a>นี้
 
 RESOURCE ID: gotour_2026_event_pass_title
 TEXT: บัตรผ่าน GO: เส้นทางสู่คาลอส
-
-RESOURCE ID: gotour_2026_pass_track_upgrade_header_description
-TEXT: รับรางวัลเพิ่มเติมและปลดล็อก<b>การเผชิญหน้ากับฮูปาร่างปลดปล่อย</b>ทันที!
 
 RESOURCE ID: gotour_2026_upgrade_description
 TEXT: ซื้อบัตรผ่าน GO Deluxe: เส้นทางสู่คาลอสเพื่อปลดล็อกรางวัลต่อไปนี้!
@@ -1574,53 +1239,17 @@ TEXT: ซื้อบัตรผ่าน GO Deluxe: เส้นทางส�
 
 นอกเหนือจากแต้มที่ได้รับจากการทำภารกิจบัตรผ่านแล้ว เทรนเนอร์ยังสามารถรับแต้มโบนัส 150 แต้มต่อวันได้ระหว่างวันที่ 23-27 กุมภาพันธ์ โปรดทราบว่าจะไม่มีการจำกัดจำนวนแต้มที่สามารถรับได้ในระหว่างอีเวนต์ทั่วโลกในวันที่ 28 กุมภาพันธ์ และ 1 มีนาคม!
 
-RESOURCE ID: gotour_2026_welcome_global
-TEXT: ยินดีต้อนรับสู่ Pokémon GO Tour: คาลอส - ทั่วโลก!
-
-RESOURCE ID: gotour_welcome_generic
-TEXT: ยินดีต้อนรับสู่ Pokémon GO Tour: ทั่วโลก!
-
-RESOURCE ID: gowild_welcome_generic
-TEXT: ยินดีต้อนรับสู่ Pokémon GO ไวลด์แอเรีย: ทั่วโลก!
-
-RESOURCE ID: great_league_championship_series_2026
-TEXT: การแข่งขัน GO Championship 2026
-
 RESOURCE ID: habitat_kalos_central
 TEXT: เซ็นทรัลวิลเลจ
-
-RESOURCE ID: habitat_kalos_central_active
-TEXT: ถิ่นปัจจุบัน: เซ็นทรัลวิลเลจ
 
 RESOURCE ID: habitat_kalos_coastal
 TEXT: ห้องวิจัยโคสต์
 
-RESOURCE ID: habitat_kalos_coastal_active
-TEXT: ถิ่นปัจจุบัน: ห้องวิจัยโคสต์
-
 RESOURCE ID: habitat_kalos_mountain
 TEXT: แอเรียภูเขา
 
-RESOURCE ID: habitat_kalos_mountain_active
-TEXT: ถิ่นปัจจุบัน: แอเรียภูเขา
-
-RESOURCE ID: home_transfer_error_day_night
-TEXT: คุณไม่สามารถถ่ายโอนโปเกมอนที่มีภาพเหมือนได้
-
 RESOURCE ID: in_person_tickets
 TEXT: ตั๋ว (เข้าร่วมในพื้นที่)
-
-RESOURCE ID: incentive_gengar_encounter_key
-TEXT: เผชิญหน้ากับเก็งกา
-
-RESOURCE ID: incentive_pokeball_30_and_pokecoin_100_key
-TEXT: 100 โปเกคอยน์และมอนสเตอร์บอล 30 ลูก
-
-RESOURCE ID: incentives_header_key
-TEXT: โบนัสแบบจำกัดเวลา
-
-RESOURCE ID: increased_gift_rare_candy
-TEXT: เพิ่มโอกาสได้รับลูกอมประหลาดจากการเปิดของขวัญ
 
 RESOURCE ID: increased_mega_level_caught_desc
 TEXT: เมื่อจับโปเกมอนจากงานวิจัย มันอาจเป็นโปเกมอนที่มีระดับเมก้า 1 ขึ้นไป
@@ -1628,14 +1257,8 @@ TEXT: เมื่อจับโปเกมอนจากงานวิจ�
 RESOURCE ID: increased_mega_level_caught_desc_temp
 TEXT: เมื่อจับโปเกมอนจากตีบอสซูเปอร์เมก้าหรืองานวิจัย มันอาจเป็นโปเกมอนที่มีระดับเมก้า 1 ขึ้นไป
 
-RESOURCE ID: increased_mega_level_caught_title
-TEXT: โปเกมอนที่ระดับเมก้าสูง
-
 RESOURCE ID: increased_points_from_pass_task
 TEXT: เพิ่มแต้ม GO ที่ได้รับจากภารกิจบัตรผ่าน
-
-RESOURCE ID: increased_stardust_gifts_bonus
-TEXT: เพิ่มสตาร์ดัสต์จากการเปิดของขวัญ
 
 RESOURCE ID: item_30anniv_2026_milestone_name
 TEXT: เผชิญหน้ากับไฟเยอร์
@@ -1648,21 +1271,13 @@ TEXT: สามารถใช้ลิงก์ชาร์จแทนบั�
 
 สามารถสะสมลิงก์ชาร์จได้จากกิจกรรมต่าง ๆ เช่น คำท้ารายสัปดาห์, การเช็กอิน Campfire และการเปิดของขวัญ เป็นต้น
 
-RESOURCE ID: item_enhanced_currency_holder_desc
-TEXT: อุปกรณ์เก็บลิงก์ชาร์จ สามารถเก็บได้สูงสุด {0} ในคราวเดียว
-
 RESOURCE ID: item_enhanced_currency_holder_desc_count
-TEXT: อุปกรณ์เก็บลิงก์ชาร์จที่ใช้เพื่อเข้าร่วมตีบอสเมก้า
-สามารถสะสมลิงก์ชาร์จได้จากกิจกรรมต่าง ๆ เช่น คำท้ารายสัปดาห์, การเช็กอิน Campfire และการเปิดของขวัญจากเพื่อน เป็นต้น
-
-RESOURCE ID: item_enhanced_currency_holder_name
-TEXT: อุปกรณ์เก็บลิงก์
-
-RESOURCE ID: item_enhanced_currency_name
-TEXT: ลิงก์ชาร์จ
-
-RESOURCE ID: item_enhanced_currency_name_plural
-TEXT: ลิงก์ชาร์จ
+TEXT: อุปกรณ์เก็บลิงก์ชาร์จที่ใช้เพื่อเข้าร่วม
+ตีบอสเมก้า
+สามารถสะสมลิงก์ชาร์จได้จากกิจกรรม
+ต่าง ๆ เช่น คำท้ารายสัปดาห์, การเช็กอิน
+Campfire และการเปิดของขวัญจาก
+เพื่อน เป็นต้น
 
 RESOURCE ID: item_event_pass_point_live_ops_05_name
 TEXT: Pass Points
@@ -1688,44 +1303,14 @@ TEXT: Pass Points
 RESOURCE ID: item_event_pass_point_monthly_04_name
 TEXT: Pass Points
 
-RESOURCE ID: item_event_ticket_02_desc_catch_mastery_oricorio
-TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยแบบจำกัดเวลาพรีเมียมผู้เชี่ยวชาญการจับ: โอโดริโดริ
-ในวันที่ 7 กุมภาพันธ์ 2026 เวลา 10:00-20:00 น. ตามเวลาท้องถิ่น
-
-RESOURCE ID: item_event_ticket_02_details_catch_mastery_oricorio
-TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยแบบจำกัดเวลาพรีเมียมผู้เชี่ยวชาญการจับ: โอโดริโดริ
-ในวันที่ 7 กุมภาพันธ์
-คุณจะสามารถเข้าร่วมได้โดยอัตโนมัติ
-ตามเวลาท้องถิ่นทั่วโลก
-
-RESOURCE ID: item_event_ticket_evergreen_desc_lunarny0226
-TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยแบบจำกัดเวลาพรีเมียม: อีเวนต์ตรุษจีน 2026
-ตั้งแต่วันที่ 17 กุมภาพันธ์ เวลา 10:00 น. ถึงวันที่ 21 กุมภาพันธ์ 2026 เวลา 20:00 น. ตามเวลาท้องถิ่นไม่ว่าคุณจะอยู่ที่ใด
-
-RESOURCE ID: item_event_ticket_evergreen_details_lunarny0226
-TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยแบบจำกัดเวลาพรีเมียม:อีเวนต์ตรุษจีน 2026
-ในวันที่ 17 กุมภาพันธ์
-คุณจะสามารถเข้าร่วมได้โดยอัตโนมัติ
-ตามเวลาท้องถิ่นทั่วโลก
-
-RESOURCE ID: item_event_ticket_gray_desc_enamorustherianraidday
-TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยแบบจำกัดเวลาพรีเมียม: วันตีบอสเลิฟโทลอส (ฟอร์มสัตว์ศักดิ์สิทธิ์)
-และรับโบนัสพิเศษในวันที่ 14 กุมภาพันธ์ 2026 เวลา 14:00-17:00 น. ตามเวลาท้องถิ่น
-
-RESOURCE ID: item_event_ticket_gray_desc_gmaxmeowth26
+RESOURCE ID: item_event_ticket_05_desc_gmax_pikachu_max_battle
 TEXT: ตั๋วสำหรับรับโบนัสพิเศษในวันที่
-15 กุมภาพันธ์ 2026 เวลา 14:00-17:00 น.
+28 มีนาคม 2026 เวลา 14:00-17:00 น.
 ตามเวลาท้องถิ่นทั่วโลก
 
-RESOURCE ID: item_event_ticket_gray_details_enamorustherianraidday
-TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยแบบจำกัดเวลาพรีเมียม: วันตีบอสเลิฟโทลอส (ฟอร์มสัตว์ศักดิ์สิทธิ์)
-ในวันที่ 14 กุมภาพันธ์
-คุณจะสามารถเข้าร่วมและรับโบนัสได้โดยอัตโนมัติ
-ตามเวลาท้องถิ่นทั่วโลก
-
-RESOURCE ID: item_event_ticket_gray_details_gmaxmeowth26
+RESOURCE ID: item_event_ticket_05_details_gmax_pikachu_max_battle
 TEXT: ตั๋วสำหรับรับโบนัสพิเศษ
-ในวันที่ 15 กุมภาพันธ์
+ในวันที่ 28 มีนาคม
 คุณจะสามารถเข้าร่วมได้โดยอัตโนมัติ
 ตามเวลาท้องถิ่นทั่วโลก
 
@@ -1751,226 +1336,36 @@ TEXT: ตั๋วสำหรับเข้าร่วมงานวิจ�
 คุณจะสามารถเข้าร่วมได้โดยอัตโนมัติ
 ตามเวลาท้องถิ่นทั่วโลก
 
-RESOURCE ID: item_paid_raid_ticket_name_plural
-TEXT: บัตรแบตเทิลพรีเมียม
-
-RESOURCE ID: item_remote_raid_ticket_name_plural
-TEXT: บัตรตีบอสระยะไกล
-
-RESOURCE ID: lobby_group_size_warning
-TEXT: จำนวนผู้เข้าร่วมที่แนะนำ: {0} คน
-
-RESOURCE ID: lobby_mega_count_plural
-TEXT: จำนวนโปเกมอนที่วิวัฒนาการเมก้า: {0}
-
-RESOURCE ID: lobby_mega_count_singular
-TEXT: จำนวนโปเกมอนที่วิวัฒนาการเมก้า: {0}
-
-RESOURCE ID: lobby_mega_count_zero
-TEXT: จำนวนโปเกมอนที่วิวัฒนาการเมก้า: {0}
+RESOURCE ID: local_trade_action
+TEXT: แลกเปลี่ยน
+ในพื้นที่
 
 RESOURCE ID: lotad_paid_tr_name
 TEXT: งานวิจัยแบบจำกัดเวลาพรีเมียม: ฮาซึโบ
 
-RESOURCE ID: lunar_new_year_feb2026
-TEXT: อีเวนต์ตรุษจีน 2026
-
-RESOURCE ID: lunar_new_year_feb26_collection
-TEXT: คำท้านักสะสมอีเวนต์ตรุษจีน 2026
-
 RESOURCE ID: make_good_akari_pikachu_desc
 TEXT: GO Tour เผชิญหน้า: พิคาชู
-
-RESOURCE ID: masterwork_shiny_diancie_title
-TEXT: งานวิจัยระยะยาว: รัศมีอันยิ่งใหญ่
-
-RESOURCE ID: masterwork_shiny_diancie_title_00
-TEXT: งานวิจัยระยะยาว: รัศมีอันยิ่งใหญ่ (1/10)
-
-RESOURCE ID: masterwork_shiny_diancie_title_01
-TEXT: งานวิจัยระยะยาว: รัศมีอันยิ่งใหญ่ (2/10)
-
-RESOURCE ID: masterwork_shiny_diancie_title_02
-TEXT: งานวิจัยระยะยาว: รัศมีอันยิ่งใหญ่ (3/10)
-
-RESOURCE ID: masterwork_shiny_diancie_title_03
-TEXT: งานวิจัยระยะยาว: รัศมีอันยิ่งใหญ่ (4/10)
-
-RESOURCE ID: masterwork_shiny_diancie_title_04
-TEXT: งานวิจัยระยะยาว: รัศมีอันยิ่งใหญ่ (5/10)
-
-RESOURCE ID: masterwork_shiny_diancie_title_05
-TEXT: งานวิจัยระยะยาว: รัศมีอันยิ่งใหญ่ (6/10)
-
-RESOURCE ID: masterwork_shiny_diancie_title_06
-TEXT: งานวิจัยระยะยาว: รัศมีอันยิ่งใหญ่ (7/10)
-
-RESOURCE ID: masterwork_shiny_diancie_title_07
-TEXT: งานวิจัยระยะยาว: รัศมีอันยิ่งใหญ่ (8/10)
-
-RESOURCE ID: masterwork_shiny_diancie_title_08
-TEXT: งานวิจัยระยะยาว: รัศมีอันยิ่งใหญ่ (9/10)
-
-RESOURCE ID: masterwork_shiny_diancie_title_09
-TEXT: งานวิจัยระยะยาว: รัศมีอันยิ่งใหญ่ (10/10)
-
-RESOURCE ID: max_battle_day_gmax_meowth_event_name
-TEXT: วันแบตเทิลแมกซ์เนียสกิกะแมกซ์
-
-RESOURCE ID: max_battle_day_gmax_meowth_ticketed
-TEXT: โบนัสตั๋ว "วันแบตเทิลแมกซ์เนียสกิกะแมกซ์"
 
 RESOURCE ID: max_monday
 TEXT: วันจันทร์สุดแมกซ์
 
 RESOURCE ID: meetup_check_in_research_title_friendship_fridays
-TEXT: Meetup Check-In Timed Research: Friendship Friday
+TEXT: งานวิจัยแบบจำกัดเวลาเช็กอินงานพบปะ: วันศุกร์มิตรภาพ
 
 RESOURCE ID: meetup_check_in_research_title_super_mega_raids
 TEXT: Meetup Check-In Timed Research: Super Mega Raids
 
-RESOURCE ID: mega2026_ditto_cant_break_shields
-TEXT: เมตามอนไม่สามารถทำลายโล่ป้องกันได้แม้จะแปลงร่าง
-
-RESOURCE ID: mega2026_ftue_conversation_1_1
-TEXT: ไง %PLAYERNAME%! มาเรียนรู้เกี่ยวกับวิวัฒนาการเมก้าไหม?
-
-RESOURCE ID: mega2026_ftue_conversation_1_2
-TEXT: มีโปเกมอนที่น่าจะเป็นตัวอย่างที่ดีอยู่แถวนี้พอดีเลย
-
-RESOURCE ID: mega2026_ftue_conversation_1_3
-TEXT: นั่น สเปียร์! ไปจับกันเลย!
-
-RESOURCE ID: mega2026_ftue_conversation_2_1
-TEXT: ต่อไปก็ใช้ใช้พลังงานเมก้านี้วิวัฒนาการเมก้ากันเลย พลังงานเมก้าสามารถหาได้จากตีบอสเมก้านะ
-
-RESOURCE ID: mega2026_ftue_conversation_3_1
-TEXT: วิวัฒนาการเมก้าให้กับสเปียร์ได้แล้วสินะ!
-
-RESOURCE ID: mega2026_ftue_conversation_3_2
-TEXT: โปเกมอนที่วิวัฒนาการเมก้าจะหาลูกอมมาให้มากขึ้นเมื่อจับโปเกมอนที่เป็นประเภทเดียวกับมัน
-
-RESOURCE ID: mega2026_ftue_conversation_3_3
-TEXT: นั่นบีเดิลนี่ จับมันเลย!
-
-RESOURCE ID: mega2026_ftue_conversation_4_1
-TEXT: ดูจำนวนลูกอมสิ ต้องเยอะกว่าปกติแน่ ๆ
-
-RESOURCE ID: mega2026_ftue_conversation_4_2
-TEXT: การวิวัฒนาการเมก้าให้กับโปเกมอนยังมีข้อดีอีกหลายอย่าง แต่จริง ๆ แค่ศึกษารูปลักษณ์ของมันที่เปลี่ยนไปจากเดิมอย่างเดียวก็สนุกแล้ว
-
-RESOURCE ID: mega2026_ftue_conversation_nope
-TEXT: สามารถอ่านใหม่อีกครั้งได้เมื่อเข้าร่วมตีบอสเมก้า
-
 RESOURCE ID: mega2026_ftue_desc_1_title
 TEXT: เรียนรู้วิธีวิวัฒนาการเมก้าให้กับโปเกมอน!
 
-RESOURCE ID: mega2026_ftue_desc_1_title_temp
-TEXT: จับโปเกมอนและเรียนรู้วิธีวิวัฒนาการเมก้ากัน!
-
-RESOURCE ID: mega2026_ftue_lets_do_it_button
-TEXT: ลองกันเลย!
-
 RESOURCE ID: mega2026_ftue_modal_1_title
 TEXT: เรียนรู้เกี่ยวกับวิวัฒนาการเมก้าเพิ่มเติมกัน!
-
-RESOURCE ID: mega2026_ftue_modal_1_title_temp
-TEXT: ลองวิวัฒนาการเมก้าดู!
-
-RESOURCE ID: mega_bonus_candy_plural
-TEXT: {0}
-โบนัสลูกอม
-
-RESOURCE ID: mega_bonus_candy_singular
-TEXT: {0}
-โบนัสลูกอม
-
-RESOURCE ID: mega_bonus_xl_candy_plural
-TEXT: {0}
-โบนัสลูกอม XL
-
-RESOURCE ID: mega_bonus_xl_candy_singular
-TEXT: {0}
-โบนัสลูกอม XL
-
-RESOURCE ID: mega_bonus_xp_plural
-TEXT: {0}
-โบนัส XP
-
-RESOURCE ID: mega_bonus_xp_singular
-TEXT: {0}
-โบนัส XP
 
 RESOURCE ID: mega_daily_point_bonus_30
 TEXT: รับแต้มสำหรับเพิ่มระดับเมก้าของโปเกมอนสูงสุด 30 แต้มต่อวัน
 
 RESOURCE ID: mega_daily_point_bonus_6
 TEXT: รับแต้มสำหรับเพิ่มระดับเมก้าของโปเกมอนสูงสุด 6 แต้มต่อวัน
-
-RESOURCE ID: mega_hud_border_text_1
-TEXT: ประเภทที่ได้ลูกอมเพิ่ม
-
-RESOURCE ID: mega_hud_border_text_2
-TEXT: จำนวนที่ได้รับ
-
-RESOURCE ID: mega_level_4
-TEXT: ระดับซูเปอร์แมกซ์
-
-RESOURCE ID: mega_level_4_ftue_body_details_prompt
-TEXT: โปเกมอนตัวนี้สามารถไปถึงระดับซูเปอร์แมกซ์ได้แล้ว เรียนรู้เพิ่มเติมเกี่ยวกับระดับเมก้าหรือไม่?
-
-RESOURCE ID: mega_level_4_ftue_body_evolve_prompt
-TEXT: โปเกมอนตัวนี้สามารถไปถึงระดับซูเปอร์แมกซ์ได้แล้ว
-
-RESOURCE ID: mega_level_4_ftue_title
-TEXT: ระดับเมก้าใหม่มาแล้ว
-
-RESOURCE ID: mega_level_banner_level_up
-TEXT: ระดับเมก้าเพิ่มขึ้นแล้ว!
-
-RESOURCE ID: mega_level_bottom_section
-TEXT: เพิ่มลูกอมและ CP เมื่อวิวัฒนาการเมก้า
-
-RESOURCE ID: mega_level_energy_hint
-TEXT: ชนะตีบอสซูเปอร์เมก้าเพื่อรับพลังงานเมก้าจำนวนมาก!
-
-RESOURCE ID: mega_level_energy_requirement_message
-TEXT: วิวัฒนาการเมก้า{0}อีก {1} ครั้งเพื่อให้ถึงระดับแมกซ์ แล้วจะสามารถปลดล็อก{2}ได้ (ต้องใช้พลังงานเมก้า)
-
-RESOURCE ID: mega_level_energy_requirement_message_singular
-TEXT: วิวัฒนาการเมก้า{0}อีก {1} ครั้งเพื่อให้ถึงระดับแมกซ์ แล้วจะสามารถปลดล็อก{2}ได้ (ต้องใช้พลังงานเมก้า)
-
-RESOURCE ID: mega_level_tutorial_2026_page1_body
-TEXT: วิวัฒนาการเมก้าคือการปลดปล่อยพลังแฝงที่โปเกมอนส่วนหนึ่งมี เพื่อให้มันพาวเวอร์อัปข้ามขีดจำกัดของการวิวัฒนาการที่ผ่านมาได้ โปเกมอนที่วิวัฒนาการเมก้าจะแข็งแกร่งยิ่งกว่าเดิมในแบตเทิลตีบอสและมอบโบนัสเพิ่มลูกอมเวลาจับโปเกมอน
-
-จำเป็นต้องมีพลังงานเมก้าเพียงพอในการวิวัฒนาการเมก้า
-
-RESOURCE ID: mega_level_tutorial_2026_page1_title
-TEXT: วิวัฒนาการเมก้า
-
-RESOURCE ID: mega_level_tutorial_2026_page2_body
-TEXT: พลังงานเมก้านั้นเป็นแหล่งพลังงาน
-เฉพาะของโปเกมอนแต่ละตัวที่จำเป็น
-สำหรับการวิวัฒนาการเมก้า
-โดยสามารถรับได้โดยวิธีต่อไปนี้
-• ชนะตีบอสเมก้า
-• ทำงานวิจัยที่กำหนดเสร็จสิ้น
-• ผจญภัยไปกับโปเกมอนคู่หูที่เคย
-วิวัฒนาการเมก้า
-
-RESOURCE ID: mega_level_tutorial_2026_page2_title
-TEXT: พลังงานเมก้า
-
-RESOURCE ID: mega_level_tutorial_2026_page3_body
-TEXT: หลังจากที่วิวัฒนาการเมก้าให้กับโปเกมอน
-เป็นครั้งแรก เมื่อช่วงพักสิ้นสุด
-คุณจะสามารถวิวัฒนาการเมก้าให้กับมัน
-ได้อีกครั้งโดยไม่ต้องใช้พลังงานเมก้า
-แม้จะเป็นในช่วงพัก ก็สามารถใช้
-พลังงานเมก้าเพื่อวิวัฒนาการเมก้าได้
-
-RESOURCE ID: mega_level_tutorial_2026_page3_title
-TEXT: ช่วงพัก
 
 RESOURCE ID: mega_level_tutorial_2026_page4_body
 TEXT: เมื่อระดับเมก้าของโปเกมอนสูงขึ้น
@@ -1997,41 +1392,14 @@ TEXT: เมื่อจับโปเกมอนที่มีประเ�
 RESOURCE ID: mega_level_tutorial_2026_page5_title
 TEXT: โบนัสการจับ
 
-RESOURCE ID: mega_level_unlock_cost_message
-TEXT: ใช้พลังงานเมก้าเพื่อปลดล็อก{0}
-
 RESOURCE ID: mega_level_up_unlock_confirmation_title
 TEXT: คุณต้องการเพิ่มระดับเป็น ระดับซูเปอร์แมกซ์ หรือไม่
 
 RESOURCE ID: mega_level_up_unlock_confirmation_title_level
 TEXT: คุณต้องการเพิ่มระดับเป็น {0} หรือไม่
 
-RESOURCE ID: mega_level_up_unlock_cost_error_toast
-TEXT: พลังงานเมก้าไม่พอ {0}
-
-RESOURCE ID: mega_level_up_unlock_description
-TEXT: ใช้พลังงานเมก้าเพื่อเพิ่มระดับเมก้า
-
-RESOURCE ID: mega_level_up_unlock_dialog_confirmation
-TEXT: ระดับเพิ่มขึ้น
-
-RESOURCE ID: mega_level_up_unlock_title
-TEXT: ระดับเมก้าเพิ่มขึ้น
-
-RESOURCE ID: mega_perk_candy_bonus_excellentplus
-TEXT: เพิ่มโบนัสลูกอมจากการจับอย่างมาก
-
-RESOURCE ID: mega_perk_catch_xp_bonus_excellentplus
-TEXT: เพิ่มโบนัส XP จากการจับอย่างมาก
-
-RESOURCE ID: mega_perk_cp_boost
-TEXT: เพิ่ม CP
-
-RESOURCE ID: mega_perk_cp_boost_excellentplus
-TEXT: เพิ่ม CP อย่างมาก
-
 RESOURCE ID: mega_perk_xl_bonus_excellent
-TEXT: เพิ่มโอกาสรับลูกอม XL อย่างมากตามระดับเมก้า
+TEXT: เพิ่มโอกาสรับลูกอม XL ตามระดับเมก้า
 
 RESOURCE ID: mega_perk_xl_bonus_excellent_temp
 TEXT: เพิ่มโอกาสรับลูกอม XL อย่างมาก
@@ -2042,26 +1410,11 @@ TEXT: เพิ่มโอกาสรับลูกอม XL ตามระ�
 RESOURCE ID: mega_perk_xl_bonus_great_temp
 TEXT: เพิ่มโอกาสรับลูกอม XL
 
-RESOURCE ID: mega_remote_iap_nc_rrp_title
-TEXT: คุณไม่มีบัตรตีบอสระยะไกลและมีลิงก์ชาร์จไม่เพียงพอ!
-
-RESOURCE ID: mega_trainers_suggested_count
-TEXT: เทรนเนอร์พร้อมโปเกมอนที่วิวัฒนาการเมก้า: {0}+
-
-RESOURCE ID: meowth_gmax_tr_2026_title
-TEXT: งานวิจัยแบบจำกัดเวลาพรีเมียม: เนียสกิกะแมกซ์
-
-RESOURCE ID: message_camera_permission_required
-TEXT: หากต้องการถ่ายรูป ต้องอนุญาตให้ Pokémon GO เข้าถึงกล้องจากหน้าจอการตั้งค่าของอุปกรณ์เสียก่อน
-
-RESOURCE ID: message_gallery_permission_required
-TEXT: หากต้องการดาวน์โหลดรูปภาพ ต้องอนุญาตให้ Pokémon GO เข้าถึงรูปภาพจากหน้าจอการตั้งค่าของอุปกรณ์เสียก่อน
-
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-03-05T01:20:39.458076+00:00 for th-TH
-at SHA 22c1e85faf0
-Pipeline 3571376, job 52446418
-Patch from: 0.399.1-SHA-853bae10-RC2, 0.401.0-SHA-1d3c71a6-RC1, 0.403.0-SHA-47e90574-RC1
+TEXT: Built at 2026-03-10T21:14:02.365804+00:00 for th-TH
+at SHA 2a568096ffb
+Pipeline 3580448, job 52585124
+Patch from: 0.401.0-SHA-0fb0c533-RC3, 0.403.0-SHA-91e2ddfe-RC3
 
 RESOURCE ID: more_power_spots_active
 TEXT: พาวเวอร์สป็อตจะเพิ่มขึ้น
@@ -2069,181 +1422,100 @@ TEXT: พาวเวอร์สป็อตจะเพิ่มขึ้น
 RESOURCE ID: move_name_0493
 TEXT: บอลเพลิง
 
-RESOURCE ID: natural_art_day
-TEXT: กลางวัน
-
-RESOURCE ID: natural_art_night
-TEXT: กลางคืน
-
 RESOURCE ID: no_claimable_rewards
-TEXT: No claimable rewards.
+TEXT: รางวัลที่ไม่สามารถรับได้
 
-RESOURCE ID: oricorio_mastery_feb2026
-TEXT: ผู้เชี่ยวชาญการจับ: โอโดริโดริ
+RESOURCE ID: paid_pikachu_gmax_tr_mar26
+TEXT: งานวิจัยแบบจำกัดเวลาพรีเมียม: พิคาชูกิกะแมกซ์
 
-RESOURCE ID: paid_tr_lunar_new_year_feb2026
-TEXT: งานวิจัยแบบจำกัดเวลาพรีเมียม: อีเวนต์ตรุษจีน 2026
-
-RESOURCE ID: paid_tr_lunar_new_year_feb2026_header_0
-TEXT: งานวิจัยแบบจำกัดเวลาพรีเมียม: อีเวนต์ตรุษจีน 2026 (1/1)
-
-RESOURCE ID: past_field_books_button
-TEXT: ดูเพิ่มเติม
+RESOURCE ID: paid_pikachu_gmax_tr_mar26_header_0
+TEXT: งานวิจัยแบบจำกัดเวลาพรีเมียม: พิคาชูกิกะแมกซ์ (1/1)
 
 RESOURCE ID: photobomb_five_scorbunny
 TEXT: ฮิบานีแย่งซีนถ่ายรูปในโกสแนปช็อต 5 ครั้ง
 
-RESOURCE ID: photobomb_latias_latios
-TEXT: เผชิญหน้ากับลาทิอาสหรือลาทิโอสในโกสแนปช็อต
-
-RESOURCE ID: pokelid_details_description
-TEXT: "Poké Lids" ที่อยู่ตามพื้นที่ต่าง ๆ ในญี่ปุ่น จะปรากฏเป็นเสาโปเกสต็อปใน Pokémon GO
-เมื่อคุณแวะสถานที่แห่งนั้นและแตะที่เสาโปเกสต็อป "Poké Lids" จะได้รับแสตมป์ Poké Lids ที่มีดีไซน์เป็นเอกลักษณ์เฉพาะของพื้นที่นั้น ๆ
-นอกจากนี้ ยังสามารถร่วมมือกับเพื่อนในการสะสมแสตมป์แรลลี GO นี้ได้อีกด้วย
-เมื่อส่งของขวัญที่ได้รับจากเสาโปเกสต็อป Poké Lids ให้เพื่อน เพื่อนคนดังกล่าวจะได้รับแสตมป์เดียวกัน ทำให้สามารถสนุกไปกับการเล่นแสตมป์แรลลีด้วยกันได้!
-
-แสตมป์ที่เพื่อนส่งมาให้จะแสดงในสมุดภาพ แต่จะไม่ถูกนับในแทร็กรางวัล สามารถรับรางวัลได้ตอนที่แวะสถานที่แห่งนั้นจริงและรวมรวบแสตมป์เท่านั้น
-
-RESOURCE ID: pokelid_map_url_ibaraki
-TEXT: https://www.google.com/maps/d/viewer?mid=19eE0n8bRolfsO4ftHpDa4ho_lGOGFME
-
-RESOURCE ID: pokelid_map_url_yamagata
-TEXT: https://www.google.com/maps/d/viewer?mid=1IL9LvVsDHPNVwEDb8V7AwlbGD5ZMALQ
-
 RESOURCE ID: pokemon_day_event_name
 TEXT: Pokémon Day
 
-RESOURCE ID: pokemon_day_night_info_transfer_to_professor_confirmation
-TEXT: คุณแน่ใจใช่ไหมว่าต้องการถ่ายโอน
-โปเกมอนที่มีภาพเหมือน?
+RESOURCE ID: pokemon_desc_0670_0002
+TEXT: This rare Floette holds a plant that died out in ancient times. The Pokémon is said to harbor an incredible power.
 
 RESOURCE ID: pokemon_desc_0778_busted
 TEXT: เศร้าที่ตัวตนที่แท้จริงของมันอาจถูกเปิดเผย
 มันจะไม่มีวันให้อภัยฝ่ายตรงข้ามที่หักส่วนคอ
 ของมันอย่างเด็ดขาดและเฝ้ารอล้างแค้น
 
-RESOURCE ID: pokemon_desc_tmpevo_0036_0001
-TEXT: ใช้พลังจากแสงจันทร์ควบคุมแรงโน้มถ่วง
-ในขอบเขต 20 เมตรรอบตัวได้ดังใจ
-และบินไปรอบ ๆ
+RESOURCE ID: pokemon_desc_0999_0002
+TEXT: It lurks inside a sturdy treasure chest and possesses solid defenses, but it's so heavy that it has difficulty moving around.
 
-RESOURCE ID: pokemon_desc_tmpevo_0071_0001
-TEXT: วิวัฒนาการเมก้าทำให้ของเหลวทำละลาย
-เพิ่มปริมาณมากขึ้นจนเต็มปาก หากพลั้งเผลอ
-จะไหลล้นออกมาจากปาก
+RESOURCE ID: pokemon_desc_tmpevo_0026_0001
+TEXT: It resembles an X as it flies through the air with 50 million volts of electricity sparking from its ears and forked tail.
 
-RESOURCE ID: pokemon_desc_tmpevo_0121_0001
-TEXT: การเคลื่อนไหวเหมือนมนุษย์มากขึ้น ยังเป็น
-ปริศนาว่า มันต้องการที่จะสื่อสารพูดคุยด้วย
-หรือต้องการสวมรอยเป็นมนุษย์กันแน่
+RESOURCE ID: pokemon_desc_tmpevo_0026_0002
+TEXT: It fires bolts of electricity from the tip of its tail and from the spiky tufts of fur growing out of its temples. This electricity forms the letter Y.
 
-RESOURCE ID: pokemon_desc_tmpevo_0149_0001
-TEXT: พลังงานจากวิวัฒนาการเมก้าทำให้ความรู้สึก
-ที่อ่อนโยนทรงพลังขึ้นเป็นอย่างมาก
-จะกำจัดศัตรูด้วยจิตเมตตา
+RESOURCE ID: pokemon_desc_tmpevo_0358_0001
+TEXT: It vibrates its entire body to attack in all directions using sound waves. Any who hear the vibrations get so confused, they forget who they are.
 
-RESOURCE ID: pokemon_desc_tmpevo_0154_0001
-TEXT: โซลาร์บีมที่ปล่อยออกมาจากดอกไม้ 4 ดอกนั้น
-มีอานุภาพร้ายแรงมาก มีอีกชื่อหนึ่งว่า
-ปืนใหญ่เมก้าโซลาร์
+RESOURCE ID: pokemon_desc_tmpevo_0359_0001
+TEXT: Using fur that it has made into sharp, clawlike shapes, it cuts down foes with a single blow. This is an act of kindness to keep them from suffering.
 
-RESOURCE ID: pokemon_desc_tmpevo_0160_0001
-TEXT: แขนทั้งสองและครีบที่รูปทรงเหมือนหมวกคลุม
-ประกอบกันเป็นขากรรไกรขนาดมหึมา
-และมีอานุภาพในการกัดแรงขึ้น 10 เท่า
+RESOURCE ID: pokemon_desc_tmpevo_0398_0001
+TEXT: Mega Staraptor is a top-class flier. It can easily soar through the sky while gripping a Steelix that weighs more than 880 lbs.
 
-RESOURCE ID: pokemon_desc_tmpevo_0227_0001
-TEXT: ความเร็วในการบินนั้นเร็วยิ่งกว่าความเร็วเสียง
-ก่อให้เกิดคลื่นกระแทกพัดศัตรูให้ปลิวไป
-แล้วปิดฉากด้วยกรงเล็บ
+RESOURCE ID: pokemon_desc_tmpevo_0448_0002
+TEXT: By completely cloaking itself in its aura, Mega Lucario Z can parry all manner of attacks, battling as if it were gracefully dancing.
 
-RESOURCE ID: pokemon_desc_tmpevo_0229_0001
-TEXT: ทั่วร่างจะปล่อยความร้อนเมื่อเกิดวิวัฒนาการ
-เมก้า และจะพ่นลมหายใจเปลวเพลิงอันรุนแรง
-เผาฝ่ายตรงข้ามให้กลายเป็นเถ้าถ่าน
+RESOURCE ID: pokemon_desc_tmpevo_0485_0001
+TEXT: It's said that if it goes all out, it can heat its body up to temperatures over 1.8 million degrees Fahrenheit. This heat keeps enemies at bay.
 
-RESOURCE ID: pokemon_desc_tmpevo_0478_0001
-TEXT: ไอเย็นน่าขนลุกที่มีพลังงานผีนั้นสามารถ
-แช่แข็งได้กระทั่งสิ่งที่ไม่มีรูปร่างอย่างไฟและลม
+RESOURCE ID: pokemon_desc_tmpevo_0491_0001
+TEXT: Its dark power blocks out the sun, plunging the surrounding area into darkness. There is no escaping its evil eye.
 
-RESOURCE ID: pokemon_desc_tmpevo_0500_0001
-TEXT: กวัดแกว่งเปลวเพลิงที่ลุกโชติช่วงเป็นทรง
-เหมือนหอกงู และรีบรุดไปช่วยเหลือพวกพ้อง
-ที่ตกอยู่ในสภาวะคับขัน
+RESOURCE ID: pokemon_desc_tmpevo_0530_0001
+TEXT: If this Pokémon brings its arms and head together to form a streamlined shape and spins at high speeds, it can destroy anything.
 
-RESOURCE ID: pokemon_desc_tmpevo_0545_0001
-TEXT: พิษร้ายที่เปล่งแสงสลัวนั้นส่งผลต่อจิตใจของ
-เพนโดรา ขัดเกลาความดุร้ายของมันให้รุนแรงขึ้น
+RESOURCE ID: pokemon_desc_tmpevo_0623_0001
+TEXT: The energy within Golurk has been stimulated by Mega Evolution. The Pokémon could explode at any moment.
 
-RESOURCE ID: pokemon_desc_tmpevo_0560_0001
-TEXT: ผลจากการวิวัฒนาการเมก้าทำให้ผิวหนังของมัน
-กลายเป็นสีขาว มีความแข็งทนทานและยืดหยุ่น
-แน่นอนว่าจิตวิญญาณของมันก็ร้อนแรงเช่นกัน
+RESOURCE ID: pokemon_desc_tmpevo_0670_0001
+TEXT: The Eternal Flower has absorbed all the energy from Mega Evolution. The flower now attacks enemies on its own.
 
-RESOURCE ID: pokemon_desc_tmpevo_0604_0001
-TEXT: ปริมาณกระแสไฟฟ้าที่สร้างได้เยอะกว่า
-ก่อนวิวัฒนาการเมก้า 10 เท่า ปล่อยไฟฟ้าออกมา
-จากชิบิบีลปลอมที่สร้างจากเมือก
+RESOURCE ID: pokemon_desc_tmpevo_0678_0001
+TEXT: Mega Meowstic can use its psychic power to compress or expand anything. It overwhelms foes by contorting space itself.
 
-RESOURCE ID: pokemon_desc_tmpevo_0609_0001
-TEXT: ดวงตาข้างหนึ่งคือหน้าต่างที่เชื่อมต่อระหว่าง
-โลกนี้และโลกหลังความตาย ดึงดูดความเคียดแค้น
-เข้าหาตนแล้วเปลี่ยนเป็นพลัง
+RESOURCE ID: pokemon_desc_tmpevo_0740_0001
+TEXT: It can pulverize reinforced concrete with a light swing of one of its fists, each of which is covered in a thick layer of ice.
 
-RESOURCE ID: pokemon_desc_tmpevo_0652_0001
-TEXT: มีความมุ่งมั่นในการปกป้องอย่างแรงกล้า
-ที่มาพร้อมกับเกราะที่แข็งแกร่งขึ้น
-ทั้งสองสิ่งนั้นมั่นคงไม่สั่นคลอน
+RESOURCE ID: pokemon_desc_tmpevo_0768_0001
+TEXT: It uses four of its arms to fiercely assail its foes. Once they've been pushed to the brink of defeat, it finishes them off with the arms it kept hidden.
 
-RESOURCE ID: pokemon_desc_tmpevo_0655_0001
-TEXT: ควบคุมกิ่งไม้ที่จุดไฟ ทำให้อีกฝ่ายรู้สึกงงงวย
-จากนั้นก็ซัดลูกไฟขนาดใหญ่ใส่อีกฝ่าย
-เพื่อเผาให้มอดไหม้
+RESOURCE ID: pokemon_desc_tmpevo_0801_0001
+TEXT: This is Magearna once a previously hidden mode activates. The emotions Magearna had begun to feel now hide away as it fells foe after foe.
 
-RESOURCE ID: pokemon_desc_tmpevo_0658_0001
-TEXT: หมุนดาวกระจายยักษ์ด้วยความเร็วสูง ทำให้
-ดาวกระจายลอยอยู่กลางอากาศ เกาะกลับหัว
-อยู่ด้านใต้ แล้วโจมตีช่องโหว่ของอีกฝ่าย
+RESOURCE ID: pokemon_desc_tmpevo_0807_0001
+TEXT: It stores up 10 lightning strikes' worth of electricity. When it stops limiting itself, it's in the strongest class of electric Pokémon.
 
-RESOURCE ID: pokemon_desc_tmpevo_0668_0001
-TEXT: พ่นไฟที่ร้อนกว่า 1 หมื่นองศาเซลเซียสออกมา
-สะบัดแผงคอเพลิงที่ลุกโหมโอฬารอย่างรุนแรง
-ขณะปกป้องพวกพ้อง
+RESOURCE ID: pokemon_desc_tmpevo_0952_0001
+TEXT: Mega Evolution has dialed up this Pokémon's spiciness. It swings its "necktie" around to wallop its foes.
 
-RESOURCE ID: pokemon_desc_tmpevo_0687_0001
-TEXT: ใช้แสงสีสันสดใสเขียนทับบุคลิกและความทรงจำ
-เพื่อควบคุมอีกฝ่ายให้เป็นไปตามต้องการ
+RESOURCE ID: pokemon_desc_tmpevo_0970_0001
+TEXT: Glimmora's petals—now larger and separated from its main body—rotate around it to provide defense while scattering poisonous fragments.
 
-RESOURCE ID: pokemon_desc_tmpevo_0689_0001
-TEXT: ใช้แขนมากมายของมันหลอกล่ออีกฝ่าย
-ซึ่งทำให้กาเมโนเดสที่เป็นหัวยุ่งมาก
+RESOURCE ID: pokemon_desc_tmpevo_0978_0001_01
+TEXT: Tatsugiri's brain has been invigorated by Mega Evolution, making it even wilier. It can create and command copies of itself.
 
-RESOURCE ID: pokemon_desc_tmpevo_0691_0001
-TEXT: พ่นของเหลวที่ทำให้พลังฟื้นฟูสภาพของเซลล์
-บ้าคลั่งออกมา ของเหลวนั้นเป็นพิษร้ายแรง
-ต่อทุกสิ่งยกเว้นตัวมันเอง
+RESOURCE ID: pokemon_desc_tmpevo_0978_0001_02
+TEXT: It solidifies the energy of Mega Evolution, building up an overflowing pile to launch as projectiles. These projectiles explode on contact.
 
-RESOURCE ID: pokemon_desc_tmpevo_0701_0001
-TEXT: ใช้กล้ามเนื้อทั่วร่างที่เพิ่มขึ้นจนแน่นจากการ
-วิวัฒนาการเมก้าเพื่ออวดความแข็งแกร่งของตน
-
-RESOURCE ID: pokemon_desc_tmpevo_0718_0001
-TEXT: เมื่อภัยอันตรายที่ไม่เคยเกิดขึ้นมาเยือน จะรับ
-ความรู้สึกนึกคิดของผู้คนแล้ววิวัฒนาการเมก้า
-ใช้พลังที่ไม่เป็นรองใครควบคุมสถานการณ์ให้สงบ
-
-RESOURCE ID: pokemon_desc_tmpevo_0780_0001
-TEXT: ร่างที่เซลล์ทั่วร่างถูกกระตุ้นจนได้รับความเยาว์
-กลับมา ควบคุมชั้นบรรยากาศเพื่อเรียกพายุ
-
-RESOURCE ID: pokemon_desc_tmpevo_0870_0001
-TEXT: เป็นกระบวนทัพขั้นสุดยอดซึ่งมีเพียงกองทหารที่มี
-สายสัมพันธ์อันแข็งแกร่งเท่านั้นที่ทำให้เกิดขึ้นได้
+RESOURCE ID: pokemon_desc_tmpevo_0978_0001_03
+TEXT: Using the energy of Mega Evolution, it creates a dish to ride upon, allowing it to move with total freedom—even through the air.
 
 RESOURCE ID: pokemon_ibfc_desc_0778
-TEXT: ช่วยป้องกันโปเกมอนจากท่าโจมตีชาร์จ
-1 ครั้งเท่านั้นในขณะแบตเทิล พลังป้องกัน
-ของมิมิคคิวจะลดลงจนถึงจบแบตเทิล
+TEXT: ช่วยป้องกันมิมิคคิวจากท่าโจมตีชาร์จ
+ได้เพียง 1 ครั้งในขณะแบตเทิล
+พลังป้องกันของมิมิคคิวจะลดลงจนถึง
+จบแบตเทิล
 
 RESOURCE ID: pokemon_ibfc_desc_header_0778
 TEXT: ฟอร์มสำหรับแบตเทิล: ร่างที่ถูกเปิดเผย
@@ -2254,181 +1526,76 @@ TEXT: ฟอร์มสำหรับแบตเทิล: {0}
 RESOURCE ID: pokemon_ibfc_name_0778
 TEXT: ร่างที่ถูกเปิดเผย
 
-RESOURCE ID: pokemon_name_0036_0001
-TEXT: เมก้าปิคซี
+RESOURCE ID: pokemon_name_0026_0001
+TEXT: Mega Raichu X
 
-RESOURCE ID: pokemon_name_0071_0001
-TEXT: เมก้าอุซึบ็อท
+RESOURCE ID: pokemon_name_0026_0002
+TEXT: Mega Raichu Y
 
-RESOURCE ID: pokemon_name_0121_0001
-TEXT: เมก้าสตาร์มี
+RESOURCE ID: pokemon_name_0358_0001
+TEXT: Mega Chimecho
 
-RESOURCE ID: pokemon_name_0149_0001
-TEXT: เมก้าไคริว
+RESOURCE ID: pokemon_name_0359_0001
+TEXT: Mega Absol Z
 
-RESOURCE ID: pokemon_name_0154_0001
-TEXT: เมก้าเมกาเนียม
+RESOURCE ID: pokemon_name_0398_0001
+TEXT: Mega Staraptor
 
-RESOURCE ID: pokemon_name_0160_0001
-TEXT: เมก้าออไดล์
+RESOURCE ID: pokemon_name_0448_0002
+TEXT: Mega Lucario Z
 
-RESOURCE ID: pokemon_name_0227_0001
-TEXT: เมก้าแอร์มุโด
+RESOURCE ID: pokemon_name_0485_0001
+TEXT: Mega Heatran
 
-RESOURCE ID: pokemon_name_0229_0001
-TEXT: เมก้าเฮลการ์
+RESOURCE ID: pokemon_name_0491_0001
+TEXT: Mega Darkrai
 
-RESOURCE ID: pokemon_name_0478_0001
-TEXT: เมก้ายูกิเมโนโกะ
+RESOURCE ID: pokemon_name_0530_0001
+TEXT: Mega Excadrill
 
-RESOURCE ID: pokemon_name_0500_0001
-TEXT: เมก้าเอ็นบูโอ
+RESOURCE ID: pokemon_name_0623_0001
+TEXT: Mega Golurk
 
-RESOURCE ID: pokemon_name_0545_0001
-TEXT: เมก้าเพนโดรา
+RESOURCE ID: pokemon_name_0670_0001
+TEXT: Mega Floette
 
-RESOURCE ID: pokemon_name_0560_0001
-TEXT: เมก้าซึรุซึคิน
+RESOURCE ID: pokemon_name_0678_0001
+TEXT: Mega Meowstic
 
-RESOURCE ID: pokemon_name_0604_0001
-TEXT: เมก้าชิบิรูดอน
+RESOURCE ID: pokemon_name_0740_0001
+TEXT: Mega Crabominable
 
-RESOURCE ID: pokemon_name_0609_0001
-TEXT: เมก้าแชนเดลา
+RESOURCE ID: pokemon_name_0768_0001
+TEXT: Mega Golisopod
 
-RESOURCE ID: pokemon_name_0652_0001
-TEXT: เมก้าบริการอน
+RESOURCE ID: pokemon_name_0801_0001
+TEXT: Mega Magearna
 
-RESOURCE ID: pokemon_name_0655_0001
-TEXT: เมก้ามาฟ็อกซี
+RESOURCE ID: pokemon_name_0807_0001
+TEXT: Mega Zeraora
 
-RESOURCE ID: pokemon_name_0658_0001
-TEXT: เมก้าเก็คโคกะ
+RESOURCE ID: pokemon_name_0952_0001
+TEXT: Mega Scovillain
 
-RESOURCE ID: pokemon_name_0668_0001
-TEXT: เมก้าคาเอ็นจิชิ
+RESOURCE ID: pokemon_name_0970_0001
+TEXT: Mega Glimmora
 
-RESOURCE ID: pokemon_name_0687_0001
-TEXT: เมก้าคาลามาเนโร
+RESOURCE ID: pokemon_name_0978_0001
+TEXT: Mega Tatsugiri
 
-RESOURCE ID: pokemon_name_0689_0001
-TEXT: เมก้ากาเมโนเดส
-
-RESOURCE ID: pokemon_name_0691_0001
-TEXT: เมก้าดรามิโดโร
-
-RESOURCE ID: pokemon_name_0701_0001
-TEXT: เมก้าลูจาบูล
-
-RESOURCE ID: pokemon_name_0718_0001
-TEXT: เมก้าซีการ์ด
-
-RESOURCE ID: pokemon_name_0780_0001
-TEXT: เมก้าจิจีลอน
-
-RESOURCE ID: pokemon_name_0870_0001
-TEXT: เมก้าไทเรสึ
-
-RESOURCE ID: pokestop_field_book
-TEXT: บันทึกภาคสนาม
-
-RESOURCE ID: pokestop_field_book_message
-TEXT: พบโปเกมอนสำหรับบันทึกภาคสนามได้ที่เสาโปเกสต็อปนี้ โปเกมอนเหล่านี้จะมีภาพเหมือนที่แสดงสถานที่ที่พวกมันถูกจับ
-
-โปเกมอนที่มีภาพเหมือนกลางวันจะปรากฏตัวเวลา 6:00 น. ถึง 18:00 น. และโปเกมอนที่มีภาพเหมือนกลางคืนจะปรากฏตัวเวลา 18:00 น. ถึง 6:00 น.
-
+RESOURCE ID: pokemon_name_0998_0001
+TEXT: Baxcalibur's dorsal blade has grown even more massive thanks to Mega Evolution. This Pokémon fires beams from the hilt at its solar plexus.
 
 RESOURCE ID: pokestop_field_book_message_with_times
 TEXT: พบโปเกมอนสำหรับบันทึกภาคสนามได้ที่เสาโปเกสต็อปนี้ โปเกมอนเหล่านี้จะมีภาพเหมือนที่แสดงสถานที่ที่พวกมันถูกจับ
 
 โปเกมอนที่มีภาพเหมือนกลางวันจะปรากฏตัวเวลา {0} และโปเกมอนที่มีภาพเหมือนกลางคืนจะปรากฏตัวเวลา {1}
 
-RESOURCE ID: pokestop_field_book_title
-TEXT: เสาโปเกสต็อป
-
-RESOURCE ID: portals_to_power_tr_0
-TEXT: งานวิจัยแบบจำกัดเวลาพอร์ทัลสู่พลัง (1/5)
-
-RESOURCE ID: portals_to_power_tr_1
-TEXT: งานวิจัยแบบจำกัดเวลาพอร์ทัลสู่พลัง (2/5)
-
-RESOURCE ID: portals_to_power_tr_2
-TEXT: งานวิจัยแบบจำกัดเวลาพอร์ทัลสู่พลัง (3/5)
-
-RESOURCE ID: portals_to_power_tr_3
-TEXT: งานวิจัยแบบจำกัดเวลาพอร์ทัลสู่พลัง (4/5)
-
-RESOURCE ID: portals_to_power_tr_4
-TEXT: งานวิจัยแบบจำกัดเวลาพอร์ทัลสู่พลัง (5/5)
-
-RESOURCE ID: portals_to_power_tr_title
-TEXT: พอร์ทัลสู่พลัง
-
-RESOURCE ID: portals_to_power_tr_title_hoenn
-TEXT: งานวิจัยแบบจำกัดเวลาพอร์ทัลสู่พลัง - โฮเอ็น
-
-RESOURCE ID: portals_to_power_tr_title_hoenn_0
-TEXT: งานวิจัยแบบจำกัดเวลาพอร์ทัลสู่พลัง - โฮเอ็น (1/1)
-
-RESOURCE ID: portals_to_power_tr_title_johto
-TEXT: งานวิจัยแบบจำกัดเวลาพอร์ทัลสู่พลัง - โจโตะ
-
-RESOURCE ID: portals_to_power_tr_title_johto_0
-TEXT: งานวิจัยแบบจำกัดเวลาพอร์ทัลสู่พลัง - โจโตะ (1/1)
-
-RESOURCE ID: portals_to_power_tr_title_kanto
-TEXT: งานวิจัยแบบจำกัดเวลาพอร์ทัลสู่พลัง - คันโต
-
-RESOURCE ID: portals_to_power_tr_title_kanto_0
-TEXT: งานวิจัยแบบจำกัดเวลาพอร์ทัลสู่พลัง - คันโต (1/1)
-
-RESOURCE ID: portals_to_power_tr_title_prelude
-TEXT: งานวิจัยแบบจำกัดเวลาพอร์ทัลสู่พลัง - บทนำ
-
-RESOURCE ID: portals_to_power_tr_title_prelude_0
-TEXT: งานวิจัยแบบจำกัดเวลาพอร์ทัลสู่พลัง - บทนำ (1/1)
-
-RESOURCE ID: portals_to_power_tr_title_sinnoh
-TEXT: งานวิจัยแบบจำกัดเวลาพอร์ทัลสู่พลัง - ชินโอ
-
-RESOURCE ID: portals_to_power_tr_title_sinnoh_0
-TEXT: งานวิจัยแบบจำกัดเวลาพอร์ทัลสู่พลัง - ชินโอ (1/1)
-
-RESOURCE ID: portals_to_power_tr_title_unova
-TEXT: งานวิจัยแบบจำกัดเวลาพอร์ทัลสู่พลัง - อิชชู
-
-RESOURCE ID: portals_to_power_tr_title_unova_0
-TEXT: งานวิจัยแบบจำกัดเวลาพอร์ทัลสู่พลัง - อิชชู (1/1)
-
-RESOURCE ID: postcard_expansion_purchase_success_toast
-TEXT: เพิ่มในอัลบั้มโปสการ์ดแล้ว
-
 RESOURCE ID: power_spots_refresh_more_frequently
 TEXT: พาวเวอร์สป็อตจะรีเฟรชถี่ขึ้น
 
 RESOURCE ID: precious_paths_finale_tr
 TEXT: งานวิจัยแบบจำกัดเวลาเส้นทางล่าสมบัติฟินาเล
-
-RESOURCE ID: primal_level_bottom_section
-TEXT: เพิ่มลูกอมและ CP เมื่อคืนสู่ต้นกำเนิด
-
-RESOURCE ID: primal_perk_candy_bonus_excellentplus
-TEXT: เพิ่มโบนัสลูกอมจากการจับอย่างมาก
-
-RESOURCE ID: primal_perk_catch_xp_bonus_excellentplus
-TEXT: เพิ่มโบนัส XP จากการจับอย่างมาก
-
-RESOURCE ID: primal_perk_cp_boost
-TEXT: เพิ่ม CP
-
-RESOURCE ID: primal_perk_cp_boost_excellentplus
-TEXT: เพิ่ม CP อย่างมาก
-
-RESOURCE ID: primal_perk_xl_bonus_excellent
-TEXT: เพิ่มโอกาสรับลูกอม XL อย่างมาก
-
-RESOURCE ID: primal_perk_xl_bonus_great
-TEXT: เพิ่มโอกาสรับลูกอม XL
 
 RESOURCE ID: quest_begins19_catch_specific_plural
 TEXT: Pokémon Day: จับป็อปโปะหรือโครัตตา {0} ตัว
@@ -2445,14 +1612,8 @@ TEXT: เลือกเส้นทางนี้เพื่อเผชิ�
 RESOURCE ID: quest_branch_choose_debutante
 TEXT: เลือกทรงสุภาพสตรี
 
-RESOURCE ID: quest_branch_choose_debutante_desc
-TEXT: เมื่อเลือกเส้นทางนี้ ในระหว่างอีเวนต์ จะสามารถเปลี่ยนทริมเมียนเป็นทรงสุภาพสตรีได้ (ในการเปลี่ยนร่างทริมเมียน จำเป็นต้องใช้ลูกอมทริมเมียน 25 เม็ดและ 10,000 สตาร์ดัสต์)
-
 RESOURCE ID: quest_branch_choose_diamond
 TEXT: เลือกทรงข้าวหลามตัด
-
-RESOURCE ID: quest_branch_choose_diamond_desc
-TEXT: เมื่อเลือกเส้นทางนี้ ในระหว่างอีเวนต์ จะสามารถเปลี่ยนทริมเมียนเป็นทรงข้าวหลามตัดได้ (ในการเปลี่ยนร่างทริมเมียน จำเป็นต้องใช้ลูกอมทริมเมียน 25 เม็ดและ 10,000 สตาร์ดัสต์)
 
 RESOURCE ID: quest_branch_choose_fennekin
 TEXT: เลือกฟ็อกโกะ
@@ -2469,29 +1630,14 @@ TEXT: เลือกเส้นทางนี้เพื่อเผชิ�
 RESOURCE ID: quest_branch_choose_kabuki
 TEXT: เลือกทรงคาบูกิ
 
-RESOURCE ID: quest_branch_choose_kabuki_desc
-TEXT: เมื่อเลือกเส้นทางนี้ ในระหว่างอีเวนต์ จะสามารถเปลี่ยนทริมเมียนเป็นทรงคาบูกิได้ (ในการเปลี่ยนร่างทริมเมียน จำเป็นต้องใช้ลูกอมทริมเมียน 25 เม็ดและ 10,000 สตาร์ดัสต์)
-
 RESOURCE ID: quest_branch_choose_la_reine
 TEXT: เลือกทรงราชินี
-
-RESOURCE ID: quest_branch_choose_la_reine_desc
-TEXT: เมื่อเลือกเส้นทางนี้ ในระหว่างอีเวนต์ จะสามารถเปลี่ยนทริมเมียนเป็นทรงราชินีได้ (ในการเปลี่ยนร่างทริมเมียน จำเป็นต้องใช้ลูกอมทริมเมียน 25 เม็ดและ 10,000 สตาร์ดัสต์)
 
 RESOURCE ID: quest_branch_choose_pharaoh
 TEXT: เลือกทรงฟาโรห์
 
-RESOURCE ID: quest_branch_choose_pharaoh_desc
-TEXT: เมื่อเลือกเส้นทางนี้ ในระหว่างอีเวนต์ จะสามารถเปลี่ยนทริมเมียนเป็นทรงฟาโรห์ได้ (ในการเปลี่ยนร่างทริมเมียน จำเป็นต้องใช้ลูกอมทริมเมียน 25 เม็ดและ 10,000 สตาร์ดัสต์)
-
 RESOURCE ID: quest_branch_choose_star
 TEXT: เลือกทรงดาว
-
-RESOURCE ID: quest_branch_choose_star_desc
-TEXT: เมื่อเลือกเส้นทางนี้ ในระหว่างอีเวนต์ จะสามารถเปลี่ยนทริมเมียนเป็นทรงดาวได้ (ในการเปลี่ยนร่างทริมเมียน จำเป็นต้องใช้ลูกอมทริมเมียน 25 เม็ดและ 10,000 สตาร์ดัสต์)
-
-RESOURCE ID: quest_branch_choose_trim_prompt
-TEXT: เปลี่ยนร่างทริมเมียน
 
 RESOURCE ID: quest_branch_choose_x
 TEXT: เลือก X Version
@@ -2509,31 +1655,11 @@ TEXT: เลือกเส้นทางนี้เพื่อรับเ�
 
 ในระหว่างอีเวนต์ GO Tour: คาลอส - ทั่วโลก จะมีงานวิจัยภาคสนามที่สามารถเผชิญหน้ากับอันโนน (Y)
 
-RESOURCE ID: quest_catch_bidoof_singular
-TEXT: จับบิปปา
-
 RESOURCE ID: quest_catch_eevee_singular
 TEXT: จับอีวุย
 
-RESOURCE ID: quest_catch_hoppip_singular
-TEXT: จับฮาเน็กโกะ
-
-RESOURCE ID: quest_catch_kalos_pokemon
-TEXT: จับโปเกมอนที่ถูกค้นพบครั้งแรก
-ในภูมิภาคคาลอส {0} ตัว
-
-RESOURCE ID: quest_catch_kalos_pokemon_singular
-TEXT: จับโปเกมอนที่ถูกค้นพบครั้งแรก
-ในภูมิภาคคาลอส
-
-RESOURCE ID: quest_catch_lillipup_singular
-TEXT: จับโยเทอรี
-
-RESOURCE ID: quest_catch_poochyena_singular
-TEXT: จับโปชิเอนา
-
-RESOURCE ID: quest_evolve_eevee_sylveon
-TEXT: วิวัฒนาการอีวุยเป็นนิมเฟีย
+RESOURCE ID: quest_complete_dec20cd
+TEXT: คอมมิวนิตี้เดย์ธันวาคม
 
 RESOURCE ID: quest_form_change_furfrou_debutante
 TEXT: เปลี่ยนร่างทริมเมียนเป็นทรงสุภาพสตรี
@@ -2561,21 +1687,6 @@ TEXT: เปลี่ยนร่างทริมเมียน
 
 RESOURCE ID: quest_go_tour_2026_zygarde_route_spin
 TEXT: หมุนเสาโปเกสต็อปสำหรับอีเวนต์ที่จุดเริ่มต้นเส้นทางอย่างเป็นทางการ "GO Tour: คาลอส"
-
-RESOURCE ID: quest_medal_fairy_platinum
-TEXT: จับโปเกมอนประเภทแฟรี่เพื่อรับเหรียญรางวัลแพลทินัม
-
-RESOURCE ID: quest_medal_kalos_gold
-TEXT: ได้รับเหรียญรางวัล "คาลอส" ทอง
-
-RESOURCE ID: quest_medal_rock_platinum
-TEXT: จับโปเกมอนประเภทหินเพื่อรับเหรียญรางวัลแพลทินัม
-
-RESOURCE ID: quest_pokestop_edit_singular
-TEXT: ปรับแต่งเสาโปเกสต็อป
-
-RESOURCE ID: quest_pokestop_nominate_singular
-TEXT: ยื่นคำขอเสาโปเกสต็อป
 
 RESOURCE ID: quest_power_up_dark_psychic_plural
 TEXT: พาวเวอร์อัปโปเกมอนประเภทพลังจิตหรือความมืด {0} ครั้ง
@@ -2607,9 +1718,20 @@ TEXT: หมุนเสาโปเกสต็อปที่มีภาพ�
 RESOURCE ID: quest_scorbunny_catch_b
 TEXT: จับฮิบานี {0} ตัว
 
-RESOURCE ID: quest_special_dialogue_onboard_sr_8_2
-TEXT: โปเกมอนเหล่านั้นคือบอสโปเกมอน และเธอสามารถ
-ไปท้าสู้กับพวกมันได้ในการตีบอสล่ะ!
+RESOURCE ID: quest_title_dec20cd
+TEXT: คอมมิวนิตี้เดย์ธันวาคม
+
+RESOURCE ID: quest_title_dec20cd_0
+TEXT: คอมมิวนิตี้เดย์ธันวาคม (1/4)
+
+RESOURCE ID: quest_title_dec20cd_1
+TEXT: คอมมิวนิตี้เดย์ธันวาคม (2/4)
+
+RESOURCE ID: quest_title_dec20cd_2
+TEXT: คอมมิวนิตี้เดย์ธันวาคม (3/4)
+
+RESOURCE ID: quest_title_dec20cd_3
+TEXT: คอมมิวนิตี้เดย์ธันวาคม (4/4)
 
 RESOURCE ID: quest_title_scorbunny
 TEXT: กระโดดโลดเต้นไม่รู้จบ
@@ -2626,54 +1748,29 @@ TEXT: กระโดดโลดเต้นไม่รู้จบ (3/3)
 RESOURCE ID: quest_win_super_mega_raid_plural
 TEXT: Win {0} Super Mega Raids
 
-RESOURCE ID: quests_claim_field_book_quest_encounter_first
-TEXT: ยังมีโปเกมอนที่จับไม่ได้!
-
 RESOURCE ID: quests_log_complete_field_book_page
 TEXT: บันทึกภาคสนามที่เสร็จสมบูรณ์: {0} หน้า
-
-RESOURCE ID: raid_approach_multiple_post_list
-TEXT: ใช้เมื่อชนะ: {0}
-
-RESOURCE ID: raid_approach_multiple_pre_rp
-TEXT: ใช้เมื่อเริ่มแบตเทิล:
-บัตรแบตเทิลพรีเมียม
-
-RESOURCE ID: raid_approach_multiple_pre_rrp
-TEXT: ใช้เมื่อเริ่มแบตเทิล:
-บัตรตีบอสระยะไกล
-
-RESOURCE ID: raid_approach_multiple_remote_usage_plural
-TEXT: วันนี้สามารถเข้าร่วมตีบอสระยะไกลได้อีก {0} ครั้ง
-
-RESOURCE ID: raid_approach_multiple_remote_usage_singular
-TEXT: วันนี้สามารถเข้าร่วมตีบอสระยะไกลได้อีก 1 ครั้ง
 
 RESOURCE ID: raid_bonus_event_sb
 TEXT: โปเกมอนตามธีมอีเวนต์ที่ถูกจับจากตีบอสห้าดาวอาจมีพื้นหลังพิเศษ
 
-RESOURCE ID: raid_message_heal_pokemon
-TEXT: ฟื้นฟูโปเกมอน
-
 RESOURCE ID: raid_special_background
 TEXT: โปเกมอนที่ถูกจับจากตีบอสในอีเวนต์อาจมีพื้นหลังพิเศษ
 
-RESOURCE ID: rebuild_event_pass_pages
-TEXT: อัปเดตบัตรผ่าน GO แล้ว
+RESOURCE ID: remote_raid_damage_warning
+TEXT: 
 
-RESOURCE ID: remote_raid_battle_helptext_nc
-TEXT: ใช้ลิงก์ชาร์จกับบัตรตีบอสระยะไกล
+RESOURCE ID: remote_trade_action
+TEXT: แลกเปลี่ยน
+ระยะไกล
 
 RESOURCE ID: replay_water_research_day_event_name
 TEXT: รีเพลย์: วันวิจัยประเภทน้ำ
 
 RESOURCE ID: return_to_map_day_night_tutorial_body_text
-TEXT: โปเกมอนเหล่านี้มีภาพเหมือนซึ่งแสดงทิวทัศน์ของสถานที่ที่ถูกจับ
+TEXT: โปเกมอนเหล่านี้มีภาพเหมือนซึ่งแสดงทิวทัศน์ของสถานที่ที่ถูกจับ โปเกมอนที่ถูกจับได้ในชีวนิเวศที่มันอาศัยอยู่จะเคลื่อนไหวในภาพเหมือน
 
 สามารถชมพวกมันได้ในบันทึกภาคสนาม
-
-RESOURCE ID: road_to_kalos_title
-TEXT: เส้นทางสู่คาลอส
 
 RESOURCE ID: route_play_no_routes_gamesite_message
 TEXT: ไม่มีเส้นทางในบริเวณใกล้เคียง โปรดค้นหาเส้นทางที่อยู่ห่างออกไป
@@ -2718,43 +1815,6 @@ TEXT: โลกของโปเกมอนยังมีสมบัติ�
 RESOURCE ID: season21_precious_paths_sr_11_3
 TEXT: รักษาตัวด้วย %PLAYERNAME% ไว้พบกันใหม่!
 
-RESOURCE ID: season21_precious_paths_sr_8_0
-TEXT: ว่าไง %PLAYERNAME%! ฉันกำลังคิดว่า
-นอกจากการเรียนรู้จากเทรนเนอร์คนอื่น
-จะเป็นสิ่งสำคัญแล้ว การแสดงให้พวกเขารู้
-ว่าเรารู้สึกขอบคุณก็สำคัญเช่นกัน!
-
-RESOURCE ID: season21_precious_paths_sr_8_1
-TEXT: อาจจะทำง่าย ๆ ด้วยการส่งคำขอบคุณ
-หรือคอยใส่ใจพวกเขา
-
-RESOURCE ID: season21_precious_paths_sr_8_2
-TEXT: ส่งของขวัญให้ก็เป็นวิธีที่ดี! โปสการ์ดจาก
-สถานที่พิเศษที่ฉันไม่เคยไปมาก่อนที่ได้มาน่ะ
-ฉันเก็บรักษาไว้เป็นอย่างดีเลย ฉันถึงชอบ
-ที่จะได้เจอกับมาเตโอไง!
-
-RESOURCE ID: season21_precious_paths_sr_8_3
-TEXT: ทำไมไม่ลองส่งของขวัญดูล่ะ?
-ของขวัญของเธออาจทำให้วันของใคร
-บางคนกลายเป็นวันดี ๆ ก็ได้นะ!
-
-RESOURCE ID: season21_precious_paths_sr_9_0
-TEXT: ไง %PLAYERNAME%! หวังว่าการส่ง
-ของขวัญจะทำให้เธอรู้สึกมีความสุขนะ!
-
-RESOURCE ID: season21_precious_paths_sr_9_1
-TEXT: ต่อไปก็ถึงคราวที่เราจะได้แสดงความรู้สึก
-ขอบคุณให้โปเกมอนของพวกเรารับรู้แล้ว
-
-RESOURCE ID: season21_precious_paths_sr_9_2
-TEXT: ทุกครั้งที่ฉันเอาโปฟฟินหรือผลไม้มาให้
-เมลตัน มันจะดูร่าเริงมากเลย!
-
-RESOURCE ID: season21_precious_paths_sr_9_3
-TEXT: โปเกมอนของเธอก็น่าจะชอบเหมือนกันนะ?
-เป็นโอกาสอันดีที่จะได้เล่นหรือถ่ายรูปด้วยกันด้วย!
-
 RESOURCE ID: season22_delightful_days
 TEXT: ความทรงจำพรั่งพรู
 
@@ -2798,24 +1858,8 @@ TEXT: ตรวจสอบรายละเอียดได้ที่<a hr
 RESOURCE ID: season_pass_details_link_bugoutbuddies2026
 TEXT: ตรวจสอบรายละเอียดได้ที่<a href="https://pokemongolive.com/news/bug-out-2026">เว็บไซต์</a>นี้
 
-RESOURCE ID: season_pass_details_link_february2026
-TEXT: ตรวจสอบรายละเอียดได้ที่<a href="https://pokemongo.com/news/go-pass-february-2026">เว็บไซต์</a>นี้
-
 RESOURCE ID: season_pass_details_link_march2026
 TEXT: ตรวจสอบรายละเอียดได้ที่<a href="https://pokemongo.com/go-pass">เว็บไซต์</a>นี้
-
-RESOURCE ID: season_pass_february2026_event_duration
-TEXT: 3 กุมภาพันธ์ - 3 มีนาคม
-
-RESOURCE ID: season_pass_february2026_track_upgrade_header_description
-TEXT: รับรางวัลเพิ่มเติมและปลดล็อก <b>1,000 โปเกคอยน์</b>!
-
-RESOURCE ID: season_pass_february2026_upgrade_description
-TEXT: ซื้อบัตรผ่าน GO Deluxe: กุมภาพันธ์ เพื่อปลดล็อกรางวัลต่อไปนี้!
-
-- 1,000 โปเกคอยน์
-- เครื่องฟักไข่ชั้นเยี่ยม 1 ชิ้น
-- และอื่น ๆ
 
 RESOURCE ID: season_pass_march2026_event_duration
 TEXT: 3 มีนาคม - 7 เมษายน
@@ -2842,68 +1886,17 @@ TEXT: บัตรผ่าน GO Deluxe: อีเวนต์ครบรอ�
 RESOURCE ID: season_pass_premium_track_title_bugoutbuddies2026
 TEXT: บัตรผ่าน GO Deluxe: ฝูงแมลงบุก
 
-RESOURCE ID: see_field_book
-TEXT: ดูบันทึกภาคสนาม
-
-RESOURCE ID: share_referral_link_default
-TEXT: ใช้ Pokémon GO ถ่ายภาพกับโปเกมอนโปรดกันเลย! https://pokemongo.com/
-
-RESOURCE ID: shop_enhanced_currency_description_plural
-TEXT: ต้องการอีก {0} ลิงก์ชาร์จเพื่อเข้าร่วมแบตเทิลนี้
-
-RESOURCE ID: shop_enhanced_currency_description_singular
-TEXT: ต้องการอีก 1 ลิงก์ชาร์จเพื่อเข้าร่วมแบตเทิลนี้
-
-RESOURCE ID: shop_enhanced_currency_title
-TEXT: ลิงก์ชาร์จไม่เพียงพอ
-
-RESOURCE ID: shop_remote_raid_passes_title
-TEXT: คุณไม่มีบัตรตีบอสระยะไกล!
-
 RESOURCE ID: showcase_tuesday
 TEXT: วันอังคารงานโชว์ตัว
 
 RESOURCE ID: showing_all_ranks
-TEXT: Showing All Ranks
+TEXT: แสดงระดับทั้งหมด
 
 RESOURCE ID: showing_claimable_rewards
-TEXT: Showing Claimable Rewards
-
-RESOURCE ID: sign_in_bonus_key
-TEXT: ลงชื่อเข้าใช้หรือสร้างบัญชีเพื่อรับโบนัส!
+TEXT: แสดงรางวัลที่สามารถรับได้
 
 RESOURCE ID: spawn_scorbunny
 TEXT: ฮิบานีปรากฏตัวออกมามากขึ้น!
-
-RESOURCE ID: sr_go_tour_2026_global_title
-TEXT: GO Tour 2026: ตำนาน XY
-
-RESOURCE ID: sr_go_tour_2026_global_title_00
-TEXT: GO Tour 2026: ตำนาน XY (1/5)
-
-RESOURCE ID: sr_go_tour_2026_global_title_01
-TEXT: GO Tour 2026: ตำนาน XY (2/5)
-
-RESOURCE ID: sr_go_tour_2026_global_title_02
-TEXT: GO Tour 2026: ตำนาน XY (3/5)
-
-RESOURCE ID: sr_go_tour_2026_global_title_03
-TEXT: GO Tour 2026: ตำนาน XY (4/5)
-
-RESOURCE ID: sr_go_tour_2026_global_title_04
-TEXT: GO Tour 2026: ตำนาน XY (5/5)
-
-RESOURCE ID: sr_go_tour_2026_irl_title
-TEXT: GO Tour 2026: ชีวิตและการทำลาย
-
-RESOURCE ID: sr_go_tour_2026_irl_title_00
-TEXT: GO Tour 2026: ชีวิตและการทำลาย (1/3)
-
-RESOURCE ID: sr_go_tour_2026_irl_title_01
-TEXT: GO Tour 2026: ชีวิตและการทำลาย (2/3)
-
-RESOURCE ID: sr_go_tour_2026_irl_title_02
-TEXT: GO Tour 2026: ชีวิตและการทำลาย (3/3)
 
 RESOURCE ID: story_quest_volcanion_1
 TEXT: พลังไอน้ำ! (1/6)
@@ -3072,16 +2065,10 @@ RESOURCE ID: tag_go_tour_kalos_tainan
 TEXT: GO Tour: คาลอส - ไถหนาน
 
 RESOURCE ID: tap_to_skip_message
-TEXT: Tap to Skip
+TEXT: Tap to skip
 
 RESOURCE ID: ten_percent_stardust_cost_trade_reduced_bonus
 TEXT: สตาร์ดัสต์ที่ใช้แลกเปลี่ยนลดสูงสุด 10%
-
-RESOURCE ID: text_rewards_key_catch_mastery_oricorio
-TEXT: <b>รางวัลที่จะได้รับ:</b>
-- การเผชิญหน้ากับโอโดริโดริ (สไตล์ตามภูมิภาค) 40 ครั้ง
-- มอนสเตอร์บอลและผลไม้
-- 12,000 XP และ 3,000 สตาร์ดัสต์
 
 RESOURCE ID: text_rewards_key_cd_scorbunny26
 TEXT: <b>รางวัลที่จะได้รับ:</b>
@@ -3090,43 +2077,10 @@ TM ท่าชาร์จ และลูกอมประหลาด
 - การเผชิญหน้ากับฮิบานีที่มีพื้นหลังพิเศษ
 และอื่น ๆ
 
-RESOURCE ID: text_rewards_key_enamorustherianraidday
-TEXT: <b>รางวัลที่จะได้รับ:</b>
-- ลูกอุกกาบาต 1 ชิ้น
-- ยาคืนชีพ 3 ชิ้น
-- ผลราส 5 ชิ้น
-- มอนสเตอร์บอล 20 ลูก
-- 1,000 XP
-- 1,000 สตาร์ดัสต์
-<b>โบนัสที่จะได้รับ:</b>
-- บัตรตีบอสเพิ่ม 8 ใบจากการหมุน
-แผ่นภาพที่ยิม
-- เพิ่มโอกาสได้รับลูกอมประหลาด XL จากตีบอส
-- เพิ่ม XP 50% และ 2× สตาร์ดัสต์เมื่อตีบอสเสร็จสิ้น
-
-RESOURCE ID: text_rewards_key_febmonthly2024
-TEXT: <b>สิ่งที่จะได้รับ:</b>
--เครื่องฟักไข่สำหรับใช้งานครั้งเดียว
-เมื่อหมุนแผ่นภาพที่เสาโปเกสต็อปเป็นครั้งแรก
-ในแต่ละวัน
-- 3× XP ในการหมุนแผ่นภาพครั้งแรก
-และจับครั้งแรกของแต่ละวัน
-- งานวิจัยแบบจำกัดเวลาที่มีรางวัลเป็น 30,000 XP, 30,000 สตาร์ดัสต์ และการเผชิญหน้ากับการ์ดี (ร่างฮิซุย)
-- 2× จำนวนของขวัญสูงสุดที่สามารถมีได้ (สูงสุด 40)
-- และอื่น ๆ
-
-RESOURCE ID: text_rewards_key_gmaxmeowth26
+RESOURCE ID: text_rewards_key_gmax_pikachu_max_battle
 TEXT: <b>สิ่งที่จะได้รับ:</b>
 - 2× XP เมื่อแบตเทิลแมกซ์เสร็จสิ้น
-- งานวิจัยแบบจำกัดเวลาที่มีรางวัลเป็น 6,400 อนุภาคแมกซ์, 25,000 XP และไดมัชรูม
-
-RESOURCE ID: text_rewards_key_lunarny0226
-TEXT: <b>รางวัลที่จะได้รับ:</b>
-- การเผชิญหน้ากับชิมามาและดารุมักกะ
-- 200 โปเกคอยน์
-- 3,000 สตาร์ดัสต์
-- ไข่แห่งความสุข 2 ชิ้น
-- เครื่องหอม 1 ชิ้น
+- งานวิจัยแบบจำกัดเวลาที่มี 6,400 อนุภาคแมกซ์, 25,000 XP และไดมัชรูม
 
 RESOURCE ID: text_rewards_key_waterrrd26
 TEXT: งานวิจัยแบบจำกัดเวลาเหล่านี้จะท้าทายให้คุณทำภารกิจงานวิจัยภาคสนามซึ่งจะนำไปสู่การเผชิญหน้ากับโปเกมอนเด่นดังต่อไปนี้: ฮาซึโบ, ฮินบาสและปาลูลุ
@@ -3136,11 +2090,11 @@ TEXT: งานวิจัยแบบจำกัดเวลาเหล่�
 งานวิจัยแบบจำกัดเวลานี้จะใช้งานได้
 ในวันที่ 21 มีนาคม 2026 เวลา 14:00-17:00 น. ตามเวลาท้องถิ่น
 
+RESOURCE ID: ticket_decembercd
+TEXT: คอมมิวนิตี้เดย์ธันวาคม
+
 RESOURCE ID: ticket_scorbunny_cd
 TEXT: สามารถซื้อตั๋วสำหรับงานวิจัยพิเศษ "ฮิบานีคอมมิวนิตี้เดย์" ได้ที่ร้านค้า
-
-RESOURCE ID: timed_research_heart_pattern_spinda
-TEXT: เผชิญหน้ากับพัทชีลที่มีลายหัวใจจากงานวิจัยแบบจำกัดเวลา
 
 RESOURCE ID: title_addon_kalos_hatch
 TEXT: GO Tour: คาลอส - ฟักไข่ไม่หยุด
@@ -3148,35 +2102,8 @@ TEXT: GO Tour: คาลอส - ฟักไข่ไม่หยุด
 RESOURCE ID: title_addon_kalos_raid
 TEXT: GO Tour: คาลอส - ผู้หลงใหลการตีบอส
 
-RESOURCE ID: title_camera_permission_required
-TEXT: อนุญาตให้เข้าถึงกล้อง
-
-RESOURCE ID: title_gallery_permission_required
-TEXT: อนุญาตให้เข้าถึงรูปภาพ
-
-RESOURCE ID: title_hoopa_hoopla
-TEXT: ฮูปาฮูป!
-
 RESOURCE ID: title_unown_o_clock
 TEXT: อันโนนต้นชั่วโมง
-
-RESOURCE ID: today_view_fieldbook_tab_label
-TEXT: บันทึกภาคสนาม
-
-RESOURCE ID: today_view_gopass_tab_label
-TEXT: บัตรผ่าน GO
-
-RESOURCE ID: today_view_research_tab_label
-TEXT: งานวิจัย
-
-RESOURCE ID: today_view_special_tab_label
-TEXT: พิเศษ
-
-RESOURCE ID: today_view_timed_tab_label
-TEXT: จำกัดเวลา
-
-RESOURCE ID: today_view_today_tab_label
-TEXT: วันนี้
 
 RESOURCE ID: tr_go_tour_2026_bonus_x_title
 TEXT: งานวิจัยแบบจำกัดเวลาโบนัส - อันโนน (X)
@@ -3313,78 +2240,6 @@ TEXT: งานวิจัยแบบจำกัดเวลาภูต (3/4
 RESOURCE ID: tr_go_tour_2026_secret_fairy_title_03
 TEXT: งานวิจัยแบบจำกัดเวลาภูต (4/4)
 
-RESOURCE ID: tr_oricorio_mastery_catch_hoothoot
-TEXT: จับโฮโฮ {0} ตัว
-
-RESOURCE ID: tr_oricorio_mastery_catch_starly
-TEXT: จับมุคคูรุ {0} ตัว
-
-RESOURCE ID: tr_oricorio_mastery_feb2026
-TEXT: งานวิจัยแบบกำหนดเวลาผู้เชี่ยวชาญการจับ: โอโดริโดริ
-
-RESOURCE ID: tr_oricorio_mastery_feb2026_header_0
-TEXT: งานวิจัยแบบกำหนดเวลาผู้เชี่ยวชาญการจับ: โอโดริโดริ (1/10)
-
-RESOURCE ID: tr_oricorio_mastery_feb2026_header_1
-TEXT: งานวิจัยแบบกำหนดเวลาผู้เชี่ยวชาญการจับ: โอโดริโดริ (2/10)
-
-RESOURCE ID: tr_oricorio_mastery_feb2026_header_2
-TEXT: งานวิจัยแบบกำหนดเวลาผู้เชี่ยวชาญการจับ: โอโดริโดริ (3/10)
-
-RESOURCE ID: tr_oricorio_mastery_feb2026_header_3
-TEXT: งานวิจัยแบบกำหนดเวลาผู้เชี่ยวชาญการจับ: โอโดริโดริ (4/10)
-
-RESOURCE ID: tr_oricorio_mastery_feb2026_header_4
-TEXT: งานวิจัยแบบกำหนดเวลาผู้เชี่ยวชาญการจับ: โอโดริโดริ (5/10)
-
-RESOURCE ID: tr_oricorio_mastery_feb2026_header_5
-TEXT: งานวิจัยแบบกำหนดเวลาผู้เชี่ยวชาญการจับ: โอโดริโดริ (6/10)
-
-RESOURCE ID: tr_oricorio_mastery_feb2026_header_6
-TEXT: งานวิจัยแบบกำหนดเวลาผู้เชี่ยวชาญการจับ: โอโดริโดริ (7/10)
-
-RESOURCE ID: tr_oricorio_mastery_feb2026_header_7
-TEXT: งานวิจัยแบบกำหนดเวลาผู้เชี่ยวชาญการจับ: โอโดริโดริ (8/10)
-
-RESOURCE ID: tr_oricorio_mastery_feb2026_header_8
-TEXT: งานวิจัยแบบกำหนดเวลาผู้เชี่ยวชาญการจับ: โอโดริโดริ (9/10)
-
-RESOURCE ID: tr_oricorio_mastery_feb2026_header_9
-TEXT: งานวิจัยแบบกำหนดเวลาผู้เชี่ยวชาญการจับ: โอโดริโดริ (10/10)
-
-RESOURCE ID: tr_oricorio_mastery_paid_feb2026
-TEXT: งานวิจัยแบบจำกัดเวลาพรีเมียมผู้เชี่ยวชาญการจับ: โอโดริโดริ
-
-RESOURCE ID: tr_oricorio_mastery_paid_feb2026_header_0
-TEXT: งานวิจัยแบบจำกัดเวลาพรีเมียมผู้เชี่ยวชาญการจับ: โอโดริโดริ (1/10)
-
-RESOURCE ID: tr_oricorio_mastery_paid_feb2026_header_1
-TEXT: งานวิจัยแบบจำกัดเวลาพรีเมียมผู้เชี่ยวชาญการจับ: โอโดริโดริ (2/10)
-
-RESOURCE ID: tr_oricorio_mastery_paid_feb2026_header_2
-TEXT: งานวิจัยแบบจำกัดเวลาพรีเมียมผู้เชี่ยวชาญการจับ: โอโดริโดริ (3/10)
-
-RESOURCE ID: tr_oricorio_mastery_paid_feb2026_header_3
-TEXT: งานวิจัยแบบจำกัดเวลาพรีเมียมผู้เชี่ยวชาญการจับ: โอโดริโดริ (4/10)
-
-RESOURCE ID: tr_oricorio_mastery_paid_feb2026_header_4
-TEXT: งานวิจัยแบบจำกัดเวลาพรีเมียมผู้เชี่ยวชาญการจับ: โอโดริโดริ (5/10)
-
-RESOURCE ID: tr_oricorio_mastery_paid_feb2026_header_5
-TEXT: งานวิจัยแบบจำกัดเวลาพรีเมียมผู้เชี่ยวชาญการจับ: โอโดริโดริ (6/10)
-
-RESOURCE ID: tr_oricorio_mastery_paid_feb2026_header_6
-TEXT: งานวิจัยแบบจำกัดเวลาพรีเมียมผู้เชี่ยวชาญการจับ: โอโดริโดริ (7/10)
-
-RESOURCE ID: tr_oricorio_mastery_paid_feb2026_header_7
-TEXT: งานวิจัยแบบจำกัดเวลาพรีเมียมผู้เชี่ยวชาญการจับ: โอโดริโดริ (8/10)
-
-RESOURCE ID: tr_oricorio_mastery_paid_feb2026_header_8
-TEXT: งานวิจัยแบบจำกัดเวลาพรีเมียมผู้เชี่ยวชาญการจับ: โอโดริโดริ (9/10)
-
-RESOURCE ID: tr_oricorio_mastery_paid_feb2026_header_9
-TEXT: งานวิจัยแบบจำกัดเวลาพรีเมียมผู้เชี่ยวชาญการจับ: โอโดริโดริ (10/10)
-
 RESOURCE ID: tr_ppk_raid_lc_makegood_articuno_header_0
 TEXT: ตีบอส PokéPark KANTO: ฟรีเซอร์
 
@@ -3393,24 +2248,6 @@ TEXT: ตีบอส PokéPark KANTO: ไฟเยอร์
 
 RESOURCE ID: tr_ppk_raid_lc_makegood_zapdos_header_0
 TEXT: ตีบอส PokéPark KANTO: ธันเดอร์
-
-RESOURCE ID: tutorial_need_mega_body
-TEXT: จำเป็นต้องใช้โปเกมอนที่วิวัฒนาการเมก้า
-
-RESOURCE ID: tutorial_need_mega_title
-TEXT: วิวัฒนาการเมก้าเพื่อเตรียมพร้อม!
-
-RESOURCE ID: tv_title_go_tour_2026_global
-TEXT: GO Tour: คาลอส - ทั่วโลก
-
-RESOURCE ID: tv_title_go_tour_2026_global_extended
-TEXT: GO Tour: คาลอส - ทั่วโลก, โบนัสเพิ่มเติม
-
-RESOURCE ID: tv_title_go_tour_2026_global_extended_ticket
-TEXT: GO Tour: คาลอส - ทั่วโลก, โบนัสเพิ่มเติมตั๋ว
-
-RESOURCE ID: tv_title_go_tour_2026_global_ticket
-TEXT: GO Tour: คาลอส - ทั่วโลก, โบนัสตั๋ว
 
 RESOURCE ID: tv_title_go_tour_2026_la
 TEXT: GO Tour: คาลอส - ลอสแอนเจลิส
@@ -3469,30 +2306,6 @@ TEXT: แลกเปลี่ยนแบบพิเศษได้รวม 8
 RESOURCE ID: upmgmt_summary_success_points
 TEXT: เพิ่มแต้มทั้งหมด {0} แต้มให้เสาโปเกสต็อปและยิมแล้ว
 
-RESOURCE ID: use_raid_ticket_confirmation_buy_currency
-TEXT: เติม {0}
-
-RESOURCE ID: use_raid_ticket_confirmation_switch_currency_plural
-TEXT: เปลี่ยนเป็น {0} และ {1}
-
-RESOURCE ID: use_raid_ticket_confirmation_switch_currency_singular
-TEXT: เปลี่ยนเป็น {0}
-
-RESOURCE ID: use_raid_ticket_confirmation_ticket_return_count_plural
-TEXT: เข้าร่วมแบตเทิลตีบอส! (ใช้ {0} {1}เมื่อชนะ)
-
-RESOURCE ID: use_raid_ticket_confirmation_ticket_return_count_singular
-TEXT: เข้าร่วมแบตเทิลตีบอส! (ใช้ {0} {1}เมื่อชนะ)
-
-RESOURCE ID: valentines_day_2026_timed_research_tiitle
-TEXT: งานวิจัยแบบจำกัดเวลาอีเวนต์วาเลนไทน์
-
-RESOURCE ID: what_is_field_book_key
-TEXT: บันทึกภาคสนามคืออะไร?
-
-RESOURCE ID: wyf_event_name
-TEXT: What’s Your Favorite?
-
-RESOURCE ID: you_caught_day_night_pokemon
-TEXT: จับโปเกมอนที่สามารถเพิ่มในบันทึกภาคสนามได้แล้ว!
+RESOURCE ID: weekly_challenges_join_error_group_unavailable_title
+TEXT: Group not available
 
