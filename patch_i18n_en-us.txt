@@ -13,11 +13,26 @@ TEXT: Take a Photo
 RESOURCE ID: ar_photo_social_try_it_button_text_temp
 TEXT: Try It Out
 
+RESOURCE ID: avatar_backpack_s22blue
+TEXT: Blue-Style Bag
+
 RESOURCE ID: avatar_generic_name
 TEXT: 
 
 RESOURCE ID: avatar_glasses_ditto
 TEXT: Ditto Eye Mask
+
+RESOURCE ID: avatar_pants_s22blue
+TEXT: Blue-Style Pants
+
+RESOURCE ID: avatar_pose_s22blue
+TEXT: Blue-Style Pose
+
+RESOURCE ID: avatar_shirt_s22blue
+TEXT: Blue-Style Shirt
+
+RESOURCE ID: avatar_shoes_s22blue
+TEXT: Blue-Style Shoes
 
 RESOURCE ID: badge_event_0089
 TEXT: Partner Research — Shared Skies: SoftBank
@@ -74,7 +89,7 @@ RESOURCE ID: collection_challenge_night_treats
 TEXT: Night Treats Collection Challenge
 
 RESOURCE ID: combat_challenge_error_993_2
-TEXT: Friend unavailable for combat.
+TEXT: Friend unavailable for battle.
 
 RESOURCE ID: combat_defense_warning_out
 TEXT: Get Ready!
@@ -99,6 +114,9 @@ TEXT: For more details, visit the <a href="https://pokemongo.com/news/gigantamax
 
 RESOURCE ID: details_link_key_replay_water_research
 TEXT: For more details, visit the <a href="https://pokemongolive.com/news/replay-water-research-day-2026">website</a>.
+
+RESOURCE ID: details_link_key_shockingly_good
+TEXT: For more details, visit the <a href="https://pokemongo.com/news/a-shockingly-good-time">website</a>.
 
 RESOURCE ID: ditto_collab_1_cc
 TEXT: Pokémon Pokopia Collection Challenge 1
@@ -211,6 +229,9 @@ TEXT: Awarded at Rank 79
 RESOURCE ID: event_pass_premium_reward_banner_bottom_text_bugoutbuddies2026
 TEXT: Awarded at Rank 30
 
+RESOURCE ID: event_pass_premium_reward_banner_bottom_text_shockingly_good_2026
+TEXT: Awarded at Rank 30
+
 RESOURCE ID: event_season22_name
 TEXT: Current Season: Memories in Motion
 
@@ -230,6 +251,9 @@ TEXT:
 
 RESOURCE ID: event_ticket_time_article_singular
 TEXT: 
+
+RESOURCE ID: fashion_raid_day_event_name
+TEXT: Fashion Raid Day
 
 RESOURCE ID: fast_track_monday
 TEXT: Fast-Track Monday
@@ -374,6 +398,9 @@ TEXT: This ticket will automatically activate on March 14 to give you access to 
 RESOURCE ID: item_event_ticket_pink_details_waterrrd26
 TEXT: This ticket will automatically activate to give you access to three different Timed Research opportunities featuring Lotad, Feebas, and Clamperl on March 21, wherever you are.
 
+RESOURCE ID: item_shockingly_good_milestone_name
+TEXT: Avatar Item
+
 RESOURCE ID: lotad_paid_tr_name
 TEXT: Lotad Premium Timed Research
 
@@ -420,10 +447,10 @@ RESOURCE ID: mega_perk_xl_bonus_great_temp
 TEXT: Increased Candy XL Chance
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-03-11T02:08:00.064449+00:00 for en-US
-at SHA 26cfb532122
-Pipeline 3580989, job 52595823
-Patch from: 0.403.0-SHA-47e90574-RC1, 0.401.1-SHA-76ddd219-RC1
+TEXT: Built at 2026-03-17T07:55:43.492804+00:00 for en-US
+at SHA e157695082a
+Pipeline 3588968, job 52712730
+Patch from: 0.403.1-SHA-44b071fe-RC1, 0.401.1-SHA-76ddd219-RC1, 0.405.0-SHA-a59c0a8d-RC1
 
 RESOURCE ID: more_power_spots_active
 TEXT: Additional active Power Spots
@@ -453,7 +480,7 @@ RESOURCE ID: pokemon_desc_0778_busted
 TEXT: Sad that its true identity may be exposed, Mimikyu will mercilessly seek revenge on any opponent that breaks its neck.
 
 RESOURCE ID: pokemon_desc_0999_0002
-TEXT: It lurks inside a sturdy treasure chest and possesses solid defenses, but it's so heavy that it has difficulty moving around.
+TEXT: It lurks inside a sturdy treasure chest and possesses solid defenses, but it’s so heavy that it has difficulty moving around.
 
 RESOURCE ID: pokemon_desc_tmpevo_0026_0001
 TEXT: It resembles an X as it flies through the air with 50 million volts of electricity sparking from its ears and forked tail.
@@ -474,7 +501,7 @@ RESOURCE ID: pokemon_desc_tmpevo_0448_0002
 TEXT: By completely cloaking itself in its aura, Mega Lucario Z can parry all manner of attacks, battling as if it were gracefully dancing.
 
 RESOURCE ID: pokemon_desc_tmpevo_0485_0001
-TEXT: It's said that if it goes all out, it can heat its body up to temperatures over 1.8 million degrees Fahrenheit. This heat keeps enemies at bay.
+TEXT: It’s said that if it goes all out, it can heat its body up to temperatures over 1.8 million degrees Fahrenheit. This heat keeps enemies at bay.
 
 RESOURCE ID: pokemon_desc_tmpevo_0491_0001
 TEXT: Its dark power blocks out the sun, plunging the surrounding area into darkness. There is no escaping its evil eye.
@@ -495,22 +522,22 @@ RESOURCE ID: pokemon_desc_tmpevo_0740_0001
 TEXT: It can pulverize reinforced concrete with a light swing of one of its fists, each of which is covered in a thick layer of ice.
 
 RESOURCE ID: pokemon_desc_tmpevo_0768_0001
-TEXT: It uses four of its arms to fiercely assail its foes. Once they've been pushed to the brink of defeat, it finishes them off with the arms it kept hidden.
+TEXT: It uses four of its arms to fiercely assail its foes. Once they’ve been pushed to the brink of defeat, it finishes them off with the arms it kept hidden.
 
 RESOURCE ID: pokemon_desc_tmpevo_0801_0001
 TEXT: This is Magearna once a previously hidden mode activates. The emotions Magearna had begun to feel now hide away as it fells foe after foe.
 
 RESOURCE ID: pokemon_desc_tmpevo_0807_0001
-TEXT: It stores up 10 lightning strikes' worth of electricity. When it stops limiting itself, it's in the strongest class of electric Pokémon.
+TEXT: It stores up 10 lightning strikes’ worth of electricity. When it stops limiting itself, it’s in the strongest class of electric Pokémon.
 
 RESOURCE ID: pokemon_desc_tmpevo_0952_0001
-TEXT: Mega Evolution has dialed up this Pokémon's spiciness. It swings its "necktie" around to wallop its foes.
+TEXT: Mega Evolution has dialed up this Pokémon’s spiciness. It swings its “necktie” around to wallop its foes.
 
 RESOURCE ID: pokemon_desc_tmpevo_0970_0001
-TEXT: Glimmora's petals—now larger and separated from its main body—rotate around it to provide defense while scattering poisonous fragments.
+TEXT: Glimmora’s petals—now larger and separated from its main body—rotate around it to provide defense while scattering poisonous fragments.
 
 RESOURCE ID: pokemon_desc_tmpevo_0978_0001_01
-TEXT: Tatsugiri's brain has been invigorated by Mega Evolution, making it even wilier. It can create and command copies of itself.
+TEXT: Tatsugiri’s brain has been invigorated by Mega Evolution, making it even wilier. It can create and command copies of itself.
 
 RESOURCE ID: pokemon_desc_tmpevo_0978_0001_02
 TEXT: It solidifies the energy of Mega Evolution, building up an overflowing pile to launch as projectiles. These projectiles explode on contact.
@@ -579,7 +606,7 @@ RESOURCE ID: pokemon_name_0978_0001
 TEXT: Mega Tatsugiri
 
 RESOURCE ID: pokemon_name_0998_0001
-TEXT: Baxcalibur's dorsal blade has grown even more massive thanks to Mega Evolution. This Pokémon fires beams from the hilt at its solar plexus.
+TEXT: Baxcalibur’s dorsal blade has grown even more massive thanks to Mega Evolution. This Pokémon fires beams from the hilt at its solar plexus.
 
 RESOURCE ID: pokestop_field_book_message_with_times
 TEXT: Find Pokémon for your Field Book at this PokéStop. These Pokémon have Portraits that reflect where they were caught.
@@ -591,6 +618,12 @@ TEXT: Power Spots refresh more frequently
 
 RESOURCE ID: precious_paths_finale_tr
 TEXT: Precious Paths Finale Timed Research
+
+RESOURCE ID: quest_earn_candy_any_pokemon
+TEXT: Earn {0} Candy or Candy XL for any Pokémon
+
+RESOURCE ID: quest_earn_candy_any_pokemon_plural
+TEXT: Earn {0} Candy or Candy XL for any Pokémon
 
 RESOURCE ID: quest_scorbunny_catch_b
 TEXT: Catch {0} Scorbunny
@@ -680,6 +713,9 @@ TEXT: GO Pass: Pokémon 30th Anniversary
 RESOURCE ID: season_pass_base_track_title_bugoutbuddies2026
 TEXT: GO Pass: Bug Out
 
+RESOURCE ID: season_pass_base_track_title_shockingly_good_2026
+TEXT: GO Pass: A Shockingly Good Time
+
 RESOURCE ID: season_pass_bugoutbuddies2026_event_duration
 TEXT: March 17 – March 23
 
@@ -700,6 +736,9 @@ TEXT: For more details, visit the <a href="https://pokemongolive.com/news/bug-ou
 RESOURCE ID: season_pass_details_link_march2026
 TEXT: For more details, visit the <a href="https://pokemongo.com/go-pass">website</a>.
 
+RESOURCE ID: season_pass_details_link_shockingly_good_2026
+TEXT: For more details, visit the <a href="https://pokemongo.com/news/a-shockingly-good-time">website</a>.
+
 RESOURCE ID: season_pass_march2026_event_duration
 TEXT: March 3 – April 7
 
@@ -713,6 +752,9 @@ TEXT: Purchase GO Pass Deluxe: March to unlock the following rewards!
 • One <a href="https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2358-incubators-hatching-pokemon-eggs/">Timed Incubator</a>, which is an additional unlimited-use Incubator that you can use for a limited time to hatch Eggs as you explore!
 • And much more!
 
+RESOURCE ID: season_pass_premium_track_plus_six_ranks_title_shockingly_good_2026
+TEXT: GO Pass Deluxe: A Shockingly Good Time + 6 Ranks
+
 RESOURCE ID: season_pass_premium_track_plus_ten_ranks_title_30anniv_2026
 TEXT: GO Pass Deluxe: Pokémon 30th Anniversary + 10 Ranks
 
@@ -724,6 +766,32 @@ TEXT: GO Pass Deluxe: Pokémon 30th Anniversary
 
 RESOURCE ID: season_pass_premium_track_title_bugoutbuddies2026
 TEXT: GO Pass Deluxe: Bug Out
+
+RESOURCE ID: season_pass_premium_track_title_shockingly_good_2026
+TEXT: GO Pass Deluxe: A Shockingly Good Time
+
+RESOURCE ID: season_pass_shockingly_good_2026_event_duration
+TEXT: March 31 – April 6
+
+RESOURCE ID: season_pass_shockingly_good_2026_track_upgrade_header_description
+TEXT: Earn additional rewards and unlock an <b>avatar item</b> at Rank 30!
+
+RESOURCE ID: season_pass_shockingly_good_2026_upgrade_description
+TEXT: Purchase GO Pass Deluxe: A Shockingly Good Time to unlock the following rewards!
+
+• An avatar item
+• Encounters with event-themed Pokémon
+• Rare Candy XL
+• And much more!
+
+RESOURCE ID: shockingly_good_time_event_name
+TEXT: A Shockingly Good Time
+
+RESOURCE ID: shop_category_item_bundles
+TEXT: Item Bundles
+
+RESOURCE ID: shop_category_tickets
+TEXT: Tickets
 
 RESOURCE ID: showcase_tuesday
 TEXT: Showcase Tuesday
@@ -902,6 +970,36 @@ TEXT: PokéPark KANTO Raid: Moltres
 RESOURCE ID: tr_ppk_raid_lc_makegood_zapdos_header_0
 TEXT: PokéPark KANTO Raid: Zapdos
 
+RESOURCE ID: tw_festival_fr_location_background
+TEXT: Deerling and costumed Pikachu caught from Field Research tasks may have an exclusive Location Background
+
+RESOURCE ID: tw_festival_fr_task_refreshing
+TEXT: New Field Research can be obtained from the same PokéStop every three hours
+
+RESOURCE ID: tw_flower_festival_2026_tag
+TEXT: Taipei Floral Picnic 2026
+
+RESOURCE ID: tw_flower_festival_2026_title
+TEXT: Taipei Floral Picnic 2026
+
+RESOURCE ID: tw_flower_festival_2026_tr_name
+TEXT: Taipei Floral Picnic 2026 Background Timed Research
+
+RESOURCE ID: tw_flower_festival_2026_tr_name_1
+TEXT: Taipei Floral Picnic 2026 Background Timed Research (1/3)
+
+RESOURCE ID: tw_flower_festival_2026_tr_name_2
+TEXT: Taipei Floral Picnic 2026 Background Timed Research (2/3)
+
+RESOURCE ID: tw_flower_festival_2026_tr_name_3
+TEXT: Taipei Floral Picnic 2026 Background Timed Research (3/3)
+
+RESOURCE ID: tw_flower_festival_mar2026_cc_1
+TEXT: Taipei Floral Picnic 2026 Collection Challenge 1
+
+RESOURCE ID: tw_flower_festival_mar2026_cc_2
+TEXT: Taipei Floral Picnic 2026 Collection Challenge 2
+
 RESOURCE ID: twenty_five_percent_stardust_cost_trade_reduced_bonus
 TEXT: Up to 25% reduced Stardust cost for trades
 
@@ -933,5 +1031,53 @@ RESOURCE ID: upmgmt_summary_success_points
 TEXT: Total of {0} location point(s) added to a PokéStop or Gym
 
 RESOURCE ID: weekly_challenges_join_error_group_unavailable_title
-TEXT: Group not available
+TEXT: Group Not Available
+
+RESOURCE ID: welcome_back_research_early
+TEXT: Welcome Back!
+
+RESOURCE ID: welcome_back_research_early_end
+TEXT: Welcome Back!
+
+RESOURCE ID: welcome_back_research_extralong_1
+TEXT: Welcome Back! (1/4)
+
+RESOURCE ID: welcome_back_research_extralong_2
+TEXT: Welcome Back! (2/4)
+
+RESOURCE ID: welcome_back_research_extralong_3
+TEXT: Welcome Back! (3/4)
+
+RESOURCE ID: welcome_back_research_extralong_4
+TEXT: Welcome Back! (4/4)
+
+RESOURCE ID: welcome_back_research_extralong_end
+TEXT: Welcome Back!
+
+RESOURCE ID: welcome_back_research_long_1
+TEXT: Welcome Back! (1/3)
+
+RESOURCE ID: welcome_back_research_long_2
+TEXT: Welcome Back! (2/3)
+
+RESOURCE ID: welcome_back_research_long_3
+TEXT: Welcome Back! (3/3)
+
+RESOURCE ID: welcome_back_research_long_end
+TEXT: Welcome Back!
+
+RESOURCE ID: welcome_back_research_medium_1
+TEXT: Welcome Back! (1/2)
+
+RESOURCE ID: welcome_back_research_medium_2
+TEXT: Welcome Back! (2/2)
+
+RESOURCE ID: welcome_back_research_medium_end
+TEXT: Welcome Back!
+
+RESOURCE ID: welcome_back_research_short
+TEXT: Welcome Back!
+
+RESOURCE ID: welcome_back_research_short_end
+TEXT: Welcome Back!
 

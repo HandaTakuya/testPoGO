@@ -37,14 +37,39 @@ TEXT: ถ่ายภาพ
 RESOURCE ID: ar_photo_social_try_it_button_text_temp
 TEXT: ลองดู
 
+RESOURCE ID: avatar_backpack_s22blue
+TEXT: กระเป๋าสไตล์กรีน
+
 RESOURCE ID: avatar_generic_name
 TEXT: 
 
 RESOURCE ID: avatar_glasses_ditto
 TEXT: ผ้าปิดตาเมตามอน
 
+RESOURCE ID: avatar_pants_s22blue
+TEXT: กางเกงขายาว
+สไตล์กรีน
+
+RESOURCE ID: avatar_pose_s22blue
+TEXT: ท่าโพสกรีน
+
+RESOURCE ID: avatar_shirt_s22blue
+TEXT: เสื้อสไตล์กรีน
+
+RESOURCE ID: avatar_shoes_s22blue
+TEXT: รองเท้าสไตล์กรีน
+
+RESOURCE ID: bonus_black_version_glaciate
+TEXT: คิวเรมที่จับจากตีบอสแบล็กคิวเรมจะรู้ท่าโจมตีชาร์จ "โลกเยือกแข็ง"
+
 RESOURCE ID: bonus_cd_move_scorbunny
 TEXT: วิวัฒนาการแรบบิฟุตเป็นเอสเบิร์นที่รู้ท่าโจมตีชาร์จ "บลาสต์เบิร์น"
+
+RESOURCE ID: bonus_chance_roar_of_time
+TEXT: ดีอัลกา (ฟอร์มดั้งเดิม) ที่จับจากการตีบอสมีโอกาสที่จะรู้ท่าโจมตีชาร์จ "เสียงคำรามแห่งห้วงเวลา"
+
+RESOURCE ID: bonus_chance_spacial_rend
+TEXT: พัลเกีย (ฟอร์มดั้งเดิม) ที่จับจากการตีบอสมีโอกาสที่จะรู้ท่าโจมตีชาร์จ "ผ่ามิติ"
 
 RESOURCE ID: bonus_gift_inventory_40
 TEXT: จำนวนของขวัญที่เก็บไว้ได้เพิ่มเป็น 40 ชิ้น
@@ -91,8 +116,17 @@ TEXT: พบซีการ์ดเซลล์บนหลายเส้น�
 RESOURCE ID: bonus_incense_costume_pikachu
 TEXT: เครื่องหอมอาจดึงดูดพิคาชูในชุดคอสตูม
 
+RESOURCE ID: bonus_lc_wcs_2024_pikachu
+TEXT: พิคาชูในชุดคอสตูมที่จับจากตีบอสและภารกิจงานวิจัยภาคสนามอาจมีพื้นหลังสถานที่สุดพิเศษ
+
+RESOURCE ID: bonus_location_background_t1_raid
+TEXT: โปเกมอนที่จับจากตีบอสหนึ่งดาวจะมีพื้นหลังสถานที่สุดพิเศษ
+
 RESOURCE ID: bonus_mega_cp_boost
 TEXT: เพิ่ม CP สำหรับโปเกมอนที่วิวัฒนาการเมก้าทั้งหมด
+
+RESOURCE ID: bonus_pikachu_raid_location_background
+TEXT: พิคาชูที่จับจากตีบอสจะมีพื้นหลังสถานที่สุดพิเศษ
 
 RESOURCE ID: bonus_premier_ball_catch_rate_boost_high
 TEXT: พรีเมียร์บอลมีโอกาสในการจับติดสูงขึ้นอย่างมหาศาล
@@ -103,11 +137,29 @@ TEXT: พรีเมียร์บอลมีโอกาสในการ�
 RESOURCE ID: bonus_premier_ball_catch_rate_boost_small
 TEXT: พรีเมียร์บอลมีโอกาสในการจับติดสูงขึ้น
 
+RESOURCE ID: bonus_primal_rumblings_breaking_swipe
+TEXT: เร็คควอซาที่จับจากการตีบอสจะรู้ท่าโจมตีชาร์จ "ไวด์เบรกเกอร์" ด้วย
+
 RESOURCE ID: bonus_raid_6_candy_t5_and_mega
 TEXT: +6 ลูกอมเมื่อชนะตีบอสห้าดาวและตีบอสเมก้า
 
 RESOURCE ID: bonus_raid_6_xl_candy_t5_and_mega
 TEXT: +6 ลูกอม XL เมื่อชนะตีบอสห้าดาวและตีบอสเมก้า
+
+RESOURCE ID: bonus_road_to_sinnoh_cresselia_move
+TEXT: เครเซเลียที่จับจากตีบอสจะรู้ท่าโจมตีชาร์จ "ปมหญ้า" ด้วย
+
+RESOURCE ID: bonus_road_to_sinnoh_darkrai_move
+TEXT: ดาร์กไรที่จับจากตีบอสจะรู้ท่าโจมตีชาร์จ "สลัดจ์บอมบ์" ด้วย
+
+RESOURCE ID: bonus_road_to_sinnoh_giratina_move
+TEXT: กิราตินาที่จับจากตีบอสจะรู้ท่าโจมตีชาร์จ "ชาโดว์ไดฟ์" ด้วย
+
+RESOURCE ID: bonus_road_to_sinnoh_heatran_move
+TEXT: ฮีดรานที่จับจากตีบอสจะรู้ท่าโจมตีชาร์จ "แม็กมาสตอร์ม" ด้วย
+
+RESOURCE ID: bonus_roar_of_time
+TEXT: ดีอัลกา (ฟอร์มดั้งเดิม) ที่จับจากการตีบอสจะรู้ท่าโจมตีชาร์จ "เสียงคำรามแห่งห้วงเวลา"
 
 RESOURCE ID: bonus_routes_flabebe_los_angeles
 TEXT: เพิ่มโอกาสเผชิญหน้ากับฟลาเบเบร่างดอกไม้ขาว/ดอกไม้ส้ม/ดอกไม้เหลืองบนเส้นทาง
@@ -118,8 +170,17 @@ TEXT: เพิ่มโอกาสเผชิญหน้ากับฟล�
 RESOURCE ID: bonus_scatterbug_pin_3
 TEXT: เพิ่มความคืบหน้าเหรียญรางวัลย่อยโคฟูคิมูชิสำหรับแต่ละโปสการ์ดที่ปักหมุด
 
+RESOURCE ID: bonus_spacial_rend
+TEXT: พัลเกีย (ฟอร์มดั้งเดิม) ที่จับจากการตีบอสจะรู้ท่าโจมตีชาร์จ "ผ่ามิติ"
+
+RESOURCE ID: bonus_special_background_t1_t5_raid
+TEXT: โปเกมอนที่จับจากตีบอสหนึ่งดาวหรือห้าดาวอาจมีพื้นหลังพิเศษ
+
 RESOURCE ID: bonus_special_background_t5_and_mega_raid
-TEXT: โปเกมอนที่ถูกจับจากตีบอสห้าดาวและตีบอสเมก้าอาจมีพื้นหลังพิเศษ
+TEXT: โปเกมอนที่จับจากตีบอสห้าดาวและตีบอสเมก้าอาจมีพื้นหลังพิเศษ
+
+RESOURCE ID: bonus_special_background_t5_raid
+TEXT: โปเกมอนที่จับจากตีบอสห้าดาวอาจมีพื้นหลังพิเศษ
 
 RESOURCE ID: bonus_stickers_gotour_kalos
 TEXT: สามารถรับสติกเกอร์ธีม "GO Tour: คาลอส" ได้จากของขวัญและจากการหมุนเสาโปเกสต็อป
@@ -132,6 +193,9 @@ TEXT: อบูรีถูกดึงดูดด้วยอุปกรณ�
 
 RESOURCE ID: bonus_today_paras_standard_lure
 TEXT: พารัสถูกดึงดูดด้วยอุปกรณ์ปล่อยลัวร์มาตรฐาน
+
+RESOURCE ID: bonus_white_version_glaciate
+TEXT: คิวเรมที่จับจากตีบอสไวท์คิวเรมจะรู้ท่าโจมตีชาร์จ "โลกเยือกแข็ง"
 
 RESOURCE ID: bug_out_buddies2026_combee
 TEXT: ฝูงแมลงบุก: อุปกรณ์ปล่อยลัวร์ดึงดูดมิทซึฮันนี
@@ -184,7 +248,7 @@ RESOURCE ID: collection_challenge_night_treats
 TEXT: คำท้านักสะสมเลี้ยงฉลองยามค่ำคืน
 
 RESOURCE ID: combat_challenge_error_993_2
-TEXT: Friend unavailable for combat.
+TEXT: เพื่อนไม่สามารถเข้าร่วมได้
 
 RESOURCE ID: combat_defense_warning_out
 TEXT: เตรียมพร้อม!
@@ -225,6 +289,9 @@ TEXT: ตรวจสอบรายละเอียดได้ที่<a hr
 
 RESOURCE ID: details_link_key_replay_water_research
 TEXT: ตรวจสอบรายละเอียดได้ที่<a href="https://pokemongolive.com/news/replay-water-research-day-2026">เว็บไซต์</a>นี้
+
+RESOURCE ID: details_link_key_shockingly_good
+TEXT: ตรวจสอบรายละเอียดได้ที่<a href="https://pokemongo.com/news/a-shockingly-good-time">เว็บไซต์</a>นี้
 
 RESOURCE ID: ditto_collab_1_cc
 TEXT: คำท้านักสะสม Pokémon Pokopia 1
@@ -733,6 +800,9 @@ TEXT: ได้รับเมื่อถึงระดับ 79
 RESOURCE ID: event_pass_premium_reward_banner_bottom_text_bugoutbuddies2026
 TEXT: ได้รับเมื่อถึงระดับ 30
 
+RESOURCE ID: event_pass_premium_reward_banner_bottom_text_shockingly_good_2026
+TEXT: ได้รับเมื่อถึงระดับ 30
+
 RESOURCE ID: event_season22_name
 TEXT: ฤดูกาลปัจจุบัน: ความทรงจำพรั่งพรู
 
@@ -751,6 +821,9 @@ TEXT:
 
 RESOURCE ID: event_ticket_time_article_singular
 TEXT: 
+
+RESOURCE ID: fashion_raid_day_event_name
+TEXT: วันตีบอสแฟชั่น
 
 RESOURCE ID: fast_track_monday
 TEXT: วันจันทร์แต้มด่วน
@@ -1279,29 +1352,77 @@ TEXT: อุปกรณ์เก็บลิงก์ชาร์จที่�
 Campfire และการเปิดของขวัญจาก
 เพื่อน เป็นต้น
 
+RESOURCE ID: item_event_pass_point_go_fest_01_name
+TEXT: แต้มบัตรผ่าน
+
+RESOURCE ID: item_event_pass_point_go_fest_02_name
+TEXT: แต้มบัตรผ่าน
+
+RESOURCE ID: item_event_pass_point_go_fest_03_name
+TEXT: แต้มบัตรผ่าน
+
+RESOURCE ID: item_event_pass_point_go_fest_04_name
+TEXT: แต้มบัตรผ่าน
+
+RESOURCE ID: item_event_pass_point_go_tour_01_name
+TEXT: แต้มบัตรผ่าน
+
+RESOURCE ID: item_event_pass_point_go_tour_02_name
+TEXT: แต้มบัตรผ่าน
+
+RESOURCE ID: item_event_pass_point_go_tour_03_name
+TEXT: แต้มบัตรผ่าน
+
+RESOURCE ID: item_event_pass_point_go_tour_04_name
+TEXT: แต้มบัตรผ่าน
+
+RESOURCE ID: item_event_pass_point_go_wild_area_01_name
+TEXT: แต้มบัตรผ่าน
+
+RESOURCE ID: item_event_pass_point_go_wild_area_02_name
+TEXT: แต้มบัตรผ่าน
+
+RESOURCE ID: item_event_pass_point_go_wild_area_03_name
+TEXT: แต้มบัตรผ่าน
+
+RESOURCE ID: item_event_pass_point_go_wild_area_04_name
+TEXT: แต้มบัตรผ่าน
+
+RESOURCE ID: item_event_pass_point_live_ops_01_name
+TEXT: แต้มบัตรผ่าน
+
+RESOURCE ID: item_event_pass_point_live_ops_02_name
+TEXT: แต้มบัตรผ่าน
+
+RESOURCE ID: item_event_pass_point_live_ops_03_name
+TEXT: แต้มบัตรผ่าน
+
+RESOURCE ID: item_event_pass_point_live_ops_04_name
+TEXT: แต้มบัตรผ่าน
+
 RESOURCE ID: item_event_pass_point_live_ops_05_name
-TEXT: Pass Points
+TEXT: แต้มบัตรผ่าน
 
 RESOURCE ID: item_event_pass_point_live_ops_06_name
-TEXT: Pass Points
+TEXT: แต้มบัตรผ่าน
 
 RESOURCE ID: item_event_pass_point_live_ops_07_name
-TEXT: Pass Points
+TEXT: แต้มบัตรผ่าน
 
 RESOURCE ID: item_event_pass_point_live_ops_08_name
-TEXT: Pass Points
+TEXT: แต้มบัตรผ่าน
 
 RESOURCE ID: item_event_pass_point_monthly_01_name
-TEXT: Pass Points
+TEXT: แต้มบัตรผ่าน
 
 RESOURCE ID: item_event_pass_point_monthly_02_name
-TEXT: Pass Points
+TEXT: แต้มบัตรผ่าน
 
 RESOURCE ID: item_event_pass_point_monthly_03_name
-TEXT: Pass Points
+TEXT: แต้มบัตรผ่าน
 
 RESOURCE ID: item_event_pass_point_monthly_04_name
-TEXT: Pass Points
+TEXT: แต้มบัตรผ่าน
 
 RESOURCE ID: item_event_ticket_05_desc_gmax_pikachu_max_battle
 TEXT: ตั๋วสำหรับรับโบนัสพิเศษในวันที่
@@ -1335,6 +1456,18 @@ TEXT: ตั๋วสำหรับเข้าร่วมงานวิจ�
 ในวันที่ 21 มีนาคม
 คุณจะสามารถเข้าร่วมได้โดยอัตโนมัติ
 ตามเวลาท้องถิ่นทั่วโลก
+
+RESOURCE ID: item_shockingly_good_milestone_name
+TEXT: ไอเท็มอวาตาร์
+
+RESOURCE ID: kr_festival_fr_location_background
+TEXT: ชิคิจิกะและพิคาชูในชุดคอสตูมที่จับจากภารกิจงานวิจัยภาคสนามอาจมีพื้นหลังสถานที่สุดพิเศษ
+
+RESOURCE ID: kr_festival_raid_location_background
+TEXT: โปเกมอนที่จับจากตีบอสในอีเวนต์อาจมีพื้นหลังสถานที่พิเศษ
+
+RESOURCE ID: kr_festival_tr_location_background
+TEXT: โปเกมอนที่จับจากภารกิจงานวิจัยแบบจำกัดเวลาอาจมีพื้นหลังสถานที่พิเศษ
 
 RESOURCE ID: local_trade_action
 TEXT: แลกเปลี่ยน
@@ -1411,10 +1544,10 @@ RESOURCE ID: mega_perk_xl_bonus_great_temp
 TEXT: เพิ่มโอกาสรับลูกอม XL
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-03-11T02:08:00.064449+00:00 for th-TH
-at SHA 26cfb532122
-Pipeline 3580989, job 52595823
-Patch from: 0.403.0-SHA-47e90574-RC1, 0.401.1-SHA-76ddd219-RC1
+TEXT: Built at 2026-03-17T07:55:43.492804+00:00 for th-TH
+at SHA e157695082a
+Pipeline 3588968, job 52712730
+Patch from: 0.403.1-SHA-44b071fe-RC1, 0.401.1-SHA-76ddd219-RC1, 0.405.0-SHA-a59c0a8d-RC1
 
 RESOURCE ID: more_power_spots_active
 TEXT: พาวเวอร์สป็อตจะเพิ่มขึ้น
@@ -1423,7 +1556,7 @@ RESOURCE ID: move_name_0493
 TEXT: บอลเพลิง
 
 RESOURCE ID: no_claimable_rewards
-TEXT: รางวัลที่ไม่สามารถรับได้
+TEXT: ไม่มีรางวัลที่สามารถรับได้
 
 RESOURCE ID: paid_pikachu_gmax_tr_mar26
 TEXT: งานวิจัยแบบจำกัดเวลาพรีเมียม: พิคาชูกิกะแมกซ์
@@ -1446,7 +1579,7 @@ TEXT: เศร้าที่ตัวตนที่แท้จริงข�
 ของมันอย่างเด็ดขาดและเฝ้ารอล้างแค้น
 
 RESOURCE ID: pokemon_desc_0999_0002
-TEXT: It lurks inside a sturdy treasure chest and possesses solid defenses, but it's so heavy that it has difficulty moving around.
+TEXT: It lurks inside a sturdy treasure chest and possesses solid defenses, but it’s so heavy that it has difficulty moving around.
 
 RESOURCE ID: pokemon_desc_tmpevo_0026_0001
 TEXT: It resembles an X as it flies through the air with 50 million volts of electricity sparking from its ears and forked tail.
@@ -1467,7 +1600,7 @@ RESOURCE ID: pokemon_desc_tmpevo_0448_0002
 TEXT: By completely cloaking itself in its aura, Mega Lucario Z can parry all manner of attacks, battling as if it were gracefully dancing.
 
 RESOURCE ID: pokemon_desc_tmpevo_0485_0001
-TEXT: It's said that if it goes all out, it can heat its body up to temperatures over 1.8 million degrees Fahrenheit. This heat keeps enemies at bay.
+TEXT: It’s said that if it goes all out, it can heat its body up to temperatures over 1.8 million degrees Fahrenheit. This heat keeps enemies at bay.
 
 RESOURCE ID: pokemon_desc_tmpevo_0491_0001
 TEXT: Its dark power blocks out the sun, plunging the surrounding area into darkness. There is no escaping its evil eye.
@@ -1488,22 +1621,22 @@ RESOURCE ID: pokemon_desc_tmpevo_0740_0001
 TEXT: It can pulverize reinforced concrete with a light swing of one of its fists, each of which is covered in a thick layer of ice.
 
 RESOURCE ID: pokemon_desc_tmpevo_0768_0001
-TEXT: It uses four of its arms to fiercely assail its foes. Once they've been pushed to the brink of defeat, it finishes them off with the arms it kept hidden.
+TEXT: It uses four of its arms to fiercely assail its foes. Once they’ve been pushed to the brink of defeat, it finishes them off with the arms it kept hidden.
 
 RESOURCE ID: pokemon_desc_tmpevo_0801_0001
 TEXT: This is Magearna once a previously hidden mode activates. The emotions Magearna had begun to feel now hide away as it fells foe after foe.
 
 RESOURCE ID: pokemon_desc_tmpevo_0807_0001
-TEXT: It stores up 10 lightning strikes' worth of electricity. When it stops limiting itself, it's in the strongest class of electric Pokémon.
+TEXT: It stores up 10 lightning strikes’ worth of electricity. When it stops limiting itself, it’s in the strongest class of electric Pokémon.
 
 RESOURCE ID: pokemon_desc_tmpevo_0952_0001
-TEXT: Mega Evolution has dialed up this Pokémon's spiciness. It swings its "necktie" around to wallop its foes.
+TEXT: Mega Evolution has dialed up this Pokémon’s spiciness. It swings its “necktie” around to wallop its foes.
 
 RESOURCE ID: pokemon_desc_tmpevo_0970_0001
-TEXT: Glimmora's petals—now larger and separated from its main body—rotate around it to provide defense while scattering poisonous fragments.
+TEXT: Glimmora’s petals—now larger and separated from its main body—rotate around it to provide defense while scattering poisonous fragments.
 
 RESOURCE ID: pokemon_desc_tmpevo_0978_0001_01
-TEXT: Tatsugiri's brain has been invigorated by Mega Evolution, making it even wilier. It can create and command copies of itself.
+TEXT: Tatsugiri’s brain has been invigorated by Mega Evolution, making it even wilier. It can create and command copies of itself.
 
 RESOURCE ID: pokemon_desc_tmpevo_0978_0001_02
 TEXT: It solidifies the energy of Mega Evolution, building up an overflowing pile to launch as projectiles. These projectiles explode on contact.
@@ -1584,7 +1717,7 @@ RESOURCE ID: pokemon_name_0978_0001
 TEXT: Mega Tatsugiri
 
 RESOURCE ID: pokemon_name_0998_0001
-TEXT: Baxcalibur's dorsal blade has grown even more massive thanks to Mega Evolution. This Pokémon fires beams from the hilt at its solar plexus.
+TEXT: Baxcalibur’s dorsal blade has grown even more massive thanks to Mega Evolution. This Pokémon fires beams from the hilt at its solar plexus.
 
 RESOURCE ID: pokestop_field_book_message_with_times
 TEXT: พบโปเกมอนสำหรับบันทึกภาคสนามได้ที่เสาโปเกสต็อปนี้ โปเกมอนเหล่านี้จะมีภาพเหมือนที่แสดงสถานที่ที่พวกมันถูกจับ
@@ -1660,6 +1793,12 @@ TEXT: จับอีวุย
 
 RESOURCE ID: quest_complete_dec20cd
 TEXT: คอมมิวนิตี้เดย์ธันวาคม
+
+RESOURCE ID: quest_earn_candy_any_pokemon
+TEXT: ได้รับลูกอมหรือลูกอม XL ของโปเกมอน {0} เม็ด
+
+RESOURCE ID: quest_earn_candy_any_pokemon_plural
+TEXT: ได้รับลูกอมหรือลูกอม XL ของโปเกมอน {0} เม็ด
 
 RESOURCE ID: quest_form_change_furfrou_debutante
 TEXT: เปลี่ยนร่างทริมเมียนเป็นทรงสุภาพสตรี
@@ -1752,10 +1891,10 @@ RESOURCE ID: quests_log_complete_field_book_page
 TEXT: บันทึกภาคสนามที่เสร็จสมบูรณ์: {0} หน้า
 
 RESOURCE ID: raid_bonus_event_sb
-TEXT: โปเกมอนตามธีมอีเวนต์ที่ถูกจับจากตีบอสห้าดาวอาจมีพื้นหลังพิเศษ
+TEXT: โปเกมอนตามธีมอีเวนต์ที่จับจากตีบอสห้าดาวอาจมีพื้นหลังพิเศษ
 
 RESOURCE ID: raid_special_background
-TEXT: โปเกมอนที่ถูกจับจากตีบอสในอีเวนต์อาจมีพื้นหลังพิเศษ
+TEXT: โปเกมอนที่จับจากตีบอสในอีเวนต์อาจมีพื้นหลังพิเศษ
 
 RESOURCE ID: remote_raid_damage_warning
 TEXT: 
@@ -1841,6 +1980,9 @@ TEXT: บัตรผ่าน GO: อีเวนต์ครบรอบ 30 �
 RESOURCE ID: season_pass_base_track_title_bugoutbuddies2026
 TEXT: บัตรผ่าน GO: ฝูงแมลงบุก
 
+RESOURCE ID: season_pass_base_track_title_shockingly_good_2026
+TEXT: บัตรผ่าน GO: ไฟฟ้าสุดช็อก?
+
 RESOURCE ID: season_pass_bugoutbuddies2026_event_duration
 TEXT: 17 มีนาคม - 23 มีนาคม
 
@@ -1861,6 +2003,9 @@ TEXT: ตรวจสอบรายละเอียดได้ที่<a hr
 RESOURCE ID: season_pass_details_link_march2026
 TEXT: ตรวจสอบรายละเอียดได้ที่<a href="https://pokemongo.com/go-pass">เว็บไซต์</a>นี้
 
+RESOURCE ID: season_pass_details_link_shockingly_good_2026
+TEXT: ตรวจสอบรายละเอียดได้ที่<a href="https://pokemongo.com/news/a-shockingly-good-time">เว็บไซต์</a>นี้
+
 RESOURCE ID: season_pass_march2026_event_duration
 TEXT: 3 มีนาคม - 7 เมษายน
 
@@ -1874,6 +2019,9 @@ TEXT: ซื้อบัตรผ่าน GO Deluxe: มีนาคม เพ�
 - <a href="https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2358-incubators-hatching-pokemon-eggs/">เครื่องฟักไข่จำกัดเวลา</a>ที่สามารถฟักไข่ได้ไม่จำกัดจำนวนครั้ง 1 ชิ้น
 - และอื่น ๆ
 
+RESOURCE ID: season_pass_premium_track_plus_six_ranks_title_shockingly_good_2026
+TEXT: บัตรผ่าน GO Deluxe: ไฟฟ้าสุดช็อก? + 6 ระดับ
+
 RESOURCE ID: season_pass_premium_track_plus_ten_ranks_title_30anniv_2026
 TEXT: บัตรผ่าน GO Deluxe: อีเวนต์ครบรอบ 30 ปีโปเกมอน + 10 ระดับ
 
@@ -1885,6 +2033,32 @@ TEXT: บัตรผ่าน GO Deluxe: อีเวนต์ครบรอ�
 
 RESOURCE ID: season_pass_premium_track_title_bugoutbuddies2026
 TEXT: บัตรผ่าน GO Deluxe: ฝูงแมลงบุก
+
+RESOURCE ID: season_pass_premium_track_title_shockingly_good_2026
+TEXT: บัตรผ่าน GO Deluxe: ไฟฟ้าสุดช็อก?
+
+RESOURCE ID: season_pass_shockingly_good_2026_event_duration
+TEXT: 31 มีนาคม - 6 เมษายน
+
+RESOURCE ID: season_pass_shockingly_good_2026_track_upgrade_header_description
+TEXT: รับรางวัลเพิ่มเติมและปลดล็อก<b>ไอเท็มอวาตาร์</b>ที่ระดับ 30!
+
+RESOURCE ID: season_pass_shockingly_good_2026_upgrade_description
+TEXT: ซื้อบัตรผ่าน GO Deluxe: ไฟฟ้าสุดช็อก? เพื่อปลดล็อกรางวัลต่อไปนี้!
+
+- ไอเท็มอวาตาร์
+- การเผชิญหน้ากับโปเกมอนธีมอีเวนต์
+- ลูกอมประหลาด XL
+- และอื่น ๆ
+
+RESOURCE ID: shockingly_good_time_event_name
+TEXT: ไฟฟ้าสุดช็อก?
+
+RESOURCE ID: shop_category_item_bundles
+TEXT: Item Bundles
+
+RESOURCE ID: shop_category_tickets
+TEXT: Tickets
 
 RESOURCE ID: showcase_tuesday
 TEXT: วันอังคารงานโชว์ตัว
@@ -2273,6 +2447,37 @@ TEXT: GO Tour: คาลอส - ไถหนาน, โบนัสเพิ่
 RESOURCE ID: tv_title_go_tour_2026_tainan_park
 TEXT: GO Tour: คาลอส - ไถหนาน, รอบสวน
 
+RESOURCE ID: tw_festival_fr_location_background
+TEXT: ชิคิจิกะและพิคาชูในชุดคอสตูมที่จับจากภารกิจงานวิจัยภาคสนามอาจมีพื้นหลังสถานที่สุดพิเศษ
+
+RESOURCE ID: tw_festival_fr_task_refreshing
+TEXT: สามารถรับภารกิจงานวิจัยภาคสนามใหม่
+จากเสาโปเกสต็อปเดิมได้ทุก ๆ 3 ชั่วโมง
+
+RESOURCE ID: tw_flower_festival_2026_tag
+TEXT: ไทเปฟลอรัลปิกนิก 2026
+
+RESOURCE ID: tw_flower_festival_2026_title
+TEXT: ไทเปฟลอรัลปิกนิก 2026
+
+RESOURCE ID: tw_flower_festival_2026_tr_name
+TEXT: งานวิจัยแบบจำกัดเวลาพื้นหลังไทเปฟลอรัลปิกนิก 2026
+
+RESOURCE ID: tw_flower_festival_2026_tr_name_1
+TEXT: งานวิจัยแบบจำกัดเวลาพื้นหลังไทเปฟลอรัลปิกนิก 2026 (1/3)
+
+RESOURCE ID: tw_flower_festival_2026_tr_name_2
+TEXT: งานวิจัยแบบจำกัดเวลาพื้นหลังไทเปฟลอรัลปิกนิก 2026 (2/3)
+
+RESOURCE ID: tw_flower_festival_2026_tr_name_3
+TEXT: งานวิจัยแบบจำกัดเวลาพื้นหลังไทเปฟลอรัลปิกนิก 2026 (3/3)
+
+RESOURCE ID: tw_flower_festival_mar2026_cc_1
+TEXT: คำท้านักสะสมไทเปฟลอรัลปิกนิก 2026 (1)
+
+RESOURCE ID: tw_flower_festival_mar2026_cc_2
+TEXT: คำท้านักสะสมไทเปฟลอรัลปิกนิก 2026 (2)
+
 RESOURCE ID: twenty_five_percent_stardust_cost_trade_reduced_bonus
 TEXT: สตาร์ดัสต์ที่ใช้แลกเปลี่ยนลดสูงสุด 25%
 
@@ -2307,5 +2512,53 @@ RESOURCE ID: upmgmt_summary_success_points
 TEXT: เพิ่มแต้มทั้งหมด {0} แต้มให้เสาโปเกสต็อปและยิมแล้ว
 
 RESOURCE ID: weekly_challenges_join_error_group_unavailable_title
-TEXT: Group not available
+TEXT: ไม่มีกลุ่มที่สามารถเข้าร่วมได้
+
+RESOURCE ID: welcome_back_research_early
+TEXT: ยินดีต้อนรับกลับมา!
+
+RESOURCE ID: welcome_back_research_early_end
+TEXT: ยินดีต้อนรับกลับมา!
+
+RESOURCE ID: welcome_back_research_extralong_1
+TEXT: ยินดีต้อนรับกลับมา! (1/4)
+
+RESOURCE ID: welcome_back_research_extralong_2
+TEXT: ยินดีต้อนรับกลับมา! (2/4)
+
+RESOURCE ID: welcome_back_research_extralong_3
+TEXT: ยินดีต้อนรับกลับมา! (3/4)
+
+RESOURCE ID: welcome_back_research_extralong_4
+TEXT: ยินดีต้อนรับกลับมา! (4/4)
+
+RESOURCE ID: welcome_back_research_extralong_end
+TEXT: ยินดีต้อนรับกลับมา!
+
+RESOURCE ID: welcome_back_research_long_1
+TEXT: ยินดีต้อนรับกลับมา! (1/3)
+
+RESOURCE ID: welcome_back_research_long_2
+TEXT: ยินดีต้อนรับกลับมา! (2/3)
+
+RESOURCE ID: welcome_back_research_long_3
+TEXT: ยินดีต้อนรับกลับมา! (3/3)
+
+RESOURCE ID: welcome_back_research_long_end
+TEXT: ยินดีต้อนรับกลับมา!
+
+RESOURCE ID: welcome_back_research_medium_1
+TEXT: ยินดีต้อนรับกลับมา! (1/2)
+
+RESOURCE ID: welcome_back_research_medium_2
+TEXT: ยินดีต้อนรับกลับมา! (2/2)
+
+RESOURCE ID: welcome_back_research_medium_end
+TEXT: ยินดีต้อนรับกลับมา!
+
+RESOURCE ID: welcome_back_research_short
+TEXT: ยินดีต้อนรับกลับมา!
+
+RESOURCE ID: welcome_back_research_short_end
+TEXT: ยินดีต้อนรับกลับมา!
 
