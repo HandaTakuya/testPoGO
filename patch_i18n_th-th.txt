@@ -116,6 +116,9 @@ TEXT: โปเกมอนที่จับจากตีบอสหนึ�
 RESOURCE ID: bonus_mysterious_components
 TEXT: Extra Mysterious Components from Team GO Rocket Grunts
 
+RESOURCE ID: bonus_partner_campaign_sponsored_fr
+TEXT: งานวิจัยภาคสนามผู้สนับสนุนเฉพาะ FamilyMart ใช้งานได้แล้ว
+
 RESOURCE ID: bonus_party_extension_10_hr
 TEXT: Parties can last up to 10 hours during the event
 
@@ -130,6 +133,9 @@ TEXT: พิคาชูที่จับจากตีบอสและง�
 
 RESOURCE ID: bonus_pikachu_raid_location_background
 TEXT: พิคาชูที่จับจากตีบอสจะมีพื้นหลังสถานที่สุดพิเศษ
+
+RESOURCE ID: bonus_pokestop_spin_increase_item
+TEXT: เพิ่มโอกาสได้รับไอเท็มจากการหมุนเสาโปเกสต็อปหรือยิม
 
 RESOURCE ID: bonus_primal_rumblings_breaking_swipe
 TEXT: เร็คควอซาที่จับจากการตีบอสจะรู้ท่าโจมตีชาร์จ "ไวด์เบรกเกอร์" ด้วย
@@ -187,6 +193,9 @@ TEXT: กล่องเครื่องหอมเลี้ยงฉลอ�
 
 RESOURCE ID: bundle.night.treats.raid_title
 TEXT: กล่องตีบอสเลี้ยงฉลองยามค่ำคืน
+
+RESOURCE ID: challenge_buddy_snapshot_days_plural
+TEXT: ถ่ายภาพคู่หูของคุณ {0} วัน
 
 RESOURCE ID: city_manhole_100_c0f4
 TEXT: มาจิดะ
@@ -2032,6 +2041,9 @@ TEXT: 24 กุมภาพันธ์ ถึง 2 มีนาคม
 RESOURCE ID: gotour_2026_event_duration
 TEXT: 23 กุมภาพันธ์ ถึง 1 มีนาคม
 
+RESOURCE ID: gym_sponsored_familymart
+TEXT: FamilyMart
+
 RESOURCE ID: increased_mega_level_caught_desc
 TEXT: เมื่อจับโปเกมอนจากงานวิจัย มันอาจเป็นโปเกมอนที่มีระดับเมก้า 1 ขึ้นไป
 
@@ -2242,10 +2254,10 @@ RESOURCE ID: mega_perk_xl_bonus_great
 TEXT: เพิ่มโอกาสรับลูกอม XL ตามระดับเมก้า
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-03-30T23:15:04.249978+00:00 for th-TH
-at SHA ca0c0341b24
-Pipeline 3606716, job 52990590
-Patch from: 0.405.0-SHA-23452ce6-RC4, 0.403.1-SHA-44b071fe-RC1, 0.407.0-SHA-04647a4f-RC1
+TEXT: Built at 2026-04-01T23:06:01.689415+00:00 for th-TH
+at SHA 8b95ab304d1
+Pipeline 3611161, job 53059751
+Patch from: 0.403.1-SHA-44b071fe-RC1, 0.405.0-SHA-23452ce6-RC4, 0.407.0-SHA-04647a4f-RC1
 
 RESOURCE ID: move_name_0494
 TEXT: ค้อนใหญ่ยักษ์
@@ -2261,6 +2273,16 @@ TEXT: งานวิจัยแบบจำกัดเวลาพรีเ�
 
 RESOURCE ID: photobomb_five_tinkatink
 TEXT: คานุจังแย่งซีนถ่ายรูปในโกสแนปช็อต 5 ครั้ง
+
+RESOURCE ID: pokelid_collection
+TEXT: Poké Lid Stamp Rally
+
+RESOURCE ID: pokelid_subheader_description
+TEXT: This is a stamp rally where you visit PokéLids installed across Japan.
+
+RESOURCE ID: pokelid_where_description
+TEXT: All across Japan
+You can check the locations of the PokéLids on the following website.
 
 RESOURCE ID: pokemon_desc_0670_0002
 TEXT: ฟลาเอตเตหายากที่โอบกอดพืชที่สูญพันธุ์ไปตั้งแต่
@@ -3172,6 +3194,36 @@ TEXT: งานวิจัยแบบจำกัดเวลาโบนั�
 RESOURCE ID: tr_npb2026_header_2_desc
 TEXT: อินนิ่งสุดท้าย
 
+RESOURCE ID: tr_partner_familymart_april2026
+TEXT: งานวิจัยพาร์ทเนอร์: FamilyMart
+
+RESOURCE ID: tr_partner_familymart_april2026_badge0194
+TEXT: งานวิจัยพาร์ทเนอร์ - ความทรงจำพรั่งพรู: FamilyMart
+
+RESOURCE ID: tr_partner_familymart_april2026_header_0
+TEXT: งานวิจัยพาร์ทเนอร์: FamilyMart (1/8)
+
+RESOURCE ID: tr_partner_familymart_april2026_header_1
+TEXT: งานวิจัยพาร์ทเนอร์: FamilyMart (2/8)
+
+RESOURCE ID: tr_partner_familymart_april2026_header_2
+TEXT: งานวิจัยพาร์ทเนอร์: FamilyMart (3/8)
+
+RESOURCE ID: tr_partner_familymart_april2026_header_3
+TEXT: งานวิจัยพาร์ทเนอร์: FamilyMart (4/8)
+
+RESOURCE ID: tr_partner_familymart_april2026_header_4
+TEXT: งานวิจัยพาร์ทเนอร์: FamilyMart (5/8)
+
+RESOURCE ID: tr_partner_familymart_april2026_header_5
+TEXT: งานวิจัยพาร์ทเนอร์: FamilyMart (6/8)
+
+RESOURCE ID: tr_partner_familymart_april2026_header_6
+TEXT: งานวิจัยพาร์ทเนอร์: FamilyMart (7/8)
+
+RESOURCE ID: tr_partner_familymart_april2026_header_7
+TEXT: งานวิจัยพาร์ทเนอร์: FamilyMart (8/8)
+
 RESOURCE ID: tr_ppk_raid_lc_makegood_articuno_header_0
 TEXT: ตีบอส PokéPark KANTO: ฟรีเซอร์
 
@@ -3180,6 +3232,10 @@ TEXT: ตีบอส PokéPark KANTO: ไฟเยอร์
 
 RESOURCE ID: tr_ppk_raid_lc_makegood_zapdos_header_0
 TEXT: ตีบอส PokéPark KANTO: ธันเดอร์
+
+RESOURCE ID: trade_mega_level_prompt_title_out
+TEXT: คุณแน่ใจหรือไม่ว่าต้องการ
+แลกเปลี่ยนโปเกมอนนี้?
 
 RESOURCE ID: tw_festival_fr_location_background
 TEXT: ชิคิจิกะและพิคาชูในชุดคอสตูมที่จับจากภารกิจงานวิจัยภาคสนามอาจมีพื้นหลังสถานที่สุดพิเศษ
