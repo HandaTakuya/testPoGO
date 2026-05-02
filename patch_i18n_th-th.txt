@@ -1,1116 +1,114 @@
 RESOURCE ID: adventure_sync_prompt_cta
-TEXT: Turn on System Settings
+TEXT: เปิด
 
 RESOURCE ID: adventure_sync_prompt_desc
-TEXT: Incubate Eggs while Pokémon GO is closed.
+TEXT: ฟักไข่แม้ขณะที่ Pokémon GO ปิดอยู่
 
-RESOURCE ID: apac_childrens_day_2026_title
-TEXT: เวลาแห่งการเติบโต
+RESOURCE ID: avatar_glasses_greatball
+TEXT: แว่นกันแดดซูเปอร์บอล
 
-RESOURCE ID: apac_childrens_day_2026_tr_name
-TEXT: งานวิจัยแบบจำกัดเวลาเวลาแห่งการเติบโต
+RESOURCE ID: avatar_glasses_pokeball
+TEXT: แว่นกันแดดมอนสเตอร์บอล
 
-RESOURCE ID: apac_childrens_day_2026_tr_name_1
-TEXT: งานวิจัยแบบจำกัดเวลาเวลาแห่งการเติบโต (1/3)
+RESOURCE ID: avatar_glasses_ultraball
+TEXT: แว่นกันแดดไฮเปอร์บอล
 
-RESOURCE ID: apac_childrens_day_2026_tr_name_2
-TEXT: งานวิจัยแบบจำกัดเวลาเวลาแห่งการเติบโต (2/3)
+RESOURCE ID: avatar_pose_team_leader
+TEXT: ท่าโพสหัวหน้าทีม
 
-RESOURCE ID: apac_childrens_day_2026_tr_name_3
-TEXT: งานวิจัยแบบจำกัดเวลาเวลาแห่งการเติบโต (3/3)
+RESOURCE ID: avatar_shirt_100thieves_x
+TEXT: เสื้อฮู้ดเมก้ามิวทู X | 100 Thieves
 
-RESOURCE ID: apac_childrens_day_may2026_cc_1
-TEXT: คำท้านักสะสมเวลาแห่งการเติบโต 1
+RESOURCE ID: avatar_shirt_100thieves_y
+TEXT: เสื้อฮู้ดเมก้ามิวทู Y | 100 Thieves
 
-RESOURCE ID: apac_childrens_day_may2026_cc_2
-TEXT: คำท้านักสะสมเวลาแห่งการเติบโต 2
+RESOURCE ID: avatar_shirt_10thanniversarybeige
+TEXT: เสื้อยืดครบรอบ 10 ปี (สีเบจ)
 
-RESOURCE ID: ar_photo_social_try_it_button_text
-TEXT: ลองดู
+RESOURCE ID: avatar_shirt_10thanniversaryorange
+TEXT: เสื้อยืดครบรอบ 10 ปี (สีเหลือง)
 
-RESOURCE ID: ar_photo_social_try_it_button_text_temp
-TEXT: ถ่ายภาพ
+RESOURCE ID: avatar_shirt_gofest2026black
+TEXT: เสื้อยืด GO Fest 2026 (สีดำ)
 
-RESOURCE ID: avatar_backpack_s22blue
-TEXT: กระเป๋าสไตล์กรีน
+RESOURCE ID: avatar_shirt_gofest2026purple
+TEXT: เสื้อยืด GO Fest 2026 (สีม่วง)
 
-RESOURCE ID: avatar_pants_s22blue
-TEXT: กางเกงขายาว
-สไตล์กรีน
+RESOURCE ID: avatar_shirt_gofest2026zeraora
+TEXT: เสื้อยืดเซราโอรา
 
-RESOURCE ID: avatar_pose_plant
-TEXT: ท่าโพสไม้กระถาง
+RESOURCE ID: avatar_shoes_marathon
+TEXT: รองเท้ามาราธอน (สีดำ)
 
-RESOURCE ID: avatar_pose_s22blue
-TEXT: ท่าโพสกรีน
+RESOURCE ID: banner_bug_poison_bug_grass
+TEXT: Verdant Anomaly: Bug
 
-RESOURCE ID: avatar_shirt_mimikyu_hoodoff
-TEXT: เสื้อมิมิคคิว (ร่างที่ถูกเปิดเผย)
+RESOURCE ID: banner_dark_dark_fairy_fighting
+TEXT: Twilight Battlefield: Dark
 
-RESOURCE ID: avatar_shirt_mimikyu_hoodon
-TEXT: เสื้อมิมิคคิว (ร่างปลอมตัว)
+RESOURCE ID: banner_dragon_flying_rock_dragon
+TEXT: Dragonflight Summit: Dragon
 
-RESOURCE ID: avatar_shirt_s22blue
-TEXT: เสื้อสไตล์กรีน
+RESOURCE ID: banner_electric_ice_electric_fire
+TEXT: Stormfire Peaks: Electric
 
-RESOURCE ID: avatar_shirt_wcsregional2026
-TEXT: เสื้อยืดแชมป์ภูมิภาค WCS 2026
+RESOURCE ID: banner_fairy_dark_fairy_fighting
+TEXT: Twilight Battlefield: Fairy
 
-RESOURCE ID: avatar_shirt_wcsregional2027
-TEXT: เสื้อยืดแชมป์ภูมิภาค WCS 2027
+RESOURCE ID: banner_fighting_dark_fairy_fighting
+TEXT: Twilight Battlefield: Fighting
 
-RESOURCE ID: avatar_shoes_s22blue
-TEXT: รองเท้าสไตล์กรีน
+RESOURCE ID: banner_fire_ice_electric_fire
+TEXT: Stormfire Peaks: Fire
 
-RESOURCE ID: bonus_10x_catch_xp
-TEXT: 10× XP จากการจับ
+RESOURCE ID: banner_flying_flying_rock_dragon
+TEXT: Dragonflight Summit: Flying
 
-RESOURCE ID: bonus_3000_raid_xp
-TEXT: +3,000 XP เมื่อตีบอสเสร็จสิ้น
+RESOURCE ID: banner_ghost_psychic_ghost_water
+TEXT: Astral Tides: Ghost
 
-RESOURCE ID: bonus_3x_candy
-TEXT: 3× ลูกอมจากการจับ
+RESOURCE ID: banner_grass_poison_bug_grass
+TEXT: Verdant Anomaly: Grass
+
+RESOURCE ID: banner_ground_ground_steel_normal
+TEXT: Earthforged Domain: Ground
+
+RESOURCE ID: banner_ice_ice_electric_fire
+TEXT: Stormfire Peaks: Ice
+
+RESOURCE ID: banner_normal_ground_steel_normal
+TEXT: Earthforged Domain: Normal
+
+RESOURCE ID: banner_poison_poison_bug_grass
+TEXT: Verdant Anomaly: Poison
+
+RESOURCE ID: banner_psychic_psychic_ghost_water
+TEXT: Astral Tides: Psychic
+
+RESOURCE ID: banner_rock_flying_rock_dragon
+TEXT: Dragonflight Summit: Rock
+
+RESOURCE ID: banner_steel_ground_steel_normal
+TEXT: Earthforged Domain: Steel
+
+RESOURCE ID: banner_water_psychic_ghost_water
+TEXT: Astral Tides: Water
+
+RESOURCE ID: battle_hub_help_tutorial
+TEXT: เอาชนะเทรนเนอร์คนอื่นเพื่อเพิ่มระดับ
+ของคุณและรับของรางวัลที่ดีขึ้น
+ระดับและรางวัลจะถูกรีเซ็ตเมื่อสิ้นสุด
+แต่ละฤดูกาล ฤดูกาลนี้จะจบลงในวันที่
+{0}
 
 RESOURCE ID: bonus_5000_xp_raid
-TEXT: +5000 XP for successful completion of a raid
-
-RESOURCE ID: bonus_black_version_glaciate
-TEXT: คิวเรมที่จับจากตีบอสแบล็กคิวเรมจะรู้ท่าโจมตีชาร์จ "โลกเยือกแข็ง"
+TEXT: +5,000 XP เมื่อตีบอสเสร็จสิ้น
 
 RESOURCE ID: bonus_cd_move_lechonk
 TEXT: วิวัฒนาการกูร์ตงเป็นเพอร์ฟูตงที่รู้ท่าโจมตีเร็ว "สาดโคลน"
 
-RESOURCE ID: bonus_cd_move_tinkatink
-TEXT: วิวัฒนาการนาคานุจังเป็นเดคานุจังที่รู้ท่าโจมตีชาร์จ "ค้อนใหญ่ยักษ์"
-
-RESOURCE ID: bonus_chance_roar_of_time
-TEXT: ดีอัลกา (ฟอร์มดั้งเดิม) ที่จับจากการตีบอสมีโอกาสที่จะรู้ท่าโจมตีชาร์จ "เสียงคำรามแห่งห้วงเวลา"
-
-RESOURCE ID: bonus_chance_spacial_rend
-TEXT: พัลเกีย (ฟอร์มดั้งเดิม) ที่จับจากการตีบอสมีโอกาสที่จะรู้ท่าโจมตีชาร์จ "ผ่ามิติ"
-
-RESOURCE ID: bonus_event_mega_stamp_rally_rewards
-TEXT: แวะไปเสาโปเกสต็อปแสตมป์แรลลี GO ที่ MEGA FESTA 2026 ในโซล แล้วสะสมแสตมป์เพื่อเผชิญหน้ากับเหล่าโปเกมอนที่สวมหมวกปาร์ตี้
-
-RESOURCE ID: bonus_extra_items_from_spins
-TEXT: เพิ่มไอเท็มที่ได้รับจากการหมุนเสาโปเกสต็อป
-
-RESOURCE ID: bonus_incense_2h
-TEXT: เครื่องหอมมีผล 2 ชม.
-
-RESOURCE ID: bonus_lc_wcs_2024_pikachu
-TEXT: พิคาชูในชุดคอสตูมที่จับจากตีบอสและภารกิจงานวิจัยภาคสนามอาจมีพื้นหลังสถานที่สุดพิเศษ
-
-RESOURCE ID: bonus_location_background_t1_raid
-TEXT: โปเกมอนที่จับจากตีบอสหนึ่งดาวจะมีพื้นหลังสถานที่สุดพิเศษ
-
-RESOURCE ID: bonus_mysterious_components
-TEXT: ได้รับชิ้นส่วนลึกลับจากลูกสมุนแก๊งโกร็อกเกตเพิ่มขึ้น
-
-RESOURCE ID: bonus_partner_campaign_sponsored_fr
-TEXT: งานวิจัยภาคสนามผู้สนับสนุนเฉพาะ FamilyMart ใช้งานได้แล้ว
-
-RESOURCE ID: bonus_party_extension_10_hr
-TEXT: ปาร์ตี้สามารถอยู่ได้ถึง 10 ชั่วโมงในระหว่างอีเวนต์
-
-RESOURCE ID: bonus_party_extension_9_hr
-TEXT: ปาร์ตี้สามารถอยู่ได้ถึง 9 ชั่วโมงในระหว่างอีเวนต์
-
-RESOURCE ID: bonus_pikachu_npb_costume
-TEXT: พิคาชูสวมเสื้อเบสบอลปรากฏตัวในตีบอสและงานวิจัยแบบจำกัดเวลา
-
-RESOURCE ID: bonus_pikachu_npb_location_card
-TEXT: พิคาชูที่จับจากตีบอสและงานวิจัยแบบจำกัดเวลาอาจมีพื้นหลังสถานที่สุดพิเศษ
-
-RESOURCE ID: bonus_pikachu_raid_location_background
-TEXT: พิคาชูที่จับจากตีบอสจะมีพื้นหลังสถานที่สุดพิเศษ
-
-RESOURCE ID: bonus_pokestop_spin_increase_item
-TEXT: เพิ่มโอกาสได้รับไอเท็มจากการหมุนเสาโปเกสต็อปหรือยิม
-
-RESOURCE ID: bonus_primal_rumblings_breaking_swipe
-TEXT: เร็คควอซาที่จับจากการตีบอสจะรู้ท่าโจมตีชาร์จ "ไวด์เบรกเกอร์" ด้วย
-
 RESOURCE ID: bonus_reward_1-5x_catch_quality_xp
-TEXT: 1.5× XP for Nice, Great, Excellent, and Curveball Throws
-
-RESOURCE ID: bonus_reward_third_hatch_distance
-TEXT: 1/2 ระยะทางฟักไข่
-
-RESOURCE ID: bonus_road_to_sinnoh_cresselia_move
-TEXT: เครเซเลียที่จับจากตีบอสจะรู้ท่าโจมตีชาร์จ "ปมหญ้า" ด้วย
-
-RESOURCE ID: bonus_road_to_sinnoh_darkrai_move
-TEXT: ดาร์กไรที่จับจากตีบอสจะรู้ท่าโจมตีชาร์จ "สลัดจ์บอมบ์" ด้วย
-
-RESOURCE ID: bonus_road_to_sinnoh_giratina_move
-TEXT: กิราตินาที่จับจากตีบอสจะรู้ท่าโจมตีชาร์จ "ชาโดว์ไดฟ์" ด้วย
-
-RESOURCE ID: bonus_road_to_sinnoh_heatran_move
-TEXT: ฮีดรานที่จับจากตีบอสจะรู้ท่าโจมตีชาร์จ "แม็กมาสตอร์ม" ด้วย
-
-RESOURCE ID: bonus_roar_of_time
-TEXT: ดีอัลกา (ฟอร์มดั้งเดิม) ที่จับจากการตีบอสจะรู้ท่าโจมตีชาร์จ "เสียงคำรามแห่งห้วงเวลา"
-
-RESOURCE ID: bonus_shadow_shards
-TEXT: ได้รับชิ้นส่วนชาโดว์จากลูกสมุนแก๊งโกร็อกเกตและตีบอสชาโดว์เพิ่มขึ้น
-
-RESOURCE ID: bonus_spacial_rend
-TEXT: พัลเกีย (ฟอร์มดั้งเดิม) ที่จับจากการตีบอสจะรู้ท่าโจมตีชาร์จ "ผ่ามิติ"
-
-RESOURCE ID: bonus_special_background_t1_t5_raid
-TEXT: โปเกมอนที่จับจากตีบอสหนึ่งดาวหรือห้าดาวอาจมีพื้นหลังพิเศษ
-
-RESOURCE ID: bonus_special_background_t5_and_mega_raid
-TEXT: โปเกมอนที่จับจากตีบอสห้าดาวและตีบอสเมก้าอาจมีพื้นหลังพิเศษ
-
-RESOURCE ID: bonus_special_background_t5_raid
-TEXT: โปเกมอนที่จับจากตีบอสห้าดาวอาจมีพื้นหลังพิเศษ
-
-RESOURCE ID: bonus_today_lapras_route
-TEXT: ลาพลาซและซันนีโก (ร่างกาลาร์) อาจปรากฏตัวขึ้น
-ระหว่างเดินตามเส้นทาง
-
-RESOURCE ID: bonus_today_togetic_route
-TEXT: โทเกชิกและซันนีโก (ร่างกาลาร์) อาจปรากฏตัวขึ้น
-ระหว่างเดินตามเส้นทาง
-
-RESOURCE ID: bonus_today_trubbish_route
-TEXT: ยาบุคุรอนและซันนีโก (ร่างกาลาร์) อาจปรากฏตัวขึ้น
-ระหว่างเดินตามเส้นทาง
-
-RESOURCE ID: bonus_white_version_glaciate
-TEXT: คิวเรมที่จับจากตีบอสไวท์คิวเรมจะรู้ท่าโจมตีชาร์จ "โลกเยือกแข็ง"
-
-RESOURCE ID: challenge_buddy_snapshot_days_plural
-TEXT: ถ่ายภาพคู่หูของคุณ {0} วัน
-
-RESOURCE ID: city_manhole_100_c0f4
-TEXT: มาจิดะ
-
-RESOURCE ID: city_manhole_101_9594
-TEXT: มาจิดะ
-
-RESOURCE ID: city_manhole_102_698e
-TEXT: มาจิดะ
-
-RESOURCE ID: city_manhole_103_3103
-TEXT: มาจิดะ
-
-RESOURCE ID: city_manhole_104_8d97
-TEXT: โอตสึ
-
-RESOURCE ID: city_manhole_105_8313
-TEXT: โอตสึ
-
-RESOURCE ID: city_manhole_106_5a2a
-TEXT: ชิซุ
-
-RESOURCE ID: city_manhole_107_915e
-TEXT: ยาซุ
-
-RESOURCE ID: city_manhole_108_3804
-TEXT: โฮกุเอ
-
-RESOURCE ID: city_manhole_109_6665
-TEXT: ฮิเอซุ
-
-RESOURCE ID: city_manhole_10_00a3
-TEXT: โอฟุนาโตะ
-
-RESOURCE ID: city_manhole_110_1d65
-TEXT: โคฟุ
-
-RESOURCE ID: city_manhole_111_d006
-TEXT: มิยาซากิ
-
-RESOURCE ID: city_manhole_112_e023
-TEXT: มิยาโกโนโจ
-
-RESOURCE ID: city_manhole_113_7fea
-TEXT: โนเบโอกะ
-
-RESOURCE ID: city_manhole_114_aa4f
-TEXT: นิจินัน
-
-RESOURCE ID: city_manhole_115_28bf
-TEXT: โคบายาชิ
-
-RESOURCE ID: city_manhole_116_b20d
-TEXT: ฮิวงะ
-
-RESOURCE ID: city_manhole_117_07bb
-TEXT: คุชิมะ
-
-RESOURCE ID: city_manhole_118_5a7c
-TEXT: ไซโตะ
-
-RESOURCE ID: city_manhole_119_aa80
-TEXT: เอบิโนะ
-
-RESOURCE ID: city_manhole_11_dc92
-TEXT: ทากามัตสึ
-
-RESOURCE ID: city_manhole_120_7731
-TEXT: ชิโรอิชิ
-
-RESOURCE ID: city_manhole_121_9b51
-TEXT: คากุดะ
-
-RESOURCE ID: city_manhole_122_5cf2
-TEXT: โทเมะ
-
-RESOURCE ID: city_manhole_123_2645
-TEXT: คุริฮาระ
-
-RESOURCE ID: city_manhole_124_c471
-TEXT: โอซากิ
-
-RESOURCE ID: city_manhole_125_e5f8
-TEXT: โทมิยะ
-
-RESOURCE ID: city_manhole_126_f4fd
-TEXT: ซาโอ
-
-RESOURCE ID: city_manhole_127_9a38
-TEXT: ชิจิกาชุกุ
-
-RESOURCE ID: city_manhole_128_36bb
-TEXT: โองาวาระ
-
-RESOURCE ID: city_manhole_129_6086
-TEXT: มุราตะ
-
-RESOURCE ID: city_manhole_12_1f87
-TEXT: มารุงาเมะ
-
-RESOURCE ID: city_manhole_130_9200
-TEXT: ชิบาตะ
-
-RESOURCE ID: city_manhole_131_59a0
-TEXT: คาวาซากิ
-
-RESOURCE ID: city_manhole_132_78ad
-TEXT: มารุโมริ
-
-RESOURCE ID: city_manhole_133_7264
-TEXT: ไทวะ
-
-RESOURCE ID: city_manhole_134_e1f8
-TEXT: โอซาโตะ
-
-RESOURCE ID: city_manhole_135_d402
-TEXT: โอฮิระ
-
-RESOURCE ID: city_manhole_136_94c8
-TEXT: ชิกามะ
-
-RESOURCE ID: city_manhole_137_1c48
-TEXT: คามิ
-
-RESOURCE ID: city_manhole_138_e120
-TEXT: วากุยะ
-
-RESOURCE ID: city_manhole_139_d638
-TEXT: มิซาโตะ
-
-RESOURCE ID: city_manhole_13_8eff
-TEXT: ซากาอิเดะ
-
-RESOURCE ID: city_manhole_140_c9c8
-TEXT: โทมาโกไม
-
-RESOURCE ID: city_manhole_141_535d
-TEXT: มิกาสะ
-
-RESOURCE ID: city_manhole_142_1b5d
-TEXT: คามิฟุราโนะ
-
-RESOURCE ID: city_manhole_143_bd68
-TEXT: เคมบุจิ
-
-RESOURCE ID: city_manhole_144_cda6
-TEXT: โอจิยะ
-
-RESOURCE ID: city_manhole_145_e060
-TEXT: โอจิยะ
-
-RESOURCE ID: city_manhole_146_127f
-TEXT: โอจิยะ
-
-RESOURCE ID: city_manhole_147_f0ed
-TEXT: โอจิยะ
-
-RESOURCE ID: city_manhole_148_09b3
-TEXT: อิการุงะ
-
-RESOURCE ID: city_manhole_149_5fc2
-TEXT: อิการุงะ
-
-RESOURCE ID: city_manhole_14_40a3
-TEXT: เซนสึจิ
-
-RESOURCE ID: city_manhole_150_081f
-TEXT: อิการุงะ
-
-RESOURCE ID: city_manhole_151_1481
-TEXT: อิการุงะ
-
-RESOURCE ID: city_manhole_152_1de7
-TEXT: อิการุงะ
-
-RESOURCE ID: city_manhole_153_4d69
-TEXT: โองาซาวาระ
-
-RESOURCE ID: city_manhole_154_8dd8
-TEXT: โองาซาวาระ
-
-RESOURCE ID: city_manhole_155_219d
-TEXT: โองาซาวาระ
-
-RESOURCE ID: city_manhole_156_0a0d
-TEXT: โองาซาวาระ
-
-RESOURCE ID: city_manhole_157_e43b
-TEXT: ฮาจิโนเฮะ
-
-RESOURCE ID: city_manhole_158_7ec7
-TEXT: ฮาชิกามิ
-
-RESOURCE ID: city_manhole_159_b574
-TEXT: เกียวโต
-
-RESOURCE ID: city_manhole_15_bccd
-TEXT: คันอนจิ
-
-RESOURCE ID: city_manhole_160_8a3b
-TEXT: เกียวโต
-
-RESOURCE ID: city_manhole_161_2065
-TEXT: เกียวโต
-
-RESOURCE ID: city_manhole_162_c4a4
-TEXT: เกียวโต
-
-RESOURCE ID: city_manhole_163_3468
-TEXT: เกียวโต
-
-RESOURCE ID: city_manhole_163_8d7a
-TEXT: มิมาตะ
-
-RESOURCE ID: city_manhole_164_dc9d
-TEXT: ทากานาเบะ
-
-RESOURCE ID: city_manhole_165_c0ff
-TEXT: ชินโตมิ
-
-RESOURCE ID: city_manhole_166_38be
-TEXT: คิโจ
-
-RESOURCE ID: city_manhole_167_86ef
-TEXT: คาวามินามิ
-
-RESOURCE ID: city_manhole_168_c756
-TEXT: สึโนะ
-
-RESOURCE ID: city_manhole_169_66b3
-TEXT: คาโดงาวะ
-
-RESOURCE ID: city_manhole_16_b0dd
-TEXT: ซานุกิ
-
-RESOURCE ID: city_manhole_170_ab24
-TEXT: มิซาโตะ
-
-RESOURCE ID: city_manhole_171_183d
-TEXT: อุเอโนะ
-
-RESOURCE ID: city_manhole_172_eeb2
-TEXT: อุเอโนะ
-
-RESOURCE ID: city_manhole_173_fea1
-TEXT: นาฮะ
-
-RESOURCE ID: city_manhole_174_537c
-TEXT: กิโนวัง
-
-RESOURCE ID: city_manhole_175_c386
-TEXT: โอกินาวะ
-
-RESOURCE ID: city_manhole_176_ae9c
-TEXT: อุรุมะ
-
-RESOURCE ID: city_manhole_177_950c
-TEXT: ทากาจิโฮะ
-
-RESOURCE ID: city_manhole_178_a642
-TEXT: โมโรตสึกะ
-
-RESOURCE ID: city_manhole_179_e46d
-TEXT: ฮาโกดาเตะ
-
-RESOURCE ID: city_manhole_17_a607
-TEXT: ฮิงาชิคางาวะ
-
-RESOURCE ID: city_manhole_180_2257
-TEXT: โอตารุ
-
-RESOURCE ID: city_manhole_181_69d6
-TEXT: เนมุโระ
-
-RESOURCE ID: city_manhole_182_7c4a
-TEXT: โนโบริเบตสึ
-
-RESOURCE ID: city_manhole_183_5e59
-TEXT: ฮมเบตสึ
-
-RESOURCE ID: city_manhole_184_5b68
-TEXT: ริกุเบตสึ
-
-RESOURCE ID: city_manhole_185_9c8f
-TEXT: นากาชิเบตสึ
-
-RESOURCE ID: city_manhole_186_0cb6
-TEXT: คุราชิกิ
-
-RESOURCE ID: city_manhole_187_ee90
-TEXT: คุราชิกิ
-
-RESOURCE ID: city_manhole_188_88e4
-TEXT: คุราชิกิ
-
-RESOURCE ID: city_manhole_189_3f77
-TEXT: คุราชิกิ
-
-RESOURCE ID: city_manhole_18_1499
-TEXT: มิโตโยะ
-
-RESOURCE ID: city_manhole_190_124b
-TEXT: ฮิโนกาเงะ
-
-RESOURCE ID: city_manhole_191_99e9
-TEXT: คิตะคิวชู
-
-RESOURCE ID: city_manhole_192_c5e9
-TEXT: คิตะคิวชู
-
-RESOURCE ID: city_manhole_193_3734
-TEXT: คิตะคิวชู
-
-RESOURCE ID: city_manhole_194_ca06
-TEXT: คิตะคิวชู
-
-RESOURCE ID: city_manhole_195_6138
-TEXT: คิตะคิวชู
-
-RESOURCE ID: city_manhole_196_0f99
-TEXT: อาวาจิ
-
-RESOURCE ID: city_manhole_197_b816
-TEXT: อาวาจิ
-
-RESOURCE ID: city_manhole_198_e45e
-TEXT: อาวาจิ
-
-RESOURCE ID: city_manhole_199_19c6
-TEXT: ฮิงาชิโอซาก้า
-
-RESOURCE ID: city_manhole_19_b579
-TEXT: โทโนโช
-
-RESOURCE ID: city_manhole_200_20c4
-TEXT: ฮิงาชิโอซาก้า
-
-RESOURCE ID: city_manhole_201_d7ad
-TEXT: ฮิงาชิโอซาก้า
-
-RESOURCE ID: city_manhole_202_cb03
-TEXT: ฮิงาชิโอซาก้า
-
-RESOURCE ID: city_manhole_203_14cd
-TEXT: ฮิงาชิโอซาก้า
-
-RESOURCE ID: city_manhole_204_ca05
-TEXT: โกคาเสะ
-
-RESOURCE ID: city_manhole_205_2076
-TEXT: ทากาฮารุ
-
-RESOURCE ID: city_manhole_206_f940
-TEXT: คุนิโตมิ
-
-RESOURCE ID: city_manhole_207_27db
-TEXT: อายะ
-
-RESOURCE ID: city_manhole_208_548e
-TEXT: นิชิเมระ
-
-RESOURCE ID: city_manhole_209_ca2e
-TEXT: ชีบะ
-
-RESOURCE ID: city_manhole_20_284d
-TEXT: โชโดชิมะ
-
-RESOURCE ID: city_manhole_210_1931
-TEXT: โทโกโรซาวะ
-
-RESOURCE ID: city_manhole_211_d0ee
-TEXT: โทโกโรซาวะ
-
-RESOURCE ID: city_manhole_212_dc4b
-TEXT: โทโกโรซาวะ
-
-RESOURCE ID: city_manhole_213_5bad
-TEXT: คาโตริ
-
-RESOURCE ID: city_manhole_214_77dc
-TEXT: คาโตริ
-
-RESOURCE ID: city_manhole_215_90a4
-TEXT: คาโตริ
-
-RESOURCE ID: city_manhole_216_89ec
-TEXT: คาโตริ
-
-RESOURCE ID: city_manhole_217_df06
-TEXT: อาซาฮิกาวะ
-
-RESOURCE ID: city_manhole_218_1fa3
-TEXT: คุชิโระ
-
-RESOURCE ID: city_manhole_219_c492
-TEXT: โอบิฮิโระ
-
-RESOURCE ID: city_manhole_21_9ce3
-TEXT: มิกิ
-
-RESOURCE ID: city_manhole_220_1979
-TEXT: อาบาชิริ
-
-RESOURCE ID: city_manhole_221_137a
-TEXT: อากาอิงาวะ
-
-RESOURCE ID: city_manhole_222_cfeb
-TEXT: ฮิงาชิกาวะ
-
-RESOURCE ID: city_manhole_223_51db
-TEXT: ชาริ
-
-RESOURCE ID: city_manhole_224_b881
-TEXT: เอริโมะ
-
-RESOURCE ID: city_manhole_225_e947
-TEXT: อุตสึโนมิยะ
-
-RESOURCE ID: city_manhole_226_b085
-TEXT: อุตสึโนมิยะ
-
-RESOURCE ID: city_manhole_227_2d3c
-TEXT: อุตสึโนมิยะ
-
-RESOURCE ID: city_manhole_228_2867
-TEXT: โคกะ
-
-RESOURCE ID: city_manhole_229_0be2
-TEXT: โคกะ
-
-RESOURCE ID: city_manhole_22_64fb
-TEXT: นาโอชิมะ
-
-RESOURCE ID: city_manhole_230_b894
-TEXT: โคกะ
-
-RESOURCE ID: city_manhole_231_4f0e
-TEXT: อุราโซเอะ
-
-RESOURCE ID: city_manhole_232_ee6d
-TEXT: นาโงะ
-
-RESOURCE ID: city_manhole_233_1121
-TEXT: อิโตมัน
-
-RESOURCE ID: city_manhole_234_01ef
-TEXT: โมโตบุ
-
-RESOURCE ID: city_manhole_235_514b
-TEXT: โทมิงุสุกุ
-
-RESOURCE ID: city_manhole_236_e421
-TEXT: นันโจ
-
-RESOURCE ID: city_manhole_237_baaf
-TEXT: อิชิงากิ
-
-RESOURCE ID: city_manhole_238_c4a0
-TEXT: มิยาโกจิมะ
-
-RESOURCE ID: city_manhole_239_c871
-TEXT: สึ
-
-RESOURCE ID: city_manhole_23_f6c0
-TEXT: อายางาวะ
-
-RESOURCE ID: city_manhole_240_4168
-TEXT: ยกกาอิจิ
-
-RESOURCE ID: city_manhole_241_f5ea
-TEXT: อิเสะ
-
-RESOURCE ID: city_manhole_242_44a5
-TEXT: โทบะ
-
-RESOURCE ID: city_manhole_243_4b2c
-TEXT: คุมาโนะ
-
-RESOURCE ID: city_manhole_244_ba3d
-TEXT: ชิมะ
-
-RESOURCE ID: city_manhole_245_cd77
-TEXT: อิงะ
-
-RESOURCE ID: city_manhole_246_4db8
-TEXT: ซางะ
-
-RESOURCE ID: city_manhole_247_8dc6
-TEXT: ซางะ
-
-RESOURCE ID: city_manhole_248_ddcb
-TEXT: ซางะ
-
-RESOURCE ID: city_manhole_249_45b4
-TEXT: ฟุกุชิมะ
-
-RESOURCE ID: city_manhole_24_922d
-TEXT: โคโตฮิระ
-
-RESOURCE ID: city_manhole_250_9eb3
-TEXT: โคริยามะ
-
-RESOURCE ID: city_manhole_251_648d
-TEXT: มินามิไอซุ
-
-RESOURCE ID: city_manhole_252_8f04
-TEXT: โชวะ
-
-RESOURCE ID: city_manhole_253_8538
-TEXT: อีตาเตะ
-
-RESOURCE ID: city_manhole_254_ca7d
-TEXT: ยานาอิซุ
-
-RESOURCE ID: city_manhole_255_4e3f
-TEXT: ฟุตาบะ
-
-RESOURCE ID: city_manhole_256_7eab
-TEXT: ไอซุวากามัตสึ
-
-RESOURCE ID: city_manhole_257_7703
-TEXT: ฮานามากิ
-
-RESOURCE ID: city_manhole_258_7a62
-TEXT: โทโนะ
-
-RESOURCE ID: city_manhole_259_b3b5
-TEXT: อิจิโนเซกิ
-
-RESOURCE ID: city_manhole_25_79a6
-TEXT: ทาโดตสึ
-
-RESOURCE ID: city_manhole_260_0722
-TEXT: นิโนเฮะ
-
-RESOURCE ID: city_manhole_261_1876
-TEXT: ฮาจิมันไต
-
-RESOURCE ID: city_manhole_262_7a04
-TEXT: ทากิซาวะ
-
-RESOURCE ID: city_manhole_263_1462
-TEXT: อิวาเตะ
-
-RESOURCE ID: city_manhole_264_6994
-TEXT: ชิวะ
-
-RESOURCE ID: city_manhole_265_39bd
-TEXT: นิชิวางะ
-
-RESOURCE ID: city_manhole_266_3284
-TEXT: ฮิราอิซุมิ
-
-RESOURCE ID: city_manhole_267_25d9
-TEXT: คารุไม
-
-RESOURCE ID: city_manhole_268_0a00
-TEXT: คุโนเฮะ
-
-RESOURCE ID: city_manhole_269_9814
-TEXT: อิจิโนเฮะ
-
-RESOURCE ID: city_manhole_26_ce2a
-TEXT: มันโน
-
-RESOURCE ID: city_manhole_270_6e31
-TEXT: โทโยฮาชิ
-
-RESOURCE ID: city_manhole_271_7731
-TEXT: โทโยฮาชิ
-
-RESOURCE ID: city_manhole_272_bcc5
-TEXT: โทโยฮาชิ
-
-RESOURCE ID: city_manhole_273_1804
-TEXT: โทโยฮาชิ
-
-RESOURCE ID: city_manhole_274_be60
-TEXT: โทยามะ
-
-RESOURCE ID: city_manhole_275_8e0e
-TEXT: โทยามะ
-
-RESOURCE ID: city_manhole_276_7531
-TEXT: โทยามะ
-
-RESOURCE ID: city_manhole_277_7d20
-TEXT: โทเบตสึ
-
-RESOURCE ID: city_manhole_278_dc0e
-TEXT: ไซโง
-
-RESOURCE ID: city_manhole_279_fc9e
-TEXT: นิฮนมัตสึ
-
-RESOURCE ID: city_manhole_27_ce6f
-TEXT: อิวาอิซุมิ
-
-RESOURCE ID: city_manhole_280_128e
-TEXT: ยาบุกิ
-
-RESOURCE ID: city_manhole_281_5996
-TEXT: มิฮารุ
-
-RESOURCE ID: city_manhole_282_d2b8
-TEXT: ไอซุมิซาโตะ
-
-RESOURCE ID: city_manhole_283_2493
-TEXT: ฟุรุโดโนะ
-
-RESOURCE ID: city_manhole_284_58f5
-TEXT: ดาเตะ
-
-RESOURCE ID: city_manhole_285_ace6
-TEXT: ชิโมโนเซกิ
-
-RESOURCE ID: city_manhole_286_8829
-TEXT: ชิโมโนเซกิ
-
-RESOURCE ID: city_manhole_287_0686
-TEXT: ชิโมโนเซกิ
-
-RESOURCE ID: city_manhole_288_92e7
-TEXT: ชิโมโนเซกิ
-
-RESOURCE ID: city_manhole_289_8aee
-TEXT: อินาวาชิโระ
-
-RESOURCE ID: city_manhole_28_5860
-TEXT: ริกุเซนตากาตะ
-
-RESOURCE ID: city_manhole_290_fd3f
-TEXT: วาตาราอิ
-
-RESOURCE ID: city_manhole_291_e6be
-TEXT: เมวะ
-
-RESOURCE ID: city_manhole_292_e518
-TEXT: คิโฮ
-
-RESOURCE ID: city_manhole_293_563b
-TEXT: โอได
-
-RESOURCE ID: city_manhole_294_a5c0
-TEXT: อาซาฮิ
-
-RESOURCE ID: city_manhole_295_bcfb
-TEXT: คาเมยามะ
-
-RESOURCE ID: city_manhole_296_453c
-TEXT: อายางาวะ
-
-RESOURCE ID: city_manhole_297_5a79
-TEXT: คิตาชิโอบาระ
-
-RESOURCE ID: city_manhole_298_48f6
-TEXT: คุจิ
-
-RESOURCE ID: city_manhole_299_383e
-TEXT: ทตโตริ
-
-RESOURCE ID: city_manhole_29_b46c
-TEXT: สุมิตะ
-
-RESOURCE ID: city_manhole_300_b965
-TEXT: คานาซาวะ
-
-RESOURCE ID: city_manhole_301_d17e
-TEXT: มุโรรัน
-
-RESOURCE ID: city_manhole_302_76fa
-TEXT: บิโฮโระ
-
-RESOURCE ID: city_manhole_303_7316
-TEXT: คิโกไน
-
-RESOURCE ID: city_manhole_304_bd58
-TEXT: คิตามิ
-
-RESOURCE ID: city_manhole_305_e7a1
-TEXT: อุตาชิไน
-
-RESOURCE ID: city_manhole_306_3fcf
-TEXT: นาบาริ
-
-RESOURCE ID: city_manhole_307_caaf
-TEXT: โยโกฮามะ
-
-RESOURCE ID: city_manhole_308_7c7b
-TEXT: โยโกฮามะ
-
-RESOURCE ID: city_manhole_309_ef50
-TEXT: โยโกฮามะ
-
-RESOURCE ID: city_manhole_310_c735
-TEXT: โยโกฮามะ
-
-RESOURCE ID: city_manhole_311_8800
-TEXT: คิโซซากิ
-
-RESOURCE ID: city_manhole_312_c940
-TEXT: โทอิน
-
-RESOURCE ID: city_manhole_313_8206
-TEXT: ซารุฟุตสึ
-
-RESOURCE ID: city_manhole_314_804a
-TEXT: ดาไซฟุ
-
-RESOURCE ID: city_manhole_315_f4f0
-TEXT: ดาไซฟุ
-
-RESOURCE ID: city_manhole_316_d90a
-TEXT: ดาไซฟุ
-
-RESOURCE ID: city_manhole_317_b402
-TEXT: อากิตะ
-
-RESOURCE ID: city_manhole_318_8447
-TEXT: โยโกเตะ
-
-RESOURCE ID: city_manhole_319_39ea
-TEXT: โองะ
-
-RESOURCE ID: city_manhole_320_aaeb
-TEXT: คาซุโนะ
-
-RESOURCE ID: city_manhole_321_eeab
-TEXT: เซนโบกุ
-
-RESOURCE ID: city_manhole_322_cbc1
-TEXT: คิตากามิ
-
-RESOURCE ID: city_manhole_323_b24b
-TEXT: บิเอ
-
-RESOURCE ID: city_manhole_324_a72d
-TEXT: มัตสึยามะ
-
-RESOURCE ID: city_manhole_325_11d7
-TEXT: มัตสึยามะ
-
-RESOURCE ID: city_manhole_326_196a
-TEXT: นารุโตะ
-
-RESOURCE ID: city_manhole_327_8ba1
-TEXT: นารุโตะ
-
-RESOURCE ID: city_manhole_328_96ab
-TEXT: นารุโตะ
-
-RESOURCE ID: city_manhole_329_836b
-TEXT: มิฮามะ
-
-RESOURCE ID: city_manhole_330_39ea
-TEXT: ทากาฮามะ
-
-RESOURCE ID: city_manhole_331_f03e
-TEXT: เอเฮจิโจ
-
-RESOURCE ID: city_manhole_332_aac3
-TEXT: เอจิเซน
-
-RESOURCE ID: city_manhole_333_bb67
-TEXT: อาวาระ
-
-RESOURCE ID: city_manhole_334_90ea
-TEXT: คัตสึยามะ
-
-RESOURCE ID: city_manhole_335_cd6d
-TEXT: มินามิอิเสะ
-
-RESOURCE ID: city_manhole_336_04c8
-TEXT: ทามากิ
-
-RESOURCE ID: city_manhole_337_eeb4
-TEXT: มัตสึซากะ
-
-RESOURCE ID: city_manhole_338_f8b2
-TEXT: ทากิ
-
-RESOURCE ID: city_manhole_339_fd15
-TEXT: คาวาโกเอะ
-
-RESOURCE ID: city_manhole_340_729b
-TEXT: โคยะ
-
-RESOURCE ID: city_manhole_341_c88c
-TEXT: สุซุกะ
-
-RESOURCE ID: city_manhole_342_cdcb
-TEXT: วากายามะ
-
-RESOURCE ID: city_manhole_343_35f6
-TEXT: คุชิโมโตะ
-
-RESOURCE ID: city_manhole_344_0e61
-TEXT: ชิราฮามะ
-
-RESOURCE ID: city_manhole_345_2a02
-TEXT: นาจิกัตสึอุระ
-
-RESOURCE ID: city_manhole_346_39f4
-TEXT: ชิซุโอกะ
-
-RESOURCE ID: city_manhole_347_09b9
-TEXT: ฟูจิ
-
-RESOURCE ID: city_manhole_348_85c1
-TEXT: นุมาซุ
-
-RESOURCE ID: city_manhole_349_6561
-TEXT: อิซุ
-
-RESOURCE ID: city_manhole_350_c811
-TEXT: อุจิ
-
-RESOURCE ID: city_manhole_351_749e
-TEXT: อุจิ
-
-RESOURCE ID: city_manhole_352_a861
-TEXT: ฮามามัตสึ
-
-RESOURCE ID: city_manhole_353_083d
-TEXT: ซาเซโบะ
-
-RESOURCE ID: city_manhole_354_e7a5
-TEXT: โอมุระ
-
-RESOURCE ID: city_manhole_355_6ebf
-TEXT: ชินกามิโงโต
-
-RESOURCE ID: city_manhole_356_e21d
-TEXT: นางาซากิ
-
-RESOURCE ID: city_manhole_357_f96d
-TEXT: อุนเซน
-
-RESOURCE ID: city_manhole_358_f233
-TEXT: เซกิ
-
-RESOURCE ID: city_manhole_359_b5ff
-TEXT: เกโระ
-
-RESOURCE ID: city_manhole_360_3a21
-TEXT: เซกิงาฮาระ
-
-RESOURCE ID: city_manhole_361_9253
-TEXT: คากามิงาฮาระ
-
-RESOURCE ID: city_manhole_362_ebf7
-TEXT: ทากายามะ
-
-RESOURCE ID: city_manhole_363_027c
-TEXT: อุจิ
-
-RESOURCE ID: city_manhole_364_6315
-TEXT: โอโนะ
-
-RESOURCE ID: city_manhole_365_7e26
-TEXT: สึรุงะ
-
-RESOURCE ID: city_manhole_366_d793
-TEXT: มินามิเอจิเซน
-
-RESOURCE ID: city_manhole_367_7f8b
-TEXT: โอบามะ
-
-RESOURCE ID: city_manhole_368_36db
-TEXT: อิเกดะ
-
-RESOURCE ID: city_manhole_369_be8c
-TEXT: ฮิราตะ
-
-RESOURCE ID: city_manhole_370_6a4d
-TEXT: อิซุโมะ
-
-RESOURCE ID: city_manhole_371_059a
-TEXT: โอกิโนชิมะ
-
-RESOURCE ID: city_manhole_372_e121
-TEXT: ทานางุระ
-
-RESOURCE ID: city_manhole_373_a72f
-TEXT: คุนิมิ
-
-RESOURCE ID: city_manhole_374_ac3a
-TEXT: ยุงาวะ
-
-RESOURCE ID: city_manhole_375_6987
-TEXT: ไอซุบันเงะ
-
-RESOURCE ID: city_manhole_376_275d
-TEXT: ยาสุงิ
-
-RESOURCE ID: city_manhole_377_88e5
-TEXT: โอดะ
-
-RESOURCE ID: city_manhole_378_9777
-TEXT: ฮามาดะ
-
-RESOURCE ID: city_manhole_379_eb03
-TEXT: ชิรากาวะ
-
-RESOURCE ID: city_manhole_380_5e3c
-TEXT: ฮิโรโนะ
-
-RESOURCE ID: city_manhole_381_8ff6
-TEXT: คางามิอิชิ
-
-RESOURCE ID: city_manhole_4(ibusuki)_d64e
-TEXT: อิบุสุกิ
-
-RESOURCE ID: city_manhole_448
-TEXT: Yasuda
-
-RESOURCE ID: city_manhole_449
-TEXT: Niyodogawa
-
-RESOURCE ID: city_manhole_44_4580
-TEXT: เคเซนนุมะ
-
-RESOURCE ID: city_manhole_450
-TEXT: Motoyama
-
-RESOURCE ID: city_manhole_451
-TEXT: Tosashimizu
+TEXT: 1.5× XP จากการจับโปเกมอนเมื่อขว้างได้ดีขึ้นไป
 
 RESOURCE ID: city_manhole_452
 TEXT: Nishiaizu
@@ -1130,221 +128,74 @@ TEXT: Izumizaki
 RESOURCE ID: city_manhole_457
 TEXT: Yahaba
 
-RESOURCE ID: city_manhole_45_13f2
-TEXT: มินามิซันริกุ
+RESOURCE ID: city_manhole_458
+TEXT: Oshu
 
-RESOURCE ID: city_manhole_46_251e
-TEXT: โอนางาวะ
+RESOURCE ID: city_manhole_459
+TEXT: Morioka
 
-RESOURCE ID: city_manhole_47_603e
-TEXT: อิชิโนมากิ
+RESOURCE ID: city_manhole_460
+TEXT: Asakawa
 
-RESOURCE ID: city_manhole_48_3675
-TEXT: ฮิงาชิมัตสึชิมะ
+RESOURCE ID: city_manhole_461
+TEXT: Shimogo
 
-RESOURCE ID: city_manhole_49_38b6
-TEXT: มัตสึชิมะ
+RESOURCE ID: city_manhole_462
+TEXT: Ono
 
-RESOURCE ID: city_manhole_50_3a01
-TEXT: ชิโอกามะ
+RESOURCE ID: city_manhole_463
+TEXT: Tenei
 
-RESOURCE ID: city_manhole_51_bb09
-TEXT: ริฟุ
+RESOURCE ID: city_manhole_464
+TEXT: Okuma
 
-RESOURCE ID: city_manhole_52_ade5
-TEXT: ชิจิงาฮามะ
+RESOURCE ID: city_manhole_465
+TEXT: Shizukuishi
 
-RESOURCE ID: city_manhole_53_b865
-TEXT: ทางาโจ
+RESOURCE ID: city_manhole_466
+TEXT: Kanegasaki
 
-RESOURCE ID: city_manhole_54_470d
-TEXT: เซนได
-
-RESOURCE ID: city_manhole_55_5c14
-TEXT: นาโตริ
-
-RESOURCE ID: city_manhole_56_7d3f
-TEXT: อิวานุมะ
-
-RESOURCE ID: city_manhole_57_7b37
-TEXT: วาตาริ
-
-RESOURCE ID: city_manhole_58_1a06
-TEXT: ยามาโมโตะ
-
-RESOURCE ID: city_manhole_59_00b5
-TEXT: อิชิการิ
-
-RESOURCE ID: city_manhole_60_b0e4
-TEXT: เอนิวะ
-
-RESOURCE ID: city_manhole_61_ce29
-TEXT: โทยาโกะ
-
-RESOURCE ID: city_manhole_62_5eaf
-TEXT: โมริ
-
-RESOURCE ID: city_manhole_63_2ba4
-TEXT: คามิโนกุนิ
-
-RESOURCE ID: city_manhole_64_e361
-TEXT: ชิเบตสึ
-
-RESOURCE ID: city_manhole_65_c01f
-TEXT: พิปปุ
-
-RESOURCE ID: city_manhole_66_ab9f
-TEXT: เทชิโอะ
-
-RESOURCE ID: city_manhole_67_6331
-TEXT: วักกาไน
-
-RESOURCE ID: city_manhole_68_5fed
-TEXT: โทโยโตมิ
-
-RESOURCE ID: city_manhole_69_32c1
-TEXT: มมเบตสึ
-
-RESOURCE ID: city_manhole_6_594a
-TEXT: ฮิโรโนะ
-
-RESOURCE ID: city_manhole_70_2346
-TEXT: เอนการุ
-
-RESOURCE ID: city_manhole_71_02a7
-TEXT: โอโซระ
-
-RESOURCE ID: city_manhole_72_331d
-TEXT: ชินโตกุ
-
-RESOURCE ID: city_manhole_73_ea66
-TEXT: อาโชโระ
-
-RESOURCE ID: city_manhole_74_eec7
-TEXT: ทตโตริ
-
-RESOURCE ID: city_manhole_75_57ce
-TEXT: โยนาโงะ
-
-RESOURCE ID: city_manhole_76_30ea
-TEXT: คุราโยชิ
-
-RESOURCE ID: city_manhole_77_ff99
-TEXT: ซาไกมินาโตะ
-
-RESOURCE ID: city_manhole_78_3c55
-TEXT: อิวามิ
-
-RESOURCE ID: city_manhole_79_e5cc
-TEXT: วากาสะ
-
-RESOURCE ID: city_manhole_7_057d
-TEXT: โนดะ
-
-RESOURCE ID: city_manhole_80_6936
-TEXT: มิซาสะ
-
-RESOURCE ID: city_manhole_81_6e27
-TEXT: ยุริฮามะ
-
-RESOURCE ID: city_manhole_82_9e2a
-TEXT: โคโตอุระ
-
-RESOURCE ID: city_manhole_83_1be7
-TEXT: ไดเซน
-
-RESOURCE ID: city_manhole_84_2b1a
-TEXT: นัมบุ
-
-RESOURCE ID: city_manhole_85_17f6
-TEXT: โฮกิ
-
-RESOURCE ID: city_manhole_86_9784
-TEXT: นิจินัน
-
-RESOURCE ID: city_manhole_87_7f03
-TEXT: ฮิโนะ
-
-RESOURCE ID: city_manhole_88_3729
-TEXT: ชินจิ
-
-RESOURCE ID: city_manhole_89_6ce2
-TEXT: โซมะ
-
-RESOURCE ID: city_manhole_8_ec1c
-TEXT: ทาโนฮาตะ
-
-RESOURCE ID: city_manhole_90_3800
-TEXT: มินามิโซมะ
-
-RESOURCE ID: city_manhole_91_4194
-TEXT: นามิเอะ
-
-RESOURCE ID: city_manhole_92_5d86
-TEXT: นาราฮะ
-
-RESOURCE ID: city_manhole_93_4591
-TEXT: อิวากิ
-
-RESOURCE ID: city_manhole_94_51d3
-TEXT: คาวามาตะ
-
-RESOURCE ID: city_manhole_95_a6ea
-TEXT: ทามุระ
-
-RESOURCE ID: city_manhole_96_78e1
-TEXT: คาวาอุจิ
-
-RESOURCE ID: city_manhole_97_5f22
-TEXT: อุตะซุ
-
-RESOURCE ID: city_manhole_98_42ff
-TEXT: มาจิดะ
-
-RESOURCE ID: city_manhole_99_2a2d
-TEXT: มาจิดะ
-
-RESOURCE ID: city_manhole_9_ed48
-TEXT: โอตสึจิ
+RESOURCE ID: city_manhole_467
+TEXT: Sendai
 
 RESOURCE ID: collection_challenge_kr_school_festa_1
-TEXT: School Festa Collection Challenge: Grass
+TEXT: คำท้านักสะสมเทศกาลโรงเรียน: หญ้า
 
 RESOURCE ID: collection_challenge_kr_school_festa_2
-TEXT: School Festa Collection Challenge: Fire
+TEXT: คำท้านักสะสมเทศกาลโรงเรียน: ไฟ
 
 RESOURCE ID: collection_challenge_kr_school_festa_3
-TEXT: School Festa Collection Challenge: Water
-
-RESOURCE ID: combat_challenge_error_993_2
-TEXT: เพื่อนไม่สามารถเข้าร่วมได้
+TEXT: คำท้านักสะสมเทศกาลโรงเรียน: น้ำ
 
 RESOURCE ID: combat_pvpn_preview_league
-TEXT: Preview Cup (Experimental)
+TEXT: การแข่งขันรอบตัวอย่าง (ทดลอง)
+
+RESOURCE ID: community_day_classic_deino_event_name
+TEXT: คอมมิวนิตี้เดย์ (รีเทิร์น): โมโนซึ
 
 RESOURCE ID: community_day_lechonk_event_name
 TEXT: คอมมิวนิตี้เดย์: กูร์ตง
 
-RESOURCE ID: community_day_tinkatink_event_name
-TEXT: คอมมิวนิตี้เดย์: คานุจัง
+RESOURCE ID: copenhagen_lego_store_2026_tr_title
+TEXT: LEGO Store Copenhagen Timed Research
+
+RESOURCE ID: deluxe_event_pass_track_unlock_description
+TEXT: รับรางวัลเพิ่มเติมในแต่ละระดับ
+
+RESOURCE ID: deluxe_event_pass_track_unlock_plus_points_description
+TEXT: รับรางวัลเพิ่มเติมในแต่ละระดับ และระดับเพิ่มขึ้น 10 ระดับทันที
 
 RESOURCE ID: details_link_key_entei_shadow_raid_day
 TEXT: ตรวจสอบรายละเอียดได้ที่<a href="https://pokemongolive.com/news/shadow-entei-raid-day-2026">เว็บไซต์</a>นี้
 
-RESOURCE ID: details_link_key_fashion_raid_day
-TEXT: ตรวจสอบรายละเอียดได้ที่<a href="https://pokemongolive.com/news/fashion-raid-day-2026">เว็บไซต์</a>นี้
+RESOURCE ID: details_link_key_mega_falinks_raid_day
+TEXT: ตรวจสอบรายละเอียดได้ที่<a href="https://pokemongo.com/news/falinks-super-mega-raid-day-2026">เว็บไซต์</a>นี้
 
-RESOURCE ID: details_link_key_replay_go_bigger_max_battle
-TEXT: ตรวจสอบรายละเอียดได้ที่<a href="https://pokemongolive.com/news/replay-go-bigger-2026">เว็บไซต์</a>นี้
-
-RESOURCE ID: details_link_key_riolu_hatch0426
-TEXT: ตรวจสอบรายละเอียดได้ที่<a href="https://pokemongolive.com/news/replay-riolu-hatch-day-2026">เว็บไซต์</a>นี้
+RESOURCE ID: details_link_key_pokemon_run_seoul
+TEXT: ตรวจสอบรายละเอียดได้ที่<a href="https://pokemongolive.com/post/pokemon-run-seoul–2026">เว็บไซต์</a>นี้
 
 RESOURCE ID: details_link_key_school_festa
-TEXT: For more details, visit the <a href="https://pokemongolive.com/post/school_festa_Korea">website</a>.
-
-RESOURCE ID: details_link_key_shockingly_good
-TEXT: ตรวจสอบรายละเอียดได้ที่<a href="https://pokemongo.com/news/a-shockingly-good-time">เว็บไซต์</a>นี้
+TEXT: ตรวจสอบรายละเอียดได้ที่<a href="https://pokemongolive.com/post/school_festa_Korea">เว็บไซต์</a>นี้
 
 RESOURCE ID: details_link_key_steeled_resolve
 TEXT: ตรวจสอบรายละเอียดได้ที่<a href="https://pokemongo.com/news/steeled-resolve-2026">เว็บไซต์</a>นี้
@@ -1352,305 +203,141 @@ TEXT: ตรวจสอบรายละเอียดได้ที่<a hr
 RESOURCE ID: details_link_key_steeled_resolve_taken_over
 TEXT: ตรวจสอบรายละเอียดได้ที่<a href="https://pokemongo.com/news/steeled-resolve-taken-over-2026">เว็บไซต์</a>นี้
 
+RESOURCE ID: dragons_unleashed_challenge_raids
+TEXT: โปเกมอนธีมอีเวนต์ปรากฏตัวมากขึ้นในตีบอส
+
+RESOURCE ID: dragons_unleashed_challenge_spawns
+TEXT: โปเกมอนธีมอีเวนต์ปรากฏตัวมากขึ้นในธรรมชาติ
+
+RESOURCE ID: end_of_season_reminder
+TEXT: เทรนเนอร์! เหลือเวลาในการเพิ่มระดับของคุณในโกแบตเทิลลีกฤดูกาลนี้อีกเพียง 1 สัปดาห์เท่านั้น!
+
+RESOURCE ID: enhanced_currency_full_desc
+TEXT: อุปกรณ์เก็บลิงก์เต็มแล้ว
+กรุณาใช้ลิงก์ชาร์จที่ตีบอสเมก้า
+เพื่อสร้างพื้นที่ว่างสำหรับเก็บอีกครั้ง
+
+RESOURCE ID: enhanced_currency_full_title
+TEXT: ต้องการดำเนินการต่อโดยไม่รับ
+ลิงก์ชาร์จหรือไม่?
+
 RESOURCE ID: entei_shadow_raid_day_event_name
 TEXT: วันตีบอสชาโดว์เอ็นเต
-
-RESOURCE ID: event_datetime_range_key_aspiringtr2024
-TEXT: 7 ธันวาคม 14:00-17:00 น.
-
-RESOURCE ID: event_datetime_range_key_bagoncdc
-TEXT: 7 เมษายน 14:00-17:00 น.
-
-RESOURCE ID: event_datetime_range_key_beldumcdc24
-TEXT: 18 สิงหาคม 14:00-17:00 น.
-
-RESOURCE ID: event_datetime_range_key_bellsproutcd2024
-TEXT: 20 เมษายน 14:00-17:00 น.
-
-RESOURCE ID: event_datetime_range_key_bounsweetcd2024
-TEXT: 19 พฤษภาคม 14:00-17:00 น.
-
-RESOURCE ID: event_datetime_range_key_cd_fuecoco25
-TEXT: 8 มีนาคม 14:00-17:00 น.
-
-RESOURCE ID: event_datetime_range_key_cd_jangmo_o25
-TEXT: 21 มิถุนายน 14:00-17:00 น.
 
 RESOURCE ID: event_datetime_range_key_cd_lechonk26
 TEXT: 9 พฤษภาคม 14:00-17:00 น.
 
-RESOURCE ID: event_datetime_range_key_cd_pawmi25
-TEXT: 11 พฤษภาคม 14:00-17:00 น.
-
-RESOURCE ID: event_datetime_range_key_cd_shelmetkarrablast25
-TEXT: 9 กุมภาพันธ์ 14:00-17:00 น.
-
-RESOURCE ID: event_datetime_range_key_cd_sprigatito2025
-TEXT: 5 มกราคม 14:00-17:00 น.
-
-RESOURCE ID: event_datetime_range_key_cd_tinkatink26
-TEXT: 11 เมษายน 14:00-17:00 น.
-
-RESOURCE ID: event_datetime_range_key_cd_vanillite25
-TEXT: 27 เมษายน 14:00-17:00 น.
-
-RESOURCE ID: event_datetime_range_key_cdc_machop25
-TEXT: 24 พฤษภาคม 14:00-17:00 น.
-
-RESOURCE ID: event_datetime_range_key_cdc_ralts25
-TEXT: 25 มกราคม 14:00-17:00 น.
-
-RESOURCE ID: event_datetime_range_key_cdc_totodile25
-TEXT: 22 มีนาคม 14:00-17:00 น.
-
-RESOURCE ID: event_datetime_range_key_chargedembers1224
-TEXT: 29 ธันวาคม 14:00-17:00 น.
-
-RESOURCE ID: event_datetime_range_key_chargedtr2024
-TEXT: 3 มีนาคม 14:00-17:00 น.
-
-RESOURCE ID: event_datetime_range_key_cleffahatchday2024
-TEXT: 28 เมษายน 14:00-17:00 น.
-
-RESOURCE ID: event_datetime_range_key_cointicket2024
-TEXT: 16 พฤษภาคม 00:00 น. ถึง
-30 พฤษภาคม 23:59 น.
-
-RESOURCE ID: event_datetime_range_key_cyndaquilcdc2024
-TEXT: 22 มิถุนายน 14:00-17:00 น.
+RESOURCE ID: event_datetime_range_key_cdc_deino26
+TEXT: 16 พฤษภาคม 14:00-17:00 น.
 
 RESOURCE ID: event_datetime_range_key_entei_shadow_raid_day
 TEXT: 2 พฤษภาคม 14:00-17:00 น.
 
-RESOURCE ID: event_datetime_range_key_falinksraidday
-TEXT: 8 กันยายน 14:00-22:00 น.
+RESOURCE ID: event_datetime_range_key_megafalinksraidday
+TEXT: 23 พฤษภาคม 14:00-17:00 น.
 
-RESOURCE ID: event_datetime_range_key_fashionraidday_s22
-TEXT: 4 เมษายน 14:00-17:00 น.
+RESOURCE ID: event_mega_falinks_raid_day
+TEXT: วันตีบอสซูเปอร์เมก้าไทเรสึ
 
-RESOURCE ID: event_datetime_range_key_flocktr24
-TEXT: 11 พฤษภาคม 14:00-17:00 น.
+RESOURCE ID: event_mega_falinks_raid_day_timed_research
+TEXT: งานวิจัยแบบจำกัดเวลาวันตีบอสซูเปอร์เมก้าไทเรสึ
 
-RESOURCE ID: event_datetime_range_key_fuzzyrd2024
-TEXT: 29 มีนาคม 14:00-17:00 น.
+RESOURCE ID: event_pass_gofest2025_upgrade_description
+TEXT: ซื้อบัตรผ่าน GO Deluxe: โบราณหวนคืน
+เพื่อปลดล็อกรางวัลต่อไปนี้!
 
-RESOURCE ID: event_datetime_range_key_gmaxkingler25
-TEXT: 1 กุมภาพันธ์ 14:00-17:00 น.
+-  <a href="https://niantic.helpshift.com/hc/faq/5103-what-is-hyper-training/">ฝาทอง</a> 1 ชิ้น ซึ่งใช้สำหรับเริ่มคอร์ส
+การฝึกขั้นสุดยอดที่จะช่วยเพิ่มค่าพลัง
+ทั้งหมดของโปเกมอนเมื่อเสร็จสิ้น
+- ไอเท็มอวาตาร์หน้ากากซาเชียน
+- ไอเท็มอวาตาร์หน้ากากซามาเซนตา
+- โบนัสเกี่ยวกับตีบอสและฟักไข่
+- และอื่น ๆ อีกมากมาย!
 
-RESOURCE ID: event_datetime_range_key_gmaxlapras24
-TEXT: 8 ธันวาคม 14:00-17:00 น.
+- นอกเหนือจากแต้ม GO ที่ได้รับ
+จากภารกิจบัตรผ่านแล้ว ในระหว่าง
+วันที่ 23-27 มิถุนายน เทรนเนอร์ยัง
+สามารถรับแต้ม GO ได้เพิ่มวันละ 1,000 แต้ม
+ในระหว่าง Pokémon GO Fest: ทั่วโลก
+วันที่ 28 และ 29 จะไม่มีการจำกัด
+จำนวนแต้ม GO สูงสุดที่สามารถรับได้!
 
-RESOURCE ID: event_datetime_range_key_gmaxmachamp25
-TEXT: 25 พฤษภาคม 14:00-17:00 น.
-
-RESOURCE ID: event_datetime_range_key_gmaxsnorlax25
-TEXT: 19 เมษายน 14:00-17:00 น.
-
-RESOURCE ID: event_datetime_range_key_goomycd2024
-TEXT: 9 มิถุนายน 14:00-17:00 น.
-
-RESOURCE ID: event_datetime_range_key_hisuianlilligantraidday
-TEXT: 12 กรกฎาคม 14:00-17:00 น.
-
-RESOURCE ID: event_datetime_range_key_hoopaunboundraidday
-TEXT: 15 กุมภาพันธ์ 14:00-17:00 น.
-
-RESOURCE ID: event_datetime_range_key_littencd2024
-TEXT: 16 มีนาคม 14:00-17:00 น.
-
-RESOURCE ID: event_datetime_range_key_mankeycd24
-TEXT: 10 พฤศจิกายน 14:00-17:00 น.
-
-RESOURCE ID: event_datetime_range_key_mawileraidday
-TEXT: 12 ตุลาคม 14:00-22:00 น.
-
-RESOURCE ID: event_datetime_range_key_megaabsolraidday
-TEXT: 23 มีนาคม 14:00-17:00 น.
-
-RESOURCE ID: event_datetime_range_key_megaaudinoraidday
-TEXT: 5 เมษายน 14:00-17:00 น.
-
-RESOURCE ID: event_datetime_range_key_megagalladeraidday
-TEXT: 11 มกราคม 14:00-17:00 น.
-
-RESOURCE ID: event_datetime_range_key_megaheracrossraidday
-TEXT: 13 เมษายน 14:00-22:00 น.
-
-RESOURCE ID: event_datetime_range_key_megakangaskhanraidday
-TEXT: 3 พฤษภาคม 14:00-17:00 น.
-
-RESOURCE ID: event_datetime_range_key_megalucarioraidday24
-TEXT:  27 กรกฎาคม 11:00-22:00 น.
-
-RESOURCE ID: event_datetime_range_key_necrozmafusionraidday
-TEXT: 14 ธันวาคม 14:00-17:00 น.
-
-RESOURCE ID: event_datetime_range_key_ponytacd24
-TEXT: 14 กันยายน 14:00-17:00 น.
-
-RESOURCE ID: event_datetime_range_key_poppliocd24_title
-TEXT: 31 สิงหาคม 14:00-17:00 น.
-
-RESOURCE ID: event_datetime_range_key_primalgroudonraidday
-TEXT: 23 มีนาคม 14:00-22:00 น.
-
-RESOURCE ID: event_datetime_range_key_primalkyogreraidday
-TEXT: 17 มีนาคม 14:00-22:00 น.
-
-RESOURCE ID: event_datetime_range_key_replay_go_bigger
-TEXT: 25 เมษายน 14:00-17:00 น.
-
-RESOURCE ID: event_datetime_range_key_researchdaysept24
-TEXT: 22 กันยายน 14:00-17:00 น.
-
-RESOURCE ID: event_datetime_range_key_riolu0426
-TEXT: 18 เมษายน 11:00-17:00 น.
-
-RESOURCE ID: event_datetime_range_key_sewaddlecd24
-TEXT: 5 ตุลาคม 14:00-17:00 น.
-
-RESOURCE ID: event_datetime_range_key_shadowhoohraidday
-TEXT: 19 มกราคม 14:00-17:00 น.
-
-RESOURCE ID: event_datetime_range_key_shadowregigigasraidday
-TEXT: 17 พฤษภาคม 14:00-17:00 น.
-
-RESOURCE ID: event_datetime_range_key_sparringpartnersraidday
-TEXT: 13 เมษายน 14:00-17:00 น.
-
-RESOURCE ID: event_datetime_range_key_tynamocd24
-TEXT: 21 กรกฎาคม 14:00-17:00 น.
-
-RESOURCE ID: event_datetime_range_key_tyrogue0425
-TEXT: 6 เมษายน 14:00-17:00 น.
-
-RESOURCE ID: event_datetime_range_key_yamasktr24
-TEXT: 19 ตุลาคม 14:00-17:00 น.
-
-RESOURCE ID: event_name_gofest_2026_all_day
-TEXT: Pokémon GO Fest 2026 - ทั้งวัน
-
-RESOURCE ID: event_name_gofest_2026_event_hours
-TEXT: Pokémon GO Fest 2026 - กำลังจัดอีเวนต์
-
-RESOURCE ID: event_name_gofest_2026_hatch
-TEXT: Pokémon GO Fest 2026 - ฟักไข่ไม่หยุด
-
-RESOURCE ID: event_name_gofest_2026_raid
-TEXT: Pokémon GO Fest 2026 - ผู้หลงใหลการตีบอส
-
-RESOURCE ID: event_pass_gowa_2025_event_duration
-TEXT: 10 พฤศจิกายน ถึง 16 พฤศจิกายน
-
-RESOURCE ID: event_pass_premium_reward_banner_bottom_text_rank_15_reward
+RESOURCE ID: event_pass_premium_reward_banner_bottom_text_spring_marathon_2026
 TEXT: ได้รับเมื่อถึงระดับ 15
-
-RESOURCE ID: event_pass_premium_reward_banner_bottom_text_shockingly_good_2026
-TEXT: ได้รับเมื่อถึงระดับ 30
 
 RESOURCE ID: event_pass_premium_reward_banner_bottom_text_steeled_resolve_2026
 TEXT: ได้รับเมื่อถึงระดับ 1
 
-RESOURCE ID: event_ticket_date_time_range_days
-TEXT: {startDate} {startTime} น. ถึง {endDate} {endTime} น.
+RESOURCE ID: event_t7_raid_stardust_5000_bonus
+TEXT: +5,000 สตาร์ดัสต์จากตีบอสซูเปอร์เมก้า
 
-RESOURCE ID: event_ticket_date_time_range_hours
-TEXT: {startDate} {startTime}-{endTime} น.
-
-RESOURCE ID: event_ticket_date_time_range_months
-TEXT: {startDate} ถึง {endDate}
+RESOURCE ID: event_t7_raid_xp_5000_bonus
+TEXT: +5,000 XP จากตีบอสซูเปอร์เมก้า
 
 RESOURCE ID: evergreen_week_tr_1_0
-TEXT: Great to see you, %PLAYERNAME%! We've got all sorts of Pokémon to catch and plenty of research that needs doing ahead of us. I can't wait to get started!
+TEXT: ไง %PLAYERNAME% เจอกันอีกแล้วนะ!
+มีโปเกมอนที่ต้องจับและวิจัยมากมายอีกแล้ว มาเริ่มกันเลย!
 
 RESOURCE ID: evergreen_week_tr_1_1
-TEXT: Which of these paths are you looking forward to the most?
+TEXT: เธอสนใจอันไหนมากที่สุด?
 
 RESOURCE ID: evergreen_week_tr_battle
-TEXT: Choose Your Path Timed Research: Battle
+TEXT: งานวิจัยแบบจำกัดเวลาเลือกได้: แบตเทิล
 
 RESOURCE ID: evergreen_week_tr_battle_button_text_key
-TEXT: Battle
+TEXT: แบตเทิล
 
 RESOURCE ID: evergreen_week_tr_battle_description_key_1
-TEXT: Choose this option for an additional 5000 XP from completing raids.
+TEXT: เลือกเส้นทางนี้เพื่อรับ +5,000 XP เมื่อตีบอสเสร็จสิ้น
 
 RESOURCE ID: evergreen_week_tr_battle_description_key_2
-TEXT: Choose this option for extra Mysterious Components from Team GO Rocket Grunts.
+TEXT: เลือกเส้นทางนี้เพื่อรับชิ้นส่วนลึกลับจากลูกสมุนแก๊งโกร็อกเกตเพิ่มขึ้น
 
 RESOURCE ID: evergreen_week_tr_battle_key
-TEXT: Battle
+TEXT: แบตเทิล
 
 RESOURCE ID: evergreen_week_tr_catch
-TEXT: Choose Your Path Timed Research: Catch
+TEXT: งานวิจัยแบบจำกัดเวลาเลือกได้: จับ
 
 RESOURCE ID: evergreen_week_tr_catch_button_text_key
-TEXT: Catch
+TEXT: จับ
 
 RESOURCE ID: evergreen_week_tr_catch_description_key_1
-TEXT: Choose this option for 1.5x XP from Nice, Great, and Excellent Throws.
+TEXT: เลือกเส้นทางนี้เพื่อรับ 1.5× XP จากการจับโปเกมอนเมื่อขว้างได้ดีขึ้นไป
 
 RESOURCE ID: evergreen_week_tr_catch_description_key_2
-TEXT: Choose this option for additional Candy for catching Pokémon with Nice, Great, and Excellent Throws.
+TEXT: เลือกเส้นทางนี้เพื่อรับลูกอมจากการจับโปเกมอนเพิ่มเมื่อขว้างได้ดีขึ้นไป
 
 RESOURCE ID: evergreen_week_tr_catch_key
-TEXT: Catch
+TEXT: จับ
 
 RESOURCE ID: evergreen_week_tr_explore
-TEXT: Choose Your Path Timed Research: Explore
+TEXT: งานวิจัยแบบจำกัดเวลาเลือกได้: สำรวจ
 
 RESOURCE ID: evergreen_week_tr_explore_button_text_key
-TEXT: Explore
+TEXT: สำรวจ
 
 RESOURCE ID: evergreen_week_tr_explore_description_key_1
-TEXT: Choose this option for 5x XP from spinning Pokestops.
+TEXT: เลือกเส้นทางนี้เพื่อรับ 5× XP จากการหมุนเสาโปเกสต็อป
 
 RESOURCE ID: evergreen_week_tr_explore_description_key_2
-TEXT: Choose this option for 1/2 Hatch Distance.
+TEXT: เลือกเส้นทางนี้เพื่อรับโบนัส 1/2 ระยะทางฟักไข่
 
 RESOURCE ID: evergreen_week_tr_explore_key
-TEXT: Explore
+TEXT: สำรวจ
 
 RESOURCE ID: evergreen_week_tr_title
-TEXT: Choose Your Path Timed Research
-
-RESOURCE ID: fashion_raid_day_event_name
-TEXT: วันตีบอสแฟชั่น
+TEXT: งานวิจัยแบบจำกัดเวลาเลือกได้
 
 RESOURCE ID: feature_soft_sfida_desc
 TEXT: เครื่องมือขว้างมอนสเตอร์บอล
 และหมุนเสาโปเกสต็อปโดยอัตโนมัติ
 
-RESOURCE ID: feature_soft_sfida_desc_short
-TEXT: เครื่องมือขว้างมอนสเตอร์บอล
-และหมุนเสาโปเกสต็อปโดยอัตโนมัติ
+RESOURCE ID: gbl_double_dust_rank_up
+TEXT: รางวัลสตาร์ดัสต์จากการเพิ่มระดับในโกแบตเทิลลีกเพิ่มขึ้น 2 เท่า
 
-RESOURCE ID: feature_soft_sfida_name
-TEXT: เครื่องมือนักสำรวจ
-
-RESOURCE ID: form_floette_eternal
-TEXT: ดอกไม้นิรันดร์
-
-RESOURCE ID: form_gimmighoul_chest
-TEXT: ฟอร์มกล่อง
-
-RESOURCE ID: form_gimmighoul_roaming
-TEXT: ฟอร์มเดินเท้า
-
-RESOURCE ID: fr_tag_go_fest_2026
-TEXT: GO Fest 2026
-
-RESOURCE ID: fr_tag_go_fest_2026_chicago
-TEXT: GO Fest 2026: ชิคาโก
-
-RESOURCE ID: fr_tag_go_fest_2026_copenhagen
-TEXT: GO Fest 2026: โคเปนเฮเกน
-
-RESOURCE ID: fr_tag_go_fest_2026_tokyo
-TEXT: GO Fest 2026: โตเกียว
-
-RESOURCE ID: general1.ticket.4_riolu0426_title
-TEXT: ตั๋วงานวิจัยแบบจำกัดเวลาพรีเมียมรีเพลย์: วันฟักไข่ริโอลุ
+RESOURCE ID: gbl_legendary_rank16
+TEXT: โปเกมอนในตำนานในรางวัลการเผชิญหน้าโกแบตเทิลลีกสำหรับระดับ 16 ขึ้นไป
 
 RESOURCE ID: general1.ticket.5.entei_shadow_raid_day
 TEXT: ตั๋ววันตีบอสชาโดว์เอ็นเต
@@ -1658,194 +345,43 @@ TEXT: ตั๋ววันตีบอสชาโดว์เอ็นเต
 RESOURCE ID: general1.ticket_cd_lechonk26_title
 TEXT: ตั๋วกูร์ตงคอมมิวนิตี้เดย์
 
-RESOURCE ID: general1.ticket_cd_tinkatink26_title
-TEXT: ตั๋วคานุจังคอมมิวนิตี้เดย์
+RESOURCE ID: general1.ticket_cdc_deino26_title
+TEXT: ตั๋ว "โมโนซึคอมมิวนิตี้เดย์ (รีเทิร์น)"
 
-RESOURCE ID: general2.ticket.6.replay_go_bigger
-TEXT: ตั๋วรีเพลย์: GO ให้ยิ่งใหญ่สุดแมกซ์!
+RESOURCE ID: general2.ticket.5_megafalinksraidday
+TEXT: ตั๋ววันตีบอสซูเปอร์เมก้าไทเรสึ
 
-RESOURCE ID: general2.ticket.9_fashionraidday26_title
-TEXT: ตั๋ววันตีบอสแฟชั่น
+RESOURCE ID: go_fest_copenhagen_lego_2026_tr_1
+TEXT: GO Fest 2026: Copenhagen and LEGO Collaboration Timed Research (1/3)
 
-RESOURCE ID: gmax_replay_go_bigger_max_battles
-TEXT: ลิซาร์ดอน, ฟุชิกิบานะ, คาเม็กซ์ และเก็งกา ในร่างกิกะแมกซ์ปรากฏตัวในแบตเทิลแมกซ์
+RESOURCE ID: go_fest_copenhagen_lego_2026_tr_2
+TEXT: GO Fest 2026: Copenhagen and LEGO Collaboration Timed Research (2/3)
 
-RESOURCE ID: gofest2022_finale_2_1_3
-TEXT: ตอนนี้ได้รับการยืนยันแล้วว่าอัลตร้าบีสต์
-ที่จะมาปรากฏตัวอีกครั้งคือ
-"UB02 แผ่ขยาย" หรือมัสชิบูน
+RESOURCE ID: go_fest_copenhagen_lego_2026_tr_3
+TEXT: GO Fest 2026: Copenhagen and LEGO Collaboration Timed Research (3/3)
 
-RESOURCE ID: gofest2022_sapporo_city_ub_1
-TEXT: ข้อมูลของฉันระบุว่าอัลตร้าบีสต์ที่มีแนวโน้ม
-ว่าจะปรากฏตัวมากที่สุดคือ "UB03 สายฟ้า"
-
-RESOURCE ID: gofest2022_seattle_city_4_4
-TEXT: ข้อมูลของฉันระบุว่าอัลตร้าบีสต์ที่มีแนวโน้ม
-ว่าจะปรากฏตัวมากที่สุดคือ "UB02 แผ่ขยาย"
-
-RESOURCE ID: gofest2025_maxfinale_event_duration
-TEXT: 18 สิงหาคม ถึง 24 สิงหาคม
-
-RESOURCE ID: gofest2026
-TEXT: Pokémon GO Fest 2026
-
-RESOURCE ID: gofest2026_chicago
-TEXT: Pokémon GO Fest 2026: ชิคาโก
-
-RESOURCE ID: gofest2026_conservatory_zone
-TEXT: โซนรักษาพันธุ์
-
-RESOURCE ID: gofest2026_conservatory_zone_bonus
-TEXT: โบนัสโซนรักษาพันธุ์
-
-RESOURCE ID: gofest2026_copenhagen
-TEXT: Pokémon GO Fest 2026: โคเปนเฮเกน
-
-RESOURCE ID: gofest2026_cultivation_zone
-TEXT: โซนค้นพบ
-
-RESOURCE ID: gofest2026_cultivation_zone_bonus
-TEXT: โบนัสโซนค้นพบ
-
-RESOURCE ID: gofest2026_defeat_rocket
-TEXT: เอาชนะแก๊งโกร็อกเกต
-
-RESOURCE ID: gofest2026_recruitment_zone
-TEXT: โซนร่วมทีม
-
-RESOURCE ID: gofest2026_recruitment_zone_bonus
-TEXT: โบนัสโซนร่วมทีม
-
-RESOURCE ID: gofest2026_rocket_zone
-TEXT: แหล่งกบดานแก๊งโกร็อกเกต
-
-RESOURCE ID: gofest2026_rocket_zone_bonus
-TEXT: โบนัสแหล่งกบดานแก๊งโกร็อกเกต
-
-RESOURCE ID: gofest2026_tokyo
-TEXT: Pokémon GO Fest 2026: โตเกียว
-
-RESOURCE ID: gotour_2025_event_duration
-TEXT: 24 กุมภาพันธ์ ถึง 2 มีนาคม
-
-RESOURCE ID: gotour_2026_event_duration
-TEXT: 23 กุมภาพันธ์ ถึง 1 มีนาคม
-
-RESOURCE ID: gym_sponsored_familymart
-TEXT: FamilyMart
-
-RESOURCE ID: item_event_pass_point_go_fest_01_name
-TEXT: แต้มบัตรผ่าน
-
-RESOURCE ID: item_event_pass_point_go_fest_02_name
-TEXT: แต้มบัตรผ่าน
-
-RESOURCE ID: item_event_pass_point_go_fest_03_name
-TEXT: แต้มบัตรผ่าน
-
-RESOURCE ID: item_event_pass_point_go_fest_04_name
-TEXT: แต้มบัตรผ่าน
-
-RESOURCE ID: item_event_pass_point_go_tour_01_name
-TEXT: แต้มบัตรผ่าน
-
-RESOURCE ID: item_event_pass_point_go_tour_02_name
-TEXT: แต้มบัตรผ่าน
-
-RESOURCE ID: item_event_pass_point_go_tour_03_name
-TEXT: แต้มบัตรผ่าน
-
-RESOURCE ID: item_event_pass_point_go_tour_04_name
-TEXT: แต้มบัตรผ่าน
-
-RESOURCE ID: item_event_pass_point_go_wild_area_01_name
-TEXT: แต้มบัตรผ่าน
-
-RESOURCE ID: item_event_pass_point_go_wild_area_02_name
-TEXT: แต้มบัตรผ่าน
-
-RESOURCE ID: item_event_pass_point_go_wild_area_03_name
-TEXT: แต้มบัตรผ่าน
-
-RESOURCE ID: item_event_pass_point_go_wild_area_04_name
-TEXT: แต้มบัตรผ่าน
-
-RESOURCE ID: item_event_pass_point_live_ops_01_name
-TEXT: แต้มบัตรผ่าน
-
-RESOURCE ID: item_event_pass_point_live_ops_02_name
-TEXT: แต้มบัตรผ่าน
-
-RESOURCE ID: item_event_pass_point_live_ops_03_name
-TEXT: แต้มบัตรผ่าน
-
-RESOURCE ID: item_event_pass_point_live_ops_04_name
-TEXT: แต้มบัตรผ่าน
-
-RESOURCE ID: item_event_pass_point_live_ops_05_name
-TEXT: แต้มบัตรผ่าน
-
-RESOURCE ID: item_event_pass_point_live_ops_06_name
-TEXT: แต้มบัตรผ่าน
-
-RESOURCE ID: item_event_pass_point_live_ops_07_name
-TEXT: แต้มบัตรผ่าน
-
-RESOURCE ID: item_event_pass_point_live_ops_08_name
-TEXT: แต้มบัตรผ่าน
-
-RESOURCE ID: item_event_pass_point_monthly_01_name
-TEXT: แต้มบัตรผ่าน
-
-RESOURCE ID: item_event_pass_point_monthly_02_name
-TEXT: แต้มบัตรผ่าน
-
-RESOURCE ID: item_event_pass_point_monthly_03_name
-TEXT: แต้มบัตรผ่าน
-
-RESOURCE ID: item_event_pass_point_monthly_04_name
-TEXT: แต้มบัตรผ่าน
+RESOURCE ID: go_fest_copenhagen_lego_2026_tr_title
+TEXT: GO Fest 2026: Copenhagen and LEGO Collaboration Timed Research
 
 RESOURCE ID: item_event_ticket_06_desc_entei_shadow_raid_day
 TEXT: ตั๋วสำหรับรับโบนัสพิเศษในวันที่
 2 พฤษภาคม 2026 เวลา 14:00-17:00 น.
 ตามเวลาท้องถิ่นทั่วโลก
 
-RESOURCE ID: item_event_ticket_06_desc_replay_go_bigger
+RESOURCE ID: item_event_ticket_gray_desc_megafalinksraidday
 TEXT: ตั๋วสำหรับรับโบนัสพิเศษในวันที่
-25 เมษายน 2026 เวลา 14:00-17:00 น.
-ตามเวลาท้องถิ่นทั่วโลก
-
-RESOURCE ID: item_event_ticket_06_details_replay_go_bigger
-TEXT: ตั๋วสำหรับรับโบนัสพิเศษ
-ในวันที่ 25 เมษายน
-คุณจะสามารถเข้าร่วมได้โดยอัตโนมัติ
-ตามเวลาท้องถิ่นทั่วโลก
-
-RESOURCE ID: item_event_ticket_09_desc_fashionraidday26
-TEXT: ตั๋วสำหรับรับโบนัสพิเศษในวันที่
-4 เมษายน 2026 เวลา 14:00-17:00 น.
-ตามเวลาท้องถิ่นทั่วโลก
-
-RESOURCE ID: item_event_ticket_09_details_fashionraidday26
-TEXT: ตั๋วสำหรับรับโบนัสพิเศษ
-ในวันที่ 4 เมษายน
-คุณจะสามารถเข้าร่วมได้โดยอัตโนมัติ
-ตามเวลาท้องถิ่นทั่วโลก
-
-RESOURCE ID: item_event_ticket_evergreen_desc_riolu0426
-TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยแบบจำกัดเวลาพรีเมียมรีเพลย์: วันฟักไข่ริโอลุ
-ถึงวันที่ 18 เมษายน 2026 เวลา 17:00 น. ตามเวลาท้องถิ่นทั่วโลก
-
-RESOURCE ID: item_event_ticket_evergreen_details_riolu0426
-TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยแบบจำกัดเวลาพรีเมียม รีเพลย์: วันฟักไข่ริโอลุ
-ในวันที่ 18 เมษายน
-คุณจะสามารถเข้าร่วมได้โดยอัตโนมัติ
+23 พฤษภาคม 2026 เวลา 14:00-17:00 น.
 ตามเวลาท้องถิ่นทั่วโลก
 
 RESOURCE ID: item_event_ticket_gray_details_entei_shadow_raid_day
 TEXT: ตั๋วสำหรับรับโบนัสพิเศษ
 ในวันที่ 2 พฤษภาคม 2026
+คุณจะสามารถเข้าร่วมได้โดยอัตโนมัติ
+ตามเวลาท้องถิ่นทั่วโลก
+
+RESOURCE ID: item_event_ticket_gray_details_megafalinksraidday
+TEXT: ตั๋วสำหรับรับโบนัสพิเศษ
+ในวันที่ 23 พฤษภาคม
 คุณจะสามารถเข้าร่วมได้โดยอัตโนมัติ
 ตามเวลาท้องถิ่นทั่วโลก
 
@@ -1855,10 +391,11 @@ TEXT: ตั๋วสำหรับเข้าร่วมงานวิจ�
 ในวันที่ 9 พฤษภาคม 2026 14:00 น.
 ตามเวลาท้องถิ่นทั่วโลก
 
-RESOURCE ID: item_event_ticket_pink_desc_cd_tinkatink26
+RESOURCE ID: item_event_ticket_pink_desc_cdc_deino26
 TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยพิเศษ
-คานุจังคอมมิวนิตี้เดย์ "คานุจังมากมาย"
-ในวันที่ 11 เมษายน 2026 14:00 น.
+โมโนซึคอมมิวนิตี้เดย์ (รีเทิร์น)
+"ตรวจสอบโปเกมอนดุดัน"
+ในวันที่ 16 พฤษภาคม 2026 14:00 น.
 ตามเวลาท้องถิ่นทั่วโลก
 
 RESOURCE ID: item_event_ticket_pink_details_cd_lechonk26
@@ -1867,85 +404,40 @@ TEXT: ตั๋วสำหรับเข้าร่วมงานวิจ�
 คุณจะสามารถเข้าร่วมได้โดยอัตโนมัติ
 ตามเวลาท้องถิ่นทั่วโลก
 
-RESOURCE ID: item_event_ticket_pink_details_cd_tinkatink26
-TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยพิเศษ "คานุจังมากมาย"
-ในวันที่ 11 เมษายน
+RESOURCE ID: item_event_ticket_pink_details_cdc_deino26
+TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยพิเศษ
+โมโนซึคอมมิวนิตี้เดย์ (รีเทิร์น)
+"ตรวจสอบโปเกมอนดุดัน"
+ในวันที่ 16 พฤษภาคม
 คุณจะสามารถเข้าร่วมได้โดยอัตโนมัติ
 ตามเวลาท้องถิ่นทั่วโลก
 
-RESOURCE ID: item_shockingly_good_milestone_name
-TEXT: ไอเท็มอวาตาร์
-
-RESOURCE ID: item_soft_sfida_desc
-TEXT: เครื่องมือขว้างมอนสเตอร์บอล
-และหมุนเสาโปเกสต็อปโดยอัตโนมัติ
-
-RESOURCE ID: item_soft_sfida_desc_short
-TEXT: เครื่องมือขว้างมอนสเตอร์บอล
-และหมุนเสาโปเกสต็อปโดยอัตโนมัติ
-
-RESOURCE ID: item_soft_sfida_name
-TEXT: เครื่องมือนักสำรวจ
+RESOURCE ID: item_spring_marathon_2026_milestone_name
+TEXT: รองเท้ามาราธอน (สีดำ)
 
 RESOURCE ID: item_steeled_resolve_milestone_name
 TEXT: ซูเปอร์ร็อกเกตเรดาร์
 
 RESOURCE ID: kr2026_school_festa_oclock
-TEXT: School Rush
+TEXT: ต้นชั่วโมงเรียน
 
 RESOURCE ID: kr2026_school_festa_oclock_desc
-TEXT: During the event period, Starter Pokémon will appear for 5 minutes at 8:00 a.m., 12:00 p.m., and 7:00 p.m. every day!
+TEXT: ในช่วงอีเวนต์ โปเกมอนคู่หูตัวแรกจะปรากฏตัวเป็นเวลา 5 นาที ตอน 8:00 น., 12:00 น. และ 19:00 น. ทุกวัน!
 
 RESOURCE ID: kr2026_school_festa_oclock_live
-TEXT: It’s School Rush – Starter Pokémon will appear at the School Zone!
+TEXT: ต้นชั่วโมงเรียน! โปเกมอนคู่หูตัวแรกจะปรากฏตัวที่โซนโรงเรียน
 
 RESOURCE ID: kr2026_school_festa_title
-TEXT: School Festa
+TEXT: เทศกาลโรงเรียน
 
 RESOURCE ID: kr2026_school_festa_tr_title
-TEXT: School Festa Timed Research
+TEXT: งานวิจัยแบบจำกัดเวลาเทศกาลโรงเรียน
 
 RESOURCE ID: kr2026_school_zone
-TEXT: School Zone
-
-RESOURCE ID: kr_festival_fr_location_background
-TEXT: ชิคิจิกะและพิคาชูในชุดคอสตูมที่จับจากภารกิจงานวิจัยภาคสนามอาจมีพื้นหลังสถานที่สุดพิเศษ
-
-RESOURCE ID: kr_festival_raid_location_background
-TEXT: โปเกมอนที่จับจากตีบอสในอีเวนต์อาจมีพื้นหลังสถานที่พิเศษ
-
-RESOURCE ID: kr_festival_tr_location_background
-TEXT: โปเกมอนที่จับจากภารกิจงานวิจัยแบบจำกัดเวลาอาจมีพื้นหลังสถานที่พิเศษ
-
-RESOURCE ID: kr_mega_festa_rally_2026_desc
-TEXT: แสตมป์แรลลีสุดพิเศษเฉพาะที่ MEGA FESTA  2026 ณ โซล, เกาหลีใต้
-
-RESOURCE ID: kr_mega_festa_rally_2026_desc_detail
-TEXT: แวะไปเสาโปเกสต็อปแสตมป์แรลลี GO ที่ MEGA FESTA 2026 ในโซลเพื่อเผชิญหน้ากับเหล่าโปเกมอนที่สวมหมวกปาร์ตี้
-
-RESOURCE ID: kr_mega_festa_rally_2026_event_title
-TEXT: Pokémon MEGA FESTA 2026
-
-RESOURCE ID: kr_mega_festa_rally_2026_location
-TEXT: โซล, เกาหลีใต้
-
-RESOURCE ID: kr_mega_festa_rally_2026_rewards_desc_general
-TEXT: เคลียร์ "MEGA FESTA 2026: แสตมป์แรลลีโซล" เพื่อเผชิญหน้ากับโปเกมอนตามธีม
-
-RESOURCE ID: kr_mega_festa_rally_2026_tag
-TEXT: MEGA FESTA  2026: แสตมป์แรลลีโซล
-
-RESOURCE ID: kr_mega_festa_rally_2026_title
-TEXT: MEGA FESTA 2026: แสตมป์แรลลีโซล
+TEXT: โซนโรงเรียน
 
 RESOURCE ID: kr_sports_day_2026_bonus_desc
-TEXT: วันที่ 24-25 พฤษภาคม สามารถเผชิญหน้ากับโปเกมอนตามธีมอีเวนต์ด้วยการสำรวจ COEX และเผชิญหน้ากับโมรุเปโกะจากงานวิจัยแบบจำกัดเวลาได้
-
-RESOURCE ID: kr_sports_day_2026_tag
-TEXT: Pokémon Sports Day 2026
-
-RESOURCE ID: kr_sports_day_2026_title
-TEXT: Pokémon Sports Day 2026
+TEXT: วันที่ 24-25 พฤษภาคม สามารถเผชิญหน้ากับโปเกมอนธีมอีเวนต์ด้วยการสำรวจ COEX และเผชิญหน้ากับโมรุเปโกะจากงานวิจัยแบบจำกัดเวลาได้
 
 RESOURCE ID: kr_sports_day_2026_tr_name
 TEXT: งานวิจัยแบบจำกัดเวลา Pokémon Sports Day 2026
@@ -1959,300 +451,77 @@ TEXT: งานวิจัยแบบจำกัดเวลา Pokémon Spor
 RESOURCE ID: kr_sports_day_2026_tr_name_3
 TEXT: งานวิจัยแบบจำกัดเวลา Pokémon Sports Day 2026 (3/3)
 
-RESOURCE ID: local_trade_action
-TEXT: แลกเปลี่ยนในพื้นที่
-
-RESOURCE ID: meetup_check_in_research_title_super_mega_raids
-TEXT: งานวิจัยแบบจำกัดเวลาเช็กอินงานพบปะ: ตีบอสซูเปอร์เมก้า
+RESOURCE ID: mega_perk_xl_bonus_excellentplus_temp
+TEXT: เพิ่มโอกาสรับลูกอม XL อย่างมหาศาล
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-04-14T21:51:59.162238+00:00 for th-TH
-at SHA 58e36bb4438
-Pipeline 3630183, job 53359553
-Patch from: 0.407.0-SHA-a7ebc338-RC2, 0.409.0-SHA-b586ed26-RC1, 0.405.1-SHA-47f639eb-RC1
+TEXT: Built at 2026-05-01T21:54:20.820880+00:00 for th-TH
+at SHA a8abc7010ba
+Pipeline 3661705, job 53850761
+Patch from: 0.409.0-SHA-b1cc57a0-RC3, 0.411.0-SHA-3e9f7fdb-RC1
 
-RESOURCE ID: move_name_0494
-TEXT: ค้อนใหญ่ยักษ์
+RESOURCE ID: move_name_0497
+TEXT: หมัดพลาสมา
 
-RESOURCE ID: no_claimable_rewards
-TEXT: ไม่มีรางวัลที่สามารถรับได้
+RESOURCE ID: partnership_target_2026_event_title
+TEXT: รวมพลเทรนเนอร์!
 
-RESOURCE ID: paid_replay_go_bigger_gmax_tr_april26
-TEXT: งานวิจัยแบบจำกัดเวลาพรีเมียมรีเพลย์: GO ให้ยิ่งใหญ่สุดแมกซ์!
+RESOURCE ID: partnership_target_2026_tr_desc_00
+TEXT: งานวิจัยแบบจำกัดเวลาโบนัสรวมพลเทรนเนอร์! (1/3)
 
-RESOURCE ID: paid_replay_go_bigger_gmax_tr_april26_header_0
-TEXT: งานวิจัยแบบจำกัดเวลาพรีเมียมรีเพลย์: GO ให้ยิ่งใหญ่สุดแมกซ์! (1/1)
+RESOURCE ID: partnership_target_2026_tr_desc_01
+TEXT: งานวิจัยแบบจำกัดเวลาโบนัสรวมพลเทรนเนอร์! (2/3)
 
-RESOURCE ID: past_field_books_button
-TEXT: บันทึกภาคสนามในอดีต
+RESOURCE ID: partnership_target_2026_tr_desc_02
+TEXT: งานวิจัยแบบจำกัดเวลาโบนัสรวมพลเทรนเนอร์! (3/3)
+
+RESOURCE ID: partnership_target_2026_tr_title
+TEXT: งานวิจัยแบบจำกัดเวลาโบนัสรวมพลเทรนเนอร์!
 
 RESOURCE ID: photobomb_five_lechonk
 TEXT: กูร์ตงแย่งซีนถ่ายรูปในโกสแนปช็อต 5 ครั้ง
 
-RESOURCE ID: photobomb_five_tinkatink
-TEXT: คานุจังแย่งซีนถ่ายรูปในโกสแนปช็อต 5 ครั้ง
-
-RESOURCE ID: pokelid_collection
-TEXT: Poké Lid Stamp Rally
-
-RESOURCE ID: pokelid_subheader_description
-TEXT: This is a stamp rally where you visit PokéLids installed across Japan.
-
-RESOURCE ID: pokelid_where_description
-TEXT: All across Japan
-You can check the locations of the PokéLids on the following website.
-
-RESOURCE ID: pokemon_desc_0670_0002
-TEXT: ฟลาเอตเตหายากที่โอบกอดพืชที่สูญพันธุ์ไปตั้งแต่
-สมัยโบราณ ดูเหมือนจะมีพลังอันแข็งแกร่งซ่อนอยู่
-
-RESOURCE ID: pokemon_desc_0999_0002
-TEXT: เกิดในกล่องสมบัติเมื่อราว 1500 ปีก่อน
-สูบพลังชีวิตของคนร้ายที่มาขโมยสมบัติ
-
-RESOURCE ID: pokemon_desc_tmpevo_0026_0001
-TEXT: ปล่อยกระแสไฟฟ้ากำลังสูง 50 ล้านโวลต์
-ออกมาจากหูทั้งสองและหางที่มีสองแฉก
-และบินด้วยร่างที่เหมือนตัว X
-
-RESOURCE ID: pokemon_desc_tmpevo_0026_0002
-TEXT: ปล่อยกระแสไฟฟ้าออกมาเป็นรูปตัว Y
-จากปลายหางและขนแหลมหยัก
-ที่งอกออกมาจากขมับ
-
-RESOURCE ID: pokemon_desc_tmpevo_0358_0001
-TEXT: สั่นทั้งร่างเพื่อใช้คลื่นเสียงโจมตีไปทั่วทุกทิศทาง
-พอฟังไปเรื่อย ๆ ก็จะหลงลืมตัวเอง
-
-RESOURCE ID: pokemon_desc_tmpevo_0359_0002
-TEXT: การที่มันใช้ขนตัวที่ทำให้แหลมคมราวกับกรงเล็บ
-ฟาดฟันศัตรูให้ขาดในฉับเดียวนั้นเป็น
-ความเมตตาที่ไม่อยากให้อีกฝ่ายทุกข์ทรมาน
-
-RESOURCE ID: pokemon_desc_tmpevo_0398_0001
-TEXT: ความสามารถในการบินอยู่ในระดับแนวหน้า
-สามารถจับฮากาเนลที่หนักเกินกว่า 400 กิโลกรัม
-แล้วบินไปบนท้องฟ้าได้อย่างสบาย ๆ
-
-RESOURCE ID: pokemon_desc_tmpevo_0448_0002
-TEXT: คลื่นพลังห่อหุ้มทั่วร่างกาย จึงสามารถรับและ
-เบี่ยงการโจมตีทุกรูปแบบได้ และต่อสู้ด้วยท่วงท่า
-ราวกับร่ายรำ
-
-RESOURCE ID: pokemon_desc_tmpevo_0485_0001
-TEXT: ใช้อุณหภูมิร่างกายสูงที่หากเอาจริงขึ้นมา
-คาดว่าสามารถเพิ่มสูงได้ถึง 1 ล้านองศาเซลเซียส
-ในการกันไม่ให้ศัตรูเข้าใกล้
-
-RESOURCE ID: pokemon_desc_tmpevo_0491_0001
-TEXT: พลังความมืดเข้าบดบังดวงอาทิตย์ทำให้
-ทั่วบริเวณจมสู่ความมืด ไม่สามารถหลีกหนีไป
-จากดวงตาชั่วร้ายได้
-
-RESOURCE ID: pokemon_desc_tmpevo_0530_0001
-TEXT: หากเอาแขนทั้งสองไปขนาบหัวจะมีรูปทรง
-เพรียวลม เมื่อหมุนตัวด้วยความเร็วสูง
-จะสามารถทำลายล้างทุกสิ่งทุกอย่างได้
-
-RESOURCE ID: pokemon_desc_tmpevo_0623_0001
-TEXT: วิวัฒนาการเมก้ากระตุ้นให้พลังงานภายใน
-ร่างกายตื่นตัว จนอาจระเบิดขึ้นมาเมื่อไหร่ก็ได้
-
-RESOURCE ID: pokemon_desc_tmpevo_0670_0001
-TEXT: พลังงานจากวิวัฒนาการเมก้าถูกดอกไม้นิรันดร์
-ดูดซับไปทั้งหมด ดอกไม้จะจู่โจมศัตรูได้เอง
-
-RESOURCE ID: pokemon_desc_tmpevo_0678_0001
-TEXT: ใช้พลังจิตบีบอัดและขยายทุกสิ่งทุกอย่างได้
-แม้แต่ปริภูมิก็ทำให้บิดเบี้ยวเพื่อกดดันศัตรู
-ให้หวาดหวั่น
-
-RESOURCE ID: pokemon_desc_tmpevo_0740_0001
-TEXT: กำปั้นที่ถูกห่อหุ้มไว้ด้วยน้ำแข็งหนานั้น
-แค่เหวี่ยงเบา ๆ ครั้งเดียว แม้แต่คอนกรีต
-เสริมเหล็กก็ป่นเป็นผุยผงได้
-
-RESOURCE ID: pokemon_desc_tmpevo_0768_0001
-TEXT: ใช้แขนทั้งสี่โจมตีอย่างต่อเนื่องรุนแรง พอไล่ต้อน
-อีกฝ่ายให้จนมุมได้ ก็จะใช้แขนที่ซ่อนเอาไว้
-จัดการปิดฉาก
-
-RESOURCE ID: pokemon_desc_tmpevo_0801_0001
-TEXT: ร่างที่โหมดลับทำงาน ความรู้สึกที่ก่อเกิดขึ้นมา
-ถูกซ่อนเร้น และจัดการล้มศัตรูที่ขวางหน้า
-ต่อไปเรื่อย ๆ
-
-RESOURCE ID: pokemon_desc_tmpevo_0807_0001
-TEXT: กักเก็บพลังไฟฟ้าเท่ากับฟ้าผ่า 10 ครั้งไว้
-เมื่อปลดลิมิตเตอร์ออก จะอยู่ในระดับแกร่งสุด
-ของโปเกมอนไฟฟ้า
-
-RESOURCE ID: pokemon_desc_tmpevo_0952_0001
-TEXT: วิวัฒนาการเมก้าทำให้ความเผ็ดร้อนแรงขึ้น
-เหวี่ยงส่วนที่เปลี่ยนไปจนคล้ายกับเน็กไท
-ไปต่อยอีกฝ่าย
-
-RESOURCE ID: pokemon_desc_tmpevo_0970_0001
-TEXT: กลีบดอกไม้ที่มีขนาดใหญ่โตขึ้นแยกออกจากตัว
-คอยป้องกันร่างหลักพร้อมกับหมุนไปรอบ ๆ
-และหว่านเศษเสี้ยวพิษไปทั่ว
-
-RESOURCE ID: pokemon_desc_tmpevo_0978_0001_01
-TEXT: การวิวัฒนาการเมก้ากระตุ้นสมองของมัน
-ทำให้มันเจ้าเล่ห์เพทุบายยิ่งขึ้น
-สร้างร่างแยกขึ้นมาและใช้งานอย่างเชี่ยวชาญ
-
-RESOURCE ID: pokemon_desc_tmpevo_0978_0001_02
-TEXT: ทำให้พลังงานจากวิวัฒนาการเมก้าแข็งตัวแล้วยิง
-ออกไปเป็นพลังงานส่วนเกิน เมื่อสัมผัสโดน
-อะไรสักอย่าง ก็จะระเบิดออกอย่างรุนแรง
-
-RESOURCE ID: pokemon_desc_tmpevo_0978_0001_03
-TEXT: สร้างยานพาหนะที่ดูเหมือนจานขึ้นมาด้วย
-พลังงานจากวิวัฒนาการเมก้า สามารถเคลื่อนที่
-อย่างอิสระบนฟ้าได้ด้วย
-
-RESOURCE ID: pokemon_name_0026_0001
-TEXT: เมก้าไรชู X
-
-RESOURCE ID: pokemon_name_0026_0002
-TEXT: เมก้าไรชู Y
-
-RESOURCE ID: pokemon_name_0358_0001
-TEXT: เมก้าชิรีน
-
-RESOURCE ID: pokemon_name_0359_0002
-TEXT: เมก้าแอบโซล Z
-
-RESOURCE ID: pokemon_name_0398_0001
-TEXT: เมก้ามุคูฮอว์ก
-
-RESOURCE ID: pokemon_name_0448_0002
-TEXT: เมก้าลูคาริโอ Z
-
-RESOURCE ID: pokemon_name_0485_0001
-TEXT: เมก้าฮีดราน
-
-RESOURCE ID: pokemon_name_0491_0001
-TEXT: เมก้าดาร์กไร
-
-RESOURCE ID: pokemon_name_0530_0001
-TEXT: เมก้าโดริวซึ
-
-RESOURCE ID: pokemon_name_0623_0001
-TEXT: เมก้าโกลูก
-
-RESOURCE ID: pokemon_name_0670_0001
-TEXT: เมก้าฟลาเอตเต
-
-RESOURCE ID: pokemon_name_0678_0001
-TEXT: เมก้าเนียโอนิกซ์
-
-RESOURCE ID: pokemon_name_0740_0001
-TEXT: เมก้าเคเค็นคานิ
-
-RESOURCE ID: pokemon_name_0768_0001
-TEXT: เมก้ากูโซคูมูฉะ
-
-RESOURCE ID: pokemon_name_0801_0001
-TEXT: เมก้ามาเกียนา
-
-RESOURCE ID: pokemon_name_0807_0001
-TEXT: เมก้าเซราโอรา
-
-RESOURCE ID: pokemon_name_0952_0001
-TEXT: เมก้าสโกวิลเลิน
-
-RESOURCE ID: pokemon_name_0970_0001
-TEXT: เมก้าคิราฟลอร์
-
-RESOURCE ID: pokemon_name_0978_0001
-TEXT: เมก้าชาริทัตสึ
-
-RESOURCE ID: pokemon_name_0998_0001
-TEXT: การวิวัฒนาการเมก้าทำให้ดาบที่ครีบหลัง
-มีขนาดใหญ่โตยิ่งขึ้นไปอีก ปล่อยท่าลำแสง
-ออกมาจากด้ามจับบริเวณลิ้นปี่
+RESOURCE ID: pokemon_run_2026_seoul_title
+TEXT: Pokémon RUN 2026 โซล
 
 RESOURCE ID: pokestop_spin_xp_five
-TEXT: 5× XP for spinning PokéStops
+TEXT: 5× XP จากการหมุนเสาโปเกสต็อป
 
-RESOURCE ID: quest_catch_collection_district_plural
-TEXT: จับโปเกมอน {0} ตัวในเขตสะสม
+RESOURCE ID: quest_defeat_fighting_type_raid_singular
+TEXT: เอาชนะบอสโปเกมอนประเภทต่อสู้
 
-RESOURCE ID: quest_catch_conservatory_zone_plural
-TEXT: จับโปเกมอน {0} ตัวในโซนรักษาพันธุ์
+RESOURCE ID: quest_deino_catch_b
+TEXT: จับโมโนซึ {0} ตัว
 
-RESOURCE ID: quest_catch_cultivation_zone_plural
-TEXT: จับโปเกมอน {0} ตัวในโซนค้นพบ
+RESOURCE ID: quest_gbl_rank
+TEXT: ไปถึงระดับ {0} ในโกแบตเทิลลีก
 
-RESOURCE ID: quest_catch_friendship_district_plural
-TEXT: จับโปเกมอน {0} ตัวในเขตเพื่อน
+RESOURCE ID: quest_gbl_rank_ace
+TEXT: ไปถึงระดับหัวกะทิในโกแบตเทิลลีก
 
-RESOURCE ID: quest_catch_investigation_district_plural
-TEXT: จับโปเกมอน {0} ตัวในเขตสืบสวน
+RESOURCE ID: quest_gbl_rank_fifteen
+TEXT: ไปถึงระดับ 15 ในโกแบตเทิลลีก
 
-RESOURCE ID: quest_catch_pokemon_regular_pokeballs_plural
-TEXT: จับโปเกมอน {0} ตัวลงใน
-มอนสเตอร์บอล
+RESOURCE ID: quest_gbl_rank_five
+TEXT: ไปถึงระดับ 5 ในโกแบตเทิลลีก
 
-RESOURCE ID: quest_catch_pokemon_two_dozen
-TEXT: จับโปเกมอน 24 ตัว
+RESOURCE ID: quest_gbl_rank_plural
+TEXT: ไปถึงระดับ {0} ในโกแบตเทิลลีก
 
-RESOURCE ID: quest_catch_recruitment_zone_plural
-TEXT: จับโปเกมอน {0} ตัวในโซนร่วมทีม
+RESOURCE ID: quest_gbl_rank_ten
+TEXT: ไปถึงระดับ 10 ในโกแบตเทิลลีก
 
-RESOURCE ID: quest_catch_rocket_zone_plural
-TEXT: จับโปเกมอน {0} ตัวในแหล่งกบดานแก๊งโกร็อกเกต
-
-RESOURCE ID: quest_catch_scouting_district_plural
-TEXT: จับโปเกมอน {0} ตัวในเขตสอดแนม
-
-RESOURCE ID: quest_earn_candy_any_pokemon
-TEXT: ได้รับลูกอมหรือลูกอม XL ของโปเกมอน {0} เม็ด
-
-RESOURCE ID: quest_earn_candy_any_pokemon_plural
-TEXT: ได้รับลูกอมหรือลูกอม XL ของโปเกมอน {0} เม็ด
-
-RESOURCE ID: quest_earn_trainer_challenge_badges_plural
-TEXT: ได้รับเหรียญรางวัลจากคำท้าเทรนเนอร์ {0} เหรียญ
+RESOURCE ID: quest_gbl_rank_twenty
+TEXT: ไปถึงระดับ 20 ในโกแบตเทิลลีก
 
 RESOURCE ID: quest_lechonk_catch_b
 TEXT: จับกูร์ตง {0} ตัว
 
 RESOURCE ID: quest_log_welcome_back_rewards
-TEXT: Claimed welcome reward.
+TEXT: รับรางวัลต้อนรับแล้ว!
 
-RESOURCE ID: quest_nice_throw_dozen
-TEXT: ขว้างได้ดี 12 ครั้ง
-
-RESOURCE ID: quest_power_up_zeraora_plural
-TEXT: พาวเวอร์อัปเซราโอรา {0} ครั้ง
-
-RESOURCE ID: quest_purify_shadow_pokemon_singular
-TEXT: ชำระล้างโปเกมอนชาโดว์
-
-RESOURCE ID: quest_snapshot_zeraora_singular
-TEXT: ถ่ายภาพเซราโอรา
-
-RESOURCE ID: quest_spin_collection_district_plural
-TEXT: หมุนเสาโปเกสต็อปหรือยิม {0} แห่ง
-ใน "เขตสะสม"
-
-RESOURCE ID: quest_spin_friendship_district_plural
-TEXT: หมุนเสาโปเกสต็อปหรือยิม {0} แห่ง
-ใน "เขตเพื่อน"
-
-RESOURCE ID: quest_spin_investigation_district_plural
-TEXT: หมุนเสาโปเกสต็อปหรือยิม {0} แห่ง
-ใน "เขตสืบสวน"
-
-RESOURCE ID: quest_spin_scouting_district_plural
-TEXT: หมุนเสาโปเกสต็อปหรือยิม {0} แห่ง
-ใน "เขตสอดแนม"
-
-RESOURCE ID: quest_tinkatink_catch_b
-TEXT: จับคานุจัง {0} ตัว
+RESOURCE ID: quest_mega_evolve_mewtwo
+TEXT: วิวัฒนาการเมก้ามิวทู
 
 RESOURCE ID: quest_title_lechonk
 TEXT: อย่าคิดว่าหมู ๆ
@@ -2266,163 +535,80 @@ TEXT: อย่าคิดว่าหมู ๆ (2/3)
 RESOURCE ID: quest_title_lechonk_2
 TEXT: อย่าคิดว่าหมู ๆ (3/3)
 
-RESOURCE ID: quest_title_lvl_80
-TEXT: คำท้าเลเวล 80
-
-RESOURCE ID: quest_title_lvl_80_0
-TEXT: คำท้าเลเวล 80 (1/4)
-
-RESOURCE ID: quest_title_lvl_80_1
-TEXT: คำท้าเลเวล 80 (2/4)
-
-RESOURCE ID: quest_title_lvl_80_2
-TEXT: คำท้าเลเวล 80 (3/4)
-
-RESOURCE ID: quest_title_lvl_80_3
-TEXT: คำท้าเลเวล 80 (4/4)
-
-RESOURCE ID: quest_title_tinkatink
-TEXT: คานุจังมากมาย
-
-RESOURCE ID: quest_title_tinkatink_0
-TEXT: คานุจังมากมาย (1/3)
-
-RESOURCE ID: quest_title_tinkatink_1
-TEXT: คานุจังมากมาย (2/3)
-
-RESOURCE ID: quest_title_tinkatink_2
-TEXT: คานุจังมากมาย (3/3)
-
-RESOURCE ID: quest_use_max_potions_plural
-TEXT: ใช้ยาฟื้นพลังกายเต็มถัง {0} ชิ้น
-
-RESOURCE ID: quest_win_super_mega_raid_plural
-TEXT: ชนะตีบอสซูเปอร์เมก้า {0} ครั้ง
-
 RESOURCE ID: raid_bonus_event_sb
-TEXT: โปเกมอนตามธีมอีเวนต์ที่จับจากตีบอสห้าดาวอาจมีพื้นหลังพิเศษ
+TEXT: โปเกมอนธีมอีเวนต์ที่จับจากตีบอสห้าดาวอาจมีพื้นหลังพิเศษ
 
-RESOURCE ID: raid_special_background
-TEXT: โปเกมอนที่จับจากตีบอสในอีเวนต์อาจมีพื้นหลังพิเศษ
+RESOURCE ID: raid_day_mega_falinks_event_name
+TEXT: วันตีบอส: เมก้าไทเรสึ
+
+RESOURCE ID: rally_irl_copenhagen_lego_2026_desc
+TEXT: Explore the magic of Pokémon GO Fest Copenhgen and LEGOs!
+
+RESOURCE ID: rally_irl_copenhagen_lego_2026_desc_detail
+TEXT: Collect stamps by visiting GO Stamp Rally PokéStops!
+
+RESOURCE ID: rally_irl_copenhagen_lego_2026_location
+TEXT: Copenhagen, Denmark
+
+RESOURCE ID: rally_irl_copenhagen_lego_2026_rewards_desc
+TEXT: Encounter Pikachus with an exclusive LEGO Special Background as you explore the rally!
+
+RESOURCE ID: rally_irl_copenhagen_lego_2026_title
+TEXT: GO Fest 2026: Copenhagen – LEGO Stamp Rally
 
 RESOURCE ID: remote_trade_action
 TEXT: แลกเปลี่ยนระยะไกล
 
-RESOURCE ID: replay_go_bigger_event_name
-TEXT: รีเพลย์: GO ให้ยิ่งใหญ่สุดแมกซ์!
-
-RESOURCE ID: replay_go_bigger_max_battle_ticketed
-TEXT: โบนัสตั๋วรีเพลย์: GO ให้ยิ่งใหญ่สุดแมกซ์!
-
-RESOURCE ID: replay_riolu_hatch_day_event_name
-TEXT: รีเพลย์: วันฟักไข่ริโอลุ
-
-RESOURCE ID: reward_mewtwo_complete_battle
-TEXT: แบตเทิลกับมิวทู
-
-RESOURCE ID: reward_mewtwo_incomplete_rescue
-TEXT: ช่วยเหลือมิวทู
-
-RESOURCE ID: riolu_hatch_free_tr_name
-TEXT: งานวิจัยแบบจำกัดเวลารีเพลย์: วันฟักไข่ริโอลุ
-
-RESOURCE ID: riolu_hatch_tr_name
-TEXT: งานวิจัยแบบจำกัดเวลาพรีเมียม รีเพลย์: วันฟักไข่ริโอลุ
-
-RESOURCE ID: season_pass_30anniv_2026_event_duration
-TEXT: 3 มีนาคม ถึง 9 มีนาคม
-
-RESOURCE ID: season_pass_april2026_event_duration
-TEXT: 7 เมษายน ถึง 5 พฤษภาคม
-
-RESOURCE ID: season_pass_april2026_track_upgrade_header_description
-TEXT: รับรางวัลเพิ่มเติมและปลดล็อก<b>เครื่องรางนำโชค</b>ที่ระดับ 100!
-
-RESOURCE ID: season_pass_april2026_upgrade_description
-TEXT: ซื้อบัตรผ่าน GO Deluxe: เมษายน เพื่อปลดล็อกรางวัลต่อไปนี้!
-
-- เครื่องฟักไข่ชั้นเยี่ยม 1 ชิ้น
-- <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/">เครื่องรางนำโชค</a> 1 ชิ้น ที่จะช่วยให้คุณ
-เป็นเพื่อนนำโชคกับเทรนเนอร์ที่ต้องการ
-ได้ในทันที
-- และอื่น ๆ
-
-RESOURCE ID: season_pass_base_track_title_shockingly_good_2026
-TEXT: บัตรผ่าน GO: ไฟฟ้าสุดช็อก?
+RESOURCE ID: season_pass_base_track_title_spring_marathon_2026
+TEXT: บัตรผ่าน GO: การเดินทางไกลช่วงฤดูใบไม้ผลิ
 
 RESOURCE ID: season_pass_base_track_title_steeled_resolve_2026
 TEXT: บัตรผ่าน GO: ปณิธานเหล็กกล้า - ยึดครอง
 
-RESOURCE ID: season_pass_base_track_title_sustainabilityweek2026
-TEXT: บัตรผ่าน GO: สัปดาห์แห่งความยั่งยืน
-
-RESOURCE ID: season_pass_bugoutbuddies2026_event_duration
-TEXT: 17 มีนาคม ถึง 23 มีนาคม
-
-RESOURCE ID: season_pass_december2025_event_duration
-TEXT: 2 ธันวาคม ถึง 6 มกราคม
-
-RESOURCE ID: season_pass_details_link_april2026
+RESOURCE ID: season_pass_details_link_may2026
 TEXT: ตรวจสอบรายละเอียดได้ที่<a href="https://pokemongo.com/go-pass">เว็บไซต์</a>นี้
 
-RESOURCE ID: season_pass_details_link_shockingly_good_2026
-TEXT: ตรวจสอบรายละเอียดได้ที่<a href="https://pokemongo.com/news/a-shockingly-good-time">เว็บไซต์</a>นี้
+RESOURCE ID: season_pass_details_link_spring_marathon_2026
+TEXT: ตรวจสอบรายละเอียดได้ที่<a href="https://pokemongolive.com/news/spring-marathon-2026">เว็บไซต์</a>นี้
 
 RESOURCE ID: season_pass_details_link_steeled_resolve_2026
 TEXT: ตรวจสอบรายละเอียดได้ที่<a href="https://pokemongo.com/news/steeled-resolve-2026">เว็บไซต์</a>นี้
 
-RESOURCE ID: season_pass_details_link_sustainabilityweek2026
-TEXT: ตรวจสอบรายละเอียดได้ที่<a href="https://pokemongolive.com/news/sustainability-week-2026">เว็บไซต์</a>นี้
+RESOURCE ID: season_pass_may2026_event_duration
+TEXT: 5 พฤษภาคม ถึง 2 มิถุนายน
 
-RESOURCE ID: season_pass_february2026_event_duration
-TEXT: 3 กุมภาพันธ์ ถึง 3 มีนาคม
+RESOURCE ID: season_pass_may2026_track_upgrade_header_description
+TEXT: รับรางวัลเพิ่มเติมและปลดล็อก <b>1,000 โปเกคอยน์</b>!
 
-RESOURCE ID: season_pass_halloween_2025_event_duration
-TEXT: 21 ตุลาคม ถึง 2 พฤศจิกายน
+RESOURCE ID: season_pass_may2026_upgrade_description
+TEXT: ซื้อบัตรผ่าน GO Deluxe: พฤษภาคม เพื่อปลดล็อกรางวัลต่อไปนี้!
 
-RESOURCE ID: season_pass_january2026_event_duration
-TEXT: 6 มกราคม ถึง 5 กุมภาพันธ์
+- 1,000 โปเกคอยน์
+- เครื่องฟักไข่ชั้นเยี่ยม 1 ชิ้น
+- และอื่น ๆ
 
-RESOURCE ID: season_pass_march2026_event_duration
-TEXT: 3 มีนาคม ถึง 7 เมษายน
-
-RESOURCE ID: season_pass_november2025_event_duration
-TEXT: 4 พฤศจิกายน ถึง 2 ธันวาคม
-
-RESOURCE ID: season_pass_october2025_event_duration
-TEXT: 7 ตุลาคม ถึง 4 พฤศจิกายน
-
-RESOURCE ID: season_pass_premium_track_plus_six_ranks_title_shockingly_good_2026
-TEXT: บัตรผ่าน GO Deluxe: ไฟฟ้าสุดช็อก? + 6 ระดับ
+RESOURCE ID: season_pass_premium_track_plus_six_ranks_title_spring_marathon_2026
+TEXT: บัตรผ่าน GO Deluxe: การเดินทางไกลช่วงฤดูใบไม้ผลิ + 6 ระดับ
 
 RESOURCE ID: season_pass_premium_track_plus_six_ranks_title_steeled_resolve_2026
 TEXT: บัตรผ่าน GO Deluxe: ปณิธานเหล็กกล้า - ยึดครอง + 6 ระดับ
 
-RESOURCE ID: season_pass_premium_track_plus_six_ranks_title_sustainabilityweek2026
-TEXT: บัตรผ่าน GO Deluxe: สัปดาห์แห่งความยั่งยืน + 6 ระดับ
-
-RESOURCE ID: season_pass_premium_track_title_shockingly_good_2026
-TEXT: บัตรผ่าน GO Deluxe: ไฟฟ้าสุดช็อก?
+RESOURCE ID: season_pass_premium_track_title_spring_marathon_2026
+TEXT: บัตรผ่าน GO Deluxe: การเดินทางไกลช่วงฤดูใบไม้ผลิ
 
 RESOURCE ID: season_pass_premium_track_title_steeled_resolve_2026
 TEXT: บัตรผ่าน GO Deluxe: ปณิธานเหล็กกล้า - ยึดครอง
 
-RESOURCE ID: season_pass_premium_track_title_sustainabilityweek2026
-TEXT: บัตรผ่าน GO Deluxe: สัปดาห์แห่งความยั่งยืน
+RESOURCE ID: season_pass_spring_marathon_2026_event_duration
+TEXT: 12-18 พฤษภาคม
 
-RESOURCE ID: season_pass_september2025_event_duration
-TEXT: 2 กันยายน ถึง 7 ตุลาคม
+RESOURCE ID: season_pass_spring_marathon_2026_track_upgrade_header_description
+TEXT: รับรางวัลเพิ่มเติมและปลดล็อก<b>รองเท้ามาราธอน</b>ที่ระดับ 15!
 
-RESOURCE ID: season_pass_shockingly_good_2026_event_duration
-TEXT: 31 มีนาคม ถึง 6 เมษายน
+RESOURCE ID: season_pass_spring_marathon_2026_upgrade_description
+TEXT: ซื้อบัตรผ่าน GO Deluxe: การเดินทางไกลช่วงฤดูใบไม้ผลิ เพื่อปลดล็อกรางวัลต่อไปนี้!
 
-RESOURCE ID: season_pass_shockingly_good_2026_track_upgrade_header_description
-TEXT: รับรางวัลเพิ่มเติมและปลดล็อก<b>ไอเท็มอวาตาร์</b>ที่ระดับ 30!
-
-RESOURCE ID: season_pass_shockingly_good_2026_upgrade_description
-TEXT: ซื้อบัตรผ่าน GO Deluxe: ไฟฟ้าสุดช็อก? เพื่อปลดล็อกรางวัลต่อไปนี้!
-
-- ไอเท็มอวาตาร์
+- รองเท้ามาราธอน (สีดำ)
 - การเผชิญหน้ากับโปเกมอนธีมอีเวนต์
 - ลูกอมประหลาด XL
 - และอื่น ๆ
@@ -2437,309 +623,408 @@ RESOURCE ID: season_pass_steeled_resolve_2026_upgrade_description
 TEXT: ซื้อบัตรผ่าน GO Deluxe: ปณิธานเหล็กกล้า - ยึดครองเพื่อปลดล็อกรางวัลต่อไปนี้!
 
 - การเผชิญหน้ากับโคมาทานา, ฮิโตทซึกิ, เมลตัน และอื่น ๆ
-- ลูกอมประหลาด XL
 - และอื่น ๆ
 
-RESOURCE ID: season_pass_sustainabilityweek2026_event_duration
-TEXT: 14 เมษายน ถึง 20 เมษายน
-
-RESOURCE ID: season_pass_sustainabilityweek2026_track_upgrade_header_description
-TEXT: รับรางวัลเพิ่มเติมและปลดล็อก<b>ท่าโพสไม้กระถาง</b>ที่ระดับ 15!
-
-RESOURCE ID: season_pass_sustainabilityweek2026_upgrade_description
-TEXT: ซื้อบัตรผ่าน GO Deluxe: สัปดาห์แห่งความยั่งยืน เพื่อปลดล็อกรางวัลต่อไปนี้!
-
-- ท่าโพสไม้กระถาง
-- การเผชิญหน้ากับโปเกมอนธีมอีเวนต์
-- ลูกอมประหลาด XL
-- และอื่น ๆ
-
-RESOURCE ID: season_pass_winter_holidays_2025_event_duration
-TEXT: 18 ธันวาคม ถึง 29 ธันวาคม
-
-RESOURCE ID: shockingly_good_time_event_name
-TEXT: ไฟฟ้าสุดช็อก?
-
-RESOURCE ID: shop_category_item_bundles
-TEXT: ชุดรวมไอเท็ม
-
-RESOURCE ID: shop_category_tickets
-TEXT: ตั๋ว
-
-RESOURCE ID: soft_sfida_btn_back_to_map
-TEXT: กลับไปยังแผนที่
-
-RESOURCE ID: soft_sfida_btn_cancel
-TEXT: ยกเลิก
-
-RESOURCE ID: soft_sfida_btn_go_to_shop
-TEXT: ไปที่ร้านค้า
-
-RESOURCE ID: soft_sfida_btn_go_to_upgrades
-TEXT: ไปที่อัปเกรด
-
-RESOURCE ID: soft_sfida_btn_manage_item_bag
-TEXT: จัดระเบียบกระเป๋าเก็บไอเท็ม
-
-RESOURCE ID: soft_sfida_btn_manage_pokemon
-TEXT: จัดระเบียบโปเกมอน
-
-RESOURCE ID: soft_sfida_btn_pause
-TEXT: หยุดชั่วคราว
-
-RESOURCE ID: soft_sfida_btn_resume
-TEXT: ใช้ต่ออีกครั้ง
-
-RESOURCE ID: soft_sfida_btn_switch
-TEXT: เปลี่ยน
-
-RESOURCE ID: soft_sfida_btn_use
-TEXT: ใช้
-
-RESOURCE ID: soft_sfida_btn_view_summary
-TEXT: ดูผลสรุป
-
-RESOURCE ID: soft_sfida_desc_come_back_tomorrow
-TEXT: ผลของวันนี้ พรุ่งนี้ก็เปิดใช้เครื่องมือนักสำรวจอีกนะ
+RESOURCE ID: settings_weekly_challenge_nickname_display
+TEXT: Show Friends’ Nicknames in Weekly Challenges
 
 RESOURCE ID: soft_sfida_desc_default
-TEXT: โยนมอนสเตอร์บอลและหมุนเสาโปเกสต็อป
+TEXT: ขว้างมอนสเตอร์บอลและหมุนเสาโปเกสต็อป
 โดยอัตโนมัติแม้จะไม่ได้เปิดแอปฯ (ใช้ได้แค่ 1 ครั้งต่อวัน)
 
-RESOURCE ID: soft_sfida_desc_default_short
-TEXT: ขว้างมอนสเตอร์บอลและหมุนเสาโปเกสต็อป
-โดยอัตโนมัติแม้จะไม่ได้เปิดแอปฯ
-
-RESOURCE ID: soft_sfida_desc_items_full
-TEXT: กรุณาจัดระเบียบกระเป๋าเก็บไอเท็ม หรืออัปเกรดพื้นที่จัดเก็บ
-
 RESOURCE ID: soft_sfida_desc_no_pokeballs
-TEXT: รวบรวมเพิ่มได้จากการหมุนแผ่นภาพ เปิดของขวัญ หรือไปที่ร้านค้า
-
-RESOURCE ID: soft_sfida_desc_pause
-TEXT: สามารถใช้ต่ออีกครั้งได้ทุกเมื่อ
-
-RESOURCE ID: soft_sfida_desc_pokemon_full
-TEXT: คุณสามารถถ่ายโอนโปเกมอน
-ไปให้ศาสตราจารย์วิลโลว์
-หรืออัปเกรดที่เก็บโปเกมอน
-
-RESOURCE ID: soft_sfida_ftue_back_button_text
-TEXT: ไว้ทีหลัง
-
-RESOURCE ID: soft_sfida_ftue_confirm_button_text
-TEXT: ดูรายละเอียด
-
-RESOURCE ID: soft_sfida_ftue_description_text
-TEXT: เครื่องมือขว้างมอนสเตอร์บอล
-และหมุนเสาโปเกสต็อปโดยอัตโนมัติ
-
-RESOURCE ID: soft_sfida_ftue_title_text
-TEXT: ใหม่!
-เครื่องมือนักสำรวจ
-
-RESOURCE ID: soft_sfida_item_bag_switch_desc
-TEXT: สามารถเชื่อมต่อใหม่อีกครั้งได้ทุกเมื่อจาก "อุปกรณ์เสริม" ในหน้าตั้งค่า
-
-RESOURCE ID: soft_sfida_item_bag_switch_title
-TEXT: สลับเปลี่ยนเป็นเครื่องมือนักสำรวจหรือไม่?
-
-RESOURCE ID: soft_sfida_journal_entry_caught
-TEXT: จับ{0}ได้ด้วยเครื่องมือนักสำรวจ!
-
-RESOURCE ID: soft_sfida_journal_entry_fled
-TEXT: {0}หนีไปจากเครื่องมือนักสำรวจ
-
-RESOURCE ID: soft_sfida_journal_entry_gyms
-TEXT: ได้รับ {0} ไอเท็มจากยิมขณะใช้เครื่องมือนักสำรวจ
-
-RESOURCE ID: soft_sfida_journal_entry_gyms_singular
-TEXT: ได้รับ {0} ไอเท็มจากยิมขณะใช้เครื่องมือนักสำรวจ
-
-RESOURCE ID: soft_sfida_journal_entry_stop
-TEXT: ได้รับ {0} ไอเท็มจากเสาโปเกสต็อปขณะใช้เครื่องมือนักสำรวจ
-
-RESOURCE ID: soft_sfida_journal_entry_stop_singular
-TEXT: ได้รับ {0} ไอเท็มจากเสาโปเกสต็อปขณะใช้เครื่องมือนักสำรวจ
-
-RESOURCE ID: soft_sfida_journal_entry_summary
-TEXT: ใช้เครื่องมือนักสำรวจแล้ว!
+TEXT: รวบรวมเพิ่มได้จากการเปิดของขวัญจากเพื่อน หมุนเสาโปเกสต็อปและยิม หรือไปที่ร้านค้า
 
 RESOURCE ID: soft_sfida_journal_entry_summary_btn
-TEXT: ดูสรุป
+TEXT: ดูผลสรุป
 
-RESOURCE ID: soft_sfida_loc_perms_button_text
-TEXT: ไปที่การตั้งค่า
-
-RESOURCE ID: soft_sfida_loc_perms_button_text_two
-TEXT: ไปที่การตั้งค่า
-
-RESOURCE ID: soft_sfida_loc_perms_desc_deny
-TEXT: ไม่สามารถใช้ได้เนื่องจากยังไม่ได้รับการอนุญาต
-
-RESOURCE ID: soft_sfida_loc_perms_desc_deny_ok
-TEXT: ตกลง
-
-RESOURCE ID: soft_sfida_loc_perms_desc_title
-TEXT: จำเป็นต้องเข้าถึงตำแหน่งเพื่อใช้เครื่องมือนักสำรวจ
-
-RESOURCE ID: soft_sfida_loc_perms_description_text
-TEXT: สัมผัสประสบการณ์ดำเนินเกมอย่างราบรื่นยิ่งขึ้น
-เนื่องจากเครื่องมือนักสำรวจจะขว้างมอนสเตอร์บอล
-และหมุนเสาโปเกสต็อปให้โดยอัตโนมัติ
-
-RESOURCE ID: soft_sfida_loc_perms_step1_text
-TEXT: 1. ไปที่การตั้งค่า > Pokémon GO
-
-RESOURCE ID: soft_sfida_loc_perms_step2_text
-TEXT: 2. เลือก “ตำแหน่งที่ตั้ง”
-
-RESOURCE ID: soft_sfida_loc_perms_step3_text
-TEXT: 3. เลือกอนุญาตการเข้าถึงตำแหน่งให้เป็น “ตลอดเวลา”
-
-RESOURCE ID: soft_sfida_loc_perms_step4_text
-TEXT: 4. ตั้งค่า "ตำแหน่งที่แน่นอน" ให้เป็นเปิด
-
-RESOURCE ID: soft_sfida_loc_perms_title_text
-TEXT: เปิดใช้งานการอนุญาตให้เข้าถึงตำแหน่ง
-
-RESOURCE ID: soft_sfida_map_btn_item_bag_full
-TEXT: กระเป๋าเก็บไอเท็มเต็ม
-
-RESOURCE ID: soft_sfida_map_btn_off
-TEXT: ปิดเครื่องมือนักสำรวจ
-
-RESOURCE ID: soft_sfida_map_btn_on
-TEXT: เปิดใช้งานเครื่องมือนักสำรวจแล้ว
-
-RESOURCE ID: soft_sfida_map_btn_out_of_pokeballs
+RESOURCE ID: soft_sfida_map_btn_out_of_pokeball
 TEXT: ไม่เหลือมอนสเตอร์บอล
 
-RESOURCE ID: soft_sfida_map_btn_paused_reminder
-TEXT: ใช้ต่ออีกครั้งหรือไม่
-
 RESOURCE ID: soft_sfida_map_status_on
-TEXT: ON
-
-RESOURCE ID: soft_sfida_recap_description
-TEXT: จับด้วยเครื่องมือนักสำรวจ
-
-RESOURCE ID: soft_sfida_recap_description_singular
-TEXT: จับด้วยเครื่องมือนักสำรวจ
+TEXT: เปิด
 
 RESOURCE ID: soft_sfida_recap_header2
-TEXT: {0} Pokémon
+TEXT: โปเกมอน {0} ตัว
 
-RESOURCE ID: soft_sfida_settings_dialog_desc
-TEXT: การใช้งานเครื่องมือนักสำรวจจะสิ้นสุดลงเมื่อเชื่อมต่อุปกรณ์เสริม
-
-RESOURCE ID: soft_sfida_settings_dialog_title
-TEXT: ปิดการใช้งานเครื่องมือนักสำรวจของวันนี้เลยหรือไม่?
+RESOURCE ID: soft_sfida_recap_header2_plural
+TEXT: โปเกมอน {0} ตัว
 
 RESOURCE ID: soft_sfida_settings_notification_header
-TEXT: Explorer Gadget:
-
-RESOURCE ID: soft_sfida_settings_notification_pokemon_caught
-TEXT: Pokémon caught
-
-RESOURCE ID: soft_sfida_settings_notification_progress
-TEXT: Progress
-
-RESOURCE ID: soft_sfida_settings_notification_reminders
-TEXT: Reminders
-
-RESOURCE ID: soft_sfida_settings_reconnect
-TEXT: Explorer Gadget active. Tap here to reconnect available device.
-
-RESOURCE ID: soft_sfida_title_default
 TEXT: เครื่องมือนักสำรวจ
 
-RESOURCE ID: soft_sfida_title_items_full
-TEXT: กระเป๋าเต็ม!
+RESOURCE ID: soft_sfida_settings_notification_pokemon_caught
+TEXT: จับโปเกมอน
 
-RESOURCE ID: soft_sfida_title_items_full_no_pokeballs
-TEXT: กระเป๋าเก็บไอเท็มเต็ม และไม่มีมอนสเตอร์บอล
+RESOURCE ID: soft_sfida_settings_notification_progress
+TEXT: ความคืบหน้า
 
-RESOURCE ID: soft_sfida_title_no_pokeballs
-TEXT: ไม่มีมอนสเตอร์บอล
+RESOURCE ID: soft_sfida_settings_notification_reminders
+TEXT: แจ้งเตือน
 
-RESOURCE ID: soft_sfida_title_pause
-TEXT: คุณแน่ใจหรือไม่ว่าต้องการหยุดเครื่องมือนักสำรวจชั่วคราว?
-
-RESOURCE ID: soft_sfida_title_pokemon_full
-TEXT: ที่เก็บโปเกมอนเต็ม
-
-RESOURCE ID: soft_sfida_title_resume
-TEXT: หยุดเครื่องมือนักสำรวจชั่วคราวแล้ว
-
-RESOURCE ID: soft_sfida_warn_items_full
-TEXT: กระเป๋าเก็บไอเท็มเต็ม
-
-RESOURCE ID: soft_sfida_widget_box_full
-TEXT: เต็ม
+RESOURCE ID: soft_sfida_settings_reconnect
+TEXT: เครื่องมือนักสำรวจเปิดอยู่ กรุณาแตะที่นี่เพื่อเชื่อมต่อ
 
 RESOURCE ID: soft_sfida_widget_no_pokeballs
-TEXT: You’re out of Poké Balls.
+TEXT: ไม่เหลือมอนสเตอร์บอลแล้ว
 
 RESOURCE ID: soft_sfida_widget_status_paused
-TEXT: Paused
+TEXT: กำลังหยุดชั่วคราว
 
 RESOURCE ID: spawn_lechonk
 TEXT: กูร์ตงปรากฏตัวออกมามากขึ้น!
 
-RESOURCE ID: spawn_tinkatink
-TEXT: คานุจังปรากฏตัวออกมามากขึ้น!
+RESOURCE ID: spring_marathon_event_name
+TEXT: การเดินทางไกลช่วงฤดูใบไม้ผลิ
 
-RESOURCE ID: special_research_header_event
-TEXT: อีเวนต์
+RESOURCE ID: spring_marathon_free_tr_name
+TEXT: งานวิจัยแบบจำกัดเวลาการเดินทางไกลช่วงฤดูใบไม้ผลิ
 
-RESOURCE ID: special_research_header_legendary
-TEXT: โปเกมอนในตำนาน: {0}
+RESOURCE ID: spring_marathon_free_tr_name_0
+TEXT: งานวิจัยแบบจำกัดเวลาการเดินทางไกลช่วงฤดูใบไม้ผลิ (1/1)
 
-RESOURCE ID: special_research_header_legendary_generic
-TEXT: โปเกมอนในตำนาน
+RESOURCE ID: sr_gofest2026_global_zeraora
+TEXT: GO Fest 2026: A Thunderous Discovery
 
-RESOURCE ID: special_research_header_levelup
-TEXT: เลเวลอัป
+RESOURCE ID: sr_gofest2026_global_zeraora_1
+TEXT: GO Fest 2026: A Thunderous Discovery (1/8)
 
-RESOURCE ID: special_research_header_masterwork
-TEXT: งานวิจัยระยะยาว: {0}
+RESOURCE ID: sr_gofest2026_global_zeraora_1_1
+TEXT: I’m so thrilled to see you, %PLAYERNAME%!
 
-RESOURCE ID: special_research_header_masterwork_generic
-TEXT: งานวิจัยระยะยาว
+RESOURCE ID: sr_gofest2026_global_zeraora_1_2
+TEXT: Making new friends, seeing new sights, trying new foods... It’s all so exciting!
 
-RESOURCE ID: special_research_header_mythical
-TEXT: โปเกมอนมายา: {0}
+RESOURCE ID: sr_gofest2026_global_zeraora_1_3
+TEXT: And what’s more, the Mythical Pokémon Zeraora is here!
 
-RESOURCE ID: special_research_header_mythical_generic
-TEXT: โปเกมอนมายา
+RESOURCE ID: sr_gofest2026_global_zeraora_1_4
+TEXT: I wonder if it sensed a gathering of strong and powerful Trainers like you and came to see for itself?
+
+RESOURCE ID: sr_gofest2026_global_zeraora_1_5
+TEXT: Let’s get out there and show it what we can do!
+
+RESOURCE ID: sr_gofest2026_global_zeraora_2
+TEXT: GO Fest 2026: A Thunderous Discovery (2/8)
+
+RESOURCE ID: sr_gofest2026_global_zeraora_2_1
+TEXT: Wait! Hoo! Let me catch my breath... You really took getting out there to heart, haha!
+
+RESOURCE ID: sr_gofest2026_global_zeraora_2_2
+TEXT: If Zeraora is indeed watching, I think it would be thoroughly impressed by your skill.
+
+RESOURCE ID: sr_gofest2026_global_zeraora_2_3
+TEXT: In fact, I have a hunch it is closer than we think. I noticed some flashes of light in the distance.
+
+RESOURCE ID: sr_gofest2026_global_zeraora_2_4
+TEXT: Wherever Zeraora runs, lightning flashes and thunder echoes. Looks like we’re not the only ones getting charged up at GO Fest!
+
+RESOURCE ID: sr_gofest2026_global_zeraora_3
+TEXT: GO Fest 2026: A Thunderous Discovery (3/8)
+
+RESOURCE ID: sr_gofest2026_global_zeraora_3_1
+TEXT: Do you know how Zeraora fights?
+
+RESOURCE ID: sr_gofest2026_global_zeraora_3_2
+TEXT: It electrifies its claws and tears its opponents apart with them.
+
+RESOURCE ID: sr_gofest2026_global_zeraora_3_3
+TEXT: Even if they dodge its attack, they’ll be electrocuted by the flying sparks. Watt incredible power! Ahem.
+
+RESOURCE ID: sr_gofest2026_global_zeraora_3_4
+TEXT: We’d best be prepared for Zeraora.
+
+RESOURCE ID: sr_gofest2026_global_zeraora_3_5
+TEXT: I’ll collect more information on its whereabouts while you power up your knowledge on Electric-types!
+
+RESOURCE ID: sr_gofest2026_global_zeraora_4
+TEXT: GO Fest 2026: A Thunderous Discovery (4/8)
+
+RESOURCE ID: sr_gofest2026_global_zeraora_4_1
+TEXT: Think fast! What are Electric-type Pokémon’s strengths and weaknesses?
+
+RESOURCE ID: sr_gofest2026_global_zeraora_4_2
+TEXT: Correct! They are super effective against Flying- and Water-type Pokémon and weak against Ground-types.
+
+RESOURCE ID: sr_gofest2026_global_zeraora_4_3
+TEXT: You’re quick on your feet, and that will come in handy.
+
+RESOURCE ID: sr_gofest2026_global_zeraora_4_4
+TEXT: Zeraora runs as fast as lightning strikes, shredding its opponents with its high-voltage claws. It’s speedy, but I have no doubt you can catch it.
+
+RESOURCE ID: sr_gofest2026_global_zeraora_4_5
+TEXT: Up for some stormchasing? Let’s GO!
+
+RESOURCE ID: sr_gofest2026_global_zeraora_5
+TEXT: GO Fest 2026: A Thunderous Discovery (5/8)
+
+RESOURCE ID: sr_gofest2026_global_zeraora_5_1
+TEXT: Phew! All that exploring really zapped my energy. I could use a break- but you look like you can keep going!
+
+RESOURCE ID: sr_gofest2026_global_zeraora_5_2
+TEXT: That reminds me- Electricity sparks from the pads on Zeraora’s limbs.
+
+RESOURCE ID: sr_gofest2026_global_zeraora_5_3
+TEXT: When it unleashes its full power, it becomes incredibly powerful, even among Electric-type Pokémon.
+
+RESOURCE ID: sr_gofest2026_global_zeraora_5_4
+TEXT: You’ve still got plenty of energy left in you. Let’s see what you’re made of, Trainer!
+
+RESOURCE ID: sr_gofest2026_global_zeraora_6
+TEXT: GO Fest 2026: A Thunderous Discovery (6/8)
+
+RESOURCE ID: sr_gofest2026_global_zeraora_6_1
+TEXT: Trainer, there you are! I ran into Spark and some new friends he made.
+
+RESOURCE ID: sr_gofest2026_global_zeraora_6_2
+TEXT: Guess what, they saw Zeraora not too far from here!
+
+RESOURCE ID: sr_gofest2026_global_zeraora_6_3
+TEXT: In fact, there’s an interesting charge in the air. I can feel the hair on my head rising--and it’s not just because of my styling gel, haha!
+
+RESOURCE ID: sr_gofest2026_global_zeraora_6_4
+TEXT: I wonder if that means we’re close by? Take a look around and see!
+
+RESOURCE ID: sr_gofest2026_global_zeraora_7
+TEXT: GO Fest 2026: A Thunderous Discovery (7/8)
+
+RESOURCE ID: sr_gofest2026_global_zeraora_7_1
+TEXT: Outstanding work, %PLAYERNAME%! You’ve captured lightning in a Poké Ball!
+
+RESOURCE ID: sr_gofest2026_global_zeraora_7_2
+TEXT: Just look at all that electricity sparking from the pads on Zeraora’s limbs. If I could just measure the voltage... *ZAP*
+
+RESOURCE ID: sr_gofest2026_global_zeraora_7_3
+TEXT: Whoa! Looks like Zeraora has quite a bit of energy to expend.
+
+RESOURCE ID: sr_gofest2026_global_zeraora_7_4
+TEXT: I’d love to observe it out on the field. Let’s spend some time getting to know each other!
+
+RESOURCE ID: sr_gofest2026_global_zeraora_8
+TEXT: GO Fest 2026: A Thunderous Discovery (8/8)
+
+RESOURCE ID: sr_gofest2026_global_zeraora_8_1
+TEXT: I’d call this quite the success! Thank you for helping me with my research as always.
+
+RESOURCE ID: sr_gofest2026_global_zeraora_8_2
+TEXT: And now you have a new, powerful friend to join you on your journey.
+
+RESOURCE ID: sr_gofest2026_global_zeraora_8_3
+TEXT: You two deserve a round of applause for all of your efforts--perhaps some thunderclaps are in order? Haha!
+
+RESOURCE ID: sr_gofest2026_global_zeraora_8_4
+TEXT: Anyway, I can’t wait to see how far you’ll go together.
+
+RESOURCE ID: sr_gofest2026_global_zeraora_8_5
+TEXT: And you know, something tells me we’ve seen just the sparks of Zeraora’s potential... but for now, let’s celebrate!
+
+RESOURCE ID: sr_gofest2026_global_zeraora_8_6
+TEXT: Til next time!
+
+RESOURCE ID: sr_gofest2026_irl_park_zeraora_1_1
+TEXT: I’m thrilled to see you, %PLAYERNAME%!
+
+RESOURCE ID: sr_gofest2026_irl_park_zeraora_1_2
+TEXT: Making new friends, seeing new sights, trying new foods... All of this is all so exciting!
+
+RESOURCE ID: sr_gofest2026_irl_park_zeraora_1_3
+TEXT: And even more exciting than that—I’ve heard the Mythical Pokémon Zeraora is in the area!
+
+RESOURCE ID: sr_gofest2026_irl_park_zeraora_1_4
+TEXT: Maybe it could sense this gathering of strong Trainers like you and came to investigate.
+
+RESOURCE ID: sr_gofest2026_irl_park_zeraora_1_5
+TEXT: Well, we’d better get out there and show it what we’re made of!
+
+RESOURCE ID: sr_gofest2026_irl_park_zeraora_2_1
+TEXT: *huff huff* Wait! Let me catch my breath... Phew! You sure took what I said about getting out there to heart, didn’t you?
+
+RESOURCE ID: sr_gofest2026_irl_park_zeraora_2_2
+TEXT: One thing’s for sure—if Zeraora is watching, it’ll be plenty impressed by your skills!
+
+RESOURCE ID: sr_gofest2026_irl_park_zeraora_2_3
+TEXT: And on that note, I actually have a hunch it’s closer than we think. I’ve spied a few flashes of light off in the distance.
+
+RESOURCE ID: sr_gofest2026_irl_park_zeraora_2_4
+TEXT: And wherever Zeraora runs, you get flashes of lightning and the echo of thunder. I guess we’re not the only ones getting charged up!
+
+RESOURCE ID: sr_gofest2026_irl_park_zeraora_3_1
+TEXT: Here’s a question! Do you know how Zeraora fights? It’s a real shock!
+
+RESOURCE ID: sr_gofest2026_irl_park_zeraora_3_2
+TEXT: You see, it electrifies its claws and uses them to tear its opponents apart.
+
+RESOURCE ID: sr_gofest2026_irl_park_zeraora_3_3
+TEXT: Even if they manage to dodge the attack, they’ll still get zapped by the flying sparks. Watt incredible power! Ahem.
+
+RESOURCE ID: sr_gofest2026_irl_park_zeraora_3_4
+TEXT: In any event, we’d best prepare ourselves.
+
+RESOURCE ID: sr_gofest2026_irl_park_zeraora_3_5
+TEXT: I’ll try to collect information on its whereabouts while you get out there and power up your knowledge on Electric types.
+
+RESOURCE ID: sr_gofest2026_irl_park_zeraora_4_1
+TEXT: Think fast—what are the strengths and weaknesses of Electric-type Pokémon?
+
+RESOURCE ID: sr_gofest2026_irl_park_zeraora_4_2
+TEXT: That’s right! They’re super effective against Water- and Flying-type Pokémon and weak against Ground types.
+
+RESOURCE ID: sr_gofest2026_irl_park_zeraora_4_3
+TEXT: You’re pretty quick on your feet! That’ll come in handy.
+
+RESOURCE ID: sr_gofest2026_irl_park_zeraora_4_4
+TEXT: Zeraora runs as fast as lightning strikes. That’s plenty speedy, but I’m sure you’ll be able to catch it.
+
+RESOURCE ID: sr_gofest2026_irl_park_zeraora_4_5
+TEXT: So, up for some storm chasing? Let’s GO!
+
+RESOURCE ID: sr_gofest2026_irl_park_zeraora_5_1
+TEXT: Whew! All that exploring really zapped my energy. I could use a break, but you look like you’re bursting with energy!
+
+RESOURCE ID: sr_gofest2026_irl_park_zeraora_5_2
+TEXT: And speaking of energy, did you know that electricity sparks from the pads on Zeraora’s limbs?
+
+RESOURCE ID: sr_gofest2026_irl_park_zeraora_5_3
+TEXT: I’m glad I don’t have that power—imagine trying to brush my hair!
+
+RESOURCE ID: sr_gofest2026_irl_park_zeraora_5_4
+TEXT: What’s say we make use of that energy of yours and see what you’re made of? Go get ’em!
+
+RESOURCE ID: sr_gofest2026_irl_park_zeraora_6_1
+TEXT: %PLAYERNAME%, there you are!
+
+RESOURCE ID: sr_gofest2026_irl_park_zeraora_6_2
+TEXT: I just ran into Spark and some new friends he made—and guess what? They spotted Zeraora not far from here!
+
+RESOURCE ID: sr_gofest2026_irl_park_zeraora_6_3
+TEXT: That might explain the unusual charge to the air. I can feel my hair standing on end—and not because of my styling gel, either! Haha!
+
+RESOURCE ID: sr_gofest2026_irl_park_zeraora_6_4
+TEXT: We must be close. Go take a look around!
+
+RESOURCE ID: sr_gofest2026_irl_park_zeraora_7_1
+TEXT: Outstanding work, %PLAYERNAME%! You’ve captured lightning in a Poké Ball!
+
+RESOURCE ID: sr_gofest2026_irl_park_zeraora_7_2
+TEXT: Just look at all those sparks. If I could just measure the voltage... *ZAP*
+
+RESOURCE ID: sr_gofest2026_irl_park_zeraora_7_3
+TEXT: Whoa! Talk about energy to spare!
+
+RESOURCE ID: sr_gofest2026_irl_park_zeraora_7_4
+TEXT: I’d love to observe Zeraora out on the field. You should spend some time getting to know each other!
+
+RESOURCE ID: sr_gofest2026_irl_park_zeraora_8_1
+TEXT: You know what I’d call that? A total success! Thank you for always helping me with my research.
+
+RESOURCE ID: sr_gofest2026_irl_park_zeraora_8_2
+TEXT: And for your efforts, you’ve got a powerful new friend to join you on your journey.
+
+RESOURCE ID: sr_gofest2026_irl_park_zeraora_8_3
+TEXT: You both deserve a round of applause for all your efforts. Maybe even a thunderclap! Haha!
+
+RESOURCE ID: sr_gofest2026_irl_park_zeraora_8_4
+TEXT: Anyway, I can’t wait to see how far you two will go together.
+
+RESOURCE ID: sr_gofest2026_irl_park_zeraora_8_5
+TEXT: Something tells me we’ve only seen the first sparks of Zeraora’s potential. But for now, we celebrate!
+
+RESOURCE ID: sr_gofest2026_irl_park_zeraora_8_6
+TEXT: Until next time, my friend!
+
+RESOURCE ID: sr_gofest2026_irl_park_zeraora_amer
+TEXT: GO Fest 2026: A Thunderous Discovery in Chicago!
+
+RESOURCE ID: sr_gofest2026_irl_park_zeraora_amer_1
+TEXT: GO Fest 2026: A Thunderous Discovery in Chicago! (1/8)
+
+RESOURCE ID: sr_gofest2026_irl_park_zeraora_amer_2
+TEXT: GO Fest 2026: A Thunderous Discovery in Chicago! (2/8)
+
+RESOURCE ID: sr_gofest2026_irl_park_zeraora_amer_3
+TEXT: GO Fest 2026: A Thunderous Discovery in Chicago! (3/8)
+
+RESOURCE ID: sr_gofest2026_irl_park_zeraora_amer_4
+TEXT: GO Fest 2026: A Thunderous Discovery in Chicago! (4/8)
+
+RESOURCE ID: sr_gofest2026_irl_park_zeraora_amer_5
+TEXT: GO Fest 2026: A Thunderous Discovery in Chicago! (5/8)
+
+RESOURCE ID: sr_gofest2026_irl_park_zeraora_amer_6
+TEXT: GO Fest 2026: A Thunderous Discovery in Chicago! (6/8)
+
+RESOURCE ID: sr_gofest2026_irl_park_zeraora_amer_7
+TEXT: GO Fest 2026: A Thunderous Discovery in Chicago! (7/8)
+
+RESOURCE ID: sr_gofest2026_irl_park_zeraora_amer_8
+TEXT: GO Fest 2026: A Thunderous Discovery in Chicago! (8/8)
+
+RESOURCE ID: sr_gofest2026_irl_park_zeraora_apac
+TEXT: GO Fest 2026: A Thunderous Discovery in Tokyo!
+
+RESOURCE ID: sr_gofest2026_irl_park_zeraora_apac_1
+TEXT: GO Fest 2026: A Thunderous Discovery in Tokyo! (1/8)
+
+RESOURCE ID: sr_gofest2026_irl_park_zeraora_apac_2
+TEXT: GO Fest 2026: A Thunderous Discovery in Tokyo! (2/8)
+
+RESOURCE ID: sr_gofest2026_irl_park_zeraora_apac_3
+TEXT: GO Fest 2026: A Thunderous Discovery in Tokyo! (3/8)
+
+RESOURCE ID: sr_gofest2026_irl_park_zeraora_apac_4
+TEXT: GO Fest 2026: A Thunderous Discovery in Tokyo! (4/8)
+
+RESOURCE ID: sr_gofest2026_irl_park_zeraora_apac_5
+TEXT: GO Fest 2026: A Thunderous Discovery in Tokyo! (5/8)
+
+RESOURCE ID: sr_gofest2026_irl_park_zeraora_apac_6
+TEXT: GO Fest 2026: A Thunderous Discovery in Tokyo! (6/8)
+
+RESOURCE ID: sr_gofest2026_irl_park_zeraora_apac_7
+TEXT: GO Fest 2026: A Thunderous Discovery in Tokyo! (7/8)
+
+RESOURCE ID: sr_gofest2026_irl_park_zeraora_apac_8
+TEXT: GO Fest 2026: A Thunderous Discovery in Tokyo! (8/8)
+
+RESOURCE ID: sr_gofest2026_irl_park_zeraora_emea
+TEXT: GO Fest 2026: A Thunderous Discovery in Copenhagen!
+
+RESOURCE ID: sr_gofest2026_irl_park_zeraora_emea_1
+TEXT: GO Fest 2026: A Thunderous Discovery in Copenhagen! (1/8)
+
+RESOURCE ID: sr_gofest2026_irl_park_zeraora_emea_2
+TEXT: GO Fest 2026: A Thunderous Discovery in Copenhagen! (2/8)
+
+RESOURCE ID: sr_gofest2026_irl_park_zeraora_emea_3
+TEXT: GO Fest 2026: A Thunderous Discovery in Copenhagen! (3/8)
+
+RESOURCE ID: sr_gofest2026_irl_park_zeraora_emea_4
+TEXT: GO Fest 2026: A Thunderous Discovery in Copenhagen! (4/8)
+
+RESOURCE ID: sr_gofest2026_irl_park_zeraora_emea_5
+TEXT: GO Fest 2026: A Thunderous Discovery in Copenhagen! (5/8)
+
+RESOURCE ID: sr_gofest2026_irl_park_zeraora_emea_6
+TEXT: GO Fest 2026: A Thunderous Discovery in Copenhagen! (6/8)
+
+RESOURCE ID: sr_gofest2026_irl_park_zeraora_emea_7
+TEXT: GO Fest 2026: A Thunderous Discovery in Copenhagen! (7/8)
+
+RESOURCE ID: sr_gofest2026_irl_park_zeraora_emea_8
+TEXT: GO Fest 2026: A Thunderous Discovery in Copenhagen! (8/8)
 
 RESOURCE ID: stamp_poi_details_unvisited
 TEXT: ยังไม่ได้ปั๊มแสตมป์
 
-RESOURCE ID: steeled_resolve_taken_over_event_name
-TEXT: ปณิธานเหล็กกล้า: ยึดครอง
+RESOURCE ID: story_quest_come_back_later_today
+TEXT: รออีกนิด แล้วกลับมาทำภารกิจต่อในวันนี้!
 
-RESOURCE ID: sus_week_2026_biomes
-TEXT: โนโนะคุราเกะ, อุมิดิกดา และซึนะเฮบิจะปรากฏตัวบ่อยขึ้นในถิ่นที่อยู่ตามธรรมชาติของพวกมัน
+RESOURCE ID: story_quest_come_back_tomorrow
+TEXT: พรุ่งนี้กลับมาทำภารกิจต่อได้เลย!
 
-RESOURCE ID: sus_week_2026_castform
-TEXT: โปวาลุนแต่ละร่างจะปรากฏตัวบ่อยขึ้นภายใต้เงื่อนไขทางสภาพอากาศที่เหมาะสม
-
-RESOURCE ID: sus_week_2026_lapras
-TEXT: สัปดาห์แห่งความยั่งยืน: ลาพลาซและซันนีโก (ร่างกาลาร์) ปรากฏตัวบนเส้นทาง
-
-RESOURCE ID: sus_week_2026_togetic
-TEXT: สัปดาห์แห่งความยั่งยืน: โทเกชิกและซันนีโก (ร่างกาลาร์) ปรากฏตัวบนเส้นทาง
-
-RESOURCE ID: sus_week_2026_trubbish
-TEXT: สัปดาห์แห่งความยั่งยืน: ยาบุคุรอนและซันนีโก (ร่างกาลาร์) ปรากฏตัวบนเส้นทาง
-
-RESOURCE ID: sustainabilityweek2026_avatar_item
-TEXT: ท่าโพสไม้กระถาง
-
-RESOURCE ID: tap_to_skip_message
-TEXT: ข้าม
+RESOURCE ID: tagging_remote_trade_title
+TEXT: แลกเปลี่ยน
+ระยะไกล
 
 RESOURCE ID: text_rewards_key_cd_lechonk26
 TEXT: <b>รางวัลที่จะได้รับ:</b>
@@ -2748,11 +1033,11 @@ TM ท่าชาร์จ และลูกอมประหลาด
 - การเผชิญหน้ากับกูร์ตงที่มีพื้นหลังพิเศษ
 และอื่น ๆ
 
-RESOURCE ID: text_rewards_key_cd_tinkatink26
+RESOURCE ID: text_rewards_key_cdc_deino26
 TEXT: <b>รางวัลที่จะได้รับ:</b>
 - ไอเท็มภายในเกม เช่น บัตรแบตเทิลพรีเมียม
 TM ท่าชาร์จ และลูกอมประหลาด
-- การเผชิญหน้ากับคานุจังที่มีพื้นหลังพิเศษ
+- การเผชิญหน้ากับโมโนซึที่มีพื้นหลังพิเศษ
 และอื่น ๆ
 
 RESOURCE ID: text_rewards_key_entei_shadow_raid_day
@@ -2762,212 +1047,1114 @@ TEXT: <b>โบนัสที่จะได้รับ:</b>
 - เพิ่มโอกาสได้รับลูกอมประหลาด XL จากตีบอส
 - เพิ่ม XP 50% และ 2× สตาร์ดัสต์เมื่อตีบอสเสร็จสิ้น
 
-RESOURCE ID: text_rewards_key_fashionraidday26
+RESOURCE ID: text_rewards_key_halloween1tr24
+TEXT: <b>รางวัลที่จะได้รับ:</b>
+- การเผชิญหน้ากับโปเกมอนธีมอีเวนต์ รวมถึงการเผชิญหน้ากับโปเกมอนในชุดคอสตูมที่จะเปิดตัวในอีเวนต์ส่วนที่ 2 (เคโรมัตซึสวมหมวกแม่มดและโมคุโรสวมชุดฮาโลวีน)
+- การเผชิญหน้ากับโปเกมอนตามธีมอีเวนต์ รวมถึงพิคาชูสวมหมวกแม่มด, มิคารูเกะ และโมรุเปโกะ
+- 3× ลูกอมจากการจับ
+- ไอเท็มอวาตาร์ใหม่ตามทางเลือกของคุณ: ชุดคอสเพลย์โมรุเปโกะ (ร่างอิ่ม) หรือชุดคอสเพลย์โมรุเปโกะ (ร่างหิว)
+
+โปรดทราบว่าหากคุณได้ซื้อชุดคอสเพลย์โมรุเปโกะจากร้านค้าสไตล์แล้ว คุณจะไม่สามารถรับไอเท็มเดิมเป็นรางวัลจากงานวิจัยได้อีก
+
+RESOURCE ID: text_rewards_key_halloween2tr24
+TEXT: <b>รางวัลที่จะได้รับ:</b>
+- การเผชิญหน้ากับโปเกมอนธีมอีเวนต์ รวมถึงพิคาชูสวมหมวกแม่มดและโปเกมอนตัวอื่น ๆ ในชุดคอสตูมธีมฮาโลวีน (โรคอน, เก็งกา, โพจจามะ, ฟูวาไรด์, เคโรมัตซึ, บาเค็จจะ และโมคุโร)
+
+RESOURCE ID: text_rewards_key_megafalinksraidday
 TEXT: <b>โบนัสที่จะได้รับ:</b>
 - บัตรตีบอสเพิ่ม 8 ใบจากการหมุน
 แผ่นภาพที่ยิม
 - เพิ่มโอกาสได้รับลูกอมประหลาด XL จากตีบอส
-- เพิ่ม XP 50% และ 2× สตาร์ดัสต์เมื่อตีบอสเสร็จสิ้น
+- +5,000 สตาร์ดัสต์ เมื่อตีบอสซูเปอร์เมก้าเสร็จสิ้น
+- +5,000 XP เมื่อตีบอสซูเปอร์เมก้าเสร็จสิ้น
 
-RESOURCE ID: text_rewards_key_replay_go_bigger
-TEXT: <b>สิ่งที่จะได้รับ:</b>
-- 2× XP เมื่อแบตเทิลแมกซ์เสร็จสิ้น
-- งานวิจัยแบบจำกัดเวลาที่มีรางวัลเป็น 6,400 อนุภาคแมกซ์, 25,000 XP และไดมัชรูม
+RESOURCE ID: text_rewards_key_nye012026
+TEXT: <b>รางวัลและโบนัสที่จะได้รับ:</b>
+- การเผชิญหน้ากับโปเกมอนธีมอีเวนต์ รวมถึงพิคาชูสวมหมวกปาร์ตี้ทรงสูง
+- บัตรแบตเทิลพรีเมียม 2 ใบ
+- 3,000 สตาร์ดัสต์
+- บัตรตีบอสเพิ่ม 1 ใบต่อวัน
+โดยการหมุนแผ่นภาพที่ยิม
 
-RESOURCE ID: text_rewards_key_riolu0426
+RESOURCE ID: text_rewards_key_nye12302025
 TEXT: <b>รางวัลที่จะได้รับ:</b>
-- เครื่องฟักไข่ชั้นเยี่ยม 2 ชิ้น
-- สะเก็ดดาว 1 ชิ้น
-- 10,000 XP และ 5,000 สตาร์ดัสต์
+- บัตรแบตเทิลพรีเมียม 3 ใบ
+- ไข่แห่งความสุข 3 ชิ้น
+- การเผชิญหน้ากับโปเกมอนธีมอีเวนต์ รวมถึงรัตตาสวมหมวกปาร์ตี้, พิคาชูสวมหมวกไหมพรมเกล็ดหิมะ, พูรินติดโบ, โฮโฮสวมชุดปีใหม่ และโซนานส์สวมหมวกปาร์ตี้
+- 2,025 สตาร์ดัสต์
+
+RESOURCE ID: text_rewards_key_pinch_perfect
+TEXT: <b>รางวัลที่จะได้รับ:</b>
+- การเผชิญหน้ากับโปเกมอนธีมอีเวนต์ รวมถึงดาดารินและกาเคกานิ
+- บัตรตีบอสพรีเมียม 2 ใบ
+- 19,000 XP
+
+RESOURCE ID: ticket_deino_cdc
+TEXT: สามารถซื้อตั๋วสำหรับงานวิจัยพิเศษ "โมโนซึคอมมิวนิตี้เดย์ (รีเทิร์น)" ได้ที่ร้านค้า
 
 RESOURCE ID: ticket_lechonk_cd
 TEXT: สามารถซื้อตั๋วสำหรับงานวิจัยพิเศษ "กูร์ตงคอมมิวนิตี้เดย์" ได้ที่ร้านค้า
 
-RESOURCE ID: ticket_tinkatink_cd
-TEXT: สามารถซื้อตั๋วสำหรับงานวิจัยพิเศษ "คานุจังคอมมิวนิตี้เดย์" ได้ที่ร้านค้า
+RESOURCE ID: timed_research_generic_1
+TEXT: งานวิจัยแบบจำกัดเวลา (1/6)
 
-RESOURCE ID: tinkatink_cd_website_link
-TEXT: ตรวจสอบรายละเอียดได้ที่<a href="https://pokemongo.com/news/communityday-april-2026-tinkatink">เว็บไซต์</a>นี้
+RESOURCE ID: timed_research_generic_2
+TEXT: งานวิจัยแบบจำกัดเวลา (2/6)
 
-RESOURCE ID: title_euro_egg_2026_title
-TEXT: ผจญภัยไข่เลิศ
+RESOURCE ID: timed_research_generic_3
+TEXT: งานวิจัยแบบจำกัดเวลา (3/6)
 
-RESOURCE ID: today_view_chansey_loot_drop
-TEXT: ลัคกีป่าอาจมีไข่แห่งความสุข
+RESOURCE ID: timed_research_generic_4
+TEXT: งานวิจัยแบบจำกัดเวลา (4/6)
 
-RESOURCE ID: tr_euro_egg_2026_title
-TEXT: งานวิจัยแบบจำกัดเวลาผจญภัยไข่เลิศ
+RESOURCE ID: timed_research_generic_5
+TEXT: งานวิจัยแบบจำกัดเวลา (5/6)
 
-RESOURCE ID: tr_euro_egg_2026_title_00
-TEXT: งานวิจัยแบบจำกัดเวลาผจญภัยไข่เลิศ (1/1)
+RESOURCE ID: timed_research_generic_6
+TEXT: งานวิจัยแบบจำกัดเวลา (6/6)
 
-RESOURCE ID: tr_npb2026
-TEXT: งานวิจัยแบบจำกัดเวลาโบนัสเพลย์บอล!
+RESOURCE ID: tr_gofest2026_branch_x_description
+TEXT: เลือกเส้นทางนี้เพื่อตามรอยเมก้ามิวทู X
 
-RESOURCE ID: tr_npb2026_header_0
-TEXT: งานวิจัยแบบจำกัดเวลาโบนัสเพลย์บอล! (1/3)
+RESOURCE ID: tr_gofest2026_branch_x_title
+TEXT: เมก้ามิวทู X
 
-RESOURCE ID: tr_npb2026_header_0_desc
-TEXT: วอร์มอัป
+RESOURCE ID: tr_gofest2026_branch_y_description
+TEXT: เลือกเส้นทางนี้เพื่อตามรอยเมก้ามิวทู Y
 
-RESOURCE ID: tr_npb2026_header_1
-TEXT: งานวิจัยแบบจำกัดเวลาโบนัสเพลย์บอล! (2/3)
+RESOURCE ID: tr_gofest2026_branch_y_title
+TEXT: เมก้ามิวทู Y
 
-RESOURCE ID: tr_npb2026_header_1_desc
-TEXT: ลงสนาม
+RESOURCE ID: tr_gofest2026_global_mewtwo
+TEXT: GO Fest 2026: Genetic Mastery
 
-RESOURCE ID: tr_npb2026_header_2
-TEXT: งานวิจัยแบบจำกัดเวลาโบนัสเพลย์บอล! (3/3)
+RESOURCE ID: tr_gofest2026_global_mewtwo_1
+TEXT: GO Fest 2026: Genetic Mastery (1/6)
 
-RESOURCE ID: tr_npb2026_header_2_desc
-TEXT: อินนิ่งสุดท้าย
+RESOURCE ID: tr_gofest2026_global_mewtwo_1_1
+TEXT: Ah, %PLAYERNAME%! There’s something remarkable I need to share with you.
 
-RESOURCE ID: tr_partner_familymart_april2026
-TEXT: งานวิจัยพาร์ทเนอร์: FamilyMart
+RESOURCE ID: tr_gofest2026_global_mewtwo_1_2
+TEXT: You may be familiar with Mewtwo - one of the most extraordinary Pokémon ever documented.
 
-RESOURCE ID: tr_partner_familymart_april2026_badge0194
-TEXT: งานวิจัยพาร์ทเนอร์ - ความทรงจำพรั่งพรู: FamilyMart
+RESOURCE ID: tr_gofest2026_global_mewtwo_1_3
+TEXT: Its origins are unlike any other Pokémon I’ve studied, the result of years of genetic research and DNA experimentation by a scientist.
 
-RESOURCE ID: tr_partner_familymart_april2026_header_0
-TEXT: งานวิจัยพาร์ทเนอร์: FamilyMart (1/8)
+RESOURCE ID: tr_gofest2026_global_mewtwo_1_4
+TEXT: What they created was a Pokémon engineered to battle. The power it carries as a result of that is... well, the data speaks for itself.
 
-RESOURCE ID: tr_partner_familymart_april2026_header_1
-TEXT: งานวิจัยพาร์ทเนอร์: FamilyMart (2/8)
+RESOURCE ID: tr_gofest2026_global_mewtwo_1_5
+TEXT: My research suggests Mewtwo may be active in the area, and from what I know of it, it won’t settle for just any trainer.
 
-RESOURCE ID: tr_partner_familymart_april2026_header_2
-TEXT: งานวิจัยพาร์ทเนอร์: FamilyMart (3/8)
+RESOURCE ID: tr_gofest2026_global_mewtwo_1_6
+TEXT: You could be exactly the type of trainer Mewtwo is looking to battle, so stay sharp and keep your Pokémon close!
 
-RESOURCE ID: tr_partner_familymart_april2026_header_3
-TEXT: งานวิจัยพาร์ทเนอร์: FamilyMart (4/8)
+RESOURCE ID: tr_gofest2026_global_mewtwo_2
+TEXT: GO Fest 2026: Genetic Mastery (2/6)
 
-RESOURCE ID: tr_partner_familymart_april2026_header_4
-TEXT: งานวิจัยพาร์ทเนอร์: FamilyMart (5/8)
+RESOURCE ID: tr_gofest2026_global_mewtwo_2_1
+TEXT: %PLAYERNAME%,  this may be bigger than Mewtwo alone.
 
-RESOURCE ID: tr_partner_familymart_april2026_header_5
-TEXT: งานวิจัยพาร์ทเนอร์: FamilyMart (6/8)
+RESOURCE ID: tr_gofest2026_global_mewtwo_2_2
+TEXT: I’ve been tracking some extraordinary readings lately, and I believe it is  Mega Evolved Mewtwo who may be looking for a challenger.
 
-RESOURCE ID: tr_partner_familymart_april2026_header_6
-TEXT: งานวิจัยพาร์ทเนอร์: FamilyMart (7/8)
+RESOURCE ID: tr_gofest2026_global_mewtwo_2_3
+TEXT: I know you’ve faced tough battles before, but this feels different.
 
-RESOURCE ID: tr_partner_familymart_april2026_header_7
-TEXT: งานวิจัยพาร์ทเนอร์: FamilyMart (8/8)
+RESOURCE ID: tr_gofest2026_global_mewtwo_2_4
+TEXT: The combination of raw power and psychic intensity in the data I’m seeing warrants serious preparation.
 
-RESOURCE ID: trade_mega_level_prompt_title_out
-TEXT: คุณแน่ใจหรือไม่ว่าต้องการ
-แลกเปลี่ยนโปเกมอนนี้?
+RESOURCE ID: tr_gofest2026_global_mewtwo_2_5
+TEXT: I don’t want to alarm you, but I also don’t want you walking in underprepared.
 
-RESOURCE ID: tw_festival_fr_location_background
-TEXT: ชิคิจิกะและพิคาชูในชุดคอสตูมที่จับจากภารกิจงานวิจัยภาคสนามอาจมีพื้นหลังสถานที่สุดพิเศษ
+RESOURCE ID: tr_gofest2026_global_mewtwo_2_6
+TEXT: Start getting your team ready, %PLAYERNAME%! This is exactly the kind of encounter that gets a Pokémon Professor’s heart racing!
 
-RESOURCE ID: tw_festival_fr_task_refreshing
-TEXT: สามารถรับภารกิจงานวิจัยภาคสนามใหม่
-จากเสาโปเกสต็อปเดิมได้ทุก ๆ 3 ชั่วโมง
+RESOURCE ID: tr_gofest2026_global_mewtwo_3
+TEXT: GO Fest 2026: Genetic Mastery (3/6)
 
-RESOURCE ID: tw_flower_festival_2026_tag
-TEXT: ไทเปฟลอรัลปิกนิก 2026
+RESOURCE ID: tr_gofest2026_global_mewtwo_3_1
+TEXT: %PLAYERNAME% before you head into battle, I want you to take some time to explore Mega Evolutions.
 
-RESOURCE ID: tw_flower_festival_2026_title
-TEXT: ไทเปฟลอรัลปิกนิก 2026
+RESOURCE ID: tr_gofest2026_global_mewtwo_3_2
+TEXT: Every Mega Evolution is different, and the better informed you are, the stronger you’ll be when you face Mega Evolved Mewtwo.
 
-RESOURCE ID: tw_flower_festival_2026_tr_name
-TEXT: งานวิจัยแบบจำกัดเวลาพื้นหลังไทเปฟลอรัลปิกนิก 2026
+RESOURCE ID: tr_gofest2026_global_mewtwo_3_3
+TEXT: Take a look at the Mega Evolved Pokémon out there. What makes each one distinct? What might take you by surprise?
 
-RESOURCE ID: tw_flower_festival_2026_tr_name_1
-TEXT: งานวิจัยแบบจำกัดเวลาพื้นหลังไทเปฟลอรัลปิกนิก 2026 (1/3)
+RESOURCE ID: tr_gofest2026_global_mewtwo_3_4
+TEXT: Mega Evolved Mewtwo is going to demand your very best, so now is the perfect time to brush up and go in with fresh eyes.
 
-RESOURCE ID: tw_flower_festival_2026_tr_name_2
-TEXT: งานวิจัยแบบจำกัดเวลาพื้นหลังไทเปฟลอรัลปิกนิก 2026 (2/3)
+RESOURCE ID: tr_gofest2026_global_mewtwo_3_5
+TEXT: Explore, reflect, and let what you discover guide you.
 
-RESOURCE ID: tw_flower_festival_2026_tr_name_3
-TEXT: งานวิจัยแบบจำกัดเวลาพื้นหลังไทเปฟลอรัลปิกนิก 2026 (3/3)
+RESOURCE ID: tr_gofest2026_global_mewtwo_3_6
+TEXT: Knowledge is your greatest ally here, %PLAYERNAME%. So go out there and find it!
 
-RESOURCE ID: tw_flower_festival_mar2026_cc_1
-TEXT: คำท้านักสะสมไทเปฟลอรัลปิกนิก 2026 (1)
+RESOURCE ID: tr_gofest2026_global_mewtwo_5_1
+TEXT: %PLAYERNAME%... you did it! I have to say, watching you out there had me on the edge of my seat.
 
-RESOURCE ID: tw_flower_festival_mar2026_cc_2
-TEXT: คำท้านักสะสมไทเปฟลอรัลปิกนิก 2026 (2)
+RESOURCE ID: tr_gofest2026_global_mewtwo_5_2
+TEXT: You’re now partnered with one of the most remarkable Pokémon I have ever researched.
 
-RESOURCE ID: wayfarer_bonus_title
-TEXT: งานวิจัยแบบจำกัดเวลาโบนัส Wayfarer
+RESOURCE ID: tr_gofest2026_global_mewtwo_5_3
+TEXT: But the work doesn’t stop here - if anything, this is where the most exciting part begins.
 
-RESOURCE ID: weekly_challenges_join_error_group_unavailable_title
-TEXT: ไม่มีกลุ่มที่สามารถเข้าร่วมได้
+RESOURCE ID: tr_gofest2026_global_mewtwo_5_4
+TEXT: Take the time to really understand Mega Evolved Mewtwo -  its moves, its strengths.
 
-RESOURCE ID: welcome_back_research_early
-TEXT: ยินดีต้อนรับกลับมา!
+RESOURCE ID: tr_gofest2026_global_mewtwo_5_5
+TEXT: Don’t rush.  Learn alongside your new partner, and let that understanding grow naturally.
 
-RESOURCE ID: welcome_back_research_early_end
-TEXT: ยินดีต้อนรับกลับมา!
+RESOURCE ID: tr_gofest2026_global_mewtwo_5_6
+TEXT: I have a feeling the two of you are going to do some incredible things together.
 
-RESOURCE ID: welcome_back_research_extralong_1
-TEXT: ยินดีต้อนรับกลับมา! (1/4)
+RESOURCE ID: tr_gofest2026_global_mewtwo_6_1
+TEXT: %PLAYERNAME%,  stop for just a moment and take stock of what you’ve achieved here.
 
-RESOURCE ID: welcome_back_research_extralong_2
-TEXT: ยินดีต้อนรับกลับมา! (2/4)
+RESOURCE ID: tr_gofest2026_global_mewtwo_6_2
+TEXT: From our very first conversation about Mewtwo’s origins to standing here with Mega Mewtwo as your partner.
 
-RESOURCE ID: welcome_back_research_extralong_3
-TEXT: ยินดีต้อนรับกลับมา! (3/4)
+RESOURCE ID: tr_gofest2026_global_mewtwo_6_3
+TEXT: This reminds me of why I chose to become a Professor. The wonder of it never gets old.
 
-RESOURCE ID: welcome_back_research_extralong_4
-TEXT: ยินดีต้อนรับกลับมา! (4/4)
+RESOURCE ID: tr_gofest2026_global_mewtwo_6_4
+TEXT: But beyond all the data and discoveries, I am genuinely proud of you, %PLAYERNAME%.
 
-RESOURCE ID: welcome_back_research_extralong_end
-TEXT: ยินดีต้อนรับกลับมา!
+RESOURCE ID: tr_gofest2026_global_mewtwo_6_5
+TEXT: The world of Pokémon is vast and full of discoveries that neither of us have even dreamed of. Today you proved you have everything it takes to meet whatever comes next.
 
-RESOURCE ID: welcome_back_research_long_1
-TEXT: ยินดีต้อนรับกลับมา! (1/3)
+RESOURCE ID: tr_gofest2026_global_mewtwo_6_6
+TEXT: Now go celebrate! You and Mega Mewtwo have both earned it!
 
-RESOURCE ID: welcome_back_research_long_2
-TEXT: ยินดีต้อนรับกลับมา! (2/3)
+RESOURCE ID: tr_gofest2026_global_mewtwo_choice
+TEXT: GO Fest 2026: Genetic Mastery
 
-RESOURCE ID: welcome_back_research_long_3
-TEXT: ยินดีต้อนรับกลับมา! (3/3)
+RESOURCE ID: tr_gofest2026_global_mewtwo_choice_1
+TEXT: The moment has arrived, %PLAYERNAME%, and there is one final decision standing between you and Mega Mewtwo.
 
-RESOURCE ID: welcome_back_research_long_end
-TEXT: ยินดีต้อนรับกลับมา!
+RESOURCE ID: tr_gofest2026_global_mewtwo_choice_2
+TEXT: You see, Mega Evolved Mewtwo has two distinct forms, each fascinating in its own right.
 
-RESOURCE ID: welcome_back_research_medium_1
-TEXT: ยินดีต้อนรับกลับมา! (1/2)
+RESOURCE ID: tr_gofest2026_global_mewtwo_choice_3
+TEXT: Mega Mewtwo X has a grip strength of one ton and can sprint a hundred meters in two seconds flat!
 
-RESOURCE ID: welcome_back_research_medium_2
-TEXT: ยินดีต้อนรับกลับมา! (2/2)
+RESOURCE ID: tr_gofest2026_global_mewtwo_choice_4
+TEXT: Despite the diminished size of Mega Mewtwo Y, its mental power has grown phenomenally.
 
-RESOURCE ID: welcome_back_research_medium_end
-TEXT: ยินดีต้อนรับกลับมา!
+RESOURCE ID: tr_gofest2026_global_mewtwo_choice_5
+TEXT: Both forms are a proof to what Mega Evolution can unlock in an already powerful Pokémon.
 
-RESOURCE ID: welcome_back_research_short
-TEXT: ยินดีต้อนรับกลับมา!
+RESOURCE ID: tr_gofest2026_global_mewtwo_choice_6
+TEXT: There’s no wrong path here, %PLAYERNAME%. Trust your judgement and go show Mega Mewtwo what you’re made of!
 
-RESOURCE ID: welcome_back_research_short_end
-TEXT: ยินดีต้อนรับกลับมา!
+RESOURCE ID: tr_gofest2026_global_mewtwo_x
+TEXT: GO Fest 2026: Genetic Mastery X
+
+RESOURCE ID: tr_gofest2026_global_mewtwo_x_4
+TEXT: GO Fest 2026: Genetic Mastery X (4/6)
+
+RESOURCE ID: tr_gofest2026_global_mewtwo_x_4_1
+TEXT: A bold choice, %PLAYERNAME%! Mega Mewtwo X is a Psychic and Fighting type - prepare for a relentless battle.
+
+RESOURCE ID: tr_gofest2026_global_mewtwo_x_4_2
+TEXT: Stay focused and be prepared for its overwhelming physical power.
+
+RESOURCE ID: tr_gofest2026_global_mewtwo_x_5
+TEXT: GO Fest 2026: Genetic Mastery X (5/6)
+
+RESOURCE ID: tr_gofest2026_global_mewtwo_x_6
+TEXT: GO Fest 2026: Genetic Mastery X (6/6)
+
+RESOURCE ID: tr_gofest2026_global_mewtwo_y
+TEXT: GO Fest 2026: Genetic Mastery Y
+
+RESOURCE ID: tr_gofest2026_global_mewtwo_y_4
+TEXT: GO Fest 2026: Genetic Mastery Y (4/6)
+
+RESOURCE ID: tr_gofest2026_global_mewtwo_y_4_1
+TEXT: A wise choice, %PLAYERNAME%! Mega Mewtwo Y is a Psychic type - its mental power will be your greatest challenge.
+
+RESOURCE ID: tr_gofest2026_global_mewtwo_y_4_2
+TEXT: Keep sharp. Strategy will be key to overcoming its immense psychic strength.
+
+RESOURCE ID: tr_gofest2026_global_mewtwo_y_5
+TEXT: GO Fest 2026: Genetic Mastery Y (5/6)
+
+RESOURCE ID: tr_gofest2026_global_mewtwo_y_6
+TEXT: GO Fest 2026: Genetic Mastery Y (6/6)
+
+RESOURCE ID: tr_gofest2026_irl_city_amer_1
+TEXT: GO Fest 2025: Chicago Expert (1/3)
+
+RESOURCE ID: tr_gofest2026_irl_city_amer_1_1
+TEXT: Alright, %PLAYERNAME%, listen up. Things are about to pop off!
+
+RESOURCE ID: tr_gofest2026_irl_city_amer_1_2
+TEXT: You know how some Trainers are just good, and then some Trainers are, like, REALLY good? We’re about to find out which one you are!
+
+RESOURCE ID: tr_gofest2026_irl_city_amer_1_3
+TEXT: There are four challenges in different areas of the city just waiting for you to tackle them. The areas are called City Districts, and the challenges for Trainers are called—get this—Trainer Challenges.
+
+RESOURCE ID: tr_gofest2026_irl_city_amer_1_4
+TEXT: Each challenge tests something totally different, so follow your instinct and go after the ones that excite you. You just need to complete two, but you can do more!
+
+RESOURCE ID: tr_gofest2026_irl_city_amer_1_5
+TEXT: Let’s see what you’ve got, %PLAYERNAME%! Those challenges are shaking in their boots!
+
+RESOURCE ID: tr_gofest2026_irl_city_amer_2
+TEXT: GO Fest 2025: Chicago Expert (2/3)
+
+RESOURCE ID: tr_gofest2026_irl_city_amer_2_1
+TEXT: Okay %PLAYERNAME%, I need you to take a breath because we’re about to get to the GOOD part!
+
+RESOURCE ID: tr_gofest2026_irl_city_amer_2_2
+TEXT: You brought your whole self to those challenges, and now here we are. One step away from an extra-special challenge!
+
+RESOURCE ID: tr_gofest2026_irl_city_amer_2_3
+TEXT: Get out there and show me what you’ve got!
+
+RESOURCE ID: tr_gofest2026_irl_city_amer_3_1
+TEXT: NICE choice! I like it!
+
+RESOURCE ID: tr_gofest2026_irl_city_amer_3_2
+TEXT: You know, I had a hunch you’d go that way, and I’ve learned to never doubt my hunches.
+
+RESOURCE ID: tr_gofest2026_irl_city_amer_3_3
+TEXT: I also have no doubt that you and Mewtwo are going to make a mega-powerful duo.
+
+RESOURCE ID: tr_gofest2026_irl_city_amer_3_4
+TEXT: You’ve earned this moment, %PLAYERNAME%. Every challenge, every step, and every decision brought you right here.
+
+RESOURCE ID: tr_gofest2026_irl_city_amer_3_5
+TEXT: Now get out there and make it LEGENDARY!
+
+RESOURCE ID: tr_gofest2026_irl_city_amer_choice_1
+TEXT: Well hello there, you Pokémon expert you!
+
+RESOURCE ID: tr_gofest2026_irl_city_amer_choice_2
+TEXT: This proves you’re ready for, drumroll please, Mewtwo and its Mega Evolutions! You heard me right—that overachiever has MULTIPLE Mega Evolutions: Mega Mewtwo X and Mega Mewtwo Y.
+
+RESOURCE ID: tr_gofest2026_irl_city_amer_choice_3
+TEXT: Both are incredibly powerful, and both are absolutely awesome!
+
+RESOURCE ID: tr_gofest2026_irl_city_amer_choice_4
+TEXT: So tell me, %PLAYERNAME%. Which form are you feeling? Trust those instincts!
+
+RESOURCE ID: tr_gofest2026_irl_city_amer_title
+TEXT: Pokémon GO Expert: Chicago
+
+RESOURCE ID: tr_gofest2026_irl_city_apac_1
+TEXT: GO Fest 2025: Tokyo Expert (1/3)
+
+RESOURCE ID: tr_gofest2026_irl_city_apac_1_1
+TEXT: %PLAYERNAME%. I’m glad you’re here. What lies ahead is not a simple task.
+
+RESOURCE ID: tr_gofest2026_irl_city_apac_1_2
+TEXT: It’s an opportunity to demonstrate that you possess the full breadth of skills that a true expert Trainer requires.
+
+RESOURCE ID: tr_gofest2026_irl_city_apac_1_3
+TEXT: You will find a series of four challenges located in different areas of the city. Each of these Trainer Challenges is designed to test an essential competency.
+
+RESOURCE ID: tr_gofest2026_irl_city_apac_1_4
+TEXT: I have assessed these City Districts and their challenges carefully. You will need to complete at least two.
+
+RESOURCE ID: tr_gofest2026_irl_city_apac_1_5
+TEXT: I advise against approaching this carelessly. Each challenge demands focus and intentionality.
+
+RESOURCE ID: tr_gofest2026_irl_city_apac_1_6
+TEXT: When you are ready, %PLAYERNAME%, you may begin. I will be watching your progress with great interest.
+
+RESOURCE ID: tr_gofest2026_irl_city_apac_2
+TEXT: GO Fest 2025: Tokyo Expert (2/3)
+
+RESOURCE ID: tr_gofest2026_irl_city_apac_2_1
+TEXT: You’ve done what was required, and you’ve done it well.
+
+RESOURCE ID: tr_gofest2026_irl_city_apac_2_2
+TEXT: Every challenge you completed was designed to test a specific dimension of what it truly means to be a capable Trainer.
+
+RESOURCE ID: tr_gofest2026_irl_city_apac_2_3
+TEXT: You have proven yourself, and now it’s time for the final step.
+
+RESOURCE ID: tr_gofest2026_irl_city_apac_2_4
+TEXT: One last challenge remains. I’m convinced you are ready for it.
+
+RESOURCE ID: tr_gofest2026_irl_city_apac_3_1
+TEXT: A thoughtful choice. I admit that I had my own hypothesis about which you would select.
+
+RESOURCE ID: tr_gofest2026_irl_city_apac_3_2
+TEXT: I can tell you this with confidence: You and Mewtwo are well matched.
+
+RESOURCE ID: tr_gofest2026_irl_city_apac_3_3
+TEXT: The potential for something truly extraordinary between a Trainer of your talent and a Pokémon of that power is not insignificant.
+
+RESOURCE ID: tr_gofest2026_irl_city_apac_3_4
+TEXT: Go on, %PLAYERNAME%. I am most interested to see what you accomplish together.
+
+RESOURCE ID: tr_gofest2026_irl_city_apac_choice_1
+TEXT: Now that you have proven yourself a true expert, I have information to share about Mewtwo and Mega Evolution.
+
+RESOURCE ID: tr_gofest2026_irl_city_apac_choice_2
+TEXT: Mewtwo is a Pokémon of extraordinary power, and only a Trainer of your caliber is equipped to handle it.
+
+RESOURCE ID: tr_gofest2026_irl_city_apac_choice_3
+TEXT: It has two Mega Evolutions: Mega Mewtwo X and Mega Mewtwo Y.
+
+RESOURCE ID: tr_gofest2026_irl_city_apac_choice_4
+TEXT: I will ask you once, and I expect you to consider carefully. Which form do you wish to encounter?
+
+RESOURCE ID: tr_gofest2026_irl_city_apac_title
+TEXT: Pokémon GO Expert: Tokyo
+
+RESOURCE ID: tr_gofest2026_irl_city_collection_amer
+TEXT: GO Fest 2026: Chicago Collection Challenge
+
+RESOURCE ID: tr_gofest2026_irl_city_collection_amer_1
+TEXT: GO Fest 2026: Chicago Collection Challenge (1/2)
+
+RESOURCE ID: tr_gofest2026_irl_city_collection_amer_1_1
+TEXT: You finished the Collection District challenge! Look at you go!
+
+RESOURCE ID: tr_gofest2026_irl_city_collection_amer_1_2
+TEXT: There are SO many different Pokémon out there, and you just went and found them like it was nothing. And it was NOT nothing!
+
+RESOURCE ID: tr_gofest2026_irl_city_collection_amer_1_3
+TEXT: Every Pokémon you collect is a new connection—a new buddy who’s part of your journey.
+
+RESOURCE ID: tr_gofest2026_irl_city_collection_amer_1_4
+TEXT: You’ve got a gift for this, %PLAYERNAME%. Congrats!
+
+RESOURCE ID: tr_gofest2026_irl_city_collection_amer_2
+TEXT: GO Fest 2026: Chicago Collection Challenge (2/2)
+
+RESOURCE ID: tr_gofest2026_irl_city_collection_apac
+TEXT: GO Fest 2026: Tokyo Collection Challenge
+
+RESOURCE ID: tr_gofest2026_irl_city_collection_apac_1
+TEXT: GO Fest 2026: Tokyo Collection Challenge (1/2)
+
+RESOURCE ID: tr_gofest2026_irl_city_collection_apac_1_1
+TEXT: The Collection District challenge is complete.
+
+RESOURCE ID: tr_gofest2026_irl_city_collection_apac_1_2
+TEXT: To collect is not merely to accumulate.
+
+RESOURCE ID: tr_gofest2026_irl_city_collection_apac_1_3
+TEXT: A Trainer who seeks out different Pokémon and strives to understand what makes each one unique shows they are genuinely engaged with the world around them.
+
+RESOURCE ID: tr_gofest2026_irl_city_collection_apac_1_4
+TEXT: You approached this challenge with that understanding, %PLAYERNAME%, and it shows. Congratulations.
+
+RESOURCE ID: tr_gofest2026_irl_city_collection_apac_2
+TEXT: GO Fest 2026: Tokyo Collection Challenge (2/2)
+
+RESOURCE ID: tr_gofest2026_irl_city_collection_emea
+TEXT: GO Fest 2026: Copenhagen Collection Challenge
+
+RESOURCE ID: tr_gofest2026_irl_city_collection_emea_1
+TEXT: GO Fest 2026: Copenhagen Collection Challenge (1/2)
+
+RESOURCE ID: tr_gofest2026_irl_city_collection_emea_1_1
+TEXT: The Collection District challenge is done!
+
+RESOURCE ID: tr_gofest2026_irl_city_collection_emea_1_2
+TEXT: There’s something I really admire about a Trainer who seeks out different Pokémon and wants to understand what makes each one special.
+
+RESOURCE ID: tr_gofest2026_irl_city_collection_emea_1_3
+TEXT: Every great Trainer I’ve ever met had fire AND curiosity driving them on.
+
+RESOURCE ID: tr_gofest2026_irl_city_collection_emea_1_4
+TEXT: Today you showed me you’ve got both, %PLAYERNAME%. Congratulations!
+
+RESOURCE ID: tr_gofest2026_irl_city_collection_emea_2
+TEXT: GO Fest 2026: Copenhagen Collection Challenge (2/2)
+
+RESOURCE ID: tr_gofest2026_irl_city_emea_1
+TEXT: GO Fest 2025: Copenhagen Expert (1/3)
+
+RESOURCE ID: tr_gofest2026_irl_city_emea_1_1
+TEXT: %PLAYERNAME%! Good, you’re here. I’ve got something big lined up, and I need someone who can handle it!
+
+RESOURCE ID: tr_gofest2026_irl_city_emea_1_2
+TEXT: This isn’t just any mission. This is your shot to prove you’re the real deal. A bona fide Pokémon expert.
+
+RESOURCE ID: tr_gofest2026_irl_city_emea_1_3
+TEXT: The city is divided into four areas, called City Districts, and there are challenges waiting for you in all of ’em.
+
+RESOURCE ID: tr_gofest2026_irl_city_emea_1_4
+TEXT: Each Trainer Challenge is designed to test a different skill. You’ll need to complete at least two, so pick the ones that fire you up and go all in!
+
+RESOURCE ID: tr_gofest2026_irl_city_emea_1_5
+TEXT: No holding back. I want to see everything you’ve got out there!
+
+RESOURCE ID: tr_gofest2026_irl_city_emea_1_6
+TEXT: Show me what you’re made of, %PLAYERNAME%. Let’s GO!
+
+RESOURCE ID: tr_gofest2026_irl_city_emea_2
+TEXT: GO Fest 2025: Copenhagen Expert (2/3)
+
+RESOURCE ID: tr_gofest2026_irl_city_emea_2_1
+TEXT: Look at you, %PLAYERNAME%! You’ve really brought the heat!
+
+RESOURCE ID: tr_gofest2026_irl_city_emea_2_2
+TEXT: Those challenges weren’t easy, but you took them on anyway and came out stronger for it.
+
+RESOURCE ID: tr_gofest2026_irl_city_emea_2_3
+TEXT: That’s exactly the kind of Trainer I knew you were!
+
+RESOURCE ID: tr_gofest2026_irl_city_emea_2_4
+TEXT: Now it's time to get ready for the final step. Everything you worked for is waiting—now go get it!
+
+RESOURCE ID: tr_gofest2026_irl_city_emea_3_1
+TEXT: Ha. Good choice, %PLAYERNAME%. I respect it!
+
+RESOURCE ID: tr_gofest2026_irl_city_emea_3_2
+TEXT: That’s exactly the kind of decision-making I’d expect from an expert Trainer.
+
+RESOURCE ID: tr_gofest2026_irl_city_emea_3_3
+TEXT: Whatever lies ahead, I have no doubt that you and Mewtwo are going to bring out the best in each other.
+
+RESOURCE ID: tr_gofest2026_irl_city_emea_3_4
+TEXT: This is the moment, %PLAYERNAME%. Go show the world what you’re made of. I'll be cheering you on every step of the way!
+
+RESOURCE ID: tr_gofest2026_irl_city_emea_choice_1
+TEXT: I knew it—an expert through and through! Hard-won and well deserved.
+
+RESOURCE ID: tr_gofest2026_irl_city_emea_choice_2
+TEXT: But here’s where things get really exciting. Now you're ready for Mewtwo and its Mega Evolutions!
+
+RESOURCE ID: tr_gofest2026_irl_city_emea_choice_3
+TEXT: That’s right, Mewtwo has two Mega Evolutions: Mega Mewtwo X and Mega Mewtwo Y. Each one is powerful in its own right.
+
+RESOURCE ID: tr_gofest2026_irl_city_emea_choice_4
+TEXT: So tell me, %PLAYERNAME%. Which form are you gonna face?
+
+RESOURCE ID: tr_gofest2026_irl_city_emea_choice_5
+TEXT: Choose wisely, and choose with confidence!
+
+RESOURCE ID: tr_gofest2026_irl_city_emea_title
+TEXT: Pokémon GO Expert: Copenhagen
+
+RESOURCE ID: tr_gofest2026_irl_city_friendship_amer
+TEXT: GO Fest 2026: Chicago Friendship Challenge
+
+RESOURCE ID: tr_gofest2026_irl_city_friendship_amer_1
+TEXT: GO Fest 2026: Chicago Friendship Challenge (1/2)
+
+RESOURCE ID: tr_gofest2026_irl_city_friendship_amer_1_1
+TEXT: You finished the Friendship District challenge! Look at you go!
+
+RESOURCE ID: tr_gofest2026_irl_city_friendship_amer_1_2
+TEXT: Connections are everything as a Trainer. Bonds with the people around you, your Pokémon, and the whole community out there.
+
+RESOURCE ID: tr_gofest2026_irl_city_friendship_amer_1_3
+TEXT: A Trainer with a big heart is unstoppable.
+
+RESOURCE ID: tr_gofest2026_irl_city_friendship_amer_1_4
+TEXT: From what I saw today, %PLAYERNAME%, your heart is as big as they come.
+
+RESOURCE ID: tr_gofest2026_irl_city_friendship_amer_2
+TEXT: GO Fest 2026: Chicago Friendship Challenge (2/2)
+
+RESOURCE ID: tr_gofest2026_irl_city_friendship_apac
+TEXT: GO Fest 2026: Tokyo Friendship Challenge
+
+RESOURCE ID: tr_gofest2026_irl_city_friendship_apac_1
+TEXT: GO Fest 2026: Tokyo Friendship Challenge (1/2)
+
+RESOURCE ID: tr_gofest2026_irl_city_friendship_apac_1_1
+TEXT: The Friendship District challenge is complete.
+
+RESOURCE ID: tr_gofest2026_irl_city_friendship_apac_1_2
+TEXT: The data is clear: Trainers who forge meaningful connections—with other people and with their Pokémon—consistently perform at a higher level.
+
+RESOURCE ID: tr_gofest2026_irl_city_friendship_apac_1_3
+TEXT: Trust and bonds matter. That’s just science.
+
+RESOURCE ID: tr_gofest2026_irl_city_friendship_apac_1_4
+TEXT: You’ve demonstrated that you understand this, %PLAYERNAME%, and I respect that more than you might expect. Congratulations.
+
+RESOURCE ID: tr_gofest2026_irl_city_friendship_apac_2
+TEXT: GO Fest 2026: Tokyo Friendship Challenge (2/2)
+
+RESOURCE ID: tr_gofest2026_irl_city_friendship_emea
+TEXT: GO Fest 2026: Copenhagen Friendship Challenge
+
+RESOURCE ID: tr_gofest2026_irl_city_friendship_emea_1
+TEXT: GO Fest 2026: Copenhagen Friendship Challenge (1/2)
+
+RESOURCE ID: tr_gofest2026_irl_city_friendship_emea_1_1
+TEXT: The Friendship District challenge is done! This one means a lot to me.
+
+RESOURCE ID: tr_gofest2026_irl_city_friendship_emea_1_2
+TEXT: The connections you build—with your Pokémon and with other Trainers—THAT’S real strength.
+
+RESOURCE ID: tr_gofest2026_irl_city_friendship_emea_1_3
+TEXT: The warmhearted ones always go the furthest, %PLAYERNAME%. Congratulations!
+
+RESOURCE ID: tr_gofest2026_irl_city_friendship_emea_2
+TEXT: GO Fest 2026: Copenhagen Friendship Challenge (2/2)
+
+RESOURCE ID: tr_gofest2026_irl_city_full4_amer
+TEXT: GO Fest 2026: Chicago Complete
+
+RESOURCE ID: tr_gofest2026_irl_city_full4_amer_1
+TEXT: GO Fest 2026: Chicago Complete (1/2)
+
+RESOURCE ID: tr_gofest2026_irl_city_full4_amer_1_1
+TEXT: %PLAYERNAME%! You completed ALL FOUR Trainer Challenges?! Okay, that is genuinely incredible.
+
+RESOURCE ID: tr_gofest2026_irl_city_full4_amer_1_2
+TEXT: But I’m gonna need to put the party on pause—something big just came up.
+
+RESOURCE ID: tr_gofest2026_irl_city_full4_amer_1_3
+TEXT: Team GO Rocket Leader Sierra has shown up in the area. She’s here for Mewtwo.
+
+RESOURCE ID: tr_gofest2026_irl_city_full4_amer_1_4
+TEXT: And who better to take her down than the expert Trainer right in front of me!
+
+RESOURCE ID: tr_gofest2026_irl_city_full4_amer_1_5
+TEXT: Trust those instincts, %PLAYERNAME%. Find Sierra and shut this down. I believe in you!
+
+RESOURCE ID: tr_gofest2026_irl_city_full4_amer_2
+TEXT: GO Fest 2026: Chicago Complete (2/2)
+
+RESOURCE ID: tr_gofest2026_irl_city_full4_amer_2_1
+TEXT: Seriously, %PLAYERNAME%, thank you.
+
+RESOURCE ID: tr_gofest2026_irl_city_full4_amer_extra_1
+TEXT: And I’m just gonna put this out there—if your instincts ever lead you to the team that’s made for ’em, Team Instinct would be lucky to have you!
+
+RESOURCE ID: tr_gofest2026_irl_city_full4_apac
+TEXT: GO Fest 2026: Tokyo Complete
+
+RESOURCE ID: tr_gofest2026_irl_city_full4_apac_1
+TEXT: GO Fest 2026: Tokyo Complete (1/2)
+
+RESOURCE ID: tr_gofest2026_irl_city_full4_apac_1_1
+TEXT: %PLAYERNAME%, you have completed all four Trainer Challenges. The results speak for themselves.
+
+RESOURCE ID: tr_gofest2026_irl_city_full4_apac_1_2
+TEXT: Every challenge was built to measure a specific capability. By completing all of them, you have demonstrated exactly the level of precision I need right now.
+
+RESOURCE ID: tr_gofest2026_irl_city_full4_apac_1_3
+TEXT: My intelligence has identified Team GO Rocket Leader Cliff operating in this area. His presence is directly tied to their plans to capture Mewtwo.
+
+RESOURCE ID: tr_gofest2026_irl_city_full4_apac_1_4
+TEXT: Find Cliff. Stop him. I will be monitoring the situation closely.
+
+RESOURCE ID: tr_gofest2026_irl_city_full4_apac_2
+TEXT: GO Fest 2026: Tokyo Complete (2/2)
+
+RESOURCE ID: tr_gofest2026_irl_city_full4_apac_2_1
+TEXT: You have my genuine gratitude, %PLAYERNAME%.
+
+RESOURCE ID: tr_gofest2026_irl_city_full4_apac_extra_1
+TEXT: I will note, as a matter of record, that should you ever find yourself reconsidering your allegiances…
+
+RESOURCE ID: tr_gofest2026_irl_city_full4_apac_extra_2
+TEXT: a Trainer of your caliber would find a worthy home in Team Mystic.
+
+RESOURCE ID: tr_gofest2026_irl_city_full4_emea
+TEXT: GO Fest 2026: Copenhagen Complete
+
+RESOURCE ID: tr_gofest2026_irl_city_full4_emea_1
+TEXT: GO Fest 2026: Copenhagen Complete (1/2)
+
+RESOURCE ID: tr_gofest2026_irl_city_full4_emea_1_1
+TEXT: All four Trainer Challenges. Every single one. I knew you had it in you!
+
+RESOURCE ID: tr_gofest2026_irl_city_full4_emea_1_2
+TEXT: But I need you to stay sharp, because we’ve got a situation on our hands.
+
+RESOURCE ID: tr_gofest2026_irl_city_full4_emea_1_3
+TEXT: Team GO Rocket Leader Arlo has been spotted in the area, and I'm not buying that it’s a coincidence. This has to be connected to capturing Mewtwo.
+
+RESOURCE ID: tr_gofest2026_irl_city_full4_emea_1_4
+TEXT: You’ve proven that you’re exactly the kind of Trainer who can handle something like this.
+
+RESOURCE ID: tr_gofest2026_irl_city_full4_emea_1_5
+TEXT: Don’t hold back. Find Arlo and stop him. I’ve got your back!
+
+RESOURCE ID: tr_gofest2026_irl_city_full4_emea_2
+TEXT: GO Fest 2026: Copenhagen Complete (2/2)
+
+RESOURCE ID: tr_gofest2026_irl_city_full4_emea_2_1
+TEXT: Thank you, %PLAYERNAME%. I mean that with everything I’ve got.
+
+RESOURCE ID: tr_gofest2026_irl_city_full4_emea_extra_1
+TEXT: You’ve proven yourself an unparalleled Trainer.
+
+RESOURCE ID: tr_gofest2026_irl_city_full4_emea_extra_2
+TEXT: If you ever feel like channeling that fire into Team Valor, we’d welcome you with open arms!
+
+RESOURCE ID: tr_gofest2026_irl_city_investigation_amer
+TEXT: GO Fest 2026: Chicago Investigation Challenge
+
+RESOURCE ID: tr_gofest2026_irl_city_investigation_amer_1
+TEXT: GO Fest 2026: Chicago Investigation Challenge (1/2)
+
+RESOURCE ID: tr_gofest2026_irl_city_investigation_amer_1_1
+TEXT: You finished the Investigation District challenge, and you nailed it!
+
+RESOURCE ID: tr_gofest2026_irl_city_investigation_amer_1_2
+TEXT: I’m the kind of person to follow my instinct and act quick, but watching you dig in and figure things out? That was really cool.
+
+RESOURCE ID: tr_gofest2026_irl_city_investigation_amer_1_3
+TEXT: Don’t ever lose that stellar curiosity, %PLAYERNAME%. Congrats!
+
+RESOURCE ID: tr_gofest2026_irl_city_investigation_amer_2
+TEXT: GO Fest 2026: Chicago Investigation Challenge (2/2)
+
+RESOURCE ID: tr_gofest2026_irl_city_investigation_apac
+TEXT: GO Fest 2026: Tokyo Investigation Challenge
+
+RESOURCE ID: tr_gofest2026_irl_city_investigation_apac_1
+TEXT: GO Fest 2026: Tokyo Investigation Challenge (1/2)
+
+RESOURCE ID: tr_gofest2026_irl_city_investigation_apac_1_1
+TEXT: The Investigation District challenge is complete.
+
+RESOURCE ID: tr_gofest2026_irl_city_investigation_apac_1_2
+TEXT: Research and inquiry are the foundations upon which all true knowledge of Pokémon is built.
+
+RESOURCE ID: tr_gofest2026_irl_city_investigation_apac_1_3
+TEXT: You have shown that you seek to understand, not merely observe.
+
+RESOURCE ID: tr_gofest2026_irl_city_investigation_apac_1_4
+TEXT: That discipline will serve you well, %PLAYERNAME%. Congratulations.
+
+RESOURCE ID: tr_gofest2026_irl_city_investigation_apac_2
+TEXT: GO Fest 2026: Tokyo Investigation Challenge (2/2)
+
+RESOURCE ID: tr_gofest2026_irl_city_investigation_emea
+TEXT: GO Fest 2026: Copenhagen Investigation Challenge
+
+RESOURCE ID: tr_gofest2026_irl_city_investigation_emea_1
+TEXT: GO Fest 2026: Copenhagen Investigation Challenge (1/2)
+
+RESOURCE ID: tr_gofest2026_irl_city_investigation_emea_1_1
+TEXT: You’ve wrapped the Investigation District challenge, %PLAYERNAME%!
+
+RESOURCE ID: tr_gofest2026_irl_city_investigation_emea_1_2
+TEXT: Investigation takes patience, and patience is hard when you’re fired up and ready to battle.
+
+RESOURCE ID: tr_gofest2026_irl_city_investigation_emea_1_3
+TEXT: Every great Trainer needs to understand their Pokémon deeply if they want to bring out their true power. And you’re one of those great Trainers, %PLAYERNAME%. Congratulations!
+
+RESOURCE ID: tr_gofest2026_irl_city_investigation_emea_2
+TEXT: GO Fest 2026: Copenhagen Investigation Challenge (2/2)
+
+RESOURCE ID: tr_gofest2026_irl_city_scouting_amer
+TEXT: GO Fest 2026: Chicago Scouting Challenge
+
+RESOURCE ID: tr_gofest2026_irl_city_scouting_amer_1
+TEXT: GO Fest 2026: Chicago Scouting Challenge (1/2)
+
+RESOURCE ID: tr_gofest2026_irl_city_scouting_amer_1_1
+TEXT: The Scouting District challenge is DONE!
+
+RESOURCE ID: tr_gofest2026_irl_city_scouting_amer_1_2
+TEXT: Trainers like you make discoveries happen.
+
+RESOURCE ID: tr_gofest2026_irl_city_scouting_amer_1_3
+TEXT: That energy is everything! You were born for this, %PLAYERNAME%. Congrats!
+
+RESOURCE ID: tr_gofest2026_irl_city_scouting_amer_2
+TEXT: GO Fest 2026: Chicago Scouting Challenge (2/2)
+
+RESOURCE ID: tr_gofest2026_irl_city_scouting_apac
+TEXT: GO Fest 2026: Tokyo Scouting Challenge
+
+RESOURCE ID: tr_gofest2026_irl_city_scouting_apac_1
+TEXT: GO Fest 2026: Tokyo Scouting Challenge (1/2)
+
+RESOURCE ID: tr_gofest2026_irl_city_scouting_apac_1_1
+TEXT: You have completed the Scouting District challenge. Well done.
+
+RESOURCE ID: tr_gofest2026_irl_city_scouting_apac_1_2
+TEXT: A Trainer who does not move does not discover.
+
+RESOURCE ID: tr_gofest2026_irl_city_scouting_apac_1_3
+TEXT: Exploration and travel are how we expand our understanding of the world and the Pokémon in it.
+
+RESOURCE ID: tr_gofest2026_irl_city_scouting_apac_1_4
+TEXT: You have demonstrated a willingness to venture beyond the familiar, %PLAYERNAME%, and for that I offer my congratulations.
+
+RESOURCE ID: tr_gofest2026_irl_city_scouting_apac_2
+TEXT: GO Fest 2026: Tokyo Scouting Challenge (2/2)
+
+RESOURCE ID: tr_gofest2026_irl_city_scouting_emea
+TEXT: GO Fest 2026: Copenhagen Scouting Challenge
+
+RESOURCE ID: tr_gofest2026_irl_city_scouting_emea_1
+TEXT: GO Fest 2026: Copenhagen Scouting Challenge (1/2)
+
+RESOURCE ID: tr_gofest2026_irl_city_scouting_emea_1_1
+TEXT: The Scouting District challenge is complete!
+
+RESOURCE ID: tr_gofest2026_irl_city_scouting_emea_1_2
+TEXT: It takes real drive to get out there, keep moving, and not quit until you’ve found what you’re looking for.
+
+RESOURCE ID: tr_gofest2026_irl_city_scouting_emea_1_3
+TEXT: Exploration and discovery are essential, and you just proved you can handle both.
+
+RESOURCE ID: tr_gofest2026_irl_city_scouting_emea_1_4
+TEXT: Congratulations, and don’t you dare slow down now!
+
+RESOURCE ID: tr_gofest2026_irl_city_scouting_emea_2
+TEXT: GO Fest 2026: Copenhagen Scouting Challenge (2/2)
+
+RESOURCE ID: tr_gofest2026_irl_city_x_amer
+TEXT: GO Fest 2026: Chicago Expert X
+
+RESOURCE ID: tr_gofest2026_irl_city_x_amer_3
+TEXT: GO Fest 2026: Chicago Expert X (3/3)
+
+RESOURCE ID: tr_gofest2026_irl_city_x_apac
+TEXT: GO Fest 2026: Tokyo Expert X
+
+RESOURCE ID: tr_gofest2026_irl_city_x_apac_3
+TEXT: GO Fest 2026: Tokyo Expert X (3/3)
+
+RESOURCE ID: tr_gofest2026_irl_city_x_emea
+TEXT: GO Fest 2026: Copenhagen Expert X
+
+RESOURCE ID: tr_gofest2026_irl_city_x_emea_3
+TEXT: GO Fest 2026: Copenhagen Expert X (3/3)
+
+RESOURCE ID: tr_gofest2026_irl_city_y_amer
+TEXT: GO Fest 2026: Chicago Expert Y
+
+RESOURCE ID: tr_gofest2026_irl_city_y_amer_3
+TEXT: GO Fest 2026: Chicago Expert Y (3/3)
+
+RESOURCE ID: tr_gofest2026_irl_city_y_apac
+TEXT: GO Fest 2026: Tokyo Expert Y
+
+RESOURCE ID: tr_gofest2026_irl_city_y_apac_3
+TEXT: GO Fest 2026: Tokyo Expert Y (3/3)
+
+RESOURCE ID: tr_gofest2026_irl_city_y_emea
+TEXT: GO Fest 2026: Copenhagen Expert Y
+
+RESOURCE ID: tr_gofest2026_irl_city_y_emea_3
+TEXT: GO Fest 2026: Copenhagen Expert Y (3/3)
+
+RESOURCE ID: tr_gofest2026_irl_park_amer_1_1
+TEXT: %PLAYERNAME%, you made it! This place is amazing, right?! Every single zone is totally different, so you’ve gotta explore ALL of ’em!
+
+RESOURCE ID: tr_gofest2026_irl_park_amer_1_2
+TEXT: And hey, trust your instincts. They’ll let you know when something good’s nearby.
+
+RESOURCE ID: tr_gofest2026_irl_park_amer_1_3
+TEXT: Oh, but heads up! Team GO Rocket is here, and they are definitely plotting something.
+
+RESOURCE ID: tr_gofest2026_irl_park_amer_1_4
+TEXT: No idea what it is yet, but y’know, just watch yourself.
+
+RESOURCE ID: tr_gofest2026_irl_park_amer_1_5
+TEXT: Don’t let ’em slow you down, though. Just have fun, stay alert, and keep exploring!
+
+RESOURCE ID: tr_gofest2026_irl_park_amer_2_1
+TEXT: Hey, %PLAYERNAME%! Buckle up—you are NOT gonna believe this.
+
+RESOURCE ID: tr_gofest2026_irl_park_amer_2_2
+TEXT: I’ve been digging into what Team GO Rocket’s been so interested in...and it’s Mewtwo!
+
+RESOURCE ID: tr_gofest2026_irl_park_amer_2_3
+TEXT: Wild, right?! Out of all the Pokémon they could mess with! My intuition doesn’t miss—I knew something big was coming, and here it is!
+
+RESOURCE ID: tr_gofest2026_irl_park_amer_2_4
+TEXT: A Pokémon that legendary deserves to be protected, not messed with.
+
+RESOURCE ID: tr_gofest2026_irl_park_amer_2_5
+TEXT: We need a plan and we need to act, like, yesterday! You in?
+
+RESOURCE ID: tr_gofest2026_irl_park_amer_3_1
+TEXT: Okay, %PLAYERNAME%, no time to waste. Team GO Rocket is making their move, and it’s nothing good.
+
+RESOURCE ID: tr_gofest2026_irl_park_amer_3_2
+TEXT: Not gonna lie, their nonsense has me totally charged up. I am ready to GO!
+
+RESOURCE ID: tr_gofest2026_irl_park_amer_3_3
+TEXT: I was thinking about confronting them on my own, but then I remembered we’re way stronger together!
+
+RESOURCE ID: tr_gofest2026_irl_park_amer_3_4
+TEXT: So here’s my thinking: You trust your gut, I trust mine, and together, there’s no way we can lose.
+
+RESOURCE ID: tr_gofest2026_irl_park_amer_3_5
+TEXT: Whaddaya say? Let’s save Mewtwo!
+
+RESOURCE ID: tr_gofest2026_irl_park_amer_4_1
+TEXT: %PLAYERNAME%! You did it! Mewtwo is safe—and I KNOW Team GO Rocket didn’t see THAT coming!
+
+RESOURCE ID: tr_gofest2026_irl_park_amer_4_2
+TEXT: But here’s the thing now: Mewtwo wants to battle you, and I think and I think a Mega Evolution is on the horizon.
+
+RESOURCE ID: tr_gofest2026_irl_park_amer_4_3
+TEXT: No flying solo on this one. A Pokémon that powerful needs all hands on deck!
+
+RESOURCE ID: tr_gofest2026_irl_park_amer_4_4
+TEXT: Round up every Trainer you can find. The more the merrier, and trust me, you aren’t gonna regret the backup.
+
+RESOURCE ID: tr_gofest2026_irl_park_amer_4_5
+TEXT: This is a once-in-a-lifetime thing, %PLAYERNAME%. Don’t miss it! GO! GO! GO!
+
+RESOURCE ID: tr_gofest2026_irl_park_amer_5_1
+TEXT: %PLAYERNAME%! You actually defeated a Mega-Evolved Mewtwo!
+
+RESOURCE ID: tr_gofest2026_irl_park_amer_5_2
+TEXT: Once again, my gut was totally right. I knew you could pull it off!
+
+RESOURCE ID: tr_gofest2026_irl_park_amer_5_3
+TEXT: Honestly, I need a sec. My heart’s still RACING.
+
+RESOURCE ID: tr_gofest2026_irl_park_amer_5_4
+TEXT: You’re incredible, %PLAYERNAME%. Seriously, I mean it.
+
+RESOURCE ID: tr_gofest2026_irl_park_amer_5_5
+TEXT: Now go celebrate! A win this big deserves an equally huge snack!
+
+RESOURCE ID: tr_gofest2026_irl_park_amer_act_1
+TEXT: GO Fest 2026: Chicago – Act 1
+
+RESOURCE ID: tr_gofest2026_irl_park_amer_act_2
+TEXT: GO Fest 2026: Chicago – Act 2
+
+RESOURCE ID: tr_gofest2026_irl_park_amer_act_3
+TEXT: GO Fest 2026: Chicago – Act 3
+
+RESOURCE ID: tr_gofest2026_irl_park_amer_act_4
+TEXT: GO Fest 2026: Chicago – Act 4
+
+RESOURCE ID: tr_gofest2026_irl_park_apac_1_1
+TEXT: %PLAYERNAME%, I see you have arrived. Welcome.
+
+RESOURCE ID: tr_gofest2026_irl_park_apac_1_2
+TEXT: Know that each zone here exhibits distinct properties, and thus offers excellent potential for data collection.
+
+RESOURCE ID: tr_gofest2026_irl_park_apac_1_3
+TEXT: However, there is one matter that requires our attention before we can explore.
+
+RESOURCE ID: tr_gofest2026_irl_park_apac_1_4
+TEXT: Team GO Rocket has been sighted within the grounds, and I’m sure you know that’s unlikely to be a coincidence.
+
+RESOURCE ID: tr_gofest2026_irl_park_apac_1_5
+TEXT: Proceed carefully, %PLAYERNAME%. I will continue to monitor the situation closely.
+
+RESOURCE ID: tr_gofest2026_irl_park_apac_2_1
+TEXT: %PLAYERNAME%, I’ve completed a preliminary analysis of the situation.
+
+RESOURCE ID: tr_gofest2026_irl_park_apac_2_2
+TEXT: Team GO Rocket’s activities here are oriented toward a single objective: capturing Mewtwo.
+
+RESOURCE ID: tr_gofest2026_irl_park_apac_2_3
+TEXT: In their hands, Pokémon with its capabilities could prove catastrophic.
+
+RESOURCE ID: tr_gofest2026_irl_park_apac_2_4
+TEXT: I have been cross-referencing Team GO Rocket’s patterns of behavior to attempt to predict their next move.
+
+RESOURCE ID: tr_gofest2026_irl_park_apac_2_5
+TEXT: Will you assist me in uncovering their plan, %PLAYERNAME%?
+
+RESOURCE ID: tr_gofest2026_irl_park_apac_3_1
+TEXT: %PLAYERNAME%. There have been unfavorable developments.
+
+RESOURCE ID: tr_gofest2026_irl_park_apac_3_2
+TEXT: Analysis alone will not be enough to resolve the threat posed by Team GO Rocket’s current activities.
+
+RESOURCE ID: tr_gofest2026_irl_park_apac_3_3
+TEXT: To that end, while it may require us to grapple with potential unknowns, I’ve identified what I believe to be the most efficient course of action.
+
+RESOURCE ID: tr_gofest2026_irl_park_apac_3_4
+TEXT: I’m not accustomed to relying on factors that fall outside the scope of my analysis—yet the situation demands it.
+
+RESOURCE ID: tr_gofest2026_irl_park_apac_3_5
+TEXT: Together, we can dismantle their operation. I suggest we waste no time.
+
+RESOURCE ID: tr_gofest2026_irl_park_apac_4_1
+TEXT: %PLAYERNAME%, you stopped Team GO Rocket and saved Mewtwo.
+
+RESOURCE ID: tr_gofest2026_irl_park_apac_4_2
+TEXT: I did not predict it would Mega Evolve, however.
+
+RESOURCE ID: tr_gofest2026_irl_park_apac_4_3
+TEXT: A lone Trainer is ill-suited to the battle to come. There are simply too many significant variables to account for.
+
+RESOURCE ID: tr_gofest2026_irl_park_apac_4_4
+TEXT: Seek out others to join you in this challenge. Coordination will be essential for what comes next.
+
+RESOURCE ID: tr_gofest2026_irl_park_apac_4_5
+TEXT: You have proven yourself capable, but this is not a moment for hesitation—you’ll need allies.
+
+RESOURCE ID: tr_gofest2026_irl_park_apac_5_1
+TEXT: I see that you return successful, %PLAYERNAME%.
+
+RESOURCE ID: tr_gofest2026_irl_park_apac_5_2
+TEXT: Defeating a Mega-Evolved Mewtwo is no trivial achievement. I intend to document all that I observed here today, as it will prove invaluable to our research.
+
+RESOURCE ID: tr_gofest2026_irl_park_apac_5_3
+TEXT: You’ve done well, %PLAYERNAME%.
+
+RESOURCE ID: tr_gofest2026_irl_park_apac_act_1
+TEXT: GO Fest 2026: Tokyo – Act 1
+
+RESOURCE ID: tr_gofest2026_irl_park_apac_act_2
+TEXT: GO Fest 2026: Tokyo – Act 2
+
+RESOURCE ID: tr_gofest2026_irl_park_apac_act_3
+TEXT: GO Fest 2026: Tokyo – Act 3
+
+RESOURCE ID: tr_gofest2026_irl_park_apac_act_4
+TEXT: GO Fest 2026: Tokyo – Act 4
+
+RESOURCE ID: tr_gofest2026_irl_park_emea_1_1
+TEXT: Hey hey, %PLAYERNAME%! Now we’re really getting started!
+
+RESOURCE ID: tr_gofest2026_irl_park_emea_1_2
+TEXT: Every zone out here’s different, so be sure to explore. No hanging around in one spot!
+
+RESOURCE ID: tr_gofest2026_irl_park_emea_1_3
+TEXT: One more thing. Team GO Rocket decided to crash the party. Surprise, surprise.
+
+RESOURCE ID: tr_gofest2026_irl_park_emea_1_4
+TEXT: I don’t know what they’re planning yet, but whatever it is, we’re not letting it slide.
+
+RESOURCE ID: tr_gofest2026_irl_park_emea_1_5
+TEXT: Get moving and see what each zone has to offer. You never know what you might discover out there—just watch out for those troublemakers.
+
+RESOURCE ID: tr_gofest2026_irl_park_emea_2_1
+TEXT: Okay %PLAYERNAME%, things just got complicated.
+
+RESOURCE ID: tr_gofest2026_irl_park_emea_2_2
+TEXT: We’ve been tracking Team GO Rocket’s moves, and we finally figured out what they’re after. It’s Mewtwo.
+
+RESOURCE ID: tr_gofest2026_irl_park_emea_2_3
+TEXT: I’ll be honest with you, that burns me up. Team GO Rocket thinks they can just grab a Pokémon like Mewtwo?
+
+RESOURCE ID: tr_gofest2026_irl_park_emea_2_4
+TEXT: No chance. Ponyta and I are ready to crash the party.
+
+RESOURCE ID: tr_gofest2026_irl_park_emea_2_5
+TEXT: So tell me, %PLAYERNAME%, are you in? Because I need someone I can count on for this one.
+
+RESOURCE ID: tr_gofest2026_irl_park_emea_3_1
+TEXT: Alright, %PLAYERNAME%. No more waiting around. It’s time to move.
+
+RESOURCE ID: tr_gofest2026_irl_park_emea_3_2
+TEXT: Team GO Rocket is making their play, and you know I don’t do “standing around.”
+
+RESOURCE ID: tr_gofest2026_irl_park_emea_3_3
+TEXT: Could I charge in solo? Yeah, probably. But probably isn’t good enough this time.
+
+RESOURCE ID: tr_gofest2026_irl_park_emea_3_4
+TEXT: I’m not too proud to say that this one calls for a team effort.
+
+RESOURCE ID: tr_gofest2026_irl_park_emea_3_5
+TEXT: So let’s get moving and take ’em down!
+
+RESOURCE ID: tr_gofest2026_irl_park_emea_3_6
+TEXT: Those Team GO Rocket punks don’t stand a chance if we work together.
+
+RESOURCE ID: tr_gofest2026_irl_park_emea_4_1
+TEXT: %PLAYERNAME%! You beat Team GO Rocket and freed Mewtwo! And now it’s going to Mega Evolve before taking you on? Oh, I love this.
+
+RESOURCE ID: tr_gofest2026_irl_park_emea_4_2
+TEXT: But listen. We’re talking Mega-Evolved Mewtwo here. This is going to be a heck of a challenge, so you’re going to need backup. Don’t even think about going alone.
+
+RESOURCE ID: tr_gofest2026_irl_park_emea_4_3
+TEXT: Rally every Trainer you can find and head into battle together. The more, the better.
+
+RESOURCE ID: tr_gofest2026_irl_park_emea_4_4
+TEXT: This is the big one. Go give Mewtwo the battle it’s looking for!
+
+RESOURCE ID: tr_gofest2026_irl_park_emea_5_1
+TEXT: Yes! %PLAYERNAME%, that’s what I’m talking about!
+
+RESOURCE ID: tr_gofest2026_irl_park_emea_5_2
+TEXT: You just defeated Mega-Evolved Mewtwo. I knew right from the start that you had it in you.
+
+RESOURCE ID: tr_gofest2026_irl_park_emea_5_3
+TEXT: Watching that battle reminded me why I love being a Pokémon Trainer. The fire, the focus... I live for it.
+
+RESOURCE ID: tr_gofest2026_irl_park_emea_5_4
+TEXT: What you showed out there is exactly what I mean when I talk about real strength.
+
+RESOURCE ID: tr_gofest2026_irl_park_emea_5_5
+TEXT: Go rest up—but not for too long. That battle got me all fired up, and now I want a go!
+
+RESOURCE ID: tr_gofest2026_irl_park_emea_act_1
+TEXT: GO Fest 2026: Copenhagen – Act 1
+
+RESOURCE ID: tr_gofest2026_irl_park_emea_act_2
+TEXT: GO Fest 2026: Copenhagen – Act 2
+
+RESOURCE ID: tr_gofest2026_irl_park_emea_act_3
+TEXT: GO Fest 2026: Copenhagen – Act 3
+
+RESOURCE ID: tr_gofest2026_irl_park_emea_act_4
+TEXT: GO Fest 2026: Copenhagen – Act 4
+
+RESOURCE ID: tr_pokemon_run_engagement_header
+TEXT: งานวิจัยแบบจำกัดเวลา Pokémon RUN
+
+RESOURCE ID: tr_pokemon_run_retention_header
+TEXT: งานวิจัยแบบจำกัดเวลา Pokémon RUN: หลังเส้นชัย
+
+RESOURCE ID: vss_battle_claim_rank
+TEXT: รับรางวัลระดับ
+
+RESOURCE ID: vss_battle_claim_rank_error
+TEXT: เกิดข้อผิดพลาดในการรับรางวัลระดับ
+
+RESOURCE ID: vss_entry_description
+TEXT: ผงาดขึ้นสู่ระดับและแข่งขันกับทั่วโลก
+เพื่อเกียรติยศและรางวัล
+
+RESOURCE ID: vss_pokemon_available_pool
+TEXT: โปเกมอนที่ปรากฏในระดับของคุณ :
+
+RESOURCE ID: vss_season_end_rating_journal
+TEXT: จบลงที่ระดับ {0} และเรตติ้ง {1} ในโกแบตเทิลลีกฤดูกาลนี้!
+
+RESOURCE ID: vss_season_end_ratingless_journal
+TEXT: จบลงที่ระดับ {0} ในโกแบตเทิลลีกฤดูกาลนี้!
+
+RESOURCE ID: vss_season_end_stats_title
+TEXT: ระดับและสถิติ
+
+RESOURCE ID: vss_season_rank
+TEXT: ระดับ
+
+RESOURCE ID: vss_season_reset_description
+TEXT: ระดับและเรตติ้งของคุณถูกรีเซ็ตสำหรับฤดูกาลใหม่แล้ว
+
+RESOURCE ID: vss_season_reset_title
+TEXT: ได้รับระดับใหม่!
 
 RESOURCE ID: welcome_rewards_all_claimed
-TEXT: All welcome rewards claimed!
+TEXT: รับรางวัลต้อนรับทั้งหมดแล้ว!
 
 RESOURCE ID: welcome_rewards_banner_title
-TEXT: Welcome Rewards
+TEXT: รางวัลต้อนรับ
 
 RESOURCE ID: welcome_rewards_claim
-TEXT: Claim Reward
+TEXT: รับรางวัล
 
 RESOURCE ID: welcome_rewards_come_back
-TEXT: Come back tomorrow for your next welcome reward!
+TEXT: กลับมาใหม่พรุ่งนี้เพื่อรับรางวัลต้อนรับชิ้นถัดไป!
 
 RESOURCE ID: welcome_rewards_day
-TEXT: Day {0}
+TEXT: วันที่ {0}
 
 RESOURCE ID: welcome_rewards_enjoy
-TEXT: Enjoy these items as a little boost to get you back into exploring!
+TEXT: แจกไอเท็มที่มีประโยชน์ต่อการสำรวจ!
 
 RESOURCE ID: welcome_rewards_quantity_format
 TEXT: ×{0}
 
-RESOURCE ID: welcome_rewards_quantity_mystery
-TEXT: ???
-
 RESOURCE ID: welcome_rewards_view_today
-TEXT: View Today’s Reward
-
-RESOURCE ID: yokohama_7a63
-TEXT: โยโกฮามะ
+TEXT: ดูรางวัลของวันนี้
 
