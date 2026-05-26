@@ -787,11 +787,23 @@ TEXT: GO Fest 2026: Copenhagen and LEGO Bonus Timed Research (3/3)
 RESOURCE ID: go_fest_copenhagen_lego_2026_tr_title
 TEXT: GO Fest 2026: Copenhagen and LEGO Bonus Timed Research
 
+RESOURCE ID: gofest2026_collection_district
+TEXT: Collection District
+
 RESOURCE ID: gofest2026_content_hashtag
 TEXT: Post photos with #PokemonGOFest2026, and we’ll share our favorites!
 
 RESOURCE ID: gofest2026_details_link
 TEXT: For more details, visit the <a href="https://pokemongo.com/news/road-of-legends-2026">website</a>.
+
+RESOURCE ID: gofest2026_friendship_district
+TEXT: Friendship District
+
+RESOURCE ID: gofest2026_investigation_district
+TEXT: Investigation District
+
+RESOURCE ID: gofest2026_scouting_district
+TEXT: Scouting District
 
 RESOURCE ID: in_app_label
 TEXT: In-App
@@ -848,10 +860,10 @@ RESOURCE ID: mega_speedup_unlock_description
 TEXT: Use Mega Energy to increase this Pokémon’s Mega Level.
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-05-21T20:54:13.590800+00:00 for en-US
-at SHA f3f502e7da4
-Pipeline 3696270, job 54396110
-Patch from: 0.411.2-SHA-dd662e9f-RC1, 0.413.0-SHA-3cbed8dc-RC3
+TEXT: Built at 2026-05-25T23:36:33.096006+00:00 for en-US
+at SHA 4a09b7689eb
+Pipeline 3702018, job 54466695
+Patch from: 0.413.0-SHA-6834fcdc-RC2, 0.415.0-SHA-09fbc389-RC1, 0.411.2-SHA-f43c1430-RC2
 
 RESOURCE ID: move_name_0497
 TEXT: Plasma Fists
@@ -887,7 +899,7 @@ RESOURCE ID: partnership_target_2026_tr_title
 TEXT: Calling All Trainers! Bonus Timed Research
 
 RESOURCE ID: pokecoin_comparison_label
-TEXT: <color=#95AAAB><s>{strikeout-quantity}</s></color> <b>{quantity}</b> <nobr>PokéCoins</nobr>
+TEXT: <color=#95AAAB><s>{strikeout-quantity}</s></color> <b>{quantity}</b> PokéCoins
 
 RESOURCE ID: pokecoin_with_quantity
 TEXT: <size=142%><b>{quantity}</b></size> PokéCoins
@@ -992,7 +1004,7 @@ RESOURCE ID: quest_defeat_fighting_type_raid_singular
 TEXT: Defeat a Fighting-type Raid Boss
 
 RESOURCE ID: quest_defeat_mega_mewtwo
-TEXT: Defeat Mega Mewtwo
+TEXT: Defeat Mega Mewtwo X or Mega Mewtwo Y
 
 RESOURCE ID: quest_deino_catch_b
 TEXT: Catch {0} Deino
@@ -2534,6 +2546,9 @@ TEXT: GO Fest 2026: Copenhagen – Act 4
 RESOURCE ID: unclaimed_assigned_reward
 TEXT: You have an unclaimed reward that you can obtain at this PokéStop.
 
+RESOURCE ID: unity_raid
+TEXT: Unity Raid
+
 RESOURCE ID: unstun_finished_key
 TEXT: Your Pokémon have been revived!
 
@@ -2550,5 +2565,5 @@ RESOURCE ID: wayfarer_bonus_title_02
 TEXT: Wayfarer Bonus Timed Research (2/2)
 
 RESOURCE ID: webstore_linkout_description
-TEXT: Buy in Web Store to purchase PokéCoins with added bonus and double the Reward Points
+TEXT: Purchase PokéCoins on the web store to receive bonus PokéCoins and double Reward Points.
 
